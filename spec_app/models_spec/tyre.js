@@ -1,5 +1,5 @@
-import strapi_variant from "../strapi_variants.json" assert { type: "json" };
-import engine from "./data/variant_tyres_specifications.json" assert { type: "json" };
+import strapi_variant from "../strapi_model.json" assert { type: "json" };
+import engine from "./modelSpec/bike_tyres_specifications.json" assert { type: "json" };
 
 function fetchData(url, method, requestData) {
   const options = {
@@ -27,13 +27,13 @@ function fetchData(url, method, requestData) {
 }
 
 const data = engine
-  .slice(0, 200)
+  .slice(600)
   .map((item) => {
     const d = strapi_variant.filter(
-      (j) => j.attributes.variant_id === item.bike_variant_id
+      (j) => j.attributes.model_id == item.bike_id
     );
-
-    if (d.length) {
+    if (d.length && d[0].attributes.standard_variant.data) {
+      const id = d[0].attributes.standard_variant.data.id;
       const {
         front_tyre_pressure_rider,
         front_tyre_pressure_rider_and_pillion,
@@ -69,9 +69,9 @@ const data = engine
         },
       };
 
-      // console.log(body.data);
+      console.log(id);
       return fetchData(
-        `https://dev-bikescms.tractorjunction.com/api/variants/${d[0].id}`,
+        `https://dev-bikescms.tractorjunction.com/api/variants/${id}`,
         "PUT",
         JSON.stringify(body)
       );

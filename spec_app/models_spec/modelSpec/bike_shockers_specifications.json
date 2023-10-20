@@ -1,0 +1,6266 @@
+[
+  {
+    "id": "1",
+    "bike_id": "1",
+    "suspension_front": "ø41 mm inverted fork with rebound damping and spring preload adjustability/120 mm",
+    "suspension_rear": "Horizontal Back-link with rebound damping and spring preload adjustability/140 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2",
+    "bike_id": "2",
+    "suspension_front": "Ø30 mm telescopic fork / 110 mm ",
+    "suspension_rear": "Hydraulic type dual rating spring shock absorbers ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3",
+    "bike_id": "3",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Spring Loaded",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "4",
+    "bike_id": "4",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Spring Loaded",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5",
+    "bike_id": "5",
+    "suspension_front": "Telescopic ",
+    "suspension_rear": "Spring Loaded ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "6",
+    "bike_id": "6",
+    "suspension_front": "",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7",
+    "bike_id": "7",
+    "suspension_front": "ø43 mm inverted fork (BFF) with external compression chamber, compression and rebound damping and spring preload adjustability, and top-out springs / 120 mm",
+    "suspension_rear": "Horizontal Back-link, BFRC lite gas-charged shock with piggyback reservoir, compression and rebound damping and spring preload adjustability, and top-out spring / 115 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "8",
+    "bike_id": "8",
+    "suspension_front": "Telescopic with Hydraulic Dampers. 105mm Stroke ",
+    "suspension_rear": "Monotube Inverted Gas-filled shox (MIG) with spring aid ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "9",
+    "bike_id": "9",
+    "suspension_front": "Telescopic Forks ",
+    "suspension_rear": "Monotube Inverted Gas-filled shox (MIG) with spring aid ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "10",
+    "bike_id": "10",
+    "suspension_front": "Telescopic Front Forks (dia 37) with anti friction bush",
+    "suspension_rear": "Rectangular swingram with mono shock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "11",
+    "bike_id": "11",
+    "suspension_front": "WP APEX USD forks, 43mm",
+    "suspension_rear": "WP APEX Monoshock, 10 step adjustable",
+    "created_at": null,
+    "updated_at": "2023-04-08 15:53:38"
+  },
+  {
+    "id": "12",
+    "bike_id": "12",
+    "suspension_front": "WP-Open Cartridge USD Ø 43 mm",
+    "suspension_rear": "WP-Monoshock, 10 step adjustable",
+    "created_at": null,
+    "updated_at": "2023-04-08 15:57:58"
+  },
+  {
+    "id": "13",
+    "bike_id": "13",
+    "suspension_front": "WP-USD Ø 43 mm",
+    "suspension_rear": "WP-Monoshock, 10 step adjustable",
+    "created_at": null,
+    "updated_at": "2023-04-08 16:05:12"
+  },
+  {
+    "id": "14",
+    "bike_id": "14",
+    "suspension_front": "Triple rate spring, Inverted telescopic fork (USD)",
+    "suspension_rear": "Double rate, Mono shock- 10 steps (Adjuster Slots)",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "15",
+    "bike_id": "15",
+    "suspension_front": "Fully adjustable Showa BPF fork 43 mm chromed inner tubes 120mm",
+    "suspension_rear": "Fully adjustable Sachs unit. Aluminum single-sided swingarm 130mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "16",
+    "bike_id": "16",
+    "suspension_front": "Upside-Down Forks",
+    "suspension_rear": "Pre-Load Adjustable Dual Shocks",
+    "created_at": null,
+    "updated_at": "2023-05-23 12:42:43"
+  },
+  {
+    "id": "17",
+    "bike_id": "17",
+    "suspension_front": "Fully adjustable showa BPF fork, 43 mm chromed inner tubes 120 mm",
+    "suspension_rear": "Fully adjustable Sachs unit. Aluminum single-sided swingarm 130 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "18",
+    "bike_id": "18",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Hydraulic Type",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "19",
+    "bike_id": "19",
+    "suspension_front": "Telescopic , Stroke 125 mm",
+    "suspension_rear": "SOS with Nitrox, Stroke 100 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "20",
+    "bike_id": "20",
+    "suspension_front": "Telescopic Suspension ",
+    "suspension_rear": "3 Step Adjustable Spring Loaded Hydraulic ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "21",
+    "bike_id": "21",
+    "suspension_front": "BMW Motorrad Duolever; central spring strut",
+    "suspension_rear": "BMW Motorrad Paralever",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "22",
+    "bike_id": "22",
+    "suspension_front": "BMW Motorrad Telelever, central spring strut, standard diameter 37 mm",
+    "suspension_rear": "Cast aluminium single-sided swinging arm with BMW Motorrad Paralever, WAD spring strut, spring preload continuously and hydraulically adjustable via adjuster knob, adjustable rebound-stage damping via",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "23",
+    "bike_id": "23",
+    "suspension_front": "47 mm showa cartridge forks",
+    "suspension_rear": "Mono-shock RSU with linkage and preload adjustment",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "24",
+    "bike_id": "24",
+    "suspension_front": "Ø 47 mm Showa cartridge forks",
+    "suspension_rear": "Mono-shock RSU with linkage",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "25",
+    "bike_id": "25",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": null,
+    "updated_at": "2023-02-27 15:50:41"
+  },
+  {
+    "id": "26",
+    "bike_id": "26",
+    "suspension_front": "Telescopic (USD)",
+    "suspension_rear": "Monoshock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "27",
+    "bike_id": "27",
+    "suspension_front": "Telescopic, 41mm forks, 130mm travel",
+    "suspension_rear": "Twin tube emulsion shock absorbers with 6-step adjustable preload, 102mm travel",
+    "created_at": null,
+    "updated_at": "2023-08-18 10:53:41"
+  },
+  {
+    "id": "28",
+    "bike_id": "28",
+    "suspension_front": "Ø41mm cartridge forks",
+    "suspension_rear": "Twin RSU’s, with pre-load adjustment",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "29",
+    "bike_id": "29",
+    "suspension_front": "Ø 43mm USD Marzocchi forks, 120mm travel",
+    "suspension_rear": "Twin RSUs with adjustable preload, 120mm rear wheel travel",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "30",
+    "bike_id": "30",
+    "suspension_front": "Telescopic Suspension",
+    "suspension_rear": "3-Step Adjustable, Spring Loaded Hydraulic",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "31",
+    "bike_id": "31",
+    "suspension_front": "Telescopic fork, Dia. 26 mm",
+    "suspension_rear": "Unit swing",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "32",
+    "bike_id": "32",
+    "suspension_front": "Telescopic upside Down Fork (USD Fork), Dia. 37 mm",
+    "suspension_rear": "Linked-Type Monocross Suspension",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "33",
+    "bike_id": "33",
+    "suspension_front": "Telescopic upside down Front Fork",
+    "suspension_rear": "Linked-type Monocross suspension",
+    "created_at": null,
+    "updated_at": "2023-04-10 14:34:14"
+  },
+  {
+    "id": "34",
+    "bike_id": "34",
+    "suspension_front": "41mm cartridge forks",
+    "suspension_rear": "Twin RSUs, with pre-load adjustment",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "35",
+    "bike_id": "35",
+    "suspension_front": "Bottom link with spring loaded hydraulic dampers",
+    "suspension_rear": "Swing arm with spring loaded hydraulic dampers",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "36",
+    "bike_id": "36",
+    "suspension_front": "Telescopic Hydraulic Shock Absorber",
+    "suspension_rear": "Unit Swing with Spring Loaded Hydraulic Damper",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "37",
+    "bike_id": "37",
+    "suspension_front": "Conventional fork - Dia 30mm",
+    "suspension_rear": "Twin shox",
+    "created_at": null,
+    "updated_at": "2023-04-11 16:40:10"
+  },
+  {
+    "id": "38",
+    "bike_id": "38",
+    "suspension_front": "Dia. 30 Telescopic",
+    "suspension_rear": "5 step Adjustable Hydraulic Shock Absorbers",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "39",
+    "bike_id": "39",
+    "suspension_front": "Telescopic Hydraulic Shock Absorbers",
+    "suspension_rear": "Swingarm with 5-step Adjustable Hydraulic Shock Absorbers",
+    "created_at": null,
+    "updated_at": "2023-04-11 11:09:49"
+  },
+  {
+    "id": "40",
+    "bike_id": "40",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Swing Arm (Adjustable 5 Positions)",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "41",
+    "bike_id": "41",
+    "suspension_front": "Telescopic, 41mm forks, 130mm travel",
+    "suspension_rear": "Twin tube Emulsion shock absorbers with 6-step adjustable preload",
+    "created_at": null,
+    "updated_at": "2023-09-01 16:09:50"
+  },
+  {
+    "id": "42",
+    "bike_id": "42",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "43",
+    "bike_id": "43",
+    "suspension_front": "Ø 41mm forks with cartridge damping. 120mm travel ",
+    "suspension_rear": "Twin shocks with adjustable preload. 120mm rear wheel travel ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "44",
+    "bike_id": "44",
+    "suspension_front": "Telescopic (37 mm Dia) with anti friction bush",
+    "suspension_rear": "7 step Rider-adjustable Monoshock",
+    "created_at": null,
+    "updated_at": "2023-04-13 15:43:26"
+  },
+  {
+    "id": "45",
+    "bike_id": "45",
+    "suspension_front": "Ø 41mm cartridge forks",
+    "suspension_rear": "Twin RSUs with preload adjustment",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "46",
+    "bike_id": "46",
+    "suspension_front": "Telescopic Hydraulic Shock Absorbers",
+    "suspension_rear": "5-step Adjustable Hydraulic Shock Absorbers",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "47",
+    "bike_id": "47",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Twin - Hydraulic",
+    "created_at": null,
+    "updated_at": "2023-03-08 16:17:00"
+  },
+  {
+    "id": "48",
+    "bike_id": "48",
+    "suspension_front": "Telescopic forks",
+    "suspension_rear": "Symmetrically mounted progressive monoshock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "49",
+    "bike_id": "49",
+    "suspension_front": "Upside down fork, Ø 41 mm",
+    "suspension_rear": "Cast aluminium dual swing arm, central spring strut, spring pre-load adjustable",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "50",
+    "bike_id": "50",
+    "suspension_front": "Upside Down Fork , Ø 41 mm",
+    "suspension_rear": "Cast aluminium dual swing arm, central spring strut, spring pre-load adjustable",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "51",
+    "bike_id": "51",
+    "suspension_front": "Upside down fork, Ø 41 mm",
+    "suspension_rear": "Cast aluminium dual swing arm, central spring strut, spring pre-load adjustable",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "52",
+    "bike_id": "52",
+    "suspension_front": "Upside down telescopic fork, fully adjustable in preload, damping in compression and rebound ",
+    "suspension_rear": "Single shock absorber adjustable in preload and rebound damping ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "53",
+    "bike_id": "53",
+    "suspension_front": "Inverted Telescope Forks with 120mm travel, Fully Adjustable in Pre-load ",
+    "suspension_rear": "Adjustable Monoshock with 118mm travel ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "54",
+    "bike_id": "54",
+    "suspension_front": "41 mm USD",
+    "suspension_rear": "Mono Shock with 7 Step Adjustable Preload",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "55",
+    "bike_id": "55",
+    "suspension_front": "Upside-down telescopic fork, Ø 43 mm ",
+    "suspension_rear": "Double-sided swinging arm with central suspension strut ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "56",
+    "bike_id": "56",
+    "suspension_front": "41mm SHOWA™ Dual Bending Valve conventional forks. Aluminum fork triple clamps.",
+    "suspension_rear": "Rear suspension is dual outboard, direct-acting (no linkage) emulsion technology shock absorbers with coil springs and a threaded collar for pre-load adjustment.",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "57",
+    "bike_id": "57",
+    "suspension_front": "Fully adjustable Showa BPF fork, 43 mm chromed inner tubes",
+    "suspension_rear": "Fully adjustable Sachs unit. Aluminum single-sided swingarm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "58",
+    "bike_id": "58",
+    "suspension_front": "Upside down Kayaba 41 mm fork ",
+    "suspension_rear": "Kayaba rear shock, pre-load adjustable ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "59",
+    "bike_id": "59",
+    "suspension_front": "Showa 41mm USD Adjustable Compression Rebound Damping ",
+    "suspension_rear": "Ohlins STX40 fully-adjustable piggyback reservoir RSU ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "60",
+    "bike_id": "60",
+    "suspension_front": "Showa 41mm upside down separate function forks (SFF)",
+    "suspension_rear": "Showa monoshock RSU, with preload adjustment",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "61",
+    "bike_id": "61",
+    "suspension_front": "Ohlins 43 mm NIX30 upside down forks with adjustable preload, rebound and compression damping, 120 mm travel.",
+    "suspension_rear": "Öhlins TTX36 twin tube monoshock with preload, rebound and compression damping, 120 mm rear wheel travel.",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "62",
+    "bike_id": "62",
+    "suspension_front": "Inverted telescopic, coil spring, oil damped",
+    "suspension_rear": "Link type, coil spring, oil damped",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "63",
+    "bike_id": "63",
+    "suspension_front": "ø41 mm inverted telescopic fork with adjustable rebound damping (right-side) and adjustable preload (left-side)/ 150 mm",
+    "suspension_rear": "Offset laydown single-shock with remote spring preload adjustability/145 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "64",
+    "bike_id": "64",
+    "suspension_front": "Upside-down telescopic fork Ø 45 mm, compression and rebound stage adjustable, adjustable preload",
+    "suspension_rear": "\"WSBK\" Aluminium swing arm, full floater pro, compression and rebound damping adjustable, adjustable preload",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "65",
+    "bike_id": "65",
+    "suspension_front": "Hydraulic Dual Suspension",
+    "suspension_rear": "Hydraulic Dual Suspension",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "66",
+    "bike_id": "66",
+    "suspension_front": "Conventional fork - Dia 30mm",
+    "suspension_rear": "Twin shox",
+    "created_at": null,
+    "updated_at": "2023-04-13 13:14:27"
+  },
+  {
+    "id": "67",
+    "bike_id": "67",
+    "suspension_front": "Telescopic (37 mm)",
+    "suspension_rear": "Monoshock with Nitrox",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "68",
+    "bike_id": "68",
+    "suspension_front": "Telescopic (37 mm)",
+    "suspension_rear": "Monoshock with Nitrox",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "69",
+    "bike_id": "69",
+    "suspension_front": "Telescopic, 31 mm",
+    "suspension_rear": "Monoshock with Nitrox",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "70",
+    "bike_id": "70",
+    "suspension_front": "Telescopic Suspension",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "71",
+    "bike_id": "71",
+    "suspension_front": "Showa 49mm, semi-active damping USD forks. 200mm travel",
+    "suspension_rear": "Showa semi-active damping monoshock, with automatic electronic preload adjustment. 200mm wheel travel",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "72",
+    "bike_id": "72",
+    "suspension_front": "Telescopic Forks ",
+    "suspension_rear": "Hydraulic twin tube shock absorber ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "73",
+    "bike_id": "73",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Hydraulic",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "74",
+    "bike_id": "74",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": null,
+    "updated_at": "2023-05-23 12:46:29"
+  },
+  {
+    "id": "75",
+    "bike_id": "75",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": null,
+    "updated_at": "2023-05-23 12:55:42"
+  },
+  {
+    "id": "76",
+    "bike_id": "76",
+    "suspension_front": "Hydraulic Telescopic",
+    "suspension_rear": "Double Hydraulic spring - 3 Step Adjustable",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "77",
+    "bike_id": "77",
+    "suspension_front": "Telescopic, 41 mm forks, 130 mm travel",
+    "suspension_rear": "Twin tube emulsion shock absorbers with 6-step adjustable preload",
+    "created_at": null,
+    "updated_at": "2023-04-10 12:03:28"
+  },
+  {
+    "id": "78",
+    "bike_id": "78",
+    "suspension_front": "Telescopic Suspension with Hydraulic Dampers",
+    "suspension_rear": "Coil spring with Hydraulic Dampers",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "79",
+    "bike_id": "79",
+    "suspension_front": "37 mm Telescopic Fork / 120 mm ",
+    "suspension_rear": "Bottom-Link Uni-Trak with gas-charged shock  ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "80",
+    "bike_id": "80",
+    "suspension_front": "Fully adjustable 48 mm fork, 170 mm travel",
+    "suspension_rear": "Fully adjustable shock absorber, 170 mm travel",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "81",
+    "bike_id": "81",
+    "suspension_front": "Double Wishbone",
+    "suspension_rear": "Pro Link",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "82",
+    "bike_id": "82",
+    "suspension_front": "Upside-Down Telescopic Fork, Ø 43 mm",
+    "suspension_rear": "Cast aluminium Dual Swing Arm, Central WAD Spring Strut, Spring Pre-Load Hydraulically Adjustable, ReboundDamping Adjustable",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "83",
+    "bike_id": "83",
+    "suspension_front": "Telescopic Front Forks (Travel 120mm)",
+    "suspension_rear": "5 step Adjustable Hydraulic Shock Absorbers (Travel 81mm)",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "84",
+    "bike_id": "84",
+    "suspension_front": "Telescopic ",
+    "suspension_rear": "Coil Spring with Hydraulic Dampers ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "85",
+    "bike_id": "85",
+    "suspension_front": "Upside-down telescopic fork",
+    "suspension_rear": "Cast aluminium dual swing arm, central spring strut, spring pre-load hydraulically adjustable, rebound damping adjustable",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "86",
+    "bike_id": "86",
+    "suspension_front": "Telescopic Hydraulic Shock Absorbers",
+    "suspension_rear": "Swingarm with 5-Step Adjustable Hydraulic Shock Absorbers",
+    "created_at": null,
+    "updated_at": "2023-04-11 10:55:42"
+  },
+  {
+    "id": "87",
+    "bike_id": "87",
+    "suspension_front": "Telescopic Hydraulic Shock Absorber",
+    "suspension_rear": "Swingarm with 5-Step Adjustable Hydraulic Shock Absorbers",
+    "created_at": null,
+    "updated_at": "2023-04-11 11:41:50"
+  },
+  {
+    "id": "88",
+    "bike_id": "88",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Swing Arm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "89",
+    "bike_id": "89",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Unit Swing",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "90",
+    "bike_id": "90",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Hydraulic Type",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "91",
+    "bike_id": "91",
+    "suspension_front": "Hydraulic Telescopic",
+    "suspension_rear": "Double shocker with dual tube technology",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "92",
+    "bike_id": "92",
+    "suspension_front": "Telescopic ",
+    "suspension_rear": "Pro-Link  ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "93",
+    "bike_id": "93",
+    "suspension_front": "Fully adjustable Showa BPF fork, 43 mm chromed inner tubes",
+    "suspension_rear": "Fully adjustable Sachs unit, Aluminum single-sided swingarm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "94",
+    "bike_id": "94",
+    "suspension_front": "TELESCOPIC, 41 MM FORKS 190MM TRAVEL",
+    "suspension_rear": "MONOSHOCK WITH LINKAGE, V180MM WHEEL TRAVEL",
+    "created_at": null,
+    "updated_at": "2023-04-10 11:50:30"
+  },
+  {
+    "id": "95",
+    "bike_id": "95",
+    "suspension_front": "Telescopic hydraulic ",
+    "suspension_rear": "3 step adjustable type coil spring with hydraulic damper ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "96",
+    "bike_id": "96",
+    "suspension_front": "Marzocchi fully adjustable Ø45 mm USD Fork",
+    "suspension_rear": "Kayaba monoshock, pre-load and rebound adjustable",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "97",
+    "bike_id": "97",
+    "suspension_front": "WP APEX USD forks, 43 mm diameter",
+    "suspension_rear": "WP APEX Monoshock, 177 mm travel",
+    "created_at": null,
+    "updated_at": "2023-04-10 11:05:25"
+  },
+  {
+    "id": "98",
+    "bike_id": "98",
+    "suspension_front": "41 mm telescopic fork/125 mm",
+    "suspension_rear": "Horizontal Back-link with adjustable preload / 130 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "99",
+    "bike_id": "99",
+    "suspension_front": "Hydraulic Telescopic",
+    "suspension_rear": "Mono shock Hydraulic",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "100",
+    "bike_id": "100",
+    "suspension_front": "Telescopic fork / 7-Step Adjustable",
+    "suspension_rear": "Monocross Suspension",
+    "created_at": null,
+    "updated_at": "2023-04-10 14:38:34"
+  },
+  {
+    "id": "101",
+    "bike_id": "101",
+    "suspension_front": "Upside Down Front Fork (USD)",
+    "suspension_rear": "Monoshock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "102",
+    "bike_id": "102",
+    "suspension_front": "Telescopic Forks ",
+    "suspension_rear": "Twin shock absorbers with gas canister ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "103",
+    "bike_id": "103",
+    "suspension_front": "Telescopic Fork & Coil spring",
+    "suspension_rear": "Mono shock absorbers with coil spring & linkage mechanism",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "104",
+    "bike_id": "104",
+    "suspension_front": "Telescopic Fork & Coil spring",
+    "suspension_rear": "Twin shock absorbers with gas canister",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "105",
+    "bike_id": "105",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "106",
+    "bike_id": "106",
+    "suspension_front": "WP APEX USD forks, 43 mm diameter",
+    "suspension_rear": "WP APEX Monoshock, 177 mm travel",
+    "created_at": null,
+    "updated_at": "2023-04-10 11:10:23"
+  },
+  {
+    "id": "107",
+    "bike_id": "107",
+    "suspension_front": "Telescopic fork / 7-Step Adjustable",
+    "suspension_rear": "Monocross Suspension",
+    "created_at": null,
+    "updated_at": "2023-04-10 14:47:54"
+  },
+  {
+    "id": "108",
+    "bike_id": "108",
+    "suspension_front": "Ø 41mm cartridge forks ",
+    "suspension_rear": "Twin RSUs with preload adjustment ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "109",
+    "bike_id": "109",
+    "suspension_front": "Showa 47mm upside-down 1 1 cartridge front forks, compression and rebound adjuster. 120mm travel",
+    "suspension_rear": "Fully adjustable Showa piggyback reservoir RSU with remote hydraulic preload adjuster, 107mm rear wheel travel.",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "110",
+    "bike_id": "110",
+    "suspension_front": "Ø 41mm forks with cartridge damping. 120mm travel ",
+    "suspension_rear": "Twin shocks with adjustable preload. 120mm rear wheel travel ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "111",
+    "bike_id": "111",
+    "suspension_front": "48 mm inverted AOS type telescopic fork with 22-way compression and 18-way rebound damping",
+    "suspension_rear": "Uni-Trak with 22-way low-speed, 2 turns or more high speed compression damping, 22 way rebound damping and adjustable spring preload",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "112",
+    "bike_id": "112",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "113",
+    "bike_id": "113",
+    "suspension_front": "43mm Upside Down Telescopic Fork, 120mm travel",
+    "suspension_rear": "Twin Shocks, 101mm travel, preload adjustable",
+    "created_at": null,
+    "updated_at": "2023-04-10 11:35:25"
+  },
+  {
+    "id": "114",
+    "bike_id": "114",
+    "suspension_front": "Telescopic Hydraulic",
+    "suspension_rear": "Twin Shock Absorber",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "115",
+    "bike_id": "115",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Twin Hydraulic",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "116",
+    "bike_id": "116",
+    "suspension_front": "inverted fork with compression, rebound and spring preload adjustability. Aluminum fork triple clamps.",
+    "suspension_rear": "Linkage-mounted, piggyback monoshock with compression, rebound and hydraulic spring preload adjustability",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "117",
+    "bike_id": "117",
+    "suspension_front": "Telescopic, 43 mm USD Fork, 135 mm travel",
+    "suspension_rear": "Multi-step adjustable Mono shock with Nitrox, Wheel stroke of 110 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "118",
+    "bike_id": "118",
+    "suspension_front": "Telescopic Forks with Preload Adjuster",
+    "suspension_rear": "Mono Tube - Mono Shock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "119",
+    "bike_id": "119",
+    "suspension_front": "ø41 mm inverted fork with compression and rebound damping and spring preload adjustability / 120 mm",
+    "suspension_rear": "Horizontal Back-link, gas-charged rear shock with rebound damping and spring preload adjustability / 144 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "120",
+    "bike_id": "120",
+    "suspension_front": "Front Fork",
+    "suspension_rear": "Monoshock absorber",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "121",
+    "bike_id": "121",
+    "suspension_front": "Telescopic upside Down Fork (USD Fork)",
+    "suspension_rear": "Linked-Type Monocross Suspension",
+    "created_at": null,
+    "updated_at": "2023-04-10 14:28:24"
+  },
+  {
+    "id": "122",
+    "bike_id": "122",
+    "suspension_front": "Front Fork",
+    "suspension_rear": "Mono Shock absorber",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "123",
+    "bike_id": "123",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "124",
+    "bike_id": "124",
+    "suspension_front": "Single Fork",
+    "suspension_rear": "Mono Shock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "125",
+    "bike_id": "125",
+    "suspension_front": "Marzocchi aluminum fully adjustable, upside-down Ø 45 mm",
+    "suspension_rear": "Progressive linkage with adjustable spring preload and rebound damping Sachs monoshock. Aluminium singlesided swingarm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "126",
+    "bike_id": "126",
+    "suspension_front": "Telescopic Hydraulic Shock Absorber ",
+    "suspension_rear": "Unit Swing with Spring Loaded Hydraulic Damper ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "127",
+    "bike_id": "127",
+    "suspension_front": "46 mm fully adjustable usd forks",
+    "suspension_rear": "Kayaba rear shock, pre-load and rebound adjustable. Aluminium double-sided swingarm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "128",
+    "bike_id": "128",
+    "suspension_front": "ø43 mm inverted fork with rebound damping (right-side) and spring preload adjustability / 150 mm",
+    "suspension_rear": "Horizontal Back-link, gas-charged, with rebound damping and remote spring preload adjustability / 152 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "129",
+    "bike_id": "129",
+    "suspension_front": "Telescopic oil damped shock absorber ",
+    "suspension_rear": "5 step adjustable hydraulic shock absorber ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "130",
+    "bike_id": "130",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "131",
+    "bike_id": "131",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Coil Spring",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "132",
+    "bike_id": "132",
+    "suspension_front": "Telescopic Fork ",
+    "suspension_rear": "Mono Shock ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "133",
+    "bike_id": "133",
+    "suspension_front": "Telescopic Hydraulic ",
+    "suspension_rear": "Monotube Inverted Gas filled shox (MIG) with Spring aid 3 step adjustable ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "134",
+    "bike_id": "134",
+    "suspension_front": "Ø 43 mm usd fork",
+    "suspension_rear": "Progressive linkage, preload adjustable monoshock, aluminium double-sided swingarm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "135",
+    "bike_id": "135",
+    "suspension_front": "Telescopic ",
+    "suspension_rear": "Monoshock, 5 step adj, Gas charged ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "136",
+    "bike_id": "136",
+    "suspension_front": "Fully adjustable 43mm usd Marzocchi fork ",
+    "suspension_rear": "Progressive linkage with adjustable Sachs monoshick ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "137",
+    "bike_id": "137",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Unit Swing",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "138",
+    "bike_id": "138",
+    "suspension_front": "WP APEX USD forks, 43 mm diameter",
+    "suspension_rear": "WP APEX Monoshock, 10 step adjustable",
+    "created_at": null,
+    "updated_at": "2023-04-10 10:36:57"
+  },
+  {
+    "id": "139",
+    "bike_id": "139",
+    "suspension_front": "WP APEX USD forks, 43 mm diameter",
+    "suspension_rear": "WP APEX Monoshock, 10 step adjustable",
+    "created_at": null,
+    "updated_at": "2023-04-10 10:54:45"
+  },
+  {
+    "id": "140",
+    "bike_id": "140",
+    "suspension_front": "WP APEX USD forks, 43 mm diameter",
+    "suspension_rear": "WP APEX Monoshock, 10 step adjustable",
+    "created_at": null,
+    "updated_at": "2023-04-10 11:01:15"
+  },
+  {
+    "id": "141",
+    "bike_id": "141",
+    "suspension_front": "ø49 mm inverted telescopic fork with adjustable compression and rebound damping / 305 mm",
+    "suspension_rear": "New Uni Trak with adjustable dual-range (high/low-speed) compression damping, adjustable rebound damping and adjustable preload / 307 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "142",
+    "bike_id": "142",
+    "suspension_front": "ø48 mm inverted telescopic fork with adjustable compression and rebound damping / 314 mm",
+    "suspension_rear": "New Uni Trak with adjustable dual-range (high/low-speed) compression damping, adjustable rebound damping and adjustable preload / 316 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "143",
+    "bike_id": "143",
+    "suspension_front": "Upside-down hydraulic tlescopic fork 41mm, with adjustable extension and spring preload",
+    "suspension_rear": "Swingarm Twin-sided with lateral mono shock absorber, adjustable extension and spring preload",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "144",
+    "bike_id": "144",
+    "suspension_front": "Inverted Cartrideges Telescopic Fork ",
+    "suspension_rear": "Two Arm Aluminium Die-cast Swingarm ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "145",
+    "bike_id": "145",
+    "suspension_front": "Showa 41mm upside down separate function cartridge forks, 150mm wheel travel",
+    "suspension_rear": "Showa monoshock RSU, with remote hydraulic preload adjustment, 150mm wheel travel",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "146",
+    "bike_id": "146",
+    "suspension_front": "Aircraft Derived Hydraulic Single Side arm Front suspension with Anti-Dive characteristics",
+    "suspension_rear": "Dual-Effect Hydraulic Shock Absorber.With four position adjustable",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "147",
+    "bike_id": "147",
+    "suspension_front": "",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "148",
+    "bike_id": "148",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "149",
+    "bike_id": "149",
+    "suspension_front": "ø41 mm telescopic fork/130 mm",
+    "suspension_rear": "Offset laydown single-shock, linkage equipped, with adjustable preload/80 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "150",
+    "bike_id": "150",
+    "suspension_front": "Adjustable USD Fork",
+    "suspension_rear": "Preload and rebound adjustable monoshock, Remote reservoir, Single Sided Swingarm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "151",
+    "bike_id": "151",
+    "suspension_front": "ø41 mm telescopic fork/125mm",
+    "suspension_rear": "Horizontal Back-link with adjustable preload/130mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "152",
+    "bike_id": "152",
+    "suspension_front": "ø41 mm telescopic fork / 125 mm",
+    "suspension_rear": "Horizontal Back-link with adjustable preload / 130 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "153",
+    "bike_id": "153",
+    "suspension_front": "Telescopic Hydraulic Fork ",
+    "suspension_rear": "Gas Canister - Twin shock hydraulic ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "154",
+    "bike_id": "154",
+    "suspension_front": "Telescopic Hydraulic",
+    "suspension_rear": "3 step adjustable type coil spring with hydraulic damper",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "155",
+    "bike_id": "155",
+    "suspension_front": "Telescopic Hydraulic Shock Absorber",
+    "suspension_rear": "Unit Swing with Spring Loaded Hydraulic Damper",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "156",
+    "bike_id": "156",
+    "suspension_front": "Ø 50 mm fully adjustable usd fork",
+    "suspension_rear": "Fully adjustable monoshock, Remote spring preload adjustment, aluminium doublesided swingarm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "157",
+    "bike_id": "157",
+    "suspension_front": "Telescopic fork with 35 mm diameter",
+    "suspension_rear": "Double Aluminum swingarm, Double spring struts, adjustable preload",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "158",
+    "bike_id": "158",
+    "suspension_front": "Single Fork",
+    "suspension_rear": "Mono Shock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "159",
+    "bike_id": "159",
+    "suspension_front": "Upside down telescopic fork, ø41mm Outer Tube",
+    "suspension_rear": "Telescopic coil spring oil damped, 50 mm.",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "160",
+    "bike_id": "160",
+    "suspension_front": "Telescopic Fork, 41mm Inner Tube Diameter, with Fork Boot",
+    "suspension_rear": "7-Step Adjustable Monocross Suspension",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "161",
+    "bike_id": "161",
+    "suspension_front": "Telescopic Fork / 132 mm",
+    "suspension_rear": "Dual Shocks w/ adjustable preload / 75 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "162",
+    "bike_id": "162",
+    "suspension_front": "Telescopic Fork / 132 mm",
+    "suspension_rear": "Dual Shocks w/ adjustable preload / 75 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "163",
+    "bike_id": "163",
+    "suspension_front": "Telescopic Fork / 132 mm",
+    "suspension_rear": "Dual Shocks w/ adjustable preload / 75 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "164",
+    "bike_id": "164",
+    "suspension_front": "Upside-down telescopic fork with a diameter of 45 mm, spring preload and adjustable rebound and compression stage",
+    "suspension_rear": "Aluminium underbeam swinging arm, Full-Floater Pro, central shock absorber, adjustable rebound and compression damping and adjustable spring preload",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "165",
+    "bike_id": "165",
+    "suspension_front": "50 mm fully adjustable usd fork ",
+    "suspension_rear": "Monoshock, preload and rebound adjustable ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "166",
+    "bike_id": "166",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "167",
+    "bike_id": "167",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "168",
+    "bike_id": "168",
+    "suspension_front": "Hydraulic, Telescopic Type, 135 mm travel",
+    "suspension_rear": "SOS with nitrox canister Rear wheel stroke of 110 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "169",
+    "bike_id": "169",
+    "suspension_front": "Retractable",
+    "suspension_rear": "Cantilever Type",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "170",
+    "bike_id": "170",
+    "suspension_front": "Retractable type",
+    "suspension_rear": "Cantilever type",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "171",
+    "bike_id": "171",
+    "suspension_front": "",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "172",
+    "bike_id": "172",
+    "suspension_front": "",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "173",
+    "bike_id": "173",
+    "suspension_front": "",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "174",
+    "bike_id": "174",
+    "suspension_front": "",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "175",
+    "bike_id": "175",
+    "suspension_front": "49mm forks with dual bending valve suspension ",
+    "suspension_rear": "Pre-Load Adjuster Rear Shock Absorbers ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "176",
+    "bike_id": "176",
+    "suspension_front": "Single cartridge 43 mm inverted with aluminum fork triple clamps ",
+    "suspension_rear": "Hidden, free piston, coil-over monoshock; 56mm stroke ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "177",
+    "bike_id": "177",
+    "suspension_front": "Dual-bending valve 49 mm telescopic with aluminum fork triple clamps ",
+    "suspension_rear": "Coil-over monoshock; 43mm stroke ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "178",
+    "bike_id": "178",
+    "suspension_front": "Dual-bending valve 49 mm telescopic with aluminum fork triple clamps ",
+    "suspension_rear": "Coil-over monoshock; 43mm stroke ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "179",
+    "bike_id": "179",
+    "suspension_front": "47mm inverted fork with compression, rebound and spring preload adjustability. Aluminum fork triple clamps.",
+    "suspension_rear": "Linkage-mounted, piggyback monoshock with compression, rebound and hydraulic spring preload adjustability",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "180",
+    "bike_id": "180",
+    "suspension_front": "Inverted Telescopic, Coil Spring, Oil Damped",
+    "suspension_rear": "Link Type, Coil Spring, Oil Damped",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "181",
+    "bike_id": "181",
+    "suspension_front": "Showa 47mm fully adjustable USD forks. 250mm wheel travel ",
+    "suspension_rear": "Öhlins fully adjustable piggy-back RSUs with twin springs. 250mm wheel travel ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "182",
+    "bike_id": "182",
+    "suspension_front": "Retractable Type",
+    "suspension_rear": "Cantilever Type",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "183",
+    "bike_id": "183",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Mono shocks",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "184",
+    "bike_id": "184",
+    "suspension_front": "Hydraulic Telescopic, 125 mm Travel",
+    "suspension_rear": "Spring-in-Spring (SNS)",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "185",
+    "bike_id": "185",
+    "suspension_front": "Telescopic ",
+    "suspension_rear": "Both Side Spring Loaded Hydraulic ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "186",
+    "bike_id": "186",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Spring loaded hydraulic",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "187",
+    "bike_id": "187",
+    "suspension_front": "Telescopic ",
+    "suspension_rear": "Heavy Spring Loaded ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "188",
+    "bike_id": "188",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Spring Suspension",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "189",
+    "bike_id": "189",
+    "suspension_front": "Upside-down telescopic fork with a diameter of 45 mm, adjustable compression and rebound stage, adjustable preload 120 mm",
+    "suspension_rear": "Aluminium swing arm, full floater pro, compression and rebound damping adjustable, adjustable preload 117 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "190",
+    "bike_id": "190",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Twin Hydraulic",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "191",
+    "bike_id": "191",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "192",
+    "bike_id": "192",
+    "suspension_front": "Upside down Kayaba 41 mm fork ",
+    "suspension_rear": "Kayaba rear shock, pre-load adjustable ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "193",
+    "bike_id": "193",
+    "suspension_front": "Telescopic (37 mm Dia) with anti friction bush",
+    "suspension_rear": "7 step Rider-adjustable Monoshock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "194",
+    "bike_id": "194",
+    "suspension_front": "135 mm, Hydraulic, Telescopic Type ",
+    "suspension_rear": "110 mm, Spring on Spring (SoS) with Nitrox Gas Canister ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "195",
+    "bike_id": "195",
+    "suspension_front": "Telescopic (Oil damped)",
+    "suspension_rear": "5 Step Adjustable Hydraulic Shock Absorber",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "196",
+    "bike_id": "196",
+    "suspension_front": "Telescopic fork",
+    "suspension_rear": "Steel swingarm with central shock strut",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "197",
+    "bike_id": "197",
+    "suspension_front": "Telescopic Hydraulic Fork",
+    "suspension_rear": "Gas Canister - Twin shock hydraulic",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "198",
+    "bike_id": "198",
+    "suspension_front": "Telescopic, 41 mm forks, 200 mm travel",
+    "suspension_rear": "Monoshock with linkage, 180 mm wheel travel",
+    "created_at": null,
+    "updated_at": "2023-04-10 12:48:03"
+  },
+  {
+    "id": "199",
+    "bike_id": "199",
+    "suspension_front": "Telescopic fork",
+    "suspension_rear": "7-Step Adjustable Monocross Suspension",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "200",
+    "bike_id": "200",
+    "suspension_front": "Inverted Telescopic, Coil Spring, Oil Damped",
+    "suspension_rear": "Link Type, Coil Spring, Oil Damped",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "201",
+    "bike_id": "201",
+    "suspension_front": "Retractable type",
+    "suspension_rear": "Cantilever type",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "202",
+    "bike_id": "202",
+    "suspension_front": "Upside down Kayaba 41 mm fork ",
+    "suspension_rear": "Kayaba rear shock, pre-load adjustable ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "203",
+    "bike_id": "203",
+    "suspension_front": "Telescopic spring type hydraulic",
+    "suspension_rear": "Swing arm with hydraulic shocks",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "204",
+    "bike_id": "204",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Dual adjustable shock absorbers",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "205",
+    "bike_id": "205",
+    "suspension_front": "Upside down Forks",
+    "suspension_rear": "Monoshock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "206",
+    "bike_id": "206",
+    "suspension_front": "Telescopic Fork type ",
+    "suspension_rear": "Dual adjustable shock absorbers ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "207",
+    "bike_id": "207",
+    "suspension_front": "Telescopic Fork type",
+    "suspension_rear": "Dual adjustable shock absorbers",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "208",
+    "bike_id": "208",
+    "suspension_front": "Telescopic Fork type ",
+    "suspension_rear": "Dual Adjustable Shock Absorber ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "209",
+    "bike_id": "209",
+    "suspension_front": "Showa SFF-BP Fork with Adjustable Compression and Rebound Damping, Spring Preload Adjustability / 120mm",
+    "suspension_rear": "New Uni-Trak, Showa Gas-Charged Shock with Adjustable Compression and Rebound Damping, Preload Adjustability / 134mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "210",
+    "bike_id": "210",
+    "suspension_front": "Marzocchi 45mm upside down forks",
+    "suspension_rear": "Marzocchi rear suspension unit, manual preload adjustment",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "211",
+    "bike_id": "211",
+    "suspension_front": "Telescopic spring type hydraulic",
+    "suspension_rear": "Swing arm with hydraulic shocks",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "212",
+    "bike_id": "212",
+    "suspension_front": "Telescopic Front Forks with anti friction bush",
+    "suspension_rear": "Rectangular swingarm with mono shock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "213",
+    "bike_id": "213",
+    "suspension_front": "TELESCOPIC, 41MM FORKS, 130MM TRAVEL",
+    "suspension_rear": "TWIN TUBE EMULSION SHOCK ABSORBERS WITH 6-STEP ADJUSTABLE PRELOAD",
+    "created_at": null,
+    "updated_at": "2023-04-10 12:22:10"
+  },
+  {
+    "id": "214",
+    "bike_id": "214",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "215",
+    "bike_id": "215",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Hydraulic Shock Absorber",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "216",
+    "bike_id": "216",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "217",
+    "bike_id": "217",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "218",
+    "bike_id": "218",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Twin Gas Shock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "219",
+    "bike_id": "219",
+    "suspension_front": "Telescopic ",
+    "suspension_rear": "Swing Arm ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "220",
+    "bike_id": "220",
+    "suspension_front": "Telescopic ",
+    "suspension_rear": "Swing Arm ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "221",
+    "bike_id": "221",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "222",
+    "bike_id": "222",
+    "suspension_front": "",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "223",
+    "bike_id": "223",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Hydraulic Spring Loaded",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "224",
+    "bike_id": "224",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Hydraulic Spring Loaded",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "225",
+    "bike_id": "225",
+    "suspension_front": "",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "226",
+    "bike_id": "226",
+    "suspension_front": "",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "227",
+    "bike_id": "227",
+    "suspension_front": "Aircraft Derived Hydraulic Single Side arm Front suspension with Anti-Dive characteristics",
+    "suspension_rear": "Dual-Effect Hydraulic Shock Absorber.With four position adjustable",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "228",
+    "bike_id": "228",
+    "suspension_front": "Aircraft Derived Hydraulic Single Side arm Front suspension with Anti-Dive characteristics",
+    "suspension_rear": "Dual-Effect Hydraulic Shock Absorber.With four position adjustable",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "229",
+    "bike_id": "229",
+    "suspension_front": "Upside down Fork",
+    "suspension_rear": "Monoshock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "230",
+    "bike_id": "230",
+    "suspension_front": "Hydraulic Telescopic",
+    "suspension_rear": "Double Shocker with dual tube technology",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "231",
+    "bike_id": "231",
+    "suspension_front": "Showa Telescopic Inverted Fork with an inner tube diameter of 43mm, and a Big Piston Front Fork with preload, compression and rebound adjustment, 120mm stroke.",
+    "suspension_rear": "Unit Pro-Link with gas-charged HMAS damper featuring 10-step preload, stepless compression and rebound damping adjustment, 137mm stroke. Showa Balance-Free Rear Cushion with preload, compression and r",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "232",
+    "bike_id": "232",
+    "suspension_front": "Öhlins NIX front fork ? 43 mm. Smart EC 2.0 electronic management. Travel 120 mm",
+    "suspension_rear": "Inverted truss aluminium rear arm; Öhlins TTX single shock absorber with piggy-back. Smart EC 2.0 electronic management. Travel 129 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "233",
+    "bike_id": "233",
+    "suspension_front": "Telescopic, coil spring, oil damped",
+    "suspension_rear": "Link type, coil spring, oil damped",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "234",
+    "bike_id": "234",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "235",
+    "bike_id": "235",
+    "suspension_front": "USD",
+    "suspension_rear": "7 Step adjustable monoshock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "236",
+    "bike_id": "236",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Monoshock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "237",
+    "bike_id": "237",
+    "suspension_front": "Showa upside down separate function big piston forks, Adjustable compression dumping, rebound dumping and preloud adjustment",
+    "suspension_rear": "Showa piggyback reservoir monoshok, Adjustable compression and rebound dumping and preloud adjustments.",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "238",
+    "bike_id": "238",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "239",
+    "bike_id": "239",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "240",
+    "bike_id": "240",
+    "suspension_front": "Ø 43 mm inverted fork with rebound and compression damping ",
+    "suspension_rear": "New Uni-Trak, Öhlins TTX36 gas-charged shock with piggyback reservoir ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "241",
+    "bike_id": "241",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "242",
+    "bike_id": "242",
+    "suspension_front": "ø43 mm inverted fork with rebound and compression damping and spring preload adjustability, and topout springs",
+    "suspension_rear": "New Uni-Trak, gas-charged shock with piggyback reservoir, compression and rebound damping adjustability, remote spring preload adjuster, and top-out spring",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "243",
+    "bike_id": "243",
+    "suspension_front": "43 mm inverted fork with rebound and compression damping, spring preload adjustability and top-out springs",
+    "suspension_rear": "Uni-Trak, Öhlins TTX36 gas-charged shock with piggyback reservoir, compression damping, rebound damping, preload adjustability and top-out spring",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "244",
+    "bike_id": "244",
+    "suspension_front": "Upside-Down telescopic fork with 46 mm diameter ",
+    "suspension_rear": "Cast aluminium single swinging arm with BMW Motorrad Paralever ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "245",
+    "bike_id": "245",
+    "suspension_front": "Upside-down telescopic forks, 46 mm fixed-fork-tube diameter",
+    "suspension_rear": "Cast aluminium single swinging arm with BMW Motorrad Paralever; central spring strut, spring preload fully adjustable by handwheel, adjustable rebound-stage damping",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "246",
+    "bike_id": "246",
+    "suspension_front": "Telescopic forks with 43 mm fixed-tube diameter",
+    "suspension_rear": "Cast aluminium single swinging arm with BMW Motorrad Paralever; central spring strut, spring preload steplessly adjustable by hook wrench, rebound-stage damping adjustable",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "247",
+    "bike_id": "247",
+    "suspension_front": "BMW Motorrad Telelever; stanchion diameter 1.5\" (37 mm), central spring strut ",
+    "suspension_rear": "Cast aluminium single-sided swing arm with BMW Motorrad Paralever ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "248",
+    "bike_id": "248",
+    "suspension_front": "BMW Motorrad Telelever; stanchion diameter 1.5\" (37 mm), central spring strut ",
+    "suspension_rear": "Cast aluminium single-sided swing arm with BMW Motorrad Paralever ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "249",
+    "bike_id": "249",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "250",
+    "bike_id": "250",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "251",
+    "bike_id": "251",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "252",
+    "bike_id": "252",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "253",
+    "bike_id": "253",
+    "suspension_front": "Telescopic ",
+    "suspension_rear": "Coil Spring with Hydraulic Dampers ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "254",
+    "bike_id": "254",
+    "suspension_front": "Aircraft Derived Hydraulic Single Side arm Front suspension with Anti-Dive characteristics",
+    "suspension_rear": "Dual-Effect Hydraulic Shock Absorber.With four position adjustable",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "255",
+    "bike_id": "255",
+    "suspension_front": "Upside-down forks Ø 50mm with rebound brake adjustable",
+    "suspension_rear": "Rear swing arm with lateral shock absorber with spring preload adjustment and hydraulic rebound brake adjustable",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "256",
+    "bike_id": "256",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "257",
+    "bike_id": "257",
+    "suspension_front": "USD Telescopic forks",
+    "suspension_rear": "Hydraulic Monoshock (Rebound & Preload adjustable)",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "258",
+    "bike_id": "258",
+    "suspension_front": "Inverted Telescopic",
+    "suspension_rear": "Hydraulic Monoshock (Rebound + Pre-load Adjustable)",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "259",
+    "bike_id": "259",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "260",
+    "bike_id": "260",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "261",
+    "bike_id": "261",
+    "suspension_front": "Ø 41 mm Inverted Telescopic Forks",
+    "suspension_rear": "Rear Swing Arm with Central Shock Absorber",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "262",
+    "bike_id": "262",
+    "suspension_front": "Telescopic (37 mm Dia) with Double DU Bush (190 mm Stroke)",
+    "suspension_rear": "10 step Rider-adjustable Monoshock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "263",
+    "bike_id": "263",
+    "suspension_front": "41 mm Telescopic",
+    "suspension_rear": "Pre-load Adjustable",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "264",
+    "bike_id": "264",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Hydraulic, Monoshock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "265",
+    "bike_id": "265",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Hydraulic Type",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "266",
+    "bike_id": "266",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "3-Step Adjustable Suspension",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "267",
+    "bike_id": "267",
+    "suspension_front": "Marzocchi 45mm upside down forks, manual rebound and compression damping adjustment, 180mm travel",
+    "suspension_rear": "Marzocchi rear suspension unit, manual preload and rebound damping adjustment, 170mm wheel travel (151mm LRH)",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "268",
+    "bike_id": "268",
+    "suspension_front": "Dual-bending valve 49 mm telescopic with aluminum fork triple clamps ",
+    "suspension_rear": "Hidden, free piston, coil-over monoshock; 43mm stroke ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "269",
+    "bike_id": "269",
+    "suspension_front": "49 mm Front Fork with Cartridge Damping",
+    "suspension_rear": "Emulsion Rear Shock with A Screw Preload Adjuster",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "270",
+    "bike_id": "270",
+    "suspension_front": "",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "271",
+    "bike_id": "271",
+    "suspension_front": "41mm Telescopic Fork ",
+    "suspension_rear": "Twin Shocks with Spring Preload Adjustability ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "272",
+    "bike_id": "272",
+    "suspension_front": "Kayaba Ø 41 mm USD with top out spring, aluminium radial caliper mounting bracket. Adjustable in rebound and spring preload. Travel 110 mm",
+    "suspension_rear": "Asymmetrical aluminium rear arm. Rear shock absorber with top-out spring. Adjustable preload and rebound. Travel 130 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "273",
+    "bike_id": "273",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Swing arm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "274",
+    "bike_id": "274",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Swing arm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "275",
+    "bike_id": "275",
+    "suspension_front": "Telescopic fork",
+    "suspension_rear": "Swinh Arm with Shock absorber",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "276",
+    "bike_id": "276",
+    "suspension_front": "Telescopic fork",
+    "suspension_rear": "Shock absorber",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "277",
+    "bike_id": "277",
+    "suspension_front": "Telescopic Oil Damped",
+    "suspension_rear": "5 Step adjustable Hydraulic Shock Absorber",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "278",
+    "bike_id": "278",
+    "suspension_front": "Telescopic with anti-friction bush",
+    "suspension_rear": "Nitrox mono shock absorber with Canister",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "279",
+    "bike_id": "279",
+    "suspension_front": "Telescopic, 35 mm forks, 130 mm travel",
+    "suspension_rear": "Twin shock absorbers with 5 step adjustable preload, 80 mm travel",
+    "created_at": null,
+    "updated_at": "2023-04-10 12:58:26"
+  },
+  {
+    "id": "280",
+    "bike_id": "280",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Swing arm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "281",
+    "bike_id": "281",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Swing arm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "282",
+    "bike_id": "282",
+    "suspension_front": "Telescopic, 37 mm USD Fork, 135 mm travel",
+    "suspension_rear": "Multi-step adjustable Monoshocks with Nitrox, Wheel stroke of 110 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "283",
+    "bike_id": "283",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Hydraulic Type (Monoshock)",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "284",
+    "bike_id": "284",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "285",
+    "bike_id": "285",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "286",
+    "bike_id": "286",
+    "suspension_front": "Smart EC 2.0 electronically managed Öhlins NIX fork. ? 43 mm stanchions, with TIN surface treatment Aluminium radial calliper mounts, adjustable in hydraulic compression and rebound damping and spring",
+    "suspension_rear": "Upside-down double braced aluminium swingarm; Öhlins TTX monoshock with Smart EC 2.0 electronically managed piggyback, fully adjustable in: spring pre-load, wheelbase and hydraulic compression and reb",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "287",
+    "bike_id": "287",
+    "suspension_front": "Hydraulic Double Telescopic",
+    "suspension_rear": "Hydraulic Shock Absorber",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "288",
+    "bike_id": "288",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "289",
+    "bike_id": "289",
+    "suspension_front": "Telescopic forks",
+    "suspension_rear": "Twin gas charged shock-absorbers with adjustable preload",
+    "created_at": null,
+    "updated_at": "2023-04-10 12:38:45"
+  },
+  {
+    "id": "290",
+    "bike_id": "290",
+    "suspension_front": "Telescopic forks",
+    "suspension_rear": "Twin gas charged shock-absorbers with adjustable preload",
+    "created_at": null,
+    "updated_at": "2023-04-10 12:29:29"
+  },
+  {
+    "id": "291",
+    "bike_id": "291",
+    "suspension_front": "Telescopic with Anti-friction Bush",
+    "suspension_rear": "Nitrox mono shock absorber with Canister",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "292",
+    "bike_id": "292",
+    "suspension_front": "Telescopic with Anti-friction Bush",
+    "suspension_rear": "Nitrox mono shock absorber with Canister",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "293",
+    "bike_id": "293",
+    "suspension_front": "Telescopic with double anti friction bush",
+    "suspension_rear": "5 step adjustable Twin shock absorber",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "294",
+    "bike_id": "294",
+    "suspension_front": "Telescopic with double anti friction bush",
+    "suspension_rear": "5 step adjustable Twin shock absorber",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "295",
+    "bike_id": "295",
+    "suspension_front": "Telescopic, 31mm Conventional fork",
+    "suspension_rear": "Twin Shock absorber, Gas filled with Canister",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "296",
+    "bike_id": "296",
+    "suspension_front": "Front fork with 30 mm inner tube",
+    "suspension_rear": "Adjustable mono shock absorber",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "297",
+    "bike_id": "297",
+    "suspension_front": "Aircraft Derived Hydraulic Single Side arm Front suspension with Anti-Dive characteristics",
+    "suspension_rear": "Dual-Effect Hydraulic Shock Absorber.With four position adjustable",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "298",
+    "bike_id": "298",
+    "suspension_front": "Aircraft Derived Hydraulic Single Side arm Front suspension with Anti-Dive characteristics",
+    "suspension_rear": "Dual-Effect Hydraulic Shock Absorber.With four position adjustable",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "299",
+    "bike_id": "299",
+    "suspension_front": "Hydraulic Double Telescopic ",
+    "suspension_rear": "Hydraulic Shock Absorber ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "300",
+    "bike_id": "300",
+    "suspension_front": "Leading-link Suspension",
+    "suspension_rear": "Monoshock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "301",
+    "bike_id": "301",
+    "suspension_front": "WP APEX - USD 43 mm",
+    "suspension_rear": "WP APEX - Monoshock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "302",
+    "bike_id": "302",
+    "suspension_front": "WP APEX - USD 43 mm",
+    "suspension_rear": "WP APEX - Monoshock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "303",
+    "bike_id": "303",
+    "suspension_front": "Inverted telescopic, coil spring, oil damped",
+    "suspension_rear": "Link-type, coil spring, oil damped",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "304",
+    "bike_id": "304",
+    "suspension_front": "",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "305",
+    "bike_id": "305",
+    "suspension_front": "Telescopic Hydraulic Shock Absorbers ",
+    "suspension_rear": "5-step Adjustable Hydraulic Shock Absorbers ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "306",
+    "bike_id": "306",
+    "suspension_front": "Kayaba 41-mm stanchion fork, aluminium radial calliper mounting bracket. Adjustable spring preload and rebound damping. 120 mm wheel travel.",
+    "suspension_rear": "Aluminium asymmetric swingarm. Adjustable monoshock in spring reload, rebound braking. 130-mm wheel travel.",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "307",
+    "bike_id": "307",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "308",
+    "bike_id": "308",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Hydraulic Type",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "309",
+    "bike_id": "309",
+    "suspension_front": "Telescopic ",
+    "suspension_rear": "3-Step Adjustable Spring Loaded Hydraulic ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "310",
+    "bike_id": "310",
+    "suspension_front": "Hydraulic Telescopic",
+    "suspension_rear": "Double Shocker with dual tube technology",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "311",
+    "bike_id": "311",
+    "suspension_front": "Steel Rigid aerodynamic blade type ",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "312",
+    "bike_id": "312",
+    "suspension_front": "Steel Rigid Fork aerodynamic blade type-Threadless with disc ",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "313",
+    "bike_id": "313",
+    "suspension_front": "Steel Rigid Fork Aerodynamic Blade Type-Threadless with disc ",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "314",
+    "bike_id": "314",
+    "suspension_front": "SR Suntour Hydraulic XCM 650B ",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "315",
+    "bike_id": "315",
+    "suspension_front": "Hydraulic Telescopic Suspension ",
+    "suspension_rear": "Double Shocker with Dual Tube Technology ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "316",
+    "bike_id": "316",
+    "suspension_front": "Hydraulic Telescopic",
+    "suspension_rear": "Dauble shocker whith dual tube technology",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "317",
+    "bike_id": "317",
+    "suspension_front": "Hydraulic Telescopic",
+    "suspension_rear": "Dauble shocker whith dual tube technology",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "318",
+    "bike_id": "318",
+    "suspension_front": "Hydraulic Telescopic",
+    "suspension_rear": "Dauble shocker whith dual tube technology",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "319",
+    "bike_id": "319",
+    "suspension_front": "Upside Down Forks",
+    "suspension_rear": "Monoshock(Adjustable)",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "320",
+    "bike_id": "320",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "321",
+    "bike_id": "321",
+    "suspension_front": "Telescopic fork / 120 mm",
+    "suspension_rear": "Swingarm / 130 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "322",
+    "bike_id": "322",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "323",
+    "bike_id": "323",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Coil Spring",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "324",
+    "bike_id": "324",
+    "suspension_front": "Telescopic suspension ",
+    "suspension_rear": "Dual Mono Suspension ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "325",
+    "bike_id": "325",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Dual Mono",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "326",
+    "bike_id": "326",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Dual Mono",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "327",
+    "bike_id": "327",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "328",
+    "bike_id": "328",
+    "suspension_front": "Telescope ",
+    "suspension_rear": "Double Swing ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "329",
+    "bike_id": "329",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "330",
+    "bike_id": "330",
+    "suspension_front": "Retractable Type ",
+    "suspension_rear": "Cantilever Type ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "331",
+    "bike_id": "331",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "332",
+    "bike_id": "332",
+    "suspension_front": "Hydraulic Telescopic",
+    "suspension_rear": "Double shocker with dual tube technology",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "333",
+    "bike_id": "333",
+    "suspension_front": "TELESCOPIC FORKS, ø 35 mm",
+    "suspension_rear": "MONO SHOCK ABSORBER, GAS FILLED WITH 7-STEP ADJUSTABLE PRELOAD",
+    "created_at": null,
+    "updated_at": "2023-04-08 14:59:57"
+  },
+  {
+    "id": "334",
+    "bike_id": "334",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Mono Tube - Mono Shock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "335",
+    "bike_id": "335",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "336",
+    "bike_id": "336",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "337",
+    "bike_id": "337",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Emulsion Rear Shock with Screw Adjuster",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "338",
+    "bike_id": "338",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Monoshock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "339",
+    "bike_id": "339",
+    "suspension_front": "43mm inverted fork, fully-adjustable; 8.3-in travel",
+    "suspension_rear": "Single shock, adjustable preload (w/remote adjuster) and rebound damping; 7.9-in travel",
+    "created_at": null,
+    "updated_at": "2023-03-08 17:41:57"
+  },
+  {
+    "id": "340",
+    "bike_id": "340",
+    "suspension_front": "Telescopic forks",
+    "suspension_rear": "Telescopic coil spring oil damped",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "341",
+    "bike_id": "341",
+    "suspension_front": "USD Fork",
+    "suspension_rear": "Monoshock",
+    "created_at": null,
+    "updated_at": "2023-02-17 15:35:12"
+  },
+  {
+    "id": "342",
+    "bike_id": "342",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "343",
+    "bike_id": "343",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "344",
+    "bike_id": "344",
+    "suspension_front": "Hydraulic Telescopic",
+    "suspension_rear": "Double shocker with dual tube technology",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "345",
+    "bike_id": "345",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "346",
+    "bike_id": "346",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "347",
+    "bike_id": "347",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "348",
+    "bike_id": "348",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "349",
+    "bike_id": "349",
+    "suspension_front": "ø43mm inverted fork (BFF) with external compression chamber ",
+    "suspension_rear": "Horizontal Back-link, BFRC lite gas-charged shock with piggyback reservoir ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "350",
+    "bike_id": "350",
+    "suspension_front": "ø41 mm inverted fork with rebound damping and spring preload adjustability/120 mm ",
+    "suspension_rear": "Horizontal Back-link with rebound damping and spring preload adjustability/140 mm ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "351",
+    "bike_id": "351",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "352",
+    "bike_id": "352",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "353",
+    "bike_id": "353",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "354",
+    "bike_id": "354",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "355",
+    "bike_id": "355",
+    "suspension_front": "Telescopic, coil spring, oil damped",
+    "suspension_rear": "Swing arm type, coil spring, oil damped",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "356",
+    "bike_id": "356",
+    "suspension_front": "30 mm telescopic fork/110 mm",
+    "suspension_rear": "Single shock/110 mm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "357",
+    "bike_id": "357",
+    "suspension_front": "37mm KYB inverted fork",
+    "suspension_rear": "7-step preload adjustable",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "358",
+    "bike_id": "358",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "359",
+    "bike_id": "359",
+    "suspension_front": "--",
+    "suspension_rear": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "360",
+    "bike_id": "360",
+    "suspension_front": "Telescopic Hydraulic Shock Absorbers ",
+    "suspension_rear": "Unit Swing with Spring Loaded Hydraulic Dampers ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "361",
+    "bike_id": "361",
+    "suspension_front": "Conventional telescopic front forks, 41mm, pre-load adjustable",
+    "suspension_rear": "Prolink mono with 5-stage preload adjuster, steel square pipe swingarm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "362",
+    "bike_id": "362",
+    "suspension_front": "Telescopic Suspension",
+    "suspension_rear": "Honda ProLINK monoshock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "363",
+    "bike_id": "363",
+    "suspension_front": "Conventional telescopic front forks",
+    "suspension_rear": "Prolink mono with 5-stage preload adjuster, steel square pipe swingarm",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "364",
+    "bike_id": "364",
+    "suspension_front": "Telescopic (130 mm) ",
+    "suspension_rear": "Nitrox Twin (110 mm) ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "365",
+    "bike_id": "365",
+    "suspension_front": "Telescopic ",
+    "suspension_rear": "3-Step Adjustable Spring Loaded Hydraulic ",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "366",
+    "bike_id": "512",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "367",
+    "bike_id": "517",
+    "suspension_front": "Hydraulic Telescopic",
+    "suspension_rear": "Double Shocker with dual tube technology",
+    "created_at": null,
+    "updated_at": "2023-02-22 12:54:08"
+  },
+  {
+    "id": "368",
+    "bike_id": "518",
+    "suspension_front": "Hydraulic Telescopic",
+    "suspension_rear": "Double Shocker with dual tube technology",
+    "created_at": null,
+    "updated_at": "2023-02-22 12:59:04"
+  },
+  {
+    "id": "369",
+    "bike_id": "519",
+    "suspension_front": "Hydraulic Absorber",
+    "suspension_rear": "Hydraulic Better Quality",
+    "created_at": null,
+    "updated_at": "2023-02-22 13:07:03"
+  },
+  {
+    "id": "370",
+    "bike_id": "520",
+    "suspension_front": "Hydraulic Absorber",
+    "suspension_rear": "Hydraulic Better Quality",
+    "created_at": null,
+    "updated_at": "2023-02-22 13:12:51"
+  },
+  {
+    "id": "371",
+    "bike_id": "521",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Spring",
+    "created_at": null,
+    "updated_at": "2023-02-22 13:17:58"
+  },
+  {
+    "id": "372",
+    "bike_id": "522",
+    "suspension_front": "Showa Race tuned Telescopic Forks",
+    "suspension_rear": "Showa Race tuned Mono Shock",
+    "created_at": "2023-02-13 13:42:33",
+    "updated_at": "2023-02-20 14:53:20"
+  },
+  {
+    "id": "373",
+    "bike_id": "522",
+    "suspension_front": "Showa Race tuned Telescopic Forks",
+    "suspension_rear": "Showa Race tuned Mono Shock",
+    "created_at": "2023-02-13 15:05:18",
+    "updated_at": "2023-02-13 15:05:18"
+  },
+  {
+    "id": "374",
+    "bike_id": "523",
+    "suspension_front": "Inverted cartridge telescopic Fork",
+    "suspension_rear": "Two arm Aluminium die-cast swingarm",
+    "created_at": "2023-02-14 11:48:42",
+    "updated_at": "2023-02-20 14:49:47"
+  },
+  {
+    "id": "375",
+    "bike_id": "524",
+    "suspension_front": "TELESCOPIC",
+    "suspension_rear": "COIL SPRING WITH HYDRAULIC DAMPERS",
+    "created_at": "2023-02-14 17:13:49",
+    "updated_at": "2023-02-20 14:44:31"
+  },
+  {
+    "id": "376",
+    "bike_id": "525",
+    "suspension_front": "Telescopic Hydraulic Shock Absorbers",
+    "suspension_rear": "Swingarm with 5-Step Adjustable Hydraulic Shock Absorbers",
+    "created_at": "2023-02-14 17:33:42",
+    "updated_at": "2023-02-20 14:40:02"
+  },
+  {
+    "id": "381",
+    "bike_id": "530",
+    "suspension_front": "Telescopic Upside",
+    "suspension_rear": "Monoshock Absorber",
+    "created_at": "2023-02-16 16:48:29",
+    "updated_at": "2023-02-17 15:30:04"
+  },
+  {
+    "id": "382",
+    "bike_id": "531",
+    "suspension_front": "Telescopic Forks",
+    "suspension_rear": "Pre-Load Adjustable Dual Shocks",
+    "created_at": "2023-02-16 17:01:37",
+    "updated_at": "2023-05-23 12:28:33"
+  },
+  {
+    "id": "385",
+    "bike_id": "534",
+    "suspension_front": "Telescopic Fork (119 mm)",
+    "suspension_rear": "Single Shock w/Air adjust / 114mm / 63mm ride in",
+    "created_at": "2023-02-17 10:08:59",
+    "updated_at": "2023-02-17 15:14:01"
+  },
+  {
+    "id": "386",
+    "bike_id": "535",
+    "suspension_front": "Inverted Telescopic Fork (130mm)",
+    "suspension_rear": "Fox Single Shock w/ Hydraulic adjust (114mm)",
+    "created_at": "2023-02-17 10:11:31",
+    "updated_at": "2023-02-17 15:07:05"
+  },
+  {
+    "id": "387",
+    "bike_id": "536",
+    "suspension_front": "37mm Upside-Down Forks",
+    "suspension_rear": "Pre-Load adjustable Monoshock",
+    "created_at": "2023-02-17 10:14:09",
+    "updated_at": "2023-05-23 12:36:25"
+  },
+  {
+    "id": "388",
+    "bike_id": "537",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-17 14:38:15",
+    "updated_at": "2023-02-17 14:38:15"
+  },
+  {
+    "id": "389",
+    "bike_id": "538",
+    "suspension_front": "Inverted Telescopic Fork (130mm)",
+    "suspension_rear": "Fox Single Shock w/Hyd adjust (114mm)",
+    "created_at": "2023-02-17 16:52:15",
+    "updated_at": "2023-02-17 17:00:15"
+  },
+  {
+    "id": "390",
+    "bike_id": "539",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Telescopic coil spring oil damped",
+    "created_at": "2023-02-20 09:59:48",
+    "updated_at": "2023-02-20 10:06:08"
+  },
+  {
+    "id": "391",
+    "bike_id": "540",
+    "suspension_front": "Telescopic upside-down",
+    "suspension_rear": "Monoshock Side Aligned",
+    "created_at": "2023-02-20 10:09:48",
+    "updated_at": "2023-02-20 10:13:56"
+  },
+  {
+    "id": "392",
+    "bike_id": "541",
+    "suspension_front": "Telescopic USD Fork",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-02-20 10:32:58",
+    "updated_at": "2023-02-20 10:38:21"
+  },
+  {
+    "id": "393",
+    "bike_id": "542",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Spring Loaded twin Absorber",
+    "created_at": "2023-02-20 10:46:06",
+    "updated_at": "2023-02-20 10:50:53"
+  },
+  {
+    "id": "394",
+    "bike_id": "543",
+    "suspension_front": "N/A",
+    "suspension_rear": "N/A",
+    "created_at": "2023-02-20 10:59:02",
+    "updated_at": "2023-02-20 11:17:44"
+  },
+  {
+    "id": "395",
+    "bike_id": "544",
+    "suspension_front": "N/A",
+    "suspension_rear": "N/A",
+    "created_at": "2023-02-20 11:02:24",
+    "updated_at": "2023-02-20 11:04:58"
+  },
+  {
+    "id": "396",
+    "bike_id": "545",
+    "suspension_front": "Hydraulic Telescopic front",
+    "suspension_rear": "Mono shock Hydraulic rear",
+    "created_at": "2023-02-20 11:22:20",
+    "updated_at": "2023-05-29 17:18:53"
+  },
+  {
+    "id": "397",
+    "bike_id": "546",
+    "suspension_front": "Hydraulic Telescopic front",
+    "suspension_rear": "Mono shock Hydraulic rear",
+    "created_at": "2023-02-20 11:28:46",
+    "updated_at": "2023-05-29 17:27:05"
+  },
+  {
+    "id": "398",
+    "bike_id": "547",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-02-20 11:40:05",
+    "updated_at": "2023-02-20 11:42:15"
+  },
+  {
+    "id": "399",
+    "bike_id": "548",
+    "suspension_front": "Telescopic upside-down",
+    "suspension_rear": "N/A",
+    "created_at": "2023-02-20 11:54:19",
+    "updated_at": "2023-02-20 12:00:42"
+  },
+  {
+    "id": "400",
+    "bike_id": "549",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Spring Adjustable",
+    "created_at": "2023-02-20 12:07:07",
+    "updated_at": "2023-02-20 12:11:49"
+  },
+  {
+    "id": "401",
+    "bike_id": "550",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Pre-Load adjustable dual shocks",
+    "created_at": "2023-02-20 12:15:50",
+    "updated_at": "2023-05-23 12:32:08"
+  },
+  {
+    "id": "402",
+    "bike_id": "551",
+    "suspension_front": "USD Fork",
+    "suspension_rear": "Adjustable monoshock",
+    "created_at": "2023-02-20 12:35:27",
+    "updated_at": "2023-02-20 12:40:25"
+  },
+  {
+    "id": "403",
+    "bike_id": "552",
+    "suspension_front": "Dia.30 Telescopic",
+    "suspension_rear": "5 step Adjustable Hydraulic shock Absorber",
+    "created_at": "2023-02-20 14:55:46",
+    "updated_at": "2023-02-20 15:00:34"
+  },
+  {
+    "id": "404",
+    "bike_id": "553",
+    "suspension_front": "Bottom link with spring-loaded hydraulic dampers",
+    "suspension_rear": "Swing Arm with spring-loaded hydraulic dampers",
+    "created_at": "2023-02-20 15:03:38",
+    "updated_at": "2023-02-20 15:07:57"
+  },
+  {
+    "id": "405",
+    "bike_id": "554",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-20 15:16:57",
+    "updated_at": "2023-02-20 15:22:41"
+  },
+  {
+    "id": "406",
+    "bike_id": "555",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-20 15:26:35",
+    "updated_at": "2023-02-20 15:31:35"
+  },
+  {
+    "id": "407",
+    "bike_id": "556",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-20 15:33:23",
+    "updated_at": "2023-02-20 15:37:40"
+  },
+  {
+    "id": "408",
+    "bike_id": "557",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-20 15:39:26",
+    "updated_at": "2023-02-20 15:44:22"
+  },
+  {
+    "id": "409",
+    "bike_id": "558",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-20 15:46:42",
+    "updated_at": "2023-02-20 16:01:39"
+  },
+  {
+    "id": "410",
+    "bike_id": "559",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-20 16:03:18",
+    "updated_at": "2023-02-20 16:08:17"
+  },
+  {
+    "id": "411",
+    "bike_id": "560",
+    "suspension_front": "Hydraulic Telescopic Suspension with Mono shocker",
+    "suspension_rear": "Hydraulic Telescopic Suspension with Mono shocker",
+    "created_at": "2023-02-20 16:13:06",
+    "updated_at": "2023-02-20 16:18:04"
+  },
+  {
+    "id": "412",
+    "bike_id": "561",
+    "suspension_front": "Hydraulic Telescopic Suspension with Mono shocker",
+    "suspension_rear": "Hydraulic Telescopic Suspension with Mono shocker",
+    "created_at": "2023-02-20 16:19:38",
+    "updated_at": "2023-02-20 16:22:59"
+  },
+  {
+    "id": "413",
+    "bike_id": "562",
+    "suspension_front": "Hydraulic Telescopic Suspension with Mono shocker",
+    "suspension_rear": "Hydraulic Telescopic Suspension with Mono shocker",
+    "created_at": "2023-02-20 16:24:49",
+    "updated_at": "2023-02-20 16:35:03"
+  },
+  {
+    "id": "414",
+    "bike_id": "563",
+    "suspension_front": "Hydraulic Telescopic Suspension with Mono shocker",
+    "suspension_rear": "Hydraulic Telescopic Suspension with Mono shocker",
+    "created_at": "2023-02-20 16:41:55",
+    "updated_at": "2023-02-20 16:48:01"
+  },
+  {
+    "id": "415",
+    "bike_id": "564",
+    "suspension_front": "Showa 43 mm Big Piston Seprate functions forks, with adjustable spring preload, compression and rebound damping",
+    "suspension_rear": "Showa 40 mm Piston, Piggy-back revservoir shock with adjustable spring preload, compression and rebound damping",
+    "created_at": "2023-02-20 17:15:41",
+    "updated_at": "2023-02-20 17:23:06"
+  },
+  {
+    "id": "416",
+    "bike_id": "565",
+    "suspension_front": "Showa 43 mm Big Piston Seprate functions forks, with adjustable spring preload, compression and rebound damping",
+    "suspension_rear": "Showa 40 mm Piston, Piggy-back revservoir shock with adjustable spring preload, compression and rebound damping",
+    "created_at": "2023-02-20 17:25:11",
+    "updated_at": "2023-02-20 17:31:50"
+  },
+  {
+    "id": "417",
+    "bike_id": "566",
+    "suspension_front": "Showa 43 mm Big Piston Seprate functions forks, with adjustable spring preload, compression and rebound damping",
+    "suspension_rear": "Showa 40 mm Piston, Piggy-back revservoir shock with adjustable spring preload, compression and rebound damping",
+    "created_at": "2023-02-20 17:43:19",
+    "updated_at": "2023-02-20 17:51:41"
+  },
+  {
+    "id": "418",
+    "bike_id": "567",
+    "suspension_front": "Showa 41 mm Big Piston Seprate functions forks, with adjustable spring preload, compression and rebound damping",
+    "suspension_rear": "Showa 40 mm Piston, Piggy-back revservoir shock with adjustable spring preload, compression and rebound damping",
+    "created_at": "2023-02-21 09:48:52",
+    "updated_at": "2023-02-21 09:54:59"
+  },
+  {
+    "id": "419",
+    "bike_id": "568",
+    "suspension_front": "Showa 41 mm Inverted cartridge forks with adjustable spring preload, compression and rebound damping",
+    "suspension_rear": "Showa 40 mm Piston, Piggy-back revservoir shock with adjustable spring preload, compression and rebound damping",
+    "created_at": "2023-02-21 09:57:06",
+    "updated_at": "2023-02-21 10:02:55"
+  },
+  {
+    "id": "420",
+    "bike_id": "569",
+    "suspension_front": "Showa 47 mm Seprated Function cartridge forks with adjustable spring preload, compression and rebound damping",
+    "suspension_rear": "Showa 46 mm Piston, Piggy-back revservoir shock with adjustable tool-less spring preload, compression and rebound damping",
+    "created_at": "2023-02-21 10:05:05",
+    "updated_at": "2023-02-21 10:10:58"
+  },
+  {
+    "id": "421",
+    "bike_id": "570",
+    "suspension_front": "Showa 41 mm Inverted cartridge forks with adjustable spring preload, compression and rebound damping",
+    "suspension_rear": "Showa 40 mm Piston, Piggy-back revservoir shock with adjustable spring preload, compression and rebound damping",
+    "created_at": "2023-02-21 10:13:34",
+    "updated_at": "2023-02-21 10:19:29"
+  },
+  {
+    "id": "422",
+    "bike_id": "571",
+    "suspension_front": "Showa 41 mm Inverted cartridge forks with adjustable spring preload, compression and rebound damping",
+    "suspension_rear": "Showa 41 mm Inverted cartridge forks with adjustable spring preload, compression and rebound damping",
+    "created_at": "2023-02-21 10:22:59",
+    "updated_at": "2023-02-21 10:33:14"
+  },
+  {
+    "id": "423",
+    "bike_id": "572",
+    "suspension_front": "Showa 41 mm Inverted cartridge forks with adjustable spring preload, compression and rebound damping",
+    "suspension_rear": "Showa 40 mm Piston, Piggy-back revservoir shock with adjustable spring preload, compression and rebound damping",
+    "created_at": "2023-02-21 10:36:36",
+    "updated_at": "2023-02-21 10:42:12"
+  },
+  {
+    "id": "424",
+    "bike_id": "573",
+    "suspension_front": "Dual telescopic",
+    "suspension_rear": "Dual Suspension",
+    "created_at": "2023-02-21 11:56:53",
+    "updated_at": "2023-02-21 12:05:37"
+  },
+  {
+    "id": "425",
+    "bike_id": "574",
+    "suspension_front": "100 mm Travel front suspension with lockout",
+    "suspension_rear": "Adjustable 20 mm travel",
+    "created_at": "2023-02-21 12:15:13",
+    "updated_at": "2023-02-21 12:20:56"
+  },
+  {
+    "id": "426",
+    "bike_id": "575",
+    "suspension_front": "100 mm Travel front suspension with lockout",
+    "suspension_rear": "Adjustable 20 mm travel",
+    "created_at": "2023-02-21 12:22:25",
+    "updated_at": "2023-02-21 12:26:54"
+  },
+  {
+    "id": "427",
+    "bike_id": "576",
+    "suspension_front": "90 mm Travel front suspension with lockout",
+    "suspension_rear": "N/A",
+    "created_at": "2023-02-21 12:28:13",
+    "updated_at": "2023-02-21 12:38:19"
+  },
+  {
+    "id": "428",
+    "bike_id": "577",
+    "suspension_front": "100 mm Travel with lockout",
+    "suspension_rear": "100 mm Travel with lockout",
+    "created_at": "2023-02-21 12:29:23",
+    "updated_at": "2023-02-21 12:44:14"
+  },
+  {
+    "id": "429",
+    "bike_id": "578",
+    "suspension_front": "N/A",
+    "suspension_rear": "N/A",
+    "created_at": "2023-02-21 12:30:40",
+    "updated_at": "2023-02-21 12:47:42"
+  },
+  {
+    "id": "430",
+    "bike_id": "579",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Telescopic",
+    "created_at": "2023-02-21 13:02:25",
+    "updated_at": "2023-02-21 13:31:30"
+  },
+  {
+    "id": "431",
+    "bike_id": "580",
+    "suspension_front": "Dual",
+    "suspension_rear": "Dual",
+    "created_at": "2023-02-21 13:05:08",
+    "updated_at": "2023-02-21 14:21:13"
+  },
+  {
+    "id": "432",
+    "bike_id": "581",
+    "suspension_front": "Dual",
+    "suspension_rear": "Dual",
+    "created_at": "2023-02-21 13:08:10",
+    "updated_at": "2023-02-21 14:25:43"
+  },
+  {
+    "id": "433",
+    "bike_id": "582",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-02-21 13:20:11",
+    "updated_at": "2023-02-21 16:49:23"
+  },
+  {
+    "id": "434",
+    "bike_id": "583",
+    "suspension_front": "Dual",
+    "suspension_rear": "Dual",
+    "created_at": "2023-02-21 13:26:37",
+    "updated_at": "2023-02-22 09:56:33"
+  },
+  {
+    "id": "435",
+    "bike_id": "584",
+    "suspension_front": "Dual telescopic",
+    "suspension_rear": "Dual Suspension",
+    "created_at": "2023-02-21 13:53:26",
+    "updated_at": "2023-02-22 10:04:01"
+  },
+  {
+    "id": "436",
+    "bike_id": "585",
+    "suspension_front": "Dual Suspension",
+    "suspension_rear": "Dual Suspension",
+    "created_at": "2023-02-22 10:25:56",
+    "updated_at": "2023-02-22 10:31:05"
+  },
+  {
+    "id": "437",
+    "bike_id": "586",
+    "suspension_front": "Dual Suspension",
+    "suspension_rear": "Dual Suspension",
+    "created_at": "2023-02-22 10:35:06",
+    "updated_at": "2023-02-22 10:39:07"
+  },
+  {
+    "id": "438",
+    "bike_id": "587",
+    "suspension_front": "Hydraulic Telescopic Suspension with Mono shocker",
+    "suspension_rear": "Hydraulic Telescopic Suspension with Mono shocker",
+    "created_at": "2023-02-22 10:50:06",
+    "updated_at": "2023-02-22 10:53:52"
+  },
+  {
+    "id": "439",
+    "bike_id": "588",
+    "suspension_front": "Dual telescopic",
+    "suspension_rear": "Dual Suspension",
+    "created_at": "2023-02-22 10:59:24",
+    "updated_at": "2023-02-22 11:04:17"
+  },
+  {
+    "id": "440",
+    "bike_id": "589",
+    "suspension_front": "Dual telescopic",
+    "suspension_rear": "Dual Suspension",
+    "created_at": "2023-02-22 11:23:53",
+    "updated_at": "2023-02-22 11:28:36"
+  },
+  {
+    "id": "441",
+    "bike_id": "590",
+    "suspension_front": "Dual Suspension",
+    "suspension_rear": "Dual Suspension",
+    "created_at": "2023-02-22 11:38:05",
+    "updated_at": "2023-02-22 12:02:18"
+  },
+  {
+    "id": "442",
+    "bike_id": "591",
+    "suspension_front": "Dual telescopic",
+    "suspension_rear": "Dual Suspension",
+    "created_at": "2023-02-22 11:40:33",
+    "updated_at": "2023-02-22 11:47:00"
+  },
+  {
+    "id": "443",
+    "bike_id": "592",
+    "suspension_front": "Dual telescopic",
+    "suspension_rear": "Dual Suspension",
+    "created_at": "2023-02-22 12:10:59",
+    "updated_at": "2023-02-22 12:16:02"
+  },
+  {
+    "id": "444",
+    "bike_id": "593",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Telescopic",
+    "created_at": "2023-02-22 12:13:14",
+    "updated_at": "2023-02-22 12:27:01"
+  },
+  {
+    "id": "445",
+    "bike_id": "594",
+    "suspension_front": "Telescopic USD Fork",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-02-22 12:20:40",
+    "updated_at": "2023-02-22 12:24:32"
+  },
+  {
+    "id": "446",
+    "bike_id": "595",
+    "suspension_front": "Dual telescopic",
+    "suspension_rear": "Dual Suspension",
+    "created_at": "2023-02-22 12:28:50",
+    "updated_at": "2023-02-22 12:34:52"
+  },
+  {
+    "id": "447",
+    "bike_id": "596",
+    "suspension_front": "Dual Telescopic",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-02-22 12:42:51",
+    "updated_at": "2023-02-22 12:49:07"
+  },
+  {
+    "id": "448",
+    "bike_id": "597",
+    "suspension_front": "Dual Telescopic",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-02-22 13:21:51",
+    "updated_at": "2023-02-22 13:26:28"
+  },
+  {
+    "id": "449",
+    "bike_id": "598",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-22 14:22:47",
+    "updated_at": "2023-02-22 14:30:37"
+  },
+  {
+    "id": "450",
+    "bike_id": "599",
+    "suspension_front": "N/A",
+    "suspension_rear": "N/A",
+    "created_at": "2023-02-22 14:33:00",
+    "updated_at": "2023-02-22 14:36:37"
+  },
+  {
+    "id": "451",
+    "bike_id": "600",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-22 14:38:16",
+    "updated_at": "2023-02-22 14:42:57"
+  },
+  {
+    "id": "452",
+    "bike_id": "601",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-22 14:50:12",
+    "updated_at": "2023-02-22 15:13:42"
+  },
+  {
+    "id": "453",
+    "bike_id": "602",
+    "suspension_front": "Telescopic Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-22 14:52:44",
+    "updated_at": "2023-02-22 15:21:08"
+  },
+  {
+    "id": "454",
+    "bike_id": "603",
+    "suspension_front": "N/A",
+    "suspension_rear": "N/A",
+    "created_at": "2023-02-22 15:29:38",
+    "updated_at": "2023-02-22 16:39:05"
+  },
+  {
+    "id": "455",
+    "bike_id": "604",
+    "suspension_front": "Upright Telescopic Forks",
+    "suspension_rear": "Hydraulic spring loaded shock absorber",
+    "created_at": "2023-02-22 16:54:22",
+    "updated_at": "2023-02-22 17:11:52"
+  },
+  {
+    "id": "456",
+    "bike_id": "605",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Hydrolic spring loaded shock",
+    "created_at": "2023-02-22 17:08:17",
+    "updated_at": "2023-02-22 17:23:17"
+  },
+  {
+    "id": "457",
+    "bike_id": "606",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Hydrolic spring loaded shock",
+    "created_at": "2023-02-22 17:14:01",
+    "updated_at": "2023-02-22 17:19:24"
+  },
+  {
+    "id": "458",
+    "bike_id": "607",
+    "suspension_front": "Telescopic, 31mm Conventional Fork",
+    "suspension_rear": "Twin Shock absorber, Gas filled with Canister",
+    "created_at": "2023-02-22 17:36:35",
+    "updated_at": "2023-02-22 17:42:33"
+  },
+  {
+    "id": "459",
+    "bike_id": "608",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-22 17:43:46",
+    "updated_at": "2023-02-22 17:43:46"
+  },
+  {
+    "id": "460",
+    "bike_id": "609",
+    "suspension_front": "Twin",
+    "suspension_rear": "Monocoil",
+    "created_at": "2023-02-23 10:09:53",
+    "updated_at": "2023-02-23 10:18:39"
+  },
+  {
+    "id": "461",
+    "bike_id": "610",
+    "suspension_front": "Twin",
+    "suspension_rear": "Monocoil",
+    "created_at": "2023-02-23 10:10:58",
+    "updated_at": "2023-02-23 10:22:27"
+  },
+  {
+    "id": "462",
+    "bike_id": "611",
+    "suspension_front": "Twin",
+    "suspension_rear": "Monocoil",
+    "created_at": "2023-02-23 10:27:37",
+    "updated_at": "2023-02-23 10:32:52"
+  },
+  {
+    "id": "463",
+    "bike_id": "612",
+    "suspension_front": "Twin",
+    "suspension_rear": "Monocoil",
+    "created_at": "2023-02-23 10:34:59",
+    "updated_at": "2023-02-23 10:43:04"
+  },
+  {
+    "id": "464",
+    "bike_id": "613",
+    "suspension_front": "Twin",
+    "suspension_rear": "Monocoil",
+    "created_at": "2023-02-23 10:46:32",
+    "updated_at": "2023-02-23 10:51:16"
+  },
+  {
+    "id": "465",
+    "bike_id": "614",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-23 10:53:32",
+    "updated_at": "2023-02-23 10:53:32"
+  },
+  {
+    "id": "466",
+    "bike_id": "615",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-23 10:59:43",
+    "updated_at": "2023-02-23 10:59:43"
+  },
+  {
+    "id": "467",
+    "bike_id": "616",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-23 11:19:00",
+    "updated_at": "2023-02-23 11:19:00"
+  },
+  {
+    "id": "468",
+    "bike_id": "617",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-02-23 11:22:15",
+    "updated_at": "2023-02-23 11:41:16"
+  },
+  {
+    "id": "469",
+    "bike_id": "618",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-23 11:26:00",
+    "updated_at": "2023-02-23 11:26:00"
+  },
+  {
+    "id": "470",
+    "bike_id": "619",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-23 11:40:42",
+    "updated_at": "2023-02-23 11:40:42"
+  },
+  {
+    "id": "471",
+    "bike_id": "620",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-23 11:48:55",
+    "updated_at": "2023-02-23 11:48:55"
+  },
+  {
+    "id": "472",
+    "bike_id": "621",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-23 12:02:20",
+    "updated_at": "2023-02-23 12:15:29"
+  },
+  {
+    "id": "473",
+    "bike_id": "622",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-23 12:18:33",
+    "updated_at": "2023-02-23 12:21:48"
+  },
+  {
+    "id": "474",
+    "bike_id": "623",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-23 12:26:24",
+    "updated_at": "2023-02-23 12:28:42"
+  },
+  {
+    "id": "475",
+    "bike_id": "624",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-23 12:30:35",
+    "updated_at": "2023-02-23 12:32:56"
+  },
+  {
+    "id": "476",
+    "bike_id": "625",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-23 12:34:22",
+    "updated_at": "2023-02-23 12:36:27"
+  },
+  {
+    "id": "477",
+    "bike_id": "626",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-23 12:45:26",
+    "updated_at": "2023-02-23 12:49:02"
+  },
+  {
+    "id": "478",
+    "bike_id": "627",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-23 12:51:18",
+    "updated_at": "2023-02-23 12:55:05"
+  },
+  {
+    "id": "479",
+    "bike_id": "628",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-23 12:56:44",
+    "updated_at": "2023-02-23 13:02:05"
+  },
+  {
+    "id": "480",
+    "bike_id": "629",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-23 13:03:38",
+    "updated_at": "2023-02-23 13:10:07"
+  },
+  {
+    "id": "481",
+    "bike_id": "630",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-23 13:12:36",
+    "updated_at": "2023-02-23 13:15:12"
+  },
+  {
+    "id": "482",
+    "bike_id": "631",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-23 13:16:38",
+    "updated_at": "2023-02-23 13:21:17"
+  },
+  {
+    "id": "483",
+    "bike_id": "632",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-23 13:22:48",
+    "updated_at": "2023-02-23 13:25:23"
+  },
+  {
+    "id": "484",
+    "bike_id": "633",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-23 13:27:06",
+    "updated_at": "2023-02-23 13:29:14"
+  },
+  {
+    "id": "485",
+    "bike_id": "634",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-23 14:30:16",
+    "updated_at": "2023-02-23 14:41:32"
+  },
+  {
+    "id": "486",
+    "bike_id": "635",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-02-23 14:43:28",
+    "updated_at": "2023-02-23 14:48:04"
+  },
+  {
+    "id": "487",
+    "bike_id": "636",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-23 15:03:00",
+    "updated_at": "2023-02-23 15:03:00"
+  },
+  {
+    "id": "488",
+    "bike_id": "637",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-23 15:04:45",
+    "updated_at": "2023-02-23 15:04:45"
+  },
+  {
+    "id": "489",
+    "bike_id": "638",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-23 15:06:16",
+    "updated_at": "2023-02-23 15:06:16"
+  },
+  {
+    "id": "490",
+    "bike_id": "639",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-23 15:07:51",
+    "updated_at": "2023-02-23 15:07:51"
+  },
+  {
+    "id": "491",
+    "bike_id": "640",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-23 15:37:07",
+    "updated_at": "2023-02-23 15:37:07"
+  },
+  {
+    "id": "492",
+    "bike_id": "641",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-23 15:55:21",
+    "updated_at": "2023-02-23 15:55:21"
+  },
+  {
+    "id": "493",
+    "bike_id": "642",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-23 16:07:09",
+    "updated_at": "2023-02-23 16:07:09"
+  },
+  {
+    "id": "494",
+    "bike_id": "643",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-23 16:14:52",
+    "updated_at": "2023-02-23 16:14:52"
+  },
+  {
+    "id": "495",
+    "bike_id": "644",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Telescopic",
+    "created_at": "2023-02-23 16:36:20",
+    "updated_at": "2023-02-23 16:42:34"
+  },
+  {
+    "id": "496",
+    "bike_id": "645",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-23 16:45:34",
+    "updated_at": "2023-02-23 16:45:34"
+  },
+  {
+    "id": "497",
+    "bike_id": "646",
+    "suspension_front": "Telescopic Fork / 119 mm",
+    "suspension_rear": "Single Shock w/Air adjust / 114mm / 45.7mm ride in",
+    "created_at": "2023-02-24 10:42:05",
+    "updated_at": "2023-02-24 11:49:52"
+  },
+  {
+    "id": "498",
+    "bike_id": "647",
+    "suspension_front": "Telescopic Fork / 119 mm",
+    "suspension_rear": "Single Shock w/Air adjust / 114mm / 63mm ride in",
+    "created_at": "2023-02-24 10:47:11",
+    "updated_at": "2023-02-24 11:55:41"
+  },
+  {
+    "id": "499",
+    "bike_id": "648",
+    "suspension_front": "Inverted Telescopic Fork/ 130mm",
+    "suspension_rear": "Fox Single Shock w/Hyd adjust / 114mm",
+    "created_at": "2023-02-24 10:49:48",
+    "updated_at": "2023-02-24 12:00:29"
+  },
+  {
+    "id": "500",
+    "bike_id": "649",
+    "suspension_front": "Inverted Telescopic Fork/ 130mm",
+    "suspension_rear": "Fox Single Shock w/Hyd adjust / 114mm",
+    "created_at": "2023-02-24 10:51:34",
+    "updated_at": "2023-02-24 12:05:38"
+  },
+  {
+    "id": "501",
+    "bike_id": "650",
+    "suspension_front": "Telescopic Fork / 119 mm",
+    "suspension_rear": "Single Shock w/ Air Adjust / 114 mm / 63 mm ride in",
+    "created_at": "2023-02-24 10:53:41",
+    "updated_at": "2023-02-24 12:11:24"
+  },
+  {
+    "id": "502",
+    "bike_id": "651",
+    "suspension_front": "Telescopic Fork / 119 mm",
+    "suspension_rear": "Single Shock w/ Air Adjust / 114 mm / 63 mm ride in",
+    "created_at": "2023-02-24 10:59:35",
+    "updated_at": "2023-02-24 12:18:27"
+  },
+  {
+    "id": "503",
+    "bike_id": "652",
+    "suspension_front": "Telescopic Fork / 119 mm",
+    "suspension_rear": "Single Shock w/ Air Adjust / 114 mm / 63 mm ride in",
+    "created_at": "2023-02-24 11:01:57",
+    "updated_at": "2023-02-24 12:24:58"
+  },
+  {
+    "id": "504",
+    "bike_id": "653",
+    "suspension_front": "Telescopic Fork / 119 mm",
+    "suspension_rear": "Single Shock w/Air adjust / 114mm / 45.7mm ride in",
+    "created_at": "2023-02-24 11:03:34",
+    "updated_at": "2023-02-24 12:45:21"
+  },
+  {
+    "id": "505",
+    "bike_id": "654",
+    "suspension_front": "Ohlins Fully Adjustable Inverted Telescopic Cartridge",
+    "suspension_rear": "Ohlins Fully Adjustable Piggyback IFP / 120mm",
+    "created_at": "2023-02-24 11:09:44",
+    "updated_at": "2023-02-24 12:52:40"
+  },
+  {
+    "id": "506",
+    "bike_id": "655",
+    "suspension_front": "ZF Sachs Fully Adjustable Inverted Telescopic Cartridge Fork",
+    "suspension_rear": "ZF Sachs Fully Adjustable Piggyback 120 mm\\",
+    "created_at": "2023-02-24 11:21:44",
+    "updated_at": "2023-02-24 12:57:56"
+  },
+  {
+    "id": "507",
+    "bike_id": "656",
+    "suspension_front": "Inverted Telescopic Cartridge Fork",
+    "suspension_rear": "ZF Sachs Fully Adjustable Piggyback IFP",
+    "created_at": "2023-02-24 11:25:55",
+    "updated_at": "2023-02-24 13:03:09"
+  },
+  {
+    "id": "508",
+    "bike_id": "657",
+    "suspension_front": "ZF Sachs Fully Adjustable Inverted Telescopic Cartridge Fork",
+    "suspension_rear": "ZF Sachs Fully Adjustable Piggyback IFP / 120mm",
+    "created_at": "2023-02-24 11:28:27",
+    "updated_at": "2023-02-24 13:12:13"
+  },
+  {
+    "id": "509",
+    "bike_id": "658",
+    "suspension_front": "Telescopic Fork/120 mm",
+    "suspension_rear": "Dual Shocl/51mm",
+    "created_at": "2023-02-24 11:31:23",
+    "updated_at": "2023-02-24 13:17:18"
+  },
+  {
+    "id": "510",
+    "bike_id": "659",
+    "suspension_front": "Telescopic Fork/120 mm",
+    "suspension_rear": "Dual Shocl/51mm",
+    "created_at": "2023-02-24 11:33:27",
+    "updated_at": "2023-02-24 13:21:50"
+  },
+  {
+    "id": "511",
+    "bike_id": "660",
+    "suspension_front": "Telescopic Fork/120 mm",
+    "suspension_rear": "Dual Shocl/51mm",
+    "created_at": "2023-02-24 11:36:02",
+    "updated_at": "2023-02-24 13:25:55"
+  },
+  {
+    "id": "512",
+    "bike_id": "661",
+    "suspension_front": "Telescopic Fork/120 mm",
+    "suspension_rear": "Dual Shocl/76mm",
+    "created_at": "2023-02-24 11:39:08",
+    "updated_at": "2023-02-24 13:29:55"
+  },
+  {
+    "id": "513",
+    "bike_id": "662",
+    "suspension_front": "Hydraulic telescopic",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-02-24 14:36:25",
+    "updated_at": "2023-02-24 14:40:08"
+  },
+  {
+    "id": "514",
+    "bike_id": "663",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Telescopic coil spring oil damped",
+    "created_at": "2023-02-24 14:45:38",
+    "updated_at": "2023-02-24 14:55:28"
+  },
+  {
+    "id": "515",
+    "bike_id": "664",
+    "suspension_front": "Telescopic upside-down",
+    "suspension_rear": "Telescopic coil spring oil damped",
+    "created_at": "2023-02-24 14:49:41",
+    "updated_at": "2023-02-24 14:59:01"
+  },
+  {
+    "id": "516",
+    "bike_id": "665",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Telescopic coil spring oil damped",
+    "created_at": "2023-02-24 14:52:14",
+    "updated_at": "2023-02-24 15:01:49"
+  },
+  {
+    "id": "517",
+    "bike_id": "666",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-24 15:07:31",
+    "updated_at": "2023-02-24 15:07:31"
+  },
+  {
+    "id": "518",
+    "bike_id": "667",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-24 15:21:33",
+    "updated_at": "2023-02-24 15:21:33"
+  },
+  {
+    "id": "519",
+    "bike_id": "668",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-24 15:24:44",
+    "updated_at": "2023-02-24 15:24:44"
+  },
+  {
+    "id": "520",
+    "bike_id": "669",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-24 15:27:43",
+    "updated_at": "2023-02-24 15:27:43"
+  },
+  {
+    "id": "521",
+    "bike_id": "670",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-24 15:30:52",
+    "updated_at": "2023-02-24 15:30:52"
+  },
+  {
+    "id": "522",
+    "bike_id": "671",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-02-24 15:37:14",
+    "updated_at": "2023-02-24 15:39:37"
+  },
+  {
+    "id": "523",
+    "bike_id": "672",
+    "suspension_front": "Dual Suspension",
+    "suspension_rear": "Dual Suspension",
+    "created_at": "2023-02-25 10:48:38",
+    "updated_at": "2023-02-25 10:51:44"
+  },
+  {
+    "id": "524",
+    "bike_id": "673",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "MonoShock",
+    "created_at": "2023-02-25 11:32:18",
+    "updated_at": "2023-02-25 11:43:35"
+  },
+  {
+    "id": "525",
+    "bike_id": "674",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-25 11:33:34",
+    "updated_at": "2023-02-25 11:33:34"
+  },
+  {
+    "id": "526",
+    "bike_id": "675",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Dual",
+    "created_at": "2023-02-25 11:58:34",
+    "updated_at": "2023-02-25 12:06:17"
+  },
+  {
+    "id": "527",
+    "bike_id": "676",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Mono",
+    "created_at": "2023-02-25 12:00:06",
+    "updated_at": "2023-02-25 12:13:04"
+  },
+  {
+    "id": "528",
+    "bike_id": "677",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Mono",
+    "created_at": "2023-02-25 12:00:49",
+    "updated_at": "2023-02-25 12:18:19"
+  },
+  {
+    "id": "529",
+    "bike_id": "678",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-25 14:38:41",
+    "updated_at": "2023-02-25 14:38:41"
+  },
+  {
+    "id": "530",
+    "bike_id": "679",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-25 14:39:43",
+    "updated_at": "2023-02-25 14:39:43"
+  },
+  {
+    "id": "531",
+    "bike_id": "680",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Hydraulic Spring",
+    "created_at": "2023-02-25 14:41:00",
+    "updated_at": "2023-02-25 14:52:58"
+  },
+  {
+    "id": "532",
+    "bike_id": "681",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-25 14:42:19",
+    "updated_at": "2023-02-25 14:42:19"
+  },
+  {
+    "id": "533",
+    "bike_id": "682",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Telescopic",
+    "created_at": "2023-02-25 16:02:11",
+    "updated_at": "2023-02-25 16:13:24"
+  },
+  {
+    "id": "534",
+    "bike_id": "683",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Telescopic",
+    "created_at": "2023-02-25 16:03:46",
+    "updated_at": "2023-02-25 16:16:02"
+  },
+  {
+    "id": "535",
+    "bike_id": "684",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic Telescopic",
+    "created_at": "2023-02-25 16:05:04",
+    "updated_at": "2023-02-25 16:19:07"
+  },
+  {
+    "id": "536",
+    "bike_id": "685",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Telescopic Shocker",
+    "created_at": "2023-02-25 16:06:08",
+    "updated_at": "2023-02-25 16:22:14"
+  },
+  {
+    "id": "537",
+    "bike_id": "686",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Telescopic",
+    "created_at": "2023-02-25 16:07:13",
+    "updated_at": "2023-02-25 16:25:07"
+  },
+  {
+    "id": "538",
+    "bike_id": "687",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-25 16:08:05",
+    "updated_at": "2023-02-25 16:08:05"
+  },
+  {
+    "id": "539",
+    "bike_id": "688",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-02-25 16:09:05",
+    "updated_at": "2023-02-25 16:09:05"
+  },
+  {
+    "id": "540",
+    "bike_id": "689",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Telescopic",
+    "created_at": "2023-02-25 16:10:19",
+    "updated_at": "2023-02-25 16:34:09"
+  },
+  {
+    "id": "541",
+    "bike_id": "690",
+    "suspension_front": "Telescopic, coil spring, oil damped",
+    "suspension_rear": "Link type, single shock, coil spring, oil damped",
+    "created_at": "2023-02-28 10:20:14",
+    "updated_at": "2023-02-28 11:19:52"
+  },
+  {
+    "id": "542",
+    "bike_id": "691",
+    "suspension_front": "telescopic",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-02-28 10:23:02",
+    "updated_at": "2023-02-28 11:23:03"
+  },
+  {
+    "id": "543",
+    "bike_id": "692",
+    "suspension_front": "Telescopic fork",
+    "suspension_rear": "Twin shock adjustable",
+    "created_at": "2023-02-28 10:25:07",
+    "updated_at": "2023-02-28 11:33:00"
+  },
+  {
+    "id": "544",
+    "bike_id": "693",
+    "suspension_front": "41 mm Inverted Telescopic Forks",
+    "suspension_rear": "Rear Swing Arm with Central Shock Absorber",
+    "created_at": "2023-02-28 10:29:09",
+    "updated_at": "2023-02-28 11:37:57"
+  },
+  {
+    "id": "545",
+    "bike_id": "694",
+    "suspension_front": "Inverted telescopic, coil spring oil damped",
+    "suspension_rear": "Link type, coil spring, oil damped",
+    "created_at": "2023-02-28 10:31:58",
+    "updated_at": "2023-02-28 11:42:34"
+  },
+  {
+    "id": "546",
+    "bike_id": "695",
+    "suspension_front": "37mm Upside-Down Forks",
+    "suspension_rear": "Pre-Load Adjustable Monoshock",
+    "created_at": "2023-02-28 10:36:31",
+    "updated_at": "2023-05-23 12:39:22"
+  },
+  {
+    "id": "547",
+    "bike_id": "696",
+    "suspension_front": "KYB inverted forks, adjustable by preload 120 mm",
+    "suspension_rear": "Mono-shock Absorber KYB Pro-Link, adjustable preload 90 mm",
+    "created_at": "2023-02-28 10:40:31",
+    "updated_at": "2023-02-28 11:59:54"
+  },
+  {
+    "id": "548",
+    "bike_id": "697",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Telescopic Coil Spring Oil Damped",
+    "created_at": "2023-02-28 10:43:57",
+    "updated_at": "2023-02-28 12:04:34"
+  },
+  {
+    "id": "549",
+    "bike_id": "698",
+    "suspension_front": "Telescopic Upside-Down",
+    "suspension_rear": "Telescopic coil spring oil damped",
+    "created_at": "2023-02-28 10:45:52",
+    "updated_at": "2023-02-28 12:07:58"
+  },
+  {
+    "id": "550",
+    "bike_id": "699",
+    "suspension_front": "telescopic fork",
+    "suspension_rear": "monoshock",
+    "created_at": "2023-02-28 10:47:55",
+    "updated_at": "2023-02-28 12:11:33"
+  },
+  {
+    "id": "551",
+    "bike_id": "700",
+    "suspension_front": "telescopic fork",
+    "suspension_rear": "monoshock",
+    "created_at": "2023-02-28 10:53:40",
+    "updated_at": "2023-02-28 12:14:54"
+  },
+  {
+    "id": "552",
+    "bike_id": "701",
+    "suspension_front": "USD fork",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-02-28 11:00:53",
+    "updated_at": "2023-02-28 12:35:08"
+  },
+  {
+    "id": "553",
+    "bike_id": "702",
+    "suspension_front": "Inverted telescopic, coil spring, oil damped",
+    "suspension_rear": "Link-type, coil spring, oil damped",
+    "created_at": "2023-02-28 11:12:53",
+    "updated_at": "2023-02-28 11:47:46"
+  },
+  {
+    "id": "555",
+    "bike_id": "704",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-02-28 13:11:01",
+    "updated_at": "2023-02-28 13:24:35"
+  },
+  {
+    "id": "556",
+    "bike_id": "705",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-02-28 13:12:20",
+    "updated_at": "2023-02-28 13:31:02"
+  },
+  {
+    "id": "557",
+    "bike_id": "706",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Spring Loaded",
+    "created_at": "2023-03-01 10:06:46",
+    "updated_at": "2023-03-01 11:22:20"
+  },
+  {
+    "id": "558",
+    "bike_id": "707",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "4 Spring loaded Hydraulic",
+    "created_at": "2023-03-01 10:11:08",
+    "updated_at": "2023-03-01 11:18:26"
+  },
+  {
+    "id": "559",
+    "bike_id": "708",
+    "suspension_front": "Telescopic Dual suspension",
+    "suspension_rear": "Coiled Spring Dual Suspension",
+    "created_at": "2023-03-01 10:14:55",
+    "updated_at": "2023-03-01 11:05:37"
+  },
+  {
+    "id": "560",
+    "bike_id": "709",
+    "suspension_front": "Telescopic fork",
+    "suspension_rear": "Monoshock absorber",
+    "created_at": "2023-03-01 10:23:31",
+    "updated_at": "2023-03-01 10:59:05"
+  },
+  {
+    "id": "561",
+    "bike_id": "710",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-03-01 10:36:55",
+    "updated_at": "2023-03-01 10:51:39"
+  },
+  {
+    "id": "562",
+    "bike_id": "711",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-01 10:41:13",
+    "updated_at": "2023-03-01 10:41:13"
+  },
+  {
+    "id": "563",
+    "bike_id": "712",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-01 11:25:25",
+    "updated_at": "2023-03-01 11:25:25"
+  },
+  {
+    "id": "564",
+    "bike_id": "713",
+    "suspension_front": "Dual Suspension",
+    "suspension_rear": "Dual Suspension",
+    "created_at": "2023-03-01 11:45:06",
+    "updated_at": "2023-03-01 11:50:51"
+  },
+  {
+    "id": "565",
+    "bike_id": "714",
+    "suspension_front": "3 stage air springs with individual setup for ride heights and bottoming resistance",
+    "suspension_rear": "205mm Öhlins TTX22 shock with CAKE internals and spring. Used with linkage for optimal performance.",
+    "created_at": "2023-03-01 12:09:07",
+    "updated_at": "2023-03-01 12:18:57"
+  },
+  {
+    "id": "566",
+    "bike_id": "715",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-03-01 12:24:21",
+    "updated_at": "2023-03-01 12:33:37"
+  },
+  {
+    "id": "567",
+    "bike_id": "716",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-03-01 12:27:53",
+    "updated_at": "2023-03-01 12:43:00"
+  },
+  {
+    "id": "568",
+    "bike_id": "717",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Telescopic coil spring oil damped",
+    "created_at": "2023-03-01 12:45:53",
+    "updated_at": "2023-03-01 12:57:54"
+  },
+  {
+    "id": "569",
+    "bike_id": "718",
+    "suspension_front": "Dual Suspension",
+    "suspension_rear": "Dual Suspension",
+    "created_at": "2023-03-01 13:04:40",
+    "updated_at": "2023-03-01 13:09:21"
+  },
+  {
+    "id": "570",
+    "bike_id": "719",
+    "suspension_front": "Dual Suspension",
+    "suspension_rear": "Dual Suspension",
+    "created_at": "2023-03-01 13:11:40",
+    "updated_at": "2023-03-01 13:14:28"
+  },
+  {
+    "id": "571",
+    "bike_id": "720",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-01 13:22:55",
+    "updated_at": "2023-03-01 13:22:55"
+  },
+  {
+    "id": "572",
+    "bike_id": "721",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-03-01 13:28:47",
+    "updated_at": "2023-03-01 14:34:09"
+  },
+  {
+    "id": "573",
+    "bike_id": "722",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "3-Step Adjustable Spring Loaded Hydraulic",
+    "created_at": "2023-03-02 14:36:23",
+    "updated_at": "2023-03-02 14:48:11"
+  },
+  {
+    "id": "574",
+    "bike_id": "723",
+    "suspension_front": "37mm Inverted SFF-BP Fork with Adjustable Preload and Top-out Springs",
+    "suspension_rear": "Adjustable Monoshock, Horizontal Back-Link, Gas-Charged Shock with Spring Preload Adjustability",
+    "created_at": "2023-03-02 15:48:10",
+    "updated_at": "2023-03-02 15:59:07"
+  },
+  {
+    "id": "575",
+    "bike_id": "724",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-02 15:53:14",
+    "updated_at": "2023-03-02 15:53:14"
+  },
+  {
+    "id": "576",
+    "bike_id": "725",
+    "suspension_front": "Showa Big Piston fork",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-03-02 16:07:13",
+    "updated_at": "2023-03-02 16:10:25"
+  },
+  {
+    "id": "577",
+    "bike_id": "726",
+    "suspension_front": "WP semi-active suspension USD Ø 48 mm (GEN.2)",
+    "suspension_rear": "WP semi-active rear shock (GEN.2)",
+    "created_at": "2023-03-02 16:16:18",
+    "updated_at": "2023-03-02 16:19:46"
+  },
+  {
+    "id": "578",
+    "bike_id": "727",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Swing Arm with Single Shock Absorber",
+    "created_at": "2023-03-02 16:22:51",
+    "updated_at": "2023-03-02 16:38:29"
+  },
+  {
+    "id": "579",
+    "bike_id": "728",
+    "suspension_front": "Fully adjustable USD Fork",
+    "suspension_rear": "Fully Adjustable monoshock, aluminium Single-sided  Swingarm",
+    "created_at": "2023-03-03 10:37:22",
+    "updated_at": "2023-03-03 11:05:58"
+  },
+  {
+    "id": "580",
+    "bike_id": "729",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-03 10:40:06",
+    "updated_at": "2023-03-03 10:40:06"
+  },
+  {
+    "id": "581",
+    "bike_id": "730",
+    "suspension_front": "telescopic front forks",
+    "suspension_rear": "dual rear shocks",
+    "created_at": "2023-03-03 10:44:45",
+    "updated_at": "2023-03-03 11:30:06"
+  },
+  {
+    "id": "582",
+    "bike_id": "731",
+    "suspension_front": "Telescopic front forks",
+    "suspension_rear": "Dual rear shocks",
+    "created_at": "2023-03-03 10:47:25",
+    "updated_at": "2023-03-03 11:38:56"
+  },
+  {
+    "id": "583",
+    "bike_id": "732",
+    "suspension_front": "Fully adjustable  usd forks",
+    "suspension_rear": "Fully Adjustable Monoshock",
+    "created_at": "2023-03-03 10:53:10",
+    "updated_at": "2023-03-03 11:49:27"
+  },
+  {
+    "id": "584",
+    "bike_id": "733",
+    "suspension_front": "37 mm Upside Down Telescopic Front Forks",
+    "suspension_rear": "Linked Type Monocross Suspension with Adjustable Preload",
+    "created_at": "2023-03-03 10:58:41",
+    "updated_at": "2023-03-03 11:55:33"
+  },
+  {
+    "id": "585",
+    "bike_id": "734",
+    "suspension_front": "Hydraulic telescopic fork with straight stanchions",
+    "suspension_rear": "Hydraulic single shock absorber w. spring preload",
+    "created_at": "2023-03-03 12:26:33",
+    "updated_at": "2023-03-03 12:30:53"
+  },
+  {
+    "id": "586",
+    "bike_id": "735",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Twin Suspension",
+    "created_at": "2023-03-03 12:41:43",
+    "updated_at": "2023-03-03 12:47:26"
+  },
+  {
+    "id": "587",
+    "bike_id": "736",
+    "suspension_front": "Front telescopic",
+    "suspension_rear": "Adjustable rear coil spring",
+    "created_at": "2023-03-06 10:09:45",
+    "updated_at": "2023-03-06 10:16:18"
+  },
+  {
+    "id": "588",
+    "bike_id": "737",
+    "suspension_front": "Telescopic, with anti-friction bush",
+    "suspension_rear": "5 way adjustable, Nitrox shock absorber",
+    "created_at": "2023-03-06 10:19:49",
+    "updated_at": "2023-03-06 10:24:47"
+  },
+  {
+    "id": "589",
+    "bike_id": "738",
+    "suspension_front": "Φ37 Inverted hydraulic damping shock absorber",
+    "suspension_rear": "Center shock",
+    "created_at": "2023-03-06 10:29:02",
+    "updated_at": "2023-03-06 10:36:15"
+  },
+  {
+    "id": "590",
+    "bike_id": "739",
+    "suspension_front": "Telescopic fork",
+    "suspension_rear": "monoshock",
+    "created_at": "2023-03-06 10:46:54",
+    "updated_at": "2023-03-06 10:58:58"
+  },
+  {
+    "id": "591",
+    "bike_id": "740",
+    "suspension_front": "Telescopic Fork 41 mm",
+    "suspension_rear": "Suspension Monocross",
+    "created_at": "2023-03-06 11:01:51",
+    "updated_at": "2023-03-06 11:09:59"
+  },
+  {
+    "id": "592",
+    "bike_id": "741",
+    "suspension_front": "Upside down telescopic fork, fully adjustable in preload, damping in compression and rebound",
+    "suspension_rear": "Single shock absorber adjustable in preload and rebound damping",
+    "created_at": "2023-03-06 11:17:18",
+    "updated_at": "2023-03-06 11:40:14"
+  },
+  {
+    "id": "593",
+    "bike_id": "742",
+    "suspension_front": "Inverted front forks 140 mm",
+    "suspension_rear": "Horizontally mounted monoshock",
+    "created_at": "2023-03-06 12:04:48",
+    "updated_at": "2023-03-06 12:17:36"
+  },
+  {
+    "id": "594",
+    "bike_id": "743",
+    "suspension_front": "Telescopic upside Down Fork (USD Fork)",
+    "suspension_rear": "Linked-Type Monocross Suspension",
+    "created_at": "2023-03-06 12:20:27",
+    "updated_at": "2023-03-06 12:36:59"
+  },
+  {
+    "id": "595",
+    "bike_id": "744",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-06 12:46:10",
+    "updated_at": "2023-03-06 12:46:10"
+  },
+  {
+    "id": "596",
+    "bike_id": "745",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-06 13:00:45",
+    "updated_at": "2023-03-06 13:00:45"
+  },
+  {
+    "id": "597",
+    "bike_id": "746",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Twin Tube",
+    "created_at": "2023-03-06 13:18:00",
+    "updated_at": "2023-03-06 13:26:01"
+  },
+  {
+    "id": "598",
+    "bike_id": "747",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Spring Loaded hydraulic Shock Absorber",
+    "created_at": "2023-03-06 14:22:16",
+    "updated_at": "2023-03-06 14:27:17"
+  },
+  {
+    "id": "599",
+    "bike_id": "748",
+    "suspension_front": "Telescopic Suspension with Hydraulic Dampers",
+    "suspension_rear": "Coil spring with Twin Hydraulic Dampers",
+    "created_at": "2023-03-06 14:34:54",
+    "updated_at": "2023-03-06 14:42:11"
+  },
+  {
+    "id": "600",
+    "bike_id": "749",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-03-06 14:48:31",
+    "updated_at": "2023-03-06 14:55:11"
+  },
+  {
+    "id": "601",
+    "bike_id": "750",
+    "suspension_front": "Telescopic, 35 mm forks, 130 mm travel",
+    "suspension_rear": "Twin gas charged shock absorbers with 5-step adjustable preload, 80 mm travel",
+    "created_at": "2023-03-08 14:47:04",
+    "updated_at": "2023-08-18 12:16:30"
+  },
+  {
+    "id": "602",
+    "bike_id": "751",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-08 15:01:10",
+    "updated_at": "2023-03-08 15:01:10"
+  },
+  {
+    "id": "603",
+    "bike_id": "752",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-08 15:19:09",
+    "updated_at": "2023-03-08 15:19:09"
+  },
+  {
+    "id": "604",
+    "bike_id": "753",
+    "suspension_front": "Telescopic (31 mm)",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-03-08 15:31:23",
+    "updated_at": "2023-03-08 15:40:45"
+  },
+  {
+    "id": "605",
+    "bike_id": "754",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-08 16:19:42",
+    "updated_at": "2023-03-08 16:19:42"
+  },
+  {
+    "id": "606",
+    "bike_id": "755",
+    "suspension_front": "Telescopic forks",
+    "suspension_rear": "Showa twin shock",
+    "created_at": "2023-03-08 16:26:32",
+    "updated_at": "2023-03-08 16:42:52"
+  },
+  {
+    "id": "607",
+    "bike_id": "756",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Unit swing type",
+    "created_at": "2023-03-08 16:46:15",
+    "updated_at": "2023-03-08 16:53:26"
+  },
+  {
+    "id": "608",
+    "bike_id": "757",
+    "suspension_front": "Showa 43mm SFF-CA USD, 200mm travel",
+    "suspension_rear": "Separate pressure, Pro-Link swingarm, 190mm travel",
+    "created_at": "2023-03-08 16:57:25",
+    "updated_at": "2023-03-08 17:05:11"
+  },
+  {
+    "id": "609",
+    "bike_id": "758",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Uni-Trak Swingarm",
+    "created_at": "2023-03-08 17:08:28",
+    "updated_at": "2023-03-08 17:15:33"
+  },
+  {
+    "id": "610",
+    "bike_id": "759",
+    "suspension_front": "Inverted Telescopic, Air Spring, Oil Damped",
+    "suspension_rear": "Link type, Coil Spring, Oil Damped",
+    "created_at": "2023-03-08 17:20:11",
+    "updated_at": "2023-03-08 17:26:06"
+  },
+  {
+    "id": "611",
+    "bike_id": "760",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Unit Swing Arm",
+    "created_at": "2023-03-09 10:02:48",
+    "updated_at": "2023-03-09 10:09:21"
+  },
+  {
+    "id": "612",
+    "bike_id": "761",
+    "suspension_front": "43mm inverted fork; 9.3-inch travel",
+    "suspension_rear": "Pro-Link® single shock with adjustable spring preload; 9.0-inch travel ",
+    "created_at": "2023-03-09 10:14:23",
+    "updated_at": "2023-03-09 10:23:38"
+  },
+  {
+    "id": "613",
+    "bike_id": "762",
+    "suspension_front": "31mm telescopic fork; 7.1-inch travel ",
+    "suspension_rear": "Pro-Link® single shock with adjustable spring preload; 5.9-inch travel ",
+    "created_at": "2023-03-09 10:35:17",
+    "updated_at": "2023-03-09 10:41:55"
+  },
+  {
+    "id": "614",
+    "bike_id": "763",
+    "suspension_front": "WP Semi-active suspension USD Ø 48 mm",
+    "suspension_rear": "WP Semi-active suspension monoshock",
+    "created_at": "2023-03-09 10:57:01",
+    "updated_at": "2023-03-09 11:04:39"
+  },
+  {
+    "id": "615",
+    "bike_id": "764",
+    "suspension_front": "Telescopic fork",
+    "suspension_rear": "Single shock absorber",
+    "created_at": "2023-03-09 11:46:21",
+    "updated_at": "2023-03-09 12:16:48"
+  },
+  {
+    "id": "616",
+    "bike_id": "765",
+    "suspension_front": "Telescopic",
+    "suspension_rear": null,
+    "created_at": "2023-03-10 16:44:01",
+    "updated_at": "2023-03-10 17:09:04"
+  },
+  {
+    "id": "617",
+    "bike_id": "766",
+    "suspension_front": "Telescopic",
+    "suspension_rear": null,
+    "created_at": "2023-03-10 16:45:39",
+    "updated_at": "2023-03-10 17:17:24"
+  },
+  {
+    "id": "618",
+    "bike_id": "767",
+    "suspension_front": "Telescopic Hydraulic",
+    "suspension_rear": null,
+    "created_at": "2023-03-10 16:49:19",
+    "updated_at": "2023-03-10 17:23:58"
+  },
+  {
+    "id": "619",
+    "bike_id": "768",
+    "suspension_front": "Telescopic",
+    "suspension_rear": null,
+    "created_at": "2023-03-10 16:52:37",
+    "updated_at": "2023-03-10 17:30:52"
+  },
+  {
+    "id": "620",
+    "bike_id": "769",
+    "suspension_front": "Telescopic Hydraulic",
+    "suspension_rear": null,
+    "created_at": "2023-03-10 16:54:11",
+    "updated_at": "2023-03-10 17:37:37"
+  },
+  {
+    "id": "621",
+    "bike_id": "770",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-11 12:03:51",
+    "updated_at": "2023-03-11 12:03:51"
+  },
+  {
+    "id": "622",
+    "bike_id": "771",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-11 12:15:38",
+    "updated_at": "2023-03-11 12:15:38"
+  },
+  {
+    "id": "623",
+    "bike_id": "772",
+    "suspension_front": "Telescopic Hydraulic",
+    "suspension_rear": null,
+    "created_at": "2023-03-11 16:52:21",
+    "updated_at": "2023-03-11 16:58:26"
+  },
+  {
+    "id": "624",
+    "bike_id": "773",
+    "suspension_front": "Hydraulic Telescopic",
+    "suspension_rear": "Double Hydraulic Spring - 4 Step Adjustable",
+    "created_at": "2023-03-13 10:18:11",
+    "updated_at": "2023-07-05 11:16:06"
+  },
+  {
+    "id": "625",
+    "bike_id": "774",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-14 10:07:25",
+    "updated_at": "2023-03-14 10:07:25"
+  },
+  {
+    "id": "626",
+    "bike_id": "775",
+    "suspension_front": "Telescopic Forks",
+    "suspension_rear": "Swingarm",
+    "created_at": "2023-03-14 11:30:15",
+    "updated_at": "2023-03-14 12:27:16"
+  },
+  {
+    "id": "627",
+    "bike_id": "776",
+    "suspension_front": "Telescopic forks, 110 mm travel",
+    "suspension_rear": "Swingarm, 50 mm",
+    "created_at": "2023-03-14 14:51:01",
+    "updated_at": "2023-03-14 16:04:50"
+  },
+  {
+    "id": "628",
+    "bike_id": "777",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Unit Swing",
+    "created_at": "2023-03-14 16:28:26",
+    "updated_at": "2023-03-14 16:34:26"
+  },
+  {
+    "id": "629",
+    "bike_id": "778",
+    "suspension_front": "telescopic fork up",
+    "suspension_rear": "monoshock absorber",
+    "created_at": "2023-03-14 17:04:59",
+    "updated_at": "2023-03-14 17:12:34"
+  },
+  {
+    "id": "630",
+    "bike_id": "779",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-14 17:15:30",
+    "updated_at": "2023-03-14 17:15:30"
+  },
+  {
+    "id": "631",
+    "bike_id": "780",
+    "suspension_front": "Hydraulic telescopic fork Ø40 mm",
+    "suspension_rear": "Black hydraulic shock absorber Ø 53 mm, adjustable 5 positions",
+    "created_at": "2023-03-15 10:23:50",
+    "updated_at": "2023-03-15 12:25:11"
+  },
+  {
+    "id": "632",
+    "bike_id": "781",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-15 12:35:31",
+    "updated_at": "2023-03-15 12:35:31"
+  },
+  {
+    "id": "633",
+    "bike_id": "782",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-15 12:49:14",
+    "updated_at": "2023-03-15 12:49:14"
+  },
+  {
+    "id": "634",
+    "bike_id": "783",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-15 13:10:46",
+    "updated_at": "2023-03-15 13:10:46"
+  },
+  {
+    "id": "635",
+    "bike_id": "784",
+    "suspension_front": "Single Arm, Dual Chamber Hydraulic Shock Absorber with Coaxial Spring",
+    "suspension_rear": "Two Dual Effect Shock Absorbers with Adjustable Preload",
+    "created_at": "2023-03-15 14:35:58",
+    "updated_at": "2023-03-15 15:07:27"
+  },
+  {
+    "id": "636",
+    "bike_id": "785",
+    "suspension_front": "37 mm Telescopic Forks",
+    "suspension_rear": "Mono-shock",
+    "created_at": "2023-03-15 17:09:42",
+    "updated_at": "2023-03-15 17:17:28"
+  },
+  {
+    "id": "637",
+    "bike_id": "786",
+    "suspension_front": "Hydraulic Telescopic",
+    "suspension_rear": "Hydraulic Telescopic",
+    "created_at": "2023-03-15 17:30:08",
+    "updated_at": "2023-03-15 17:34:54"
+  },
+  {
+    "id": "638",
+    "bike_id": "787",
+    "suspension_front": "Aluminium single-sided Pro-arm swingarm and 43mm Honda Multi-Action System (HMAS) telescopic fork",
+    "suspension_rear": "HMAS gas-charged rear shock that operates through a Pro-Link suspension linkage with remote spring preload and stepless rebound damping adjustment",
+    "created_at": "2023-03-16 11:17:27",
+    "updated_at": "2023-03-16 13:28:00"
+  },
+  {
+    "id": "639",
+    "bike_id": "788",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Telescopic",
+    "created_at": "2023-03-16 13:14:26",
+    "updated_at": "2023-03-16 13:20:08"
+  },
+  {
+    "id": "640",
+    "bike_id": "789",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-16 17:44:45",
+    "updated_at": "2023-03-16 17:44:45"
+  },
+  {
+    "id": "641",
+    "bike_id": "790",
+    "suspension_front": "Telescopic fork",
+    "suspension_rear": "Hydraulic unit swing",
+    "created_at": "2023-03-17 14:53:01",
+    "updated_at": "2023-03-17 15:00:54"
+  },
+  {
+    "id": "642",
+    "bike_id": "791",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Dual-Shock Absorbers",
+    "created_at": "2023-03-17 15:06:05",
+    "updated_at": "2023-03-17 15:11:08"
+  },
+  {
+    "id": "643",
+    "bike_id": "792",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Swing Arm",
+    "created_at": "2023-03-17 15:19:12",
+    "updated_at": "2023-03-17 15:26:53"
+  },
+  {
+    "id": "644",
+    "bike_id": "793",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Telescopic",
+    "created_at": "2023-03-17 16:01:57",
+    "updated_at": "2023-03-17 16:10:13"
+  },
+  {
+    "id": "645",
+    "bike_id": "794",
+    "suspension_front": "Upside down Kayaba 41 mm fork",
+    "suspension_rear": "Kayaba rear shock, pre-load adjustable.",
+    "created_at": "2023-03-20 15:13:07",
+    "updated_at": "2023-03-20 15:22:52"
+  },
+  {
+    "id": "646",
+    "bike_id": "795",
+    "suspension_front": "Upside-down telescopic forks, 140 mm",
+    "suspension_rear": "Mono-shock-absorber, 50 mm",
+    "created_at": "2023-03-22 14:50:30",
+    "updated_at": "2023-03-22 15:06:13"
+  },
+  {
+    "id": "647",
+    "bike_id": "796",
+    "suspension_front": "Upside-down forks Ø 50mm with adjustable hydraulic brake rebound, compression and spring preload",
+    "suspension_rear": "Aluminum rear swing arm with central shock absorber spring preload and hydraulic rebound brake adjustable",
+    "created_at": "2023-03-22 15:09:45",
+    "updated_at": "2023-03-22 15:17:29"
+  },
+  {
+    "id": "648",
+    "bike_id": "797",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Swing Arm",
+    "created_at": "2023-03-22 15:29:04",
+    "updated_at": "2023-03-22 15:45:21"
+  },
+  {
+    "id": "649",
+    "bike_id": "798",
+    "suspension_front": "41mm telescopic forks",
+    "suspension_rear": "Twin shock absorbers with 5-step adjustable preload",
+    "created_at": "2023-03-22 15:52:18",
+    "updated_at": "2023-03-22 15:58:34"
+  },
+  {
+    "id": "650",
+    "bike_id": "799",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-22 16:19:05",
+    "updated_at": "2023-03-22 16:19:05"
+  },
+  {
+    "id": "651",
+    "bike_id": "800",
+    "suspension_front": "φ37 Telescopic upside down, hydraulic damping type",
+    "suspension_rear": "Mono suspension, centre aligned",
+    "created_at": "2023-03-22 16:26:55",
+    "updated_at": "2023-03-22 16:36:34"
+  },
+  {
+    "id": "652",
+    "bike_id": "801",
+    "suspension_front": "KYB inverted forks, adjustable by preload, 160 mm Travel",
+    "suspension_rear": "Double shock Absorber KYB, adjustable preload, 77.4 mm Travel",
+    "created_at": "2023-03-22 16:45:26",
+    "updated_at": "2023-03-22 16:53:44"
+  },
+  {
+    "id": "653",
+    "bike_id": "802",
+    "suspension_front": "41mm inverted rebound adjustable",
+    "suspension_rear": "Oil-air separation rebound damping adjustable, preload adjustable shock absorber",
+    "created_at": "2023-03-22 17:01:19",
+    "updated_at": "2023-03-22 17:22:43"
+  },
+  {
+    "id": "654",
+    "bike_id": "803",
+    "suspension_front": "Telescopic Hydraulic type with anti friction bush",
+    "suspension_rear": "7 step adjustable monoshocks suspension",
+    "created_at": "2023-03-22 17:29:11",
+    "updated_at": "2023-03-22 17:47:31"
+  },
+  {
+    "id": "655",
+    "bike_id": "804",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Twin Shock",
+    "created_at": "2023-03-23 12:07:21",
+    "updated_at": "2023-03-23 12:20:55"
+  },
+  {
+    "id": "656",
+    "bike_id": "805",
+    "suspension_front": "USD fork 41 mm diameter",
+    "suspension_rear": "Solid Die cast Aluminium swing arm directly hinged monoshox, pre-load adjustable",
+    "created_at": "2023-03-23 12:26:33",
+    "updated_at": "2023-09-09 12:24:19"
+  },
+  {
+    "id": "657",
+    "bike_id": "806",
+    "suspension_front": "Inverted telescopic, coil spring, oil damped",
+    "suspension_rear": "Link type, coil spring, oil damped",
+    "created_at": "2023-03-23 14:56:46",
+    "updated_at": "2023-03-23 15:07:46"
+  },
+  {
+    "id": "658",
+    "bike_id": "807",
+    "suspension_front": "Inverted telescopic, coil spring, oil damped",
+    "suspension_rear": "Link type, coil spring, oil damped",
+    "created_at": "2023-03-23 15:22:32",
+    "updated_at": "2023-03-23 15:30:44"
+  },
+  {
+    "id": "659",
+    "bike_id": "808",
+    "suspension_front": "telescopic hydraulic shock absorber",
+    "suspension_rear": "monoshock",
+    "created_at": "2023-03-23 16:20:33",
+    "updated_at": "2023-03-23 16:43:55"
+  },
+  {
+    "id": "660",
+    "bike_id": "809",
+    "suspension_front": "41 mm USD Forks",
+    "suspension_rear": "MonoShock",
+    "created_at": "2023-03-23 16:48:34",
+    "updated_at": "2023-03-23 16:55:24"
+  },
+  {
+    "id": "661",
+    "bike_id": "810",
+    "suspension_front": "WP upside-down",
+    "suspension_rear": "WP monoshock",
+    "created_at": "2023-03-23 16:58:05",
+    "updated_at": "2023-03-23 17:06:20"
+  },
+  {
+    "id": "662",
+    "bike_id": "811",
+    "suspension_front": "WP APEX 43",
+    "suspension_rear": "WP APEX - Monoshock",
+    "created_at": "2023-03-23 17:13:45",
+    "updated_at": "2023-03-23 17:23:37"
+  },
+  {
+    "id": "663",
+    "bike_id": "812",
+    "suspension_front": "Triple rate spring, Inverted telescopic fork (USD)",
+    "suspension_rear": "Double rate, Mono shock- 10 steps (Adjuster Slots)",
+    "created_at": "2023-03-23 17:27:19",
+    "updated_at": "2023-03-23 17:36:26"
+  },
+  {
+    "id": "664",
+    "bike_id": "813",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-24 16:48:01",
+    "updated_at": "2023-03-24 16:48:01"
+  },
+  {
+    "id": "665",
+    "bike_id": "814",
+    "suspension_front": "Telescopic Suspension",
+    "suspension_rear": "Dual Tube Spring type hydraulic shockers",
+    "created_at": "2023-03-24 17:05:55",
+    "updated_at": "2023-03-24 17:19:01"
+  },
+  {
+    "id": "666",
+    "bike_id": "815",
+    "suspension_front": "Telescopic with 241 mm travel",
+    "suspension_rear": "Single Mono-shock spring",
+    "created_at": "2023-03-24 17:44:02",
+    "updated_at": "2023-03-24 17:52:55"
+  },
+  {
+    "id": "667",
+    "bike_id": "816",
+    "suspension_front": "WP XPLOR 48",
+    "suspension_rear": "WP XPLOR Monoshock with PDS",
+    "created_at": "2023-03-27 15:47:19",
+    "updated_at": "2023-03-27 15:54:06"
+  },
+  {
+    "id": "668",
+    "bike_id": "817",
+    "suspension_front": "Inverted Telescopic Front Suspension",
+    "suspension_rear": "Swing Arm with Monoshock (Pro-Link) System",
+    "created_at": "2023-03-27 16:11:30",
+    "updated_at": "2023-03-27 16:23:47"
+  },
+  {
+    "id": "669",
+    "bike_id": "818",
+    "suspension_front": "Telescopic",
+    "suspension_rear": null,
+    "created_at": "2023-03-27 16:30:27",
+    "updated_at": "2023-03-27 16:40:24"
+  },
+  {
+    "id": "670",
+    "bike_id": "819",
+    "suspension_front": "Inverted 700mmX35mm twin internal hydraulic shocks with 200mm travel distance",
+    "suspension_rear": "Adjustable trailing arm over spring/hydraulic shock",
+    "created_at": "2023-03-27 16:48:14",
+    "updated_at": "2023-03-27 16:59:28"
+  },
+  {
+    "id": "671",
+    "bike_id": "820",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Coil Spring Three Steps Adjustable",
+    "created_at": "2023-03-27 17:06:34",
+    "updated_at": "2023-05-17 15:14:51"
+  },
+  {
+    "id": "672",
+    "bike_id": "821",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Coil Spring Three Steps Adjustable",
+    "created_at": "2023-03-27 17:13:07",
+    "updated_at": "2023-05-17 13:28:44"
+  },
+  {
+    "id": "673",
+    "bike_id": "822",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Coil Spring Three Steps Adjustable suspension",
+    "created_at": "2023-03-28 10:32:45",
+    "updated_at": "2023-05-17 13:32:07"
+  },
+  {
+    "id": "674",
+    "bike_id": "823",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Hydraulic damper",
+    "created_at": "2023-03-28 10:42:16",
+    "updated_at": "2023-05-17 15:09:09"
+  },
+  {
+    "id": "675",
+    "bike_id": "824",
+    "suspension_front": "Upside down suspension forks",
+    "suspension_rear": "Adjustable mono shock",
+    "created_at": "2023-03-28 11:45:35",
+    "updated_at": "2023-03-28 11:55:40"
+  },
+  {
+    "id": "676",
+    "bike_id": "825",
+    "suspension_front": "Upside down suspension forks",
+    "suspension_rear": "Adjustable mono shock",
+    "created_at": "2023-03-28 12:03:09",
+    "updated_at": "2023-03-28 12:10:44"
+  },
+  {
+    "id": "677",
+    "bike_id": "826",
+    "suspension_front": "Hydraulic Telescopic",
+    "suspension_rear": "Dual Shocker Dual Tube",
+    "created_at": "2023-03-28 12:24:34",
+    "updated_at": "2023-03-28 12:28:28"
+  },
+  {
+    "id": "678",
+    "bike_id": "827",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-03-28 13:08:24",
+    "updated_at": "2023-03-28 13:08:24"
+  },
+  {
+    "id": "679",
+    "bike_id": "828",
+    "suspension_front": "Fork Type Hydraulic",
+    "suspension_rear": "Adjustable Hydraulic Coilover",
+    "created_at": "2023-04-03 16:21:50",
+    "updated_at": "2023-04-03 16:50:41"
+  },
+  {
+    "id": "680",
+    "bike_id": "829",
+    "suspension_front": "Fork Type Hydraulic",
+    "suspension_rear": "Adjustable Hydraulic Coilover",
+    "created_at": "2023-04-03 17:10:44",
+    "updated_at": "2023-04-03 17:29:08"
+  },
+  {
+    "id": "681",
+    "bike_id": "830",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-04-03 17:40:27",
+    "updated_at": "2023-04-03 17:40:27"
+  },
+  {
+    "id": "682",
+    "bike_id": "831",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-04-04 11:03:21",
+    "updated_at": "2023-04-04 11:03:21"
+  },
+  {
+    "id": "683",
+    "bike_id": "832",
+    "suspension_front": "Hydraulic Telescopic",
+    "suspension_rear": null,
+    "created_at": "2023-04-04 11:10:50",
+    "updated_at": "2023-04-04 11:22:07"
+  },
+  {
+    "id": "684",
+    "bike_id": "833",
+    "suspension_front": "Telescopic Hydraulic Shock Absorbers",
+    "suspension_rear": "Unit Swing with Spring Loaded Hydraulic Damper",
+    "created_at": "2023-04-04 11:35:27",
+    "updated_at": "2023-04-04 11:43:37"
+  },
+  {
+    "id": "685",
+    "bike_id": "834",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-04-04 11:53:09",
+    "updated_at": "2023-04-04 11:53:09"
+  },
+  {
+    "id": "686",
+    "bike_id": "835",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-04-04 12:18:14",
+    "updated_at": "2023-04-04 12:18:14"
+  },
+  {
+    "id": "687",
+    "bike_id": "836",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-04-04 12:37:16",
+    "updated_at": "2023-04-04 12:37:16"
+  },
+  {
+    "id": "688",
+    "bike_id": "837",
+    "suspension_front": "WP SAT (semi-active technology) Upside-Down Ø 48 mm",
+    "suspension_rear": "WP SAT (semi-active technology) shock absorber",
+    "created_at": "2023-04-04 14:46:20",
+    "updated_at": "2023-04-04 14:53:08"
+  },
+  {
+    "id": "689",
+    "bike_id": "838",
+    "suspension_front": "Telescopic, coil spring, oil damped",
+    "suspension_rear": "Link type, coil spring, oil damped",
+    "created_at": "2023-04-04 15:02:53",
+    "updated_at": "2023-04-04 15:11:30"
+  },
+  {
+    "id": "690",
+    "bike_id": "839",
+    "suspension_front": "Telescopic Forks",
+    "suspension_rear": "Mono-shock",
+    "created_at": "2023-04-04 15:17:39",
+    "updated_at": "2023-04-04 15:25:18"
+  },
+  {
+    "id": "691",
+    "bike_id": "840",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-04-04 15:33:12",
+    "updated_at": "2023-04-04 15:33:12"
+  },
+  {
+    "id": "692",
+    "bike_id": "841",
+    "suspension_front": "Telescopic Suspension",
+    "suspension_rear": "Heavy Spring Loaded",
+    "created_at": "2023-04-04 15:53:22",
+    "updated_at": "2023-04-04 16:25:36"
+  },
+  {
+    "id": "693",
+    "bike_id": "842",
+    "suspension_front": "Telescopic Fork Cartridge Type",
+    "suspension_rear": "Single Shock with Air adjust",
+    "created_at": "2023-04-04 16:45:40",
+    "updated_at": "2023-04-04 16:57:26"
+  },
+  {
+    "id": "694",
+    "bike_id": "843",
+    "suspension_front": "Telescopic Forks, 46mm Cartridge Forks With Dual Rate Springs",
+    "suspension_rear": "Single Shock, Pneumatic Adjustment",
+    "created_at": "2023-04-04 17:03:15",
+    "updated_at": "2023-04-04 17:13:06"
+  },
+  {
+    "id": "695",
+    "bike_id": "844",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-04-04 17:43:49",
+    "updated_at": "2023-04-04 17:43:49"
+  },
+  {
+    "id": "696",
+    "bike_id": "845",
+    "suspension_front": "Telescopic Hydraulic Shock Absorbers",
+    "suspension_rear": "5-Step Adjustable Telescopic Hydraulic Shock Absorbers",
+    "created_at": "2023-04-11 12:33:59",
+    "updated_at": "2023-04-11 12:41:38"
+  },
+  {
+    "id": "697",
+    "bike_id": "846",
+    "suspension_front": "USD front forks",
+    "suspension_rear": "dual shock absorber",
+    "created_at": "2023-04-12 12:43:33",
+    "updated_at": "2023-04-12 13:17:02"
+  },
+  {
+    "id": "698",
+    "bike_id": "847",
+    "suspension_front": "Telescopic front forks",
+    "suspension_rear": "Twin shock absorbers",
+    "created_at": "2023-04-12 13:28:22",
+    "updated_at": "2023-04-12 14:33:47"
+  },
+  {
+    "id": "699",
+    "bike_id": "848",
+    "suspension_front": "Inverted Cartridge (USD) Telescopic Forks",
+    "suspension_rear": "2-Arm Aluminium Die-Cast Swing-Arm, Mono Tube Floating Piston Gas Assisted Shock Absorber",
+    "created_at": "2023-04-12 14:42:36",
+    "updated_at": "2023-04-12 14:52:52"
+  },
+  {
+    "id": "700",
+    "bike_id": "849",
+    "suspension_front": "Hydraulic Telescopic",
+    "suspension_rear": null,
+    "created_at": "2023-04-20 11:50:37",
+    "updated_at": "2023-04-20 12:00:43"
+  },
+  {
+    "id": "701",
+    "bike_id": "850",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-04-20 13:07:28",
+    "updated_at": "2023-04-20 13:07:28"
+  },
+  {
+    "id": "702",
+    "bike_id": "851",
+    "suspension_front": "Telescopic Forks",
+    "suspension_rear": "Dual Rear Shock Absorbers",
+    "created_at": "2023-04-20 13:29:52",
+    "updated_at": "2023-04-20 15:18:38"
+  },
+  {
+    "id": "703",
+    "bike_id": "852",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-04-25 09:59:16",
+    "updated_at": "2023-04-25 09:59:16"
+  },
+  {
+    "id": "704",
+    "bike_id": "853",
+    "suspension_front": "Telescopic forks",
+    "suspension_rear": "Swingarm (link suspension)",
+    "created_at": "2023-04-25 10:06:52",
+    "updated_at": "2023-04-25 10:15:13"
+  },
+  {
+    "id": "705",
+    "bike_id": "854",
+    "suspension_front": "Double USD Telescopic Forks",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-04-25 10:17:53",
+    "updated_at": "2023-04-25 10:29:53"
+  },
+  {
+    "id": "706",
+    "bike_id": "855",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-04-25 12:31:27",
+    "updated_at": "2023-04-25 12:31:27"
+  },
+  {
+    "id": "707",
+    "bike_id": "856",
+    "suspension_front": "Telescopic front fork",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-05-02 09:56:26",
+    "updated_at": "2023-05-02 10:31:50"
+  },
+  {
+    "id": "708",
+    "bike_id": "857",
+    "suspension_front": "41 mm telescopic forks",
+    "suspension_rear": "Pre-load adjustable monoshock",
+    "created_at": "2023-05-02 11:09:07",
+    "updated_at": "2023-05-02 11:40:26"
+  },
+  {
+    "id": "709",
+    "bike_id": "858",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Horizontal Unilink Monoshock",
+    "created_at": "2023-05-02 11:56:42",
+    "updated_at": "2023-05-02 12:12:36"
+  },
+  {
+    "id": "710",
+    "bike_id": "859",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-05-02 13:11:07",
+    "updated_at": "2023-05-02 13:11:07"
+  },
+  {
+    "id": "711",
+    "bike_id": "860",
+    "suspension_front": "Telescope",
+    "suspension_rear": "Spring Coil",
+    "created_at": "2023-05-02 14:38:25",
+    "updated_at": "2023-05-02 14:46:32"
+  },
+  {
+    "id": "712",
+    "bike_id": "861",
+    "suspension_front": "Telescopic Upside-Down",
+    "suspension_rear": "Mono-shock-Absorber",
+    "created_at": "2023-05-02 16:18:37",
+    "updated_at": "2023-05-02 16:25:12"
+  },
+  {
+    "id": "713",
+    "bike_id": "862",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-05-05 10:22:36",
+    "updated_at": "2023-05-05 10:22:36"
+  },
+  {
+    "id": "714",
+    "bike_id": "863",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-05-05 10:30:47",
+    "updated_at": "2023-05-05 10:30:47"
+  },
+  {
+    "id": "715",
+    "bike_id": "864",
+    "suspension_front": "Telescopic shock absorber",
+    "suspension_rear": "Hydraulic shock absorber",
+    "created_at": "2023-05-05 10:45:18",
+    "updated_at": "2023-05-05 10:49:57"
+  },
+  {
+    "id": "717",
+    "bike_id": "866",
+    "suspension_front": "Telescopic shock absorber",
+    "suspension_rear": "Hydraulic shock absorber",
+    "created_at": "2023-05-05 12:59:39",
+    "updated_at": "2023-05-05 13:13:40"
+  },
+  {
+    "id": "718",
+    "bike_id": "867",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-05-17 10:59:42",
+    "updated_at": "2023-05-17 10:59:42"
+  },
+  {
+    "id": "719",
+    "bike_id": "868",
+    "suspension_front": "Inverted Telescopic Front Suspension (Golden USD Forks)",
+    "suspension_rear": "Aluminum Swing Arm (5 Adjustable Mono Suspension with Pro-Link System)",
+    "created_at": "2023-05-18 11:53:22",
+    "updated_at": "2023-05-18 12:03:17"
+  },
+  {
+    "id": "720",
+    "bike_id": "869",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Telescopic",
+    "created_at": "2023-05-22 13:09:29",
+    "updated_at": "2023-05-22 13:15:16"
+  },
+  {
+    "id": "721",
+    "bike_id": "870",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Telescopic",
+    "created_at": "2023-05-22 13:17:37",
+    "updated_at": "2023-05-22 13:23:15"
+  },
+  {
+    "id": "722",
+    "bike_id": "871",
+    "suspension_front": "Telescopic",
+    "suspension_rear": null,
+    "created_at": "2023-05-23 16:49:51",
+    "updated_at": "2023-05-23 17:01:00"
+  },
+  {
+    "id": "723",
+    "bike_id": "872",
+    "suspension_front": "Telescopic",
+    "suspension_rear": null,
+    "created_at": "2023-05-23 16:51:37",
+    "updated_at": "2023-05-23 17:06:26"
+  },
+  {
+    "id": "724",
+    "bike_id": "873",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-05-23 16:53:05",
+    "updated_at": "2023-05-23 17:12:42"
+  },
+  {
+    "id": "725",
+    "bike_id": "874",
+    "suspension_front": "Telescopic",
+    "suspension_rear": null,
+    "created_at": "2023-05-23 16:54:15",
+    "updated_at": "2023-05-23 17:29:37"
+  },
+  {
+    "id": "726",
+    "bike_id": "875",
+    "suspension_front": "Telescopic",
+    "suspension_rear": null,
+    "created_at": "2023-05-23 16:55:14",
+    "updated_at": "2023-05-23 17:37:25"
+  },
+  {
+    "id": "727",
+    "bike_id": "876",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-05-23 17:41:13",
+    "updated_at": "2023-05-23 17:41:13"
+  },
+  {
+    "id": "728",
+    "bike_id": "877",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-05-23 17:43:09",
+    "updated_at": "2023-05-23 17:43:09"
+  },
+  {
+    "id": "729",
+    "bike_id": "878",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-05-23 17:45:00",
+    "updated_at": "2023-05-23 17:45:00"
+  },
+  {
+    "id": "730",
+    "bike_id": "879",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-05-23 17:46:10",
+    "updated_at": "2023-05-23 17:46:10"
+  },
+  {
+    "id": "731",
+    "bike_id": "880",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-05-23 17:47:29",
+    "updated_at": "2023-05-23 17:47:29"
+  },
+  {
+    "id": "732",
+    "bike_id": "881",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-05-25 10:05:09",
+    "updated_at": "2023-05-25 10:05:09"
+  },
+  {
+    "id": "733",
+    "bike_id": "882",
+    "suspension_front": "Hydraulic Shock Absorber",
+    "suspension_rear": "Hydraulic Shock Absorber",
+    "created_at": "2023-05-25 10:10:02",
+    "updated_at": "2023-05-25 10:22:09"
+  },
+  {
+    "id": "734",
+    "bike_id": "883",
+    "suspension_front": "Hydraulic Shock Absorber",
+    "suspension_rear": "Hydraulic Shock Absorber",
+    "created_at": "2023-05-25 10:31:10",
+    "updated_at": "2023-05-25 10:37:11"
+  },
+  {
+    "id": "735",
+    "bike_id": "884",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Telescopic",
+    "created_at": "2023-05-25 10:39:40",
+    "updated_at": "2023-05-25 10:42:46"
+  },
+  {
+    "id": "736",
+    "bike_id": "885",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-05-25 10:47:01",
+    "updated_at": "2023-05-25 10:47:01"
+  },
+  {
+    "id": "737",
+    "bike_id": "886",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-05-25 12:07:03",
+    "updated_at": "2023-05-25 12:07:03"
+  },
+  {
+    "id": "738",
+    "bike_id": "887",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-05-25 12:30:50",
+    "updated_at": "2023-05-25 12:30:50"
+  },
+  {
+    "id": "739",
+    "bike_id": "888",
+    "suspension_front": "Hydraulic Shock Absorber",
+    "suspension_rear": "Hydraulic Shock Absorber",
+    "created_at": "2023-05-25 12:36:39",
+    "updated_at": "2023-05-25 12:42:21"
+  },
+  {
+    "id": "740",
+    "bike_id": "889",
+    "suspension_front": "Hydraulic Shock Absorber",
+    "suspension_rear": "Hydraulic Shock Absorber",
+    "created_at": "2023-05-25 12:44:41",
+    "updated_at": "2023-05-25 12:54:39"
+  },
+  {
+    "id": "741",
+    "bike_id": "890",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Coil Spring",
+    "created_at": "2023-06-05 16:42:47",
+    "updated_at": "2023-06-05 17:38:58"
+  },
+  {
+    "id": "742",
+    "bike_id": "891",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Dual Coil Spring",
+    "created_at": "2023-06-05 17:22:45",
+    "updated_at": "2023-06-07 12:14:21"
+  },
+  {
+    "id": "743",
+    "bike_id": "892",
+    "suspension_front": "Telescopic 12 inch",
+    "suspension_rear": "Coil Spring",
+    "created_at": "2023-06-05 17:26:10",
+    "updated_at": "2023-06-07 12:52:32"
+  },
+  {
+    "id": "744",
+    "bike_id": "893",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-06-19 10:17:52",
+    "updated_at": "2023-06-19 10:27:42"
+  },
+  {
+    "id": "745",
+    "bike_id": "894",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-06-19 14:35:03",
+    "updated_at": "2023-06-19 14:50:00"
+  },
+  {
+    "id": "746",
+    "bike_id": "895",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-06-19 15:02:04",
+    "updated_at": "2023-06-19 15:06:38"
+  },
+  {
+    "id": "747",
+    "bike_id": "896",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-06-19 15:20:33",
+    "updated_at": "2023-06-19 15:29:45"
+  },
+  {
+    "id": "748",
+    "bike_id": "897",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Spring Loaded Gas",
+    "created_at": "2023-06-20 15:07:31",
+    "updated_at": "2023-06-20 15:52:06"
+  },
+  {
+    "id": "749",
+    "bike_id": "898",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Spring Loaded Gas",
+    "created_at": "2023-06-20 16:11:24",
+    "updated_at": "2023-06-20 16:37:33"
+  },
+  {
+    "id": "750",
+    "bike_id": "899",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Spring Loaded Gas",
+    "created_at": "2023-06-20 16:58:35",
+    "updated_at": "2023-06-20 17:11:36"
+  },
+  {
+    "id": "751",
+    "bike_id": "900",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Spring Loaded Gas",
+    "created_at": "2023-06-20 17:14:08",
+    "updated_at": "2023-06-20 17:21:22"
+  },
+  {
+    "id": "752",
+    "bike_id": "901",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Spring Loaded Gas",
+    "created_at": "2023-06-20 17:23:44",
+    "updated_at": "2023-06-20 17:30:13"
+  },
+  {
+    "id": "753",
+    "bike_id": "902",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Spring Loaded Gas",
+    "created_at": "2023-06-20 17:32:58",
+    "updated_at": "2023-06-20 17:42:46"
+  },
+  {
+    "id": "754",
+    "bike_id": "903",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Spring Loaded Gas",
+    "created_at": "2023-06-20 17:45:03",
+    "updated_at": "2023-06-20 17:50:46"
+  },
+  {
+    "id": "755",
+    "bike_id": "904",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Spring Loaded Gas",
+    "created_at": "2023-06-20 17:52:46",
+    "updated_at": "2023-06-20 17:57:21"
+  },
+  {
+    "id": "756",
+    "bike_id": "905",
+    "suspension_front": "KYB Upside-down Forks 43mm",
+    "suspension_rear": "Twinshock Absorbers, 7 Step Preload adjustable",
+    "created_at": "2023-07-05 11:49:16",
+    "updated_at": "2023-07-05 12:09:52"
+  },
+  {
+    "id": "757",
+    "bike_id": "906",
+    "suspension_front": "43mm upside down Big Piston forks. 140mm wheel travel",
+    "suspension_rear": "Gas monoshock RSU with external reservoir and pre-load adjustment. 130mm wheel travel",
+    "created_at": "2023-07-10 12:40:57",
+    "updated_at": "2023-07-10 12:55:56"
+  },
+  {
+    "id": "758",
+    "bike_id": "907",
+    "suspension_front": "43mm upside down Big Piston forks. 150mm wheel travel",
+    "suspension_rear": "Gas monoshock RSU with external reservoir and pre-load adjustment. 150mm wheel travel",
+    "created_at": "2023-07-10 13:06:38",
+    "updated_at": "2023-07-10 13:14:03"
+  },
+  {
+    "id": "759",
+    "bike_id": "908",
+    "suspension_front": "Single-bridge telescopic forks with 110 mm spring travel",
+    "suspension_rear": "Single-sided swing arm/directly hinged suspension strut with 92 mm spring travel",
+    "created_at": "2023-07-18 10:20:23",
+    "updated_at": "2023-07-18 11:21:06"
+  },
+  {
+    "id": "760",
+    "bike_id": "909",
+    "suspension_front": "Upside-down telescopic fork",
+    "suspension_rear": "Adjustable shock absorber",
+    "created_at": "2023-07-18 10:49:08",
+    "updated_at": "2023-07-18 15:49:37"
+  },
+  {
+    "id": "761",
+    "bike_id": "910",
+    "suspension_front": "Telescopic fork / 220 mm",
+    "suspension_rear": "New Uni Trak Swingarm / 223 mm",
+    "created_at": "2023-07-31 09:55:06",
+    "updated_at": "2023-07-31 10:00:34"
+  },
+  {
+    "id": "762",
+    "bike_id": "911",
+    "suspension_front": "Telescopic(USD) fork/ 275 mm",
+    "suspension_rear": "Uni Trak Swingarm/ 275 mm",
+    "created_at": "2023-07-31 10:06:24",
+    "updated_at": "2023-07-31 10:12:43"
+  },
+  {
+    "id": "763",
+    "bike_id": "912",
+    "suspension_front": "Telescopic fork/210 mm",
+    "suspension_rear": "Uni Trak Swingarm/240 mm",
+    "created_at": "2023-07-31 10:26:38",
+    "updated_at": "2023-07-31 10:30:55"
+  },
+  {
+    "id": "764",
+    "bike_id": "913",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "3 Step Adjustable Spring Loaded Hydraulic",
+    "created_at": "2023-07-31 10:36:13",
+    "updated_at": "2023-07-31 10:46:06"
+  },
+  {
+    "id": "765",
+    "bike_id": "914",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Spring Loaded",
+    "created_at": "2023-07-31 11:24:32",
+    "updated_at": "2023-07-31 11:44:52"
+  },
+  {
+    "id": "766",
+    "bike_id": "915",
+    "suspension_front": "Hydraulic Telescopic",
+    "suspension_rear": "Double Shocker with dual tube technology",
+    "created_at": "2023-07-31 11:46:51",
+    "updated_at": "2023-07-31 11:54:31"
+  },
+  {
+    "id": "767",
+    "bike_id": "916",
+    "suspension_front": "Telescopic, 43mm Dia",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-07-31 11:58:43",
+    "updated_at": "2023-07-31 12:07:19"
+  },
+  {
+    "id": "768",
+    "bike_id": "917",
+    "suspension_front": "Telescopic, 43mm Dia",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-07-31 12:14:41",
+    "updated_at": "2023-07-31 12:22:50"
+  },
+  {
+    "id": "769",
+    "bike_id": "918",
+    "suspension_front": "Telescopic, 43mm Dia",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-07-31 12:27:44",
+    "updated_at": "2023-07-31 12:34:24"
+  },
+  {
+    "id": "770",
+    "bike_id": "919",
+    "suspension_front": "Telescopic, 43mm Dia",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-07-31 12:45:57",
+    "updated_at": "2023-07-31 13:02:55"
+  },
+  {
+    "id": "771",
+    "bike_id": "920",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Adjustable Spring loaded Telescopic",
+    "created_at": "2023-07-31 13:22:43",
+    "updated_at": "2023-07-31 13:27:08"
+  },
+  {
+    "id": "772",
+    "bike_id": "921",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Adjustable Spring loaded Telescopic",
+    "created_at": "2023-07-31 13:28:41",
+    "updated_at": "2023-07-31 13:34:35"
+  },
+  {
+    "id": "773",
+    "bike_id": "922",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Spring loaded Telescopic",
+    "created_at": "2023-07-31 14:28:09",
+    "updated_at": "2023-07-31 15:31:27"
+  },
+  {
+    "id": "774",
+    "bike_id": "923",
+    "suspension_front": "Double Hydraulic Telescopic",
+    "suspension_rear": "Hydraulic",
+    "created_at": "2023-08-03 10:08:29",
+    "updated_at": "2023-08-03 10:29:49"
+  },
+  {
+    "id": "775",
+    "bike_id": "924",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Dual Shocker",
+    "created_at": "2023-08-03 10:33:27",
+    "updated_at": "2023-08-03 10:39:13"
+  },
+  {
+    "id": "776",
+    "bike_id": "925",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Dual Shocker",
+    "created_at": "2023-08-03 11:03:30",
+    "updated_at": "2023-08-03 11:12:19"
+  },
+  {
+    "id": "777",
+    "bike_id": "926",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Dual Shocker",
+    "created_at": "2023-08-03 11:26:07",
+    "updated_at": "2023-08-03 12:05:38"
+  },
+  {
+    "id": "778",
+    "bike_id": "927",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Dual Shocker",
+    "created_at": "2023-08-03 12:20:51",
+    "updated_at": "2023-08-07 10:11:52"
+  },
+  {
+    "id": "779",
+    "bike_id": "928",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Dual Shocker",
+    "created_at": "2023-08-07 10:13:50",
+    "updated_at": "2023-08-07 10:20:26"
+  },
+  {
+    "id": "780",
+    "bike_id": "929",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Dual Shocker",
+    "created_at": "2023-08-07 10:26:30",
+    "updated_at": "2023-08-07 10:32:41"
+  },
+  {
+    "id": "781",
+    "bike_id": "930",
+    "suspension_front": null,
+    "suspension_rear": null,
+    "created_at": "2023-08-07 10:38:03",
+    "updated_at": "2023-08-07 10:38:03"
+  },
+  {
+    "id": "782",
+    "bike_id": "931",
+    "suspension_front": "Hydraulic",
+    "suspension_rear": "Dual Shocker",
+    "created_at": "2023-08-07 10:46:39",
+    "updated_at": "2023-08-07 11:02:32"
+  },
+  {
+    "id": "783",
+    "bike_id": "932",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-08-10 13:13:50",
+    "updated_at": "2023-08-10 13:26:14"
+  },
+  {
+    "id": "784",
+    "bike_id": "933",
+    "suspension_front": "Telescopic forks",
+    "suspension_rear": "Symmetrically mounted progressive monoshock",
+    "created_at": "2023-08-16 15:46:04",
+    "updated_at": "2023-08-16 15:52:14"
+  },
+  {
+    "id": "785",
+    "bike_id": "934",
+    "suspension_front": "Twin telescopic",
+    "suspension_rear": "Dual shock",
+    "created_at": "2023-08-16 16:12:23",
+    "updated_at": "2023-08-16 16:17:38"
+  },
+  {
+    "id": "786",
+    "bike_id": "935",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Coil Spring",
+    "created_at": "2023-08-18 13:05:14",
+    "updated_at": "2023-08-18 13:25:39"
+  },
+  {
+    "id": "787",
+    "bike_id": "936",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Coil spring",
+    "created_at": "2023-08-18 13:26:53",
+    "updated_at": "2023-08-18 14:29:04"
+  },
+  {
+    "id": "788",
+    "bike_id": "937",
+    "suspension_front": "Telescopic Fork",
+    "suspension_rear": "Single Coil Spring Hydraulic Type",
+    "created_at": "2023-08-21 11:12:18",
+    "updated_at": "2023-08-21 11:25:56"
+  },
+  {
+    "id": "789",
+    "bike_id": "938",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Monoshock",
+    "created_at": "2023-08-24 11:10:22",
+    "updated_at": "2023-08-24 11:18:56"
+  },
+  {
+    "id": "790",
+    "bike_id": "939",
+    "suspension_front": "Telescopic",
+    "suspension_rear": "Dual Tube Twin Shock Absorbers",
+    "created_at": "2023-08-24 12:04:38",
+    "updated_at": "2023-08-24 12:16:47"
+  },
+  {
+    "id": "791",
+    "bike_id": "940",
+    "suspension_front": "Dia 37 mm, Telescopic Front Forks with Anti Friction Bush",
+    "suspension_rear": "Gas Charged Mono Shock, 6 Step Pre-load Adjustable",
+    "created_at": "2023-08-24 15:04:41",
+    "updated_at": "2023-08-29 16:25:21"
+  }
+]

@@ -1,0 +1,6266 @@
+[
+  {
+    "id": "1",
+    "bike_id": "1",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2",
+    "bike_id": "2",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3",
+    "bike_id": "3",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "4",
+    "bike_id": "4",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5",
+    "bike_id": "5",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "6",
+    "bike_id": "6",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7",
+    "bike_id": "7",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "8",
+    "bike_id": "8",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "9",
+    "bike_id": "9",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "10",
+    "bike_id": "10",
+    "seat_type": "",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "11",
+    "bike_id": "11",
+    "seat_type": "WP APEX USD forks, 43mm",
+    "stepup_seat": "WP APEX Monoshock, 10 step adjustable",
+    "created_at": null,
+    "updated_at": "2023-04-08 15:53:38"
+  },
+  {
+    "id": "12",
+    "bike_id": "12",
+    "seat_type": "WP-Open Cartridge USD Ø 43 mm",
+    "stepup_seat": "WP-Monoshock, 10 step adjustable",
+    "created_at": null,
+    "updated_at": "2023-04-08 15:57:58"
+  },
+  {
+    "id": "13",
+    "bike_id": "13",
+    "seat_type": "WP-USD Ø 43 mm",
+    "stepup_seat": "WP-Monoshock, 10 step adjustable",
+    "created_at": null,
+    "updated_at": "2023-04-08 16:05:12"
+  },
+  {
+    "id": "14",
+    "bike_id": "14",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "15",
+    "bike_id": "15",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "16",
+    "bike_id": "16",
+    "seat_type": "Upside-Down Forks",
+    "stepup_seat": "Pre-Load Adjustable Dual Shocks",
+    "created_at": null,
+    "updated_at": "2023-05-23 12:42:43"
+  },
+  {
+    "id": "17",
+    "bike_id": "17",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "18",
+    "bike_id": "18",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "19",
+    "bike_id": "19",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "20",
+    "bike_id": "20",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "21",
+    "bike_id": "21",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "22",
+    "bike_id": "22",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "23",
+    "bike_id": "23",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "24",
+    "bike_id": "24",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "25",
+    "bike_id": "25",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": null,
+    "updated_at": "2023-02-27 15:50:41"
+  },
+  {
+    "id": "26",
+    "bike_id": "26",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "27",
+    "bike_id": "27",
+    "seat_type": "Telescopic, 41mm forks, 130mm travel",
+    "stepup_seat": "Twin tube emulsion shock absorbers with 6-step adjustable preload, 102mm travel",
+    "created_at": null,
+    "updated_at": "2023-08-18 10:53:41"
+  },
+  {
+    "id": "28",
+    "bike_id": "28",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "29",
+    "bike_id": "29",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "30",
+    "bike_id": "30",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "31",
+    "bike_id": "31",
+    "seat_type": "Telescopic fork, Dia. 26 mm",
+    "stepup_seat": "Unit swing",
+    "created_at": null,
+    "updated_at": "2023-04-10 17:24:12"
+  },
+  {
+    "id": "32",
+    "bike_id": "32",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "33",
+    "bike_id": "33",
+    "seat_type": "Telescopic upside down Front Fork",
+    "stepup_seat": "Linked-type Monocross suspension",
+    "created_at": null,
+    "updated_at": "2023-04-10 14:34:14"
+  },
+  {
+    "id": "34",
+    "bike_id": "34",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "35",
+    "bike_id": "35",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "36",
+    "bike_id": "36",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "37",
+    "bike_id": "37",
+    "seat_type": "Conventional fork - Dia 30mm",
+    "stepup_seat": "Twin shox",
+    "created_at": null,
+    "updated_at": "2023-04-11 16:40:10"
+  },
+  {
+    "id": "38",
+    "bike_id": "38",
+    "seat_type": "Dia. 30 Telescopic",
+    "stepup_seat": "5 step Adjustable Hydraulic Shock Absorbers",
+    "created_at": null,
+    "updated_at": "2023-04-11 16:21:51"
+  },
+  {
+    "id": "39",
+    "bike_id": "39",
+    "seat_type": "Telescopic Hydraulic Shock Absorbers",
+    "stepup_seat": "Swingarm with 5-step Adjustable Hydraulic Shock Absorbers",
+    "created_at": null,
+    "updated_at": "2023-04-11 11:09:49"
+  },
+  {
+    "id": "40",
+    "bike_id": "40",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "41",
+    "bike_id": "41",
+    "seat_type": "Telescopic, 41mm forks, 130mm travel",
+    "stepup_seat": "Twin tube Emulsion shock absorbers with 6-step adjustable preload",
+    "created_at": null,
+    "updated_at": "2023-09-01 16:09:50"
+  },
+  {
+    "id": "42",
+    "bike_id": "42",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "43",
+    "bike_id": "43",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "44",
+    "bike_id": "44",
+    "seat_type": "Telescopic (37 mm Dia) with anti friction bush",
+    "stepup_seat": "7 step Rider-adjustable Monoshock",
+    "created_at": null,
+    "updated_at": "2023-04-13 15:43:26"
+  },
+  {
+    "id": "45",
+    "bike_id": "45",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "46",
+    "bike_id": "46",
+    "seat_type": "Telescopic Hydraulic Shock Absorbers",
+    "stepup_seat": "5-step Adjustable Hydraulic Shock Absorbers",
+    "created_at": null,
+    "updated_at": "2023-04-11 16:49:56"
+  },
+  {
+    "id": "47",
+    "bike_id": "47",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Twin - Hydraulic",
+    "created_at": null,
+    "updated_at": "2023-03-08 16:17:00"
+  },
+  {
+    "id": "48",
+    "bike_id": "48",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "49",
+    "bike_id": "49",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "50",
+    "bike_id": "50",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "51",
+    "bike_id": "51",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "52",
+    "bike_id": "52",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "53",
+    "bike_id": "53",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "54",
+    "bike_id": "54",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "55",
+    "bike_id": "55",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "56",
+    "bike_id": "56",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "57",
+    "bike_id": "57",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "58",
+    "bike_id": "58",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "59",
+    "bike_id": "59",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "60",
+    "bike_id": "60",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "61",
+    "bike_id": "61",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "62",
+    "bike_id": "62",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "63",
+    "bike_id": "63",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "64",
+    "bike_id": "64",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "65",
+    "bike_id": "65",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "66",
+    "bike_id": "66",
+    "seat_type": "Conventional fork - Dia 30mm",
+    "stepup_seat": "Twin shox",
+    "created_at": null,
+    "updated_at": "2023-04-13 13:14:27"
+  },
+  {
+    "id": "67",
+    "bike_id": "67",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "68",
+    "bike_id": "68",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "69",
+    "bike_id": "69",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "70",
+    "bike_id": "70",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "71",
+    "bike_id": "71",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "72",
+    "bike_id": "72",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "73",
+    "bike_id": "73",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Hydraulic",
+    "created_at": null,
+    "updated_at": "2023-02-17 15:38:28"
+  },
+  {
+    "id": "74",
+    "bike_id": "74",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": null,
+    "updated_at": "2023-05-23 12:46:29"
+  },
+  {
+    "id": "75",
+    "bike_id": "75",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": null,
+    "updated_at": "2023-05-23 12:55:42"
+  },
+  {
+    "id": "76",
+    "bike_id": "76",
+    "seat_type": "Hydraulic Telescopic",
+    "stepup_seat": "Double Hydraulic spring - 3 Step Adjustable",
+    "created_at": null,
+    "updated_at": "2023-04-28 15:33:25"
+  },
+  {
+    "id": "77",
+    "bike_id": "77",
+    "seat_type": "Telescopic, 41 mm forks, 130 mm travel",
+    "stepup_seat": "Twin tube emulsion shock absorbers with 6-step adjustable preload",
+    "created_at": null,
+    "updated_at": "2023-04-10 12:03:28"
+  },
+  {
+    "id": "78",
+    "bike_id": "78",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "79",
+    "bike_id": "79",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "80",
+    "bike_id": "80",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "81",
+    "bike_id": "81",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "82",
+    "bike_id": "82",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "83",
+    "bike_id": "83",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "84",
+    "bike_id": "84",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "85",
+    "bike_id": "85",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "86",
+    "bike_id": "86",
+    "seat_type": "Telescopic Hydraulic Shock Absorbers",
+    "stepup_seat": "Swingarm with 5-Step Adjustable Hydraulic Shock Absorbers",
+    "created_at": null,
+    "updated_at": "2023-04-11 10:55:42"
+  },
+  {
+    "id": "87",
+    "bike_id": "87",
+    "seat_type": "Telescopic Hydraulic Shock Absorber",
+    "stepup_seat": "Swingarm with 5-Step Adjustable Hydraulic Shock Absorbers",
+    "created_at": null,
+    "updated_at": "2023-04-11 11:41:50"
+  },
+  {
+    "id": "88",
+    "bike_id": "88",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "89",
+    "bike_id": "89",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "90",
+    "bike_id": "90",
+    "seat_type": "Single",
+    "stepup_seat": "With Long Seat",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "91",
+    "bike_id": "91",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "92",
+    "bike_id": "92",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "93",
+    "bike_id": "93",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "94",
+    "bike_id": "94",
+    "seat_type": "TELESCOPIC, 41 MM FORKS 190MM TRAVEL",
+    "stepup_seat": "MONOSHOCK WITH LINKAGE, V180MM WHEEL TRAVEL",
+    "created_at": null,
+    "updated_at": "2023-04-10 11:50:30"
+  },
+  {
+    "id": "95",
+    "bike_id": "95",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "96",
+    "bike_id": "96",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "97",
+    "bike_id": "97",
+    "seat_type": "WP APEX USD forks, 43 mm diameter",
+    "stepup_seat": "WP APEX Monoshock, 177 mm travel",
+    "created_at": null,
+    "updated_at": "2023-04-10 11:05:25"
+  },
+  {
+    "id": "98",
+    "bike_id": "98",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "99",
+    "bike_id": "99",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "100",
+    "bike_id": "100",
+    "seat_type": "Telescopic fork / 7-Step Adjustable",
+    "stepup_seat": "Monocross Suspension",
+    "created_at": null,
+    "updated_at": "2023-04-10 14:38:34"
+  },
+  {
+    "id": "101",
+    "bike_id": "101",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "102",
+    "bike_id": "102",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "103",
+    "bike_id": "103",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "104",
+    "bike_id": "104",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "105",
+    "bike_id": "105",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "106",
+    "bike_id": "106",
+    "seat_type": "WP APEX USD forks, 43 mm diameter",
+    "stepup_seat": "WP APEX Monoshock, 177 mm travel",
+    "created_at": null,
+    "updated_at": "2023-04-10 11:10:23"
+  },
+  {
+    "id": "107",
+    "bike_id": "107",
+    "seat_type": "Telescopic fork / 7-Step Adjustable",
+    "stepup_seat": "Monocross Suspension",
+    "created_at": null,
+    "updated_at": "2023-04-10 14:47:54"
+  },
+  {
+    "id": "108",
+    "bike_id": "108",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "109",
+    "bike_id": "109",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "110",
+    "bike_id": "110",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "111",
+    "bike_id": "111",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "112",
+    "bike_id": "112",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "113",
+    "bike_id": "113",
+    "seat_type": "43mm Upside Down Telescopic Fork, 120mm travel",
+    "stepup_seat": "Twin Shocks, 101mm travel, preload adjustable",
+    "created_at": null,
+    "updated_at": "2023-04-10 11:35:25"
+  },
+  {
+    "id": "114",
+    "bike_id": "114",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "115",
+    "bike_id": "115",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "116",
+    "bike_id": "116",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "117",
+    "bike_id": "117",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "118",
+    "bike_id": "118",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "119",
+    "bike_id": "119",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "120",
+    "bike_id": "120",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "121",
+    "bike_id": "121",
+    "seat_type": "Telescopic upside Down Fork (USD Fork)",
+    "stepup_seat": "Linked-Type Monocross Suspension",
+    "created_at": null,
+    "updated_at": "2023-04-10 14:28:24"
+  },
+  {
+    "id": "122",
+    "bike_id": "122",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "123",
+    "bike_id": "123",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "124",
+    "bike_id": "124",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "125",
+    "bike_id": "125",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "126",
+    "bike_id": "126",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "127",
+    "bike_id": "127",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "128",
+    "bike_id": "128",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "129",
+    "bike_id": "129",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "130",
+    "bike_id": "130",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "131",
+    "bike_id": "131",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "132",
+    "bike_id": "132",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "133",
+    "bike_id": "133",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "134",
+    "bike_id": "134",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "135",
+    "bike_id": "135",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "136",
+    "bike_id": "136",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "137",
+    "bike_id": "137",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "138",
+    "bike_id": "138",
+    "seat_type": "WP APEX USD forks, 43 mm diameter",
+    "stepup_seat": "WP APEX Monoshock, 10 step adjustable",
+    "created_at": null,
+    "updated_at": "2023-04-10 10:36:57"
+  },
+  {
+    "id": "139",
+    "bike_id": "139",
+    "seat_type": "WP APEX USD forks, 43 mm diameter",
+    "stepup_seat": "WP APEX Monoshock, 10 step adjustable",
+    "created_at": null,
+    "updated_at": "2023-04-10 10:54:45"
+  },
+  {
+    "id": "140",
+    "bike_id": "140",
+    "seat_type": "WP APEX USD forks, 43 mm diameter",
+    "stepup_seat": "WP APEX Monoshock, 10 step adjustable",
+    "created_at": null,
+    "updated_at": "2023-04-10 11:01:15"
+  },
+  {
+    "id": "141",
+    "bike_id": "141",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "142",
+    "bike_id": "142",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "143",
+    "bike_id": "143",
+    "seat_type": "",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "144",
+    "bike_id": "144",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "145",
+    "bike_id": "145",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "146",
+    "bike_id": "146",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "147",
+    "bike_id": "147",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "148",
+    "bike_id": "148",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "149",
+    "bike_id": "149",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "150",
+    "bike_id": "150",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "151",
+    "bike_id": "151",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "152",
+    "bike_id": "152",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "153",
+    "bike_id": "153",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "154",
+    "bike_id": "154",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "155",
+    "bike_id": "155",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "156",
+    "bike_id": "156",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "157",
+    "bike_id": "157",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "158",
+    "bike_id": "158",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "159",
+    "bike_id": "159",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "160",
+    "bike_id": "160",
+    "seat_type": "Telescopic Fork, 41mm Inner Tube Diameter, with Fork Boot",
+    "stepup_seat": "7-Step Adjustable Monocross Suspension",
+    "created_at": null,
+    "updated_at": "2023-04-10 14:43:28"
+  },
+  {
+    "id": "161",
+    "bike_id": "161",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "162",
+    "bike_id": "162",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "163",
+    "bike_id": "163",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "164",
+    "bike_id": "164",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "165",
+    "bike_id": "165",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "166",
+    "bike_id": "166",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "167",
+    "bike_id": "167",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "168",
+    "bike_id": "168",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "169",
+    "bike_id": "169",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "170",
+    "bike_id": "170",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "171",
+    "bike_id": "171",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "172",
+    "bike_id": "172",
+    "seat_type": "Single",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "173",
+    "bike_id": "173",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "174",
+    "bike_id": "174",
+    "seat_type": "",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "175",
+    "bike_id": "175",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "176",
+    "bike_id": "176",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "177",
+    "bike_id": "177",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "178",
+    "bike_id": "178",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "179",
+    "bike_id": "179",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "180",
+    "bike_id": "180",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "181",
+    "bike_id": "181",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "182",
+    "bike_id": "182",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "183",
+    "bike_id": "183",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "184",
+    "bike_id": "184",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "185",
+    "bike_id": "185",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "186",
+    "bike_id": "186",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "187",
+    "bike_id": "187",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "188",
+    "bike_id": "188",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "189",
+    "bike_id": "189",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "190",
+    "bike_id": "190",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "191",
+    "bike_id": "191",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "192",
+    "bike_id": "192",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "193",
+    "bike_id": "193",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "194",
+    "bike_id": "194",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "195",
+    "bike_id": "195",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "196",
+    "bike_id": "196",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "197",
+    "bike_id": "197",
+    "seat_type": "Telescopic Hydraulic Fork",
+    "stepup_seat": "Gas Canister - Twin shock hydraulic",
+    "created_at": null,
+    "updated_at": "2023-04-08 15:10:20"
+  },
+  {
+    "id": "198",
+    "bike_id": "198",
+    "seat_type": "Telescopic, 41 mm forks, 200 mm travel",
+    "stepup_seat": "Monoshock with linkage, 180 mm wheel travel",
+    "created_at": null,
+    "updated_at": "2023-04-10 12:48:03"
+  },
+  {
+    "id": "199",
+    "bike_id": "199",
+    "seat_type": "Telescopic fork",
+    "stepup_seat": "7-Step Adjustable Monocross Suspension",
+    "created_at": null,
+    "updated_at": "2023-04-10 15:23:13"
+  },
+  {
+    "id": "200",
+    "bike_id": "200",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "201",
+    "bike_id": "201",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "202",
+    "bike_id": "202",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "203",
+    "bike_id": "203",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "204",
+    "bike_id": "204",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "205",
+    "bike_id": "205",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "206",
+    "bike_id": "206",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "207",
+    "bike_id": "207",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "208",
+    "bike_id": "208",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "209",
+    "bike_id": "209",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "210",
+    "bike_id": "210",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "211",
+    "bike_id": "211",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "212",
+    "bike_id": "212",
+    "seat_type": "Telescopic Front Forks with anti friction bush",
+    "stepup_seat": "Rectangular swingarm with mono shock",
+    "created_at": null,
+    "updated_at": "2023-04-13 15:51:44"
+  },
+  {
+    "id": "213",
+    "bike_id": "213",
+    "seat_type": "TELESCOPIC, 41MM FORKS, 130MM TRAVEL",
+    "stepup_seat": "TWIN TUBE EMULSION SHOCK ABSORBERS WITH 6-STEP ADJUSTABLE PRELOAD",
+    "created_at": null,
+    "updated_at": "2023-04-10 12:22:10"
+  },
+  {
+    "id": "214",
+    "bike_id": "214",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "215",
+    "bike_id": "215",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "216",
+    "bike_id": "216",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "217",
+    "bike_id": "217",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "218",
+    "bike_id": "218",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "219",
+    "bike_id": "219",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "220",
+    "bike_id": "220",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "221",
+    "bike_id": "221",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "222",
+    "bike_id": "222",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "223",
+    "bike_id": "223",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Hydraulic Spring Loaded",
+    "created_at": null,
+    "updated_at": "2023-04-28 15:41:51"
+  },
+  {
+    "id": "224",
+    "bike_id": "224",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Hydraulic Spring Loaded",
+    "created_at": null,
+    "updated_at": "2023-04-28 15:47:36"
+  },
+  {
+    "id": "225",
+    "bike_id": "225",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "226",
+    "bike_id": "226",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "227",
+    "bike_id": "227",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "228",
+    "bike_id": "228",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "229",
+    "bike_id": "229",
+    "seat_type": "Upside down Fork",
+    "stepup_seat": "Monoshock",
+    "created_at": null,
+    "updated_at": "2023-04-18 14:29:57"
+  },
+  {
+    "id": "230",
+    "bike_id": "230",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "231",
+    "bike_id": "231",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "232",
+    "bike_id": "232",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "233",
+    "bike_id": "233",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "234",
+    "bike_id": "234",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "235",
+    "bike_id": "235",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "236",
+    "bike_id": "236",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "237",
+    "bike_id": "237",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "238",
+    "bike_id": "238",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "239",
+    "bike_id": "239",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "240",
+    "bike_id": "240",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "241",
+    "bike_id": "241",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "242",
+    "bike_id": "242",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "243",
+    "bike_id": "243",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "244",
+    "bike_id": "244",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "245",
+    "bike_id": "245",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "246",
+    "bike_id": "246",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "247",
+    "bike_id": "247",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "248",
+    "bike_id": "248",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "249",
+    "bike_id": "249",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "250",
+    "bike_id": "250",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "251",
+    "bike_id": "251",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "252",
+    "bike_id": "252",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "253",
+    "bike_id": "253",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "254",
+    "bike_id": "254",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "255",
+    "bike_id": "255",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "256",
+    "bike_id": "256",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "257",
+    "bike_id": "257",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "258",
+    "bike_id": "258",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "259",
+    "bike_id": "259",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "260",
+    "bike_id": "260",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "261",
+    "bike_id": "261",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "262",
+    "bike_id": "262",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "263",
+    "bike_id": "263",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "264",
+    "bike_id": "264",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Hydraulic, Monoshock",
+    "created_at": null,
+    "updated_at": "2023-04-18 14:32:24"
+  },
+  {
+    "id": "265",
+    "bike_id": "265",
+    "seat_type": "Single",
+    "stepup_seat": "With Long Seat",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "266",
+    "bike_id": "266",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "267",
+    "bike_id": "267",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "268",
+    "bike_id": "268",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "269",
+    "bike_id": "269",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "270",
+    "bike_id": "270",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "271",
+    "bike_id": "271",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "272",
+    "bike_id": "272",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "273",
+    "bike_id": "273",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "274",
+    "bike_id": "274",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "275",
+    "bike_id": "275",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "276",
+    "bike_id": "276",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "277",
+    "bike_id": "277",
+    "seat_type": "Single",
+    "stepup_seat": "With Long Seat",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "278",
+    "bike_id": "278",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "279",
+    "bike_id": "279",
+    "seat_type": "Telescopic, 35 mm forks, 130 mm travel",
+    "stepup_seat": "Twin shock absorbers with 5 step adjustable preload, 80 mm travel",
+    "created_at": null,
+    "updated_at": "2023-04-10 12:58:26"
+  },
+  {
+    "id": "280",
+    "bike_id": "280",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "281",
+    "bike_id": "281",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "282",
+    "bike_id": "282",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "283",
+    "bike_id": "283",
+    "seat_type": "Single",
+    "stepup_seat": "With Long Seat",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "284",
+    "bike_id": "284",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "285",
+    "bike_id": "285",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "286",
+    "bike_id": "286",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "287",
+    "bike_id": "287",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "288",
+    "bike_id": "288",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "289",
+    "bike_id": "289",
+    "seat_type": "Telescopic forks",
+    "stepup_seat": "Twin gas charged shock-absorbers with adjustable preload",
+    "created_at": null,
+    "updated_at": "2023-04-10 12:38:45"
+  },
+  {
+    "id": "290",
+    "bike_id": "290",
+    "seat_type": "Telescopic forks",
+    "stepup_seat": "Twin gas charged shock-absorbers with adjustable preload",
+    "created_at": null,
+    "updated_at": "2023-04-10 12:29:29"
+  },
+  {
+    "id": "291",
+    "bike_id": "291",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "292",
+    "bike_id": "292",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "293",
+    "bike_id": "293",
+    "seat_type": "Single",
+    "stepup_seat": "With Low Slung Seating",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "294",
+    "bike_id": "294",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "295",
+    "bike_id": "295",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "296",
+    "bike_id": "296",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "297",
+    "bike_id": "297",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "298",
+    "bike_id": "298",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "299",
+    "bike_id": "299",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "300",
+    "bike_id": "300",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "301",
+    "bike_id": "301",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "302",
+    "bike_id": "302",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "303",
+    "bike_id": "303",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "304",
+    "bike_id": "304",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "305",
+    "bike_id": "305",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "306",
+    "bike_id": "306",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "307",
+    "bike_id": "307",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "308",
+    "bike_id": "308",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "309",
+    "bike_id": "309",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "310",
+    "bike_id": "310",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "311",
+    "bike_id": "311",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "312",
+    "bike_id": "312",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "313",
+    "bike_id": "313",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "314",
+    "bike_id": "314",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "315",
+    "bike_id": "315",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "316",
+    "bike_id": "316",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "317",
+    "bike_id": "317",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "318",
+    "bike_id": "318",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "319",
+    "bike_id": "319",
+    "seat_type": "Upside Down Forks",
+    "stepup_seat": "Monoshock(Adjustable)",
+    "created_at": null,
+    "updated_at": "2023-06-22 15:11:53"
+  },
+  {
+    "id": "320",
+    "bike_id": "320",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "321",
+    "bike_id": "321",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "322",
+    "bike_id": "322",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "323",
+    "bike_id": "323",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "324",
+    "bike_id": "324",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "325",
+    "bike_id": "325",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "326",
+    "bike_id": "326",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "327",
+    "bike_id": "327",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "328",
+    "bike_id": "328",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "329",
+    "bike_id": "329",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "330",
+    "bike_id": "330",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "331",
+    "bike_id": "331",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "332",
+    "bike_id": "332",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "333",
+    "bike_id": "333",
+    "seat_type": "TELESCOPIC FORKS, ø 35 mm",
+    "stepup_seat": "MONO SHOCK ABSORBER, GAS FILLED WITH 7-STEP ADJUSTABLE PRELOAD",
+    "created_at": null,
+    "updated_at": "2023-04-08 14:59:57"
+  },
+  {
+    "id": "334",
+    "bike_id": "334",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "335",
+    "bike_id": "335",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "336",
+    "bike_id": "336",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "337",
+    "bike_id": "337",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "338",
+    "bike_id": "338",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "339",
+    "bike_id": "339",
+    "seat_type": "43mm inverted fork, fully-adjustable; 8.3-in travel",
+    "stepup_seat": "Single shock, adjustable preload (w/remote adjuster) and rebound damping; 7.9-in travel",
+    "created_at": null,
+    "updated_at": "2023-03-08 17:41:57"
+  },
+  {
+    "id": "340",
+    "bike_id": "340",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "341",
+    "bike_id": "341",
+    "seat_type": "USD Fork",
+    "stepup_seat": "Monoshock",
+    "created_at": null,
+    "updated_at": "2023-02-17 15:35:12"
+  },
+  {
+    "id": "342",
+    "bike_id": "342",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "343",
+    "bike_id": "343",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "344",
+    "bike_id": "344",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "345",
+    "bike_id": "345",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "346",
+    "bike_id": "346",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "347",
+    "bike_id": "347",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "348",
+    "bike_id": "348",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "349",
+    "bike_id": "349",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "350",
+    "bike_id": "350",
+    "seat_type": "",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "351",
+    "bike_id": "351",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "352",
+    "bike_id": "352",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "353",
+    "bike_id": "353",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "354",
+    "bike_id": "354",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "355",
+    "bike_id": "355",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "356",
+    "bike_id": "356",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "357",
+    "bike_id": "357",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "358",
+    "bike_id": "358",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "359",
+    "bike_id": "359",
+    "seat_type": "",
+    "stepup_seat": "--",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "360",
+    "bike_id": "360",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "361",
+    "bike_id": "361",
+    "seat_type": "Split",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "362",
+    "bike_id": "362",
+    "seat_type": "Single",
+    "stepup_seat": "",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "363",
+    "bike_id": "363",
+    "seat_type": "Split",
+    "stepup_seat": "Yes",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "364",
+    "bike_id": "364",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "365",
+    "bike_id": "365",
+    "seat_type": "",
+    "stepup_seat": "No",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "366",
+    "bike_id": "512",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "367",
+    "bike_id": "517",
+    "seat_type": "Hydraulic Telescopic",
+    "stepup_seat": "Double Shocker with dual tube technology",
+    "created_at": null,
+    "updated_at": "2023-02-22 12:54:08"
+  },
+  {
+    "id": "368",
+    "bike_id": "518",
+    "seat_type": "Hydraulic Telescopic",
+    "stepup_seat": "Double Shocker with dual tube technology",
+    "created_at": null,
+    "updated_at": "2023-02-22 12:59:04"
+  },
+  {
+    "id": "369",
+    "bike_id": "519",
+    "seat_type": "Hydraulic Absorber",
+    "stepup_seat": "Hydraulic Better Quality",
+    "created_at": null,
+    "updated_at": "2023-02-22 13:07:03"
+  },
+  {
+    "id": "370",
+    "bike_id": "520",
+    "seat_type": "Hydraulic Absorber",
+    "stepup_seat": "Hydraulic Better Quality",
+    "created_at": null,
+    "updated_at": "2023-02-22 13:12:51"
+  },
+  {
+    "id": "371",
+    "bike_id": "521",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Spring",
+    "created_at": null,
+    "updated_at": "2023-02-22 13:17:58"
+  },
+  {
+    "id": "372",
+    "bike_id": "522",
+    "seat_type": "Showa Race tuned Telescopic Forks",
+    "stepup_seat": "Showa Race tuned Mono Shock",
+    "created_at": "2023-02-13 13:42:33",
+    "updated_at": "2023-02-20 14:53:20"
+  },
+  {
+    "id": "373",
+    "bike_id": "522",
+    "seat_type": "Showa Race tuned Telescopic Forks",
+    "stepup_seat": "Showa Race tuned Mono Shock",
+    "created_at": "2023-02-13 15:05:18",
+    "updated_at": "2023-02-13 15:05:18"
+  },
+  {
+    "id": "374",
+    "bike_id": "523",
+    "seat_type": "Inverted cartridge telescopic Fork",
+    "stepup_seat": "Two arm Aluminium die-cast swingarm",
+    "created_at": "2023-02-14 11:48:42",
+    "updated_at": "2023-02-20 14:49:47"
+  },
+  {
+    "id": "375",
+    "bike_id": "524",
+    "seat_type": "TELESCOPIC",
+    "stepup_seat": "COIL SPRING WITH HYDRAULIC DAMPERS",
+    "created_at": "2023-02-14 17:13:49",
+    "updated_at": "2023-02-20 14:44:31"
+  },
+  {
+    "id": "376",
+    "bike_id": "525",
+    "seat_type": "Telescopic Hydraulic Shock Absorbers",
+    "stepup_seat": "Swingarm with 5-Step Adjustable Hydraulic Shock Absorbers",
+    "created_at": "2023-02-14 17:33:42",
+    "updated_at": "2023-02-20 14:40:02"
+  },
+  {
+    "id": "381",
+    "bike_id": "530",
+    "seat_type": "Telescopic Upside",
+    "stepup_seat": "Monoshock Absorber",
+    "created_at": "2023-02-16 16:48:29",
+    "updated_at": "2023-02-17 15:30:04"
+  },
+  {
+    "id": "382",
+    "bike_id": "531",
+    "seat_type": "Telescopic Forks",
+    "stepup_seat": "Pre-Load Adjustable Dual Shocks",
+    "created_at": "2023-02-16 17:01:37",
+    "updated_at": "2023-05-23 12:28:33"
+  },
+  {
+    "id": "385",
+    "bike_id": "534",
+    "seat_type": "Telescopic Fork (119 mm)",
+    "stepup_seat": "Single Shock w/Air adjust / 114mm / 63mm ride in",
+    "created_at": "2023-02-17 10:08:59",
+    "updated_at": "2023-02-17 15:14:01"
+  },
+  {
+    "id": "386",
+    "bike_id": "535",
+    "seat_type": "Inverted Telescopic Fork (130mm)",
+    "stepup_seat": "Fox Single Shock w/ Hydraulic adjust (114mm)",
+    "created_at": "2023-02-17 10:11:31",
+    "updated_at": "2023-02-17 15:07:05"
+  },
+  {
+    "id": "387",
+    "bike_id": "536",
+    "seat_type": "37mm Upside-Down Forks",
+    "stepup_seat": "Pre-Load adjustable Monoshock",
+    "created_at": "2023-02-17 10:14:09",
+    "updated_at": "2023-05-23 12:36:25"
+  },
+  {
+    "id": "388",
+    "bike_id": "537",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-17 14:38:15",
+    "updated_at": "2023-02-17 14:38:15"
+  },
+  {
+    "id": "389",
+    "bike_id": "538",
+    "seat_type": "Inverted Telescopic Fork (130mm)",
+    "stepup_seat": "Fox Single Shock w/Hyd adjust (114mm)",
+    "created_at": "2023-02-17 16:52:15",
+    "updated_at": "2023-02-17 17:00:15"
+  },
+  {
+    "id": "390",
+    "bike_id": "539",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Telescopic coil spring oil damped",
+    "created_at": "2023-02-20 09:59:48",
+    "updated_at": "2023-02-20 10:06:08"
+  },
+  {
+    "id": "391",
+    "bike_id": "540",
+    "seat_type": "Telescopic upside-down",
+    "stepup_seat": "Monoshock Side Aligned",
+    "created_at": "2023-02-20 10:09:48",
+    "updated_at": "2023-02-20 10:13:56"
+  },
+  {
+    "id": "392",
+    "bike_id": "541",
+    "seat_type": "Telescopic USD Fork",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-02-20 10:32:58",
+    "updated_at": "2023-02-20 10:38:21"
+  },
+  {
+    "id": "393",
+    "bike_id": "542",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Spring Loaded twin Absorber",
+    "created_at": "2023-02-20 10:46:06",
+    "updated_at": "2023-02-20 10:50:53"
+  },
+  {
+    "id": "394",
+    "bike_id": "543",
+    "seat_type": "N/A",
+    "stepup_seat": "N/A",
+    "created_at": "2023-02-20 10:59:02",
+    "updated_at": "2023-02-20 11:17:44"
+  },
+  {
+    "id": "395",
+    "bike_id": "544",
+    "seat_type": "N/A",
+    "stepup_seat": "N/A",
+    "created_at": "2023-02-20 11:02:24",
+    "updated_at": "2023-02-20 11:04:58"
+  },
+  {
+    "id": "396",
+    "bike_id": "545",
+    "seat_type": "Hydraulic Telescopic front",
+    "stepup_seat": "Mono shock Hydraulic rear",
+    "created_at": "2023-02-20 11:22:20",
+    "updated_at": "2023-05-29 17:18:53"
+  },
+  {
+    "id": "397",
+    "bike_id": "546",
+    "seat_type": "Hydraulic Telescopic front",
+    "stepup_seat": "Mono shock Hydraulic rear",
+    "created_at": "2023-02-20 11:28:46",
+    "updated_at": "2023-05-29 17:27:05"
+  },
+  {
+    "id": "398",
+    "bike_id": "547",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-02-20 11:40:05",
+    "updated_at": "2023-02-20 11:42:15"
+  },
+  {
+    "id": "399",
+    "bike_id": "548",
+    "seat_type": "Telescopic upside-down",
+    "stepup_seat": "N/A",
+    "created_at": "2023-02-20 11:54:19",
+    "updated_at": "2023-02-20 12:00:42"
+  },
+  {
+    "id": "400",
+    "bike_id": "549",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Spring Adjustable",
+    "created_at": "2023-02-20 12:07:07",
+    "updated_at": "2023-02-20 12:11:49"
+  },
+  {
+    "id": "401",
+    "bike_id": "550",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Pre-Load adjustable dual shocks",
+    "created_at": "2023-02-20 12:15:50",
+    "updated_at": "2023-05-23 12:32:08"
+  },
+  {
+    "id": "402",
+    "bike_id": "551",
+    "seat_type": "USD Fork",
+    "stepup_seat": "Adjustable monoshock",
+    "created_at": "2023-02-20 12:35:27",
+    "updated_at": "2023-02-20 12:40:25"
+  },
+  {
+    "id": "403",
+    "bike_id": "552",
+    "seat_type": "Dia.30 Telescopic",
+    "stepup_seat": "5 step Adjustable Hydraulic shock Absorber",
+    "created_at": "2023-02-20 14:55:46",
+    "updated_at": "2023-02-20 15:00:34"
+  },
+  {
+    "id": "404",
+    "bike_id": "553",
+    "seat_type": "Bottom link with spring-loaded hydraulic dampers",
+    "stepup_seat": "Swing Arm with spring-loaded hydraulic dampers",
+    "created_at": "2023-02-20 15:03:38",
+    "updated_at": "2023-02-20 15:07:57"
+  },
+  {
+    "id": "405",
+    "bike_id": "554",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-20 15:16:57",
+    "updated_at": "2023-02-20 15:22:40"
+  },
+  {
+    "id": "406",
+    "bike_id": "555",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-20 15:26:35",
+    "updated_at": "2023-02-20 15:31:35"
+  },
+  {
+    "id": "407",
+    "bike_id": "556",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-20 15:33:23",
+    "updated_at": "2023-02-20 15:37:40"
+  },
+  {
+    "id": "408",
+    "bike_id": "557",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-20 15:39:26",
+    "updated_at": "2023-02-20 15:44:22"
+  },
+  {
+    "id": "409",
+    "bike_id": "558",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-20 15:46:42",
+    "updated_at": "2023-02-20 16:01:39"
+  },
+  {
+    "id": "410",
+    "bike_id": "559",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-20 16:03:18",
+    "updated_at": "2023-02-20 16:08:17"
+  },
+  {
+    "id": "411",
+    "bike_id": "560",
+    "seat_type": "Hydraulic Telescopic Suspension with Mono shocker",
+    "stepup_seat": "Hydraulic Telescopic Suspension with Mono shocker",
+    "created_at": "2023-02-20 16:13:06",
+    "updated_at": "2023-02-20 16:18:04"
+  },
+  {
+    "id": "412",
+    "bike_id": "561",
+    "seat_type": "Hydraulic Telescopic Suspension with Mono shocker",
+    "stepup_seat": "Hydraulic Telescopic Suspension with Mono shocker",
+    "created_at": "2023-02-20 16:19:38",
+    "updated_at": "2023-02-20 16:22:59"
+  },
+  {
+    "id": "413",
+    "bike_id": "562",
+    "seat_type": "Hydraulic Telescopic Suspension with Mono shocker",
+    "stepup_seat": "Hydraulic Telescopic Suspension with Mono shocker",
+    "created_at": "2023-02-20 16:24:49",
+    "updated_at": "2023-02-20 16:35:03"
+  },
+  {
+    "id": "414",
+    "bike_id": "563",
+    "seat_type": "Hydraulic Telescopic Suspension with Mono shocker",
+    "stepup_seat": "Hydraulic Telescopic Suspension with Mono shocker",
+    "created_at": "2023-02-20 16:41:55",
+    "updated_at": "2023-02-20 16:48:00"
+  },
+  {
+    "id": "415",
+    "bike_id": "564",
+    "seat_type": "Showa 43 mm Big Piston Seprate functions forks, with adjustable ",
+    "stepup_seat": "Showa 40 mm Piston, Piggy-back revservoir shock with adjustable spring preload, compression and rebound damping",
+    "created_at": "2023-02-20 17:15:41",
+    "updated_at": "2023-02-20 17:23:06"
+  },
+  {
+    "id": "416",
+    "bike_id": "565",
+    "seat_type": "Showa 43 mm Big Piston Seprate functions forks, with adjustable ",
+    "stepup_seat": "Showa 40 mm Piston, Piggy-back revservoir shock with adjustable spring preload, compression and rebound damping",
+    "created_at": "2023-02-20 17:25:11",
+    "updated_at": "2023-02-27 16:31:10"
+  },
+  {
+    "id": "417",
+    "bike_id": "566",
+    "seat_type": "Showa 43 mm Big Piston Seprate functions forks, with adjustable ",
+    "stepup_seat": "Showa 40 mm Piston, Piggy-back revservoir shock with adjustable spring preload, compression and rebound damping",
+    "created_at": "2023-02-20 17:43:19",
+    "updated_at": "2023-02-20 17:51:41"
+  },
+  {
+    "id": "418",
+    "bike_id": "567",
+    "seat_type": "Showa 41 mm Big Piston Seprate functions forks, with adjustable ",
+    "stepup_seat": "Showa 40 mm Piston, Piggy-back revservoir shock with adjustable spring preload, compression and rebound damping",
+    "created_at": "2023-02-21 09:48:52",
+    "updated_at": "2023-02-21 09:54:59"
+  },
+  {
+    "id": "419",
+    "bike_id": "568",
+    "seat_type": "Showa 41 mm Inverted cartridge forks with adjustable spring prel",
+    "stepup_seat": "Showa 40 mm Piston, Piggy-back revservoir shock with adjustable spring preload, compression and rebound damping",
+    "created_at": "2023-02-21 09:57:06",
+    "updated_at": "2023-02-21 10:02:55"
+  },
+  {
+    "id": "420",
+    "bike_id": "569",
+    "seat_type": "Showa 47 mm Seprated Function cartridge forks with adjustable sp",
+    "stepup_seat": "Showa 46 mm Piston, Piggy-back revservoir shock with adjustable tool-less spring preload, compression and rebound damping",
+    "created_at": "2023-02-21 10:05:05",
+    "updated_at": "2023-02-21 10:10:58"
+  },
+  {
+    "id": "421",
+    "bike_id": "570",
+    "seat_type": "Showa 41 mm Inverted cartridge forks with adjustable spring prel",
+    "stepup_seat": "Showa 40 mm Piston, Piggy-back revservoir shock with adjustable spring preload, compression and rebound damping",
+    "created_at": "2023-02-21 10:13:34",
+    "updated_at": "2023-02-21 10:19:28"
+  },
+  {
+    "id": "422",
+    "bike_id": "571",
+    "seat_type": "Showa 41 mm Inverted cartridge forks with adjustable spring prel",
+    "stepup_seat": "Showa 41 mm Inverted cartridge forks with adjustable spring preload, compression and rebound damping",
+    "created_at": "2023-02-21 10:22:59",
+    "updated_at": "2023-02-21 10:33:14"
+  },
+  {
+    "id": "423",
+    "bike_id": "572",
+    "seat_type": "Showa 41 mm Inverted cartridge forks with adjustable spring prel",
+    "stepup_seat": "Showa 40 mm Piston, Piggy-back revservoir shock with adjustable spring preload, compression and rebound damping",
+    "created_at": "2023-02-21 10:36:36",
+    "updated_at": "2023-02-21 10:42:12"
+  },
+  {
+    "id": "424",
+    "bike_id": "573",
+    "seat_type": "Dual telescopic",
+    "stepup_seat": "Dual Suspension",
+    "created_at": "2023-02-21 11:56:53",
+    "updated_at": "2023-02-21 12:05:37"
+  },
+  {
+    "id": "425",
+    "bike_id": "574",
+    "seat_type": "100 mm Travel front suspension with lockout",
+    "stepup_seat": "Adjustable 20 mm travel",
+    "created_at": "2023-02-21 12:15:13",
+    "updated_at": "2023-02-21 12:20:56"
+  },
+  {
+    "id": "426",
+    "bike_id": "575",
+    "seat_type": "100 mm Travel front suspension with lockout",
+    "stepup_seat": "Adjustable 20 mm travel",
+    "created_at": "2023-02-21 12:22:25",
+    "updated_at": "2023-02-21 12:26:54"
+  },
+  {
+    "id": "427",
+    "bike_id": "576",
+    "seat_type": "90 mm Travel front suspension with lockout",
+    "stepup_seat": "N/A",
+    "created_at": "2023-02-21 12:28:13",
+    "updated_at": "2023-02-21 12:38:19"
+  },
+  {
+    "id": "428",
+    "bike_id": "577",
+    "seat_type": "100 mm Travel with lockout",
+    "stepup_seat": "100 mm Travel with lockout",
+    "created_at": "2023-02-21 12:29:23",
+    "updated_at": "2023-02-21 12:44:14"
+  },
+  {
+    "id": "429",
+    "bike_id": "578",
+    "seat_type": "N/A",
+    "stepup_seat": "N/A",
+    "created_at": "2023-02-21 12:30:40",
+    "updated_at": "2023-02-21 12:47:42"
+  },
+  {
+    "id": "430",
+    "bike_id": "579",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Telescopic",
+    "created_at": "2023-02-21 13:02:25",
+    "updated_at": "2023-02-21 13:31:30"
+  },
+  {
+    "id": "431",
+    "bike_id": "580",
+    "seat_type": "Dual",
+    "stepup_seat": "Dual",
+    "created_at": "2023-02-21 13:05:08",
+    "updated_at": "2023-02-21 14:21:13"
+  },
+  {
+    "id": "432",
+    "bike_id": "581",
+    "seat_type": "Dual",
+    "stepup_seat": "Dual",
+    "created_at": "2023-02-21 13:08:10",
+    "updated_at": "2023-02-21 14:25:43"
+  },
+  {
+    "id": "433",
+    "bike_id": "582",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-02-21 13:20:11",
+    "updated_at": "2023-02-21 16:49:23"
+  },
+  {
+    "id": "434",
+    "bike_id": "583",
+    "seat_type": "Dual",
+    "stepup_seat": "Dual",
+    "created_at": "2023-02-21 13:26:37",
+    "updated_at": "2023-02-22 09:56:33"
+  },
+  {
+    "id": "435",
+    "bike_id": "584",
+    "seat_type": "Dual telescopic",
+    "stepup_seat": "Dual Suspension",
+    "created_at": "2023-02-21 13:53:26",
+    "updated_at": "2023-02-22 10:04:01"
+  },
+  {
+    "id": "436",
+    "bike_id": "585",
+    "seat_type": "Dual Suspension",
+    "stepup_seat": "Dual Suspension",
+    "created_at": "2023-02-22 10:25:56",
+    "updated_at": "2023-02-22 10:31:05"
+  },
+  {
+    "id": "437",
+    "bike_id": "586",
+    "seat_type": "Dual Suspension",
+    "stepup_seat": "Dual Suspension",
+    "created_at": "2023-02-22 10:35:06",
+    "updated_at": "2023-02-22 10:39:07"
+  },
+  {
+    "id": "438",
+    "bike_id": "587",
+    "seat_type": "Hydraulic Telescopic Suspension with Mono shocker",
+    "stepup_seat": "Hydraulic Telescopic Suspension with Mono shocker",
+    "created_at": "2023-02-22 10:50:06",
+    "updated_at": "2023-02-22 10:53:52"
+  },
+  {
+    "id": "439",
+    "bike_id": "588",
+    "seat_type": "Dual telescopic",
+    "stepup_seat": "Dual Suspension",
+    "created_at": "2023-02-22 10:59:24",
+    "updated_at": "2023-02-22 11:04:17"
+  },
+  {
+    "id": "440",
+    "bike_id": "589",
+    "seat_type": "Dual telescopic",
+    "stepup_seat": "Dual Suspension",
+    "created_at": "2023-02-22 11:23:53",
+    "updated_at": "2023-02-22 11:28:36"
+  },
+  {
+    "id": "441",
+    "bike_id": "590",
+    "seat_type": "Dual Suspension",
+    "stepup_seat": "Dual Suspension",
+    "created_at": "2023-02-22 11:38:05",
+    "updated_at": "2023-02-22 12:02:18"
+  },
+  {
+    "id": "442",
+    "bike_id": "591",
+    "seat_type": "Dual telescopic",
+    "stepup_seat": "Dual Suspension",
+    "created_at": "2023-02-22 11:40:33",
+    "updated_at": "2023-02-22 11:47:00"
+  },
+  {
+    "id": "443",
+    "bike_id": "592",
+    "seat_type": "Dual telescopic",
+    "stepup_seat": "Dual Suspension",
+    "created_at": "2023-02-22 12:10:59",
+    "updated_at": "2023-02-22 12:16:02"
+  },
+  {
+    "id": "444",
+    "bike_id": "593",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Telescopic",
+    "created_at": "2023-02-22 12:13:14",
+    "updated_at": "2023-02-22 12:27:01"
+  },
+  {
+    "id": "445",
+    "bike_id": "594",
+    "seat_type": "Telescopic USD Fork",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-02-22 12:20:40",
+    "updated_at": "2023-02-22 12:24:32"
+  },
+  {
+    "id": "446",
+    "bike_id": "595",
+    "seat_type": "Dual telescopic",
+    "stepup_seat": "Dual Suspension",
+    "created_at": "2023-02-22 12:28:50",
+    "updated_at": "2023-02-22 12:34:52"
+  },
+  {
+    "id": "447",
+    "bike_id": "596",
+    "seat_type": "Dual Telescopic",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-02-22 12:42:51",
+    "updated_at": "2023-02-22 12:49:07"
+  },
+  {
+    "id": "448",
+    "bike_id": "597",
+    "seat_type": "Dual Telescopic",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-02-22 13:21:51",
+    "updated_at": "2023-02-22 13:26:28"
+  },
+  {
+    "id": "449",
+    "bike_id": "598",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-22 14:22:47",
+    "updated_at": "2023-02-22 14:30:37"
+  },
+  {
+    "id": "450",
+    "bike_id": "599",
+    "seat_type": "N/A",
+    "stepup_seat": "N/A",
+    "created_at": "2023-02-22 14:33:00",
+    "updated_at": "2023-02-22 14:36:37"
+  },
+  {
+    "id": "451",
+    "bike_id": "600",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-22 14:38:16",
+    "updated_at": "2023-02-22 14:42:57"
+  },
+  {
+    "id": "452",
+    "bike_id": "601",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-22 14:50:12",
+    "updated_at": "2023-02-22 15:13:42"
+  },
+  {
+    "id": "453",
+    "bike_id": "602",
+    "seat_type": "Telescopic Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-22 14:52:44",
+    "updated_at": "2023-02-22 15:21:08"
+  },
+  {
+    "id": "454",
+    "bike_id": "603",
+    "seat_type": "N/A",
+    "stepup_seat": "N/A",
+    "created_at": "2023-02-22 15:29:37",
+    "updated_at": "2023-02-22 16:39:05"
+  },
+  {
+    "id": "455",
+    "bike_id": "604",
+    "seat_type": "Upright Telescopic Forks",
+    "stepup_seat": "Hydraulic spring loaded shock absorber",
+    "created_at": "2023-02-22 16:54:22",
+    "updated_at": "2023-02-22 17:11:52"
+  },
+  {
+    "id": "456",
+    "bike_id": "605",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Hydrolic spring loaded shock",
+    "created_at": "2023-02-22 17:08:17",
+    "updated_at": "2023-02-22 17:23:17"
+  },
+  {
+    "id": "457",
+    "bike_id": "606",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Hydrolic spring loaded shock",
+    "created_at": "2023-02-22 17:14:01",
+    "updated_at": "2023-02-22 17:19:24"
+  },
+  {
+    "id": "458",
+    "bike_id": "607",
+    "seat_type": "Telescopic, 31mm Conventional Fork",
+    "stepup_seat": "Twin Shock absorber, Gas filled with Canister",
+    "created_at": "2023-02-22 17:36:35",
+    "updated_at": "2023-02-22 17:42:33"
+  },
+  {
+    "id": "459",
+    "bike_id": "608",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-22 17:43:46",
+    "updated_at": "2023-02-22 17:43:46"
+  },
+  {
+    "id": "460",
+    "bike_id": "609",
+    "seat_type": "Twin",
+    "stepup_seat": "Monocoil",
+    "created_at": "2023-02-23 10:09:53",
+    "updated_at": "2023-02-23 10:18:39"
+  },
+  {
+    "id": "461",
+    "bike_id": "610",
+    "seat_type": "Twin",
+    "stepup_seat": "Monocoil",
+    "created_at": "2023-02-23 10:10:58",
+    "updated_at": "2023-02-23 10:22:27"
+  },
+  {
+    "id": "462",
+    "bike_id": "611",
+    "seat_type": "Twin",
+    "stepup_seat": "Monocoil",
+    "created_at": "2023-02-23 10:27:37",
+    "updated_at": "2023-02-23 10:32:52"
+  },
+  {
+    "id": "463",
+    "bike_id": "612",
+    "seat_type": "Twin",
+    "stepup_seat": "Monocoil",
+    "created_at": "2023-02-23 10:34:59",
+    "updated_at": "2023-02-23 10:43:04"
+  },
+  {
+    "id": "464",
+    "bike_id": "613",
+    "seat_type": "Twin",
+    "stepup_seat": "Monocoil",
+    "created_at": "2023-02-23 10:46:32",
+    "updated_at": "2023-02-23 10:51:16"
+  },
+  {
+    "id": "465",
+    "bike_id": "614",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-23 10:53:32",
+    "updated_at": "2023-02-23 10:53:32"
+  },
+  {
+    "id": "466",
+    "bike_id": "615",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-23 10:59:43",
+    "updated_at": "2023-02-23 10:59:43"
+  },
+  {
+    "id": "467",
+    "bike_id": "616",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-23 11:19:00",
+    "updated_at": "2023-02-23 11:19:00"
+  },
+  {
+    "id": "468",
+    "bike_id": "617",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-02-23 11:22:15",
+    "updated_at": "2023-02-23 11:41:16"
+  },
+  {
+    "id": "469",
+    "bike_id": "618",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-23 11:26:00",
+    "updated_at": "2023-02-23 11:26:00"
+  },
+  {
+    "id": "470",
+    "bike_id": "619",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-23 11:40:42",
+    "updated_at": "2023-02-23 11:40:42"
+  },
+  {
+    "id": "471",
+    "bike_id": "620",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-23 11:48:55",
+    "updated_at": "2023-02-23 11:48:55"
+  },
+  {
+    "id": "472",
+    "bike_id": "621",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-23 12:02:20",
+    "updated_at": "2023-02-23 12:15:29"
+  },
+  {
+    "id": "473",
+    "bike_id": "622",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-23 12:18:33",
+    "updated_at": "2023-02-23 12:21:48"
+  },
+  {
+    "id": "474",
+    "bike_id": "623",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-23 12:26:24",
+    "updated_at": "2023-02-23 12:28:42"
+  },
+  {
+    "id": "475",
+    "bike_id": "624",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-23 12:30:35",
+    "updated_at": "2023-02-23 12:32:56"
+  },
+  {
+    "id": "476",
+    "bike_id": "625",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-23 12:34:22",
+    "updated_at": "2023-02-23 12:36:27"
+  },
+  {
+    "id": "477",
+    "bike_id": "626",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-23 12:45:26",
+    "updated_at": "2023-02-23 12:49:02"
+  },
+  {
+    "id": "478",
+    "bike_id": "627",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-23 12:51:18",
+    "updated_at": "2023-02-23 12:55:05"
+  },
+  {
+    "id": "479",
+    "bike_id": "628",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-23 12:56:44",
+    "updated_at": "2023-02-23 13:02:05"
+  },
+  {
+    "id": "480",
+    "bike_id": "629",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-23 13:03:38",
+    "updated_at": "2023-02-23 13:10:07"
+  },
+  {
+    "id": "481",
+    "bike_id": "630",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-23 13:12:36",
+    "updated_at": "2023-02-23 13:15:12"
+  },
+  {
+    "id": "482",
+    "bike_id": "631",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-23 13:16:38",
+    "updated_at": "2023-02-23 13:21:17"
+  },
+  {
+    "id": "483",
+    "bike_id": "632",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-23 13:22:48",
+    "updated_at": "2023-02-23 13:25:23"
+  },
+  {
+    "id": "484",
+    "bike_id": "633",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-23 13:27:06",
+    "updated_at": "2023-02-23 13:29:14"
+  },
+  {
+    "id": "485",
+    "bike_id": "634",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-23 14:30:16",
+    "updated_at": "2023-02-23 14:41:32"
+  },
+  {
+    "id": "486",
+    "bike_id": "635",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-02-23 14:43:28",
+    "updated_at": "2023-02-23 14:48:04"
+  },
+  {
+    "id": "487",
+    "bike_id": "636",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-23 15:03:00",
+    "updated_at": "2023-02-23 15:03:00"
+  },
+  {
+    "id": "488",
+    "bike_id": "637",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-23 15:04:45",
+    "updated_at": "2023-02-23 15:04:45"
+  },
+  {
+    "id": "489",
+    "bike_id": "638",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-23 15:06:16",
+    "updated_at": "2023-02-23 15:06:16"
+  },
+  {
+    "id": "490",
+    "bike_id": "639",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-23 15:07:51",
+    "updated_at": "2023-02-23 15:07:51"
+  },
+  {
+    "id": "491",
+    "bike_id": "640",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-23 15:37:07",
+    "updated_at": "2023-02-23 15:37:07"
+  },
+  {
+    "id": "492",
+    "bike_id": "641",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-23 15:55:21",
+    "updated_at": "2023-02-23 15:55:21"
+  },
+  {
+    "id": "493",
+    "bike_id": "642",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-23 16:07:09",
+    "updated_at": "2023-02-23 16:07:09"
+  },
+  {
+    "id": "494",
+    "bike_id": "643",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-23 16:14:52",
+    "updated_at": "2023-02-23 16:14:52"
+  },
+  {
+    "id": "495",
+    "bike_id": "644",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Telescopic",
+    "created_at": "2023-02-23 16:36:20",
+    "updated_at": "2023-02-23 16:42:34"
+  },
+  {
+    "id": "496",
+    "bike_id": "645",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-23 16:45:34",
+    "updated_at": "2023-02-23 16:45:34"
+  },
+  {
+    "id": "497",
+    "bike_id": "646",
+    "seat_type": "Telescopic Fork / 119 mm",
+    "stepup_seat": "Single Shock w/Air adjust / 114mm / 45.7mm ride in",
+    "created_at": "2023-02-24 10:42:05",
+    "updated_at": "2023-02-24 11:49:52"
+  },
+  {
+    "id": "498",
+    "bike_id": "647",
+    "seat_type": "Telescopic Fork / 119 mm",
+    "stepup_seat": "Single Shock w/Air adjust / 114mm / 63mm ride in",
+    "created_at": "2023-02-24 10:47:11",
+    "updated_at": "2023-02-24 11:55:41"
+  },
+  {
+    "id": "499",
+    "bike_id": "648",
+    "seat_type": "Inverted Telescopic Fork/ 130mm",
+    "stepup_seat": "Fox Single Shock w/Hyd adjust / 114mm",
+    "created_at": "2023-02-24 10:49:48",
+    "updated_at": "2023-02-24 12:00:29"
+  },
+  {
+    "id": "500",
+    "bike_id": "649",
+    "seat_type": "Inverted Telescopic Fork/ 130mm",
+    "stepup_seat": "Fox Single Shock w/Hyd adjust / 114mm",
+    "created_at": "2023-02-24 10:51:34",
+    "updated_at": "2023-02-24 12:05:38"
+  },
+  {
+    "id": "501",
+    "bike_id": "650",
+    "seat_type": "Telescopic Fork / 119 mm",
+    "stepup_seat": "Single Shock w/ Air Adjust / 114 mm / 63 mm ride in",
+    "created_at": "2023-02-24 10:53:41",
+    "updated_at": "2023-02-24 12:11:24"
+  },
+  {
+    "id": "502",
+    "bike_id": "651",
+    "seat_type": "Telescopic Fork / 119 mm",
+    "stepup_seat": "Single Shock w/ Air Adjust / 114 mm / 63 mm ride in",
+    "created_at": "2023-02-24 10:59:35",
+    "updated_at": "2023-02-24 12:18:27"
+  },
+  {
+    "id": "503",
+    "bike_id": "652",
+    "seat_type": "Telescopic Fork / 119 mm",
+    "stepup_seat": "Single Shock w/ Air Adjust / 114 mm / 63 mm ride in",
+    "created_at": "2023-02-24 11:01:57",
+    "updated_at": "2023-02-24 12:24:58"
+  },
+  {
+    "id": "504",
+    "bike_id": "653",
+    "seat_type": "Telescopic Fork / 119 mm",
+    "stepup_seat": "Single Shock w/Air adjust / 114mm / 45.7mm ride in",
+    "created_at": "2023-02-24 11:03:34",
+    "updated_at": "2023-02-24 12:45:21"
+  },
+  {
+    "id": "505",
+    "bike_id": "654",
+    "seat_type": "Ohlins Fully Adjustable Inverted Telescopic Cartridge",
+    "stepup_seat": "Ohlins Fully Adjustable Piggyback IFP / 120mm",
+    "created_at": "2023-02-24 11:09:44",
+    "updated_at": "2023-02-24 12:52:40"
+  },
+  {
+    "id": "506",
+    "bike_id": "655",
+    "seat_type": "ZF Sachs Fully Adjustable Inverted Telescopic Cartridge Fork",
+    "stepup_seat": "ZF Sachs Fully Adjustable Piggyback 120 mm\\",
+    "created_at": "2023-02-24 11:21:44",
+    "updated_at": "2023-02-24 12:57:56"
+  },
+  {
+    "id": "507",
+    "bike_id": "656",
+    "seat_type": "Inverted Telescopic Cartridge Fork",
+    "stepup_seat": "ZF Sachs Fully Adjustable Piggyback IFP",
+    "created_at": "2023-02-24 11:25:55",
+    "updated_at": "2023-02-24 13:03:09"
+  },
+  {
+    "id": "508",
+    "bike_id": "657",
+    "seat_type": "ZF Sachs Fully Adjustable Inverted Telescopic Cartridge Fork",
+    "stepup_seat": "ZF Sachs Fully Adjustable Piggyback IFP / 120mm",
+    "created_at": "2023-02-24 11:28:27",
+    "updated_at": "2023-02-24 13:12:13"
+  },
+  {
+    "id": "509",
+    "bike_id": "658",
+    "seat_type": "Telescopic Fork/120 mm",
+    "stepup_seat": "Dual Shocl/51mm",
+    "created_at": "2023-02-24 11:31:23",
+    "updated_at": "2023-02-24 13:17:18"
+  },
+  {
+    "id": "510",
+    "bike_id": "659",
+    "seat_type": "Telescopic Fork/120 mm",
+    "stepup_seat": "Dual Shocl/51mm",
+    "created_at": "2023-02-24 11:33:27",
+    "updated_at": "2023-02-24 13:21:50"
+  },
+  {
+    "id": "511",
+    "bike_id": "660",
+    "seat_type": "Telescopic Fork/120 mm",
+    "stepup_seat": "Dual Shocl/51mm",
+    "created_at": "2023-02-24 11:36:02",
+    "updated_at": "2023-02-24 13:25:55"
+  },
+  {
+    "id": "512",
+    "bike_id": "661",
+    "seat_type": "Telescopic Fork/120 mm",
+    "stepup_seat": "Dual Shocl/76mm",
+    "created_at": "2023-02-24 11:39:08",
+    "updated_at": "2023-02-24 13:29:55"
+  },
+  {
+    "id": "513",
+    "bike_id": "662",
+    "seat_type": "Hydraulic telescopic",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-02-24 14:36:25",
+    "updated_at": "2023-02-24 14:40:08"
+  },
+  {
+    "id": "514",
+    "bike_id": "663",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Telescopic coil spring oil damped",
+    "created_at": "2023-02-24 14:45:38",
+    "updated_at": "2023-02-24 14:55:28"
+  },
+  {
+    "id": "515",
+    "bike_id": "664",
+    "seat_type": "Telescopic upside-down",
+    "stepup_seat": "Telescopic coil spring oil damped",
+    "created_at": "2023-02-24 14:49:41",
+    "updated_at": "2023-02-24 14:59:01"
+  },
+  {
+    "id": "516",
+    "bike_id": "665",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Telescopic coil spring oil damped",
+    "created_at": "2023-02-24 14:52:14",
+    "updated_at": "2023-02-24 15:01:49"
+  },
+  {
+    "id": "517",
+    "bike_id": "666",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-24 15:07:31",
+    "updated_at": "2023-02-24 15:07:31"
+  },
+  {
+    "id": "518",
+    "bike_id": "667",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-24 15:21:33",
+    "updated_at": "2023-02-24 15:21:33"
+  },
+  {
+    "id": "519",
+    "bike_id": "668",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-24 15:24:44",
+    "updated_at": "2023-02-24 15:24:44"
+  },
+  {
+    "id": "520",
+    "bike_id": "669",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-24 15:27:43",
+    "updated_at": "2023-02-24 15:27:43"
+  },
+  {
+    "id": "521",
+    "bike_id": "670",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-24 15:30:52",
+    "updated_at": "2023-02-24 15:30:52"
+  },
+  {
+    "id": "522",
+    "bike_id": "671",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-02-24 15:37:14",
+    "updated_at": "2023-02-24 15:39:37"
+  },
+  {
+    "id": "523",
+    "bike_id": "672",
+    "seat_type": "Dual Suspension",
+    "stepup_seat": "Dual Suspension",
+    "created_at": "2023-02-25 10:48:38",
+    "updated_at": "2023-02-25 10:51:44"
+  },
+  {
+    "id": "524",
+    "bike_id": "673",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "MonoShock",
+    "created_at": "2023-02-25 11:32:18",
+    "updated_at": "2023-02-25 11:43:35"
+  },
+  {
+    "id": "525",
+    "bike_id": "674",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-25 11:33:34",
+    "updated_at": "2023-02-25 11:33:34"
+  },
+  {
+    "id": "526",
+    "bike_id": "675",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Dual",
+    "created_at": "2023-02-25 11:58:34",
+    "updated_at": "2023-02-25 12:06:17"
+  },
+  {
+    "id": "527",
+    "bike_id": "676",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Mono",
+    "created_at": "2023-02-25 12:00:06",
+    "updated_at": "2023-02-25 12:13:04"
+  },
+  {
+    "id": "528",
+    "bike_id": "677",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Mono",
+    "created_at": "2023-02-25 12:00:49",
+    "updated_at": "2023-02-25 12:18:19"
+  },
+  {
+    "id": "529",
+    "bike_id": "678",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-25 14:38:41",
+    "updated_at": "2023-02-25 14:38:41"
+  },
+  {
+    "id": "530",
+    "bike_id": "679",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-25 14:39:43",
+    "updated_at": "2023-02-25 14:39:43"
+  },
+  {
+    "id": "531",
+    "bike_id": "680",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Hydraulic Spring",
+    "created_at": "2023-02-25 14:41:00",
+    "updated_at": "2023-02-25 14:52:58"
+  },
+  {
+    "id": "532",
+    "bike_id": "681",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-25 14:42:19",
+    "updated_at": "2023-02-25 14:42:19"
+  },
+  {
+    "id": "533",
+    "bike_id": "682",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Telescopic",
+    "created_at": "2023-02-25 16:02:11",
+    "updated_at": "2023-02-25 16:13:24"
+  },
+  {
+    "id": "534",
+    "bike_id": "683",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Telescopic",
+    "created_at": "2023-02-25 16:03:46",
+    "updated_at": "2023-02-25 16:16:02"
+  },
+  {
+    "id": "535",
+    "bike_id": "684",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic Telescopic",
+    "created_at": "2023-02-25 16:05:04",
+    "updated_at": "2023-02-25 16:19:07"
+  },
+  {
+    "id": "536",
+    "bike_id": "685",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Telescopic Shocker",
+    "created_at": "2023-02-25 16:06:08",
+    "updated_at": "2023-02-25 16:22:14"
+  },
+  {
+    "id": "537",
+    "bike_id": "686",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Telescopic",
+    "created_at": "2023-02-25 16:07:13",
+    "updated_at": "2023-02-25 16:25:07"
+  },
+  {
+    "id": "538",
+    "bike_id": "687",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-25 16:08:05",
+    "updated_at": "2023-02-25 16:08:05"
+  },
+  {
+    "id": "539",
+    "bike_id": "688",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-02-25 16:09:05",
+    "updated_at": "2023-02-25 16:09:05"
+  },
+  {
+    "id": "540",
+    "bike_id": "689",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Telescopic",
+    "created_at": "2023-02-25 16:10:19",
+    "updated_at": "2023-02-25 16:34:09"
+  },
+  {
+    "id": "541",
+    "bike_id": "690",
+    "seat_type": "Telescopic, coil spring, oil damped",
+    "stepup_seat": "Link type, single shock, coil spring, oil damped",
+    "created_at": "2023-02-28 10:20:13",
+    "updated_at": "2023-02-28 11:19:52"
+  },
+  {
+    "id": "542",
+    "bike_id": "691",
+    "seat_type": "telescopic",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-02-28 10:23:02",
+    "updated_at": "2023-02-28 11:23:03"
+  },
+  {
+    "id": "543",
+    "bike_id": "692",
+    "seat_type": "Telescopic fork",
+    "stepup_seat": "Twin shock adjustable",
+    "created_at": "2023-02-28 10:25:07",
+    "updated_at": "2023-02-28 11:33:00"
+  },
+  {
+    "id": "544",
+    "bike_id": "693",
+    "seat_type": "41 mm Inverted Telescopic Forks",
+    "stepup_seat": "Rear Swing Arm with Central Shock Absorber",
+    "created_at": "2023-02-28 10:29:09",
+    "updated_at": "2023-02-28 11:37:57"
+  },
+  {
+    "id": "545",
+    "bike_id": "694",
+    "seat_type": "Inverted telescopic, coil spring oil damped",
+    "stepup_seat": "Link type, coil spring, oil damped",
+    "created_at": "2023-02-28 10:31:58",
+    "updated_at": "2023-02-28 11:42:34"
+  },
+  {
+    "id": "546",
+    "bike_id": "695",
+    "seat_type": "37mm Upside-Down Forks",
+    "stepup_seat": "Pre-Load Adjustable Monoshock",
+    "created_at": "2023-02-28 10:36:31",
+    "updated_at": "2023-05-23 12:39:22"
+  },
+  {
+    "id": "547",
+    "bike_id": "696",
+    "seat_type": "KYB inverted forks, adjustable by preload 120 mm",
+    "stepup_seat": "Mono-shock Absorber KYB Pro-Link, adjustable preload 90 mm",
+    "created_at": "2023-02-28 10:40:31",
+    "updated_at": "2023-02-28 11:59:54"
+  },
+  {
+    "id": "548",
+    "bike_id": "697",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Telescopic Coil Spring Oil Damped",
+    "created_at": "2023-02-28 10:43:57",
+    "updated_at": "2023-02-28 12:04:34"
+  },
+  {
+    "id": "549",
+    "bike_id": "698",
+    "seat_type": "Telescopic Upside-Down",
+    "stepup_seat": "Telescopic coil spring oil damped",
+    "created_at": "2023-02-28 10:45:52",
+    "updated_at": "2023-02-28 12:07:58"
+  },
+  {
+    "id": "550",
+    "bike_id": "699",
+    "seat_type": "telescopic fork",
+    "stepup_seat": "monoshock",
+    "created_at": "2023-02-28 10:47:55",
+    "updated_at": "2023-02-28 12:11:33"
+  },
+  {
+    "id": "551",
+    "bike_id": "700",
+    "seat_type": "telescopic fork",
+    "stepup_seat": "monoshock",
+    "created_at": "2023-02-28 10:53:40",
+    "updated_at": "2023-02-28 12:14:54"
+  },
+  {
+    "id": "552",
+    "bike_id": "701",
+    "seat_type": "USD fork",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-02-28 11:00:53",
+    "updated_at": "2023-02-28 12:35:08"
+  },
+  {
+    "id": "553",
+    "bike_id": "702",
+    "seat_type": "Inverted telescopic, coil spring, oil damped",
+    "stepup_seat": "Link-type, coil spring, oil damped",
+    "created_at": "2023-02-28 11:12:53",
+    "updated_at": "2023-02-28 11:47:46"
+  },
+  {
+    "id": "555",
+    "bike_id": "704",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-02-28 13:11:01",
+    "updated_at": "2023-02-28 13:24:35"
+  },
+  {
+    "id": "556",
+    "bike_id": "705",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-02-28 13:12:20",
+    "updated_at": "2023-02-28 13:31:02"
+  },
+  {
+    "id": "557",
+    "bike_id": "706",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Spring Loaded",
+    "created_at": "2023-03-01 10:06:46",
+    "updated_at": "2023-03-01 11:22:20"
+  },
+  {
+    "id": "558",
+    "bike_id": "707",
+    "seat_type": "Telescopic",
+    "stepup_seat": "4 Spring loaded Hydraulic",
+    "created_at": "2023-03-01 10:11:08",
+    "updated_at": "2023-03-01 11:18:26"
+  },
+  {
+    "id": "559",
+    "bike_id": "708",
+    "seat_type": "Telescopic Dual suspension",
+    "stepup_seat": "Coiled Spring Dual Suspension",
+    "created_at": "2023-03-01 10:14:55",
+    "updated_at": "2023-03-01 11:05:37"
+  },
+  {
+    "id": "560",
+    "bike_id": "709",
+    "seat_type": "Telescopic fork",
+    "stepup_seat": "Monoshock absorber",
+    "created_at": "2023-03-01 10:23:31",
+    "updated_at": "2023-03-01 10:59:05"
+  },
+  {
+    "id": "561",
+    "bike_id": "710",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-03-01 10:36:55",
+    "updated_at": "2023-03-01 10:51:39"
+  },
+  {
+    "id": "562",
+    "bike_id": "711",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-01 10:41:13",
+    "updated_at": "2023-03-01 10:41:13"
+  },
+  {
+    "id": "563",
+    "bike_id": "712",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-01 11:25:25",
+    "updated_at": "2023-03-01 11:25:25"
+  },
+  {
+    "id": "564",
+    "bike_id": "713",
+    "seat_type": "Dual Suspension",
+    "stepup_seat": "Dual Suspension",
+    "created_at": "2023-03-01 11:45:06",
+    "updated_at": "2023-03-01 11:50:51"
+  },
+  {
+    "id": "565",
+    "bike_id": "714",
+    "seat_type": "3 stage air springs with individual setup for ride heights and b",
+    "stepup_seat": "205mm Öhlins TTX22 shock with CAKE internals and spring. Used with linkage for optimal performance.",
+    "created_at": "2023-03-01 12:09:07",
+    "updated_at": "2023-03-01 12:18:57"
+  },
+  {
+    "id": "566",
+    "bike_id": "715",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-03-01 12:24:21",
+    "updated_at": "2023-03-01 12:33:37"
+  },
+  {
+    "id": "567",
+    "bike_id": "716",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-03-01 12:27:53",
+    "updated_at": "2023-03-01 12:43:00"
+  },
+  {
+    "id": "568",
+    "bike_id": "717",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Telescopic coil spring oil damped",
+    "created_at": "2023-03-01 12:45:53",
+    "updated_at": "2023-03-01 12:57:54"
+  },
+  {
+    "id": "569",
+    "bike_id": "718",
+    "seat_type": "Dual Suspension",
+    "stepup_seat": "Dual Suspension",
+    "created_at": "2023-03-01 13:04:40",
+    "updated_at": "2023-03-01 13:09:21"
+  },
+  {
+    "id": "570",
+    "bike_id": "719",
+    "seat_type": "Dual Suspension",
+    "stepup_seat": "Dual Suspension",
+    "created_at": "2023-03-01 13:11:40",
+    "updated_at": "2023-03-01 13:14:28"
+  },
+  {
+    "id": "571",
+    "bike_id": "720",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-01 13:22:55",
+    "updated_at": "2023-03-01 13:22:55"
+  },
+  {
+    "id": "572",
+    "bike_id": "721",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-03-01 13:28:47",
+    "updated_at": "2023-03-01 14:34:09"
+  },
+  {
+    "id": "573",
+    "bike_id": "722",
+    "seat_type": "Telescopic",
+    "stepup_seat": "3-Step Adjustable Spring Loaded Hydraulic",
+    "created_at": "2023-03-02 14:36:23",
+    "updated_at": "2023-03-02 14:48:11"
+  },
+  {
+    "id": "574",
+    "bike_id": "723",
+    "seat_type": "37mm Inverted SFF-BP Fork with Adjustable Preload and Top-out Sp",
+    "stepup_seat": "Adjustable Monoshock, Horizontal Back-Link, Gas-Charged Shock with Spring Preload Adjustability",
+    "created_at": "2023-03-02 15:48:10",
+    "updated_at": "2023-03-02 15:59:07"
+  },
+  {
+    "id": "575",
+    "bike_id": "724",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-02 15:53:14",
+    "updated_at": "2023-03-02 15:53:14"
+  },
+  {
+    "id": "576",
+    "bike_id": "725",
+    "seat_type": "Showa Big Piston fork",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-03-02 16:07:13",
+    "updated_at": "2023-03-02 16:10:25"
+  },
+  {
+    "id": "577",
+    "bike_id": "726",
+    "seat_type": "WP semi-active suspension USD Ø 48 mm (GEN.2)",
+    "stepup_seat": "WP semi-active rear shock (GEN.2)",
+    "created_at": "2023-03-02 16:16:18",
+    "updated_at": "2023-03-02 16:19:46"
+  },
+  {
+    "id": "578",
+    "bike_id": "727",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Swing Arm with Single Shock Absorber",
+    "created_at": "2023-03-02 16:22:51",
+    "updated_at": "2023-03-02 16:38:29"
+  },
+  {
+    "id": "579",
+    "bike_id": "728",
+    "seat_type": "Fully adjustable USD Fork",
+    "stepup_seat": "Fully Adjustable monoshock, aluminium Single-sided  Swingarm",
+    "created_at": "2023-03-03 10:37:22",
+    "updated_at": "2023-03-03 11:05:58"
+  },
+  {
+    "id": "580",
+    "bike_id": "729",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-03 10:40:06",
+    "updated_at": "2023-03-03 10:40:06"
+  },
+  {
+    "id": "581",
+    "bike_id": "730",
+    "seat_type": "telescopic front forks",
+    "stepup_seat": "dual rear shocks",
+    "created_at": "2023-03-03 10:44:45",
+    "updated_at": "2023-03-03 11:30:06"
+  },
+  {
+    "id": "582",
+    "bike_id": "731",
+    "seat_type": "Telescopic front forks",
+    "stepup_seat": "Dual rear shocks",
+    "created_at": "2023-03-03 10:47:25",
+    "updated_at": "2023-03-03 11:38:56"
+  },
+  {
+    "id": "583",
+    "bike_id": "732",
+    "seat_type": "Fully adjustable  usd forks",
+    "stepup_seat": "Fully Adjustable Monoshock",
+    "created_at": "2023-03-03 10:53:10",
+    "updated_at": "2023-03-03 11:49:27"
+  },
+  {
+    "id": "584",
+    "bike_id": "733",
+    "seat_type": "37 mm Upside Down Telescopic Front Forks",
+    "stepup_seat": "Linked Type Monocross Suspension with Adjustable Preload",
+    "created_at": "2023-03-03 10:58:41",
+    "updated_at": "2023-03-03 11:55:33"
+  },
+  {
+    "id": "585",
+    "bike_id": "734",
+    "seat_type": "Hydraulic telescopic fork with straight stanchions",
+    "stepup_seat": "Hydraulic single shock absorber w. spring preload",
+    "created_at": "2023-03-03 12:26:33",
+    "updated_at": "2023-03-03 12:30:53"
+  },
+  {
+    "id": "586",
+    "bike_id": "735",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Twin Suspension",
+    "created_at": "2023-03-03 12:41:43",
+    "updated_at": "2023-03-03 12:47:26"
+  },
+  {
+    "id": "587",
+    "bike_id": "736",
+    "seat_type": "Front telescopic",
+    "stepup_seat": "Adjustable rear coil spring",
+    "created_at": "2023-03-06 10:09:45",
+    "updated_at": "2023-03-06 10:16:18"
+  },
+  {
+    "id": "588",
+    "bike_id": "737",
+    "seat_type": "Telescopic, with anti-friction bush",
+    "stepup_seat": "5 way adjustable, Nitrox shock absorber",
+    "created_at": "2023-03-06 10:19:49",
+    "updated_at": "2023-03-06 10:24:47"
+  },
+  {
+    "id": "589",
+    "bike_id": "738",
+    "seat_type": "Φ37 Inverted hydraulic damping shock absorber",
+    "stepup_seat": "Center shock",
+    "created_at": "2023-03-06 10:29:02",
+    "updated_at": "2023-03-06 10:36:15"
+  },
+  {
+    "id": "590",
+    "bike_id": "739",
+    "seat_type": "Telescopic fork",
+    "stepup_seat": "monoshock",
+    "created_at": "2023-03-06 10:46:54",
+    "updated_at": "2023-03-06 10:58:58"
+  },
+  {
+    "id": "591",
+    "bike_id": "740",
+    "seat_type": "Telescopic Fork 41 mm",
+    "stepup_seat": "Suspension Monocross",
+    "created_at": "2023-03-06 11:01:51",
+    "updated_at": "2023-03-06 11:09:58"
+  },
+  {
+    "id": "592",
+    "bike_id": "741",
+    "seat_type": "Upside down telescopic fork, fully adjustable in preload, dampin",
+    "stepup_seat": "Single shock absorber adjustable in preload and rebound damping",
+    "created_at": "2023-03-06 11:17:18",
+    "updated_at": "2023-03-06 11:40:14"
+  },
+  {
+    "id": "593",
+    "bike_id": "742",
+    "seat_type": "Inverted front forks 140 mm",
+    "stepup_seat": "Horizontally mounted monoshock",
+    "created_at": "2023-03-06 12:04:48",
+    "updated_at": "2023-03-06 12:17:36"
+  },
+  {
+    "id": "594",
+    "bike_id": "743",
+    "seat_type": "Telescopic upside Down Fork (USD Fork)",
+    "stepup_seat": "Linked-Type Monocross Suspension",
+    "created_at": "2023-03-06 12:20:27",
+    "updated_at": "2023-03-06 12:36:59"
+  },
+  {
+    "id": "595",
+    "bike_id": "744",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-06 12:46:10",
+    "updated_at": "2023-03-06 12:46:10"
+  },
+  {
+    "id": "596",
+    "bike_id": "745",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-06 13:00:45",
+    "updated_at": "2023-03-06 13:00:45"
+  },
+  {
+    "id": "597",
+    "bike_id": "746",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Twin Tube",
+    "created_at": "2023-03-06 13:18:00",
+    "updated_at": "2023-03-06 13:26:01"
+  },
+  {
+    "id": "598",
+    "bike_id": "747",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Spring Loaded hydraulic Shock Absorber",
+    "created_at": "2023-03-06 14:22:16",
+    "updated_at": "2023-03-06 14:27:17"
+  },
+  {
+    "id": "599",
+    "bike_id": "748",
+    "seat_type": "Telescopic Suspension with Hydraulic Dampers",
+    "stepup_seat": "Coil spring with Twin Hydraulic Dampers",
+    "created_at": "2023-03-06 14:34:54",
+    "updated_at": "2023-03-06 14:42:11"
+  },
+  {
+    "id": "600",
+    "bike_id": "749",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-03-06 14:48:31",
+    "updated_at": "2023-03-06 14:55:11"
+  },
+  {
+    "id": "601",
+    "bike_id": "750",
+    "seat_type": "Telescopic, 35 mm forks, 130 mm travel",
+    "stepup_seat": "Twin gas charged shock absorbers with 5-step adjustable preload, 80 mm travel",
+    "created_at": "2023-03-08 14:47:04",
+    "updated_at": "2023-08-18 12:16:30"
+  },
+  {
+    "id": "602",
+    "bike_id": "751",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-08 15:01:10",
+    "updated_at": "2023-03-08 15:01:10"
+  },
+  {
+    "id": "603",
+    "bike_id": "752",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-08 15:19:09",
+    "updated_at": "2023-03-08 15:19:09"
+  },
+  {
+    "id": "604",
+    "bike_id": "753",
+    "seat_type": "Telescopic (31 mm)",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-03-08 15:31:23",
+    "updated_at": "2023-03-08 15:40:45"
+  },
+  {
+    "id": "605",
+    "bike_id": "754",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-08 16:19:42",
+    "updated_at": "2023-03-08 16:19:42"
+  },
+  {
+    "id": "606",
+    "bike_id": "755",
+    "seat_type": "Telescopic forks",
+    "stepup_seat": "Showa twin shock",
+    "created_at": "2023-03-08 16:26:32",
+    "updated_at": "2023-03-08 16:42:52"
+  },
+  {
+    "id": "607",
+    "bike_id": "756",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Unit swing type",
+    "created_at": "2023-03-08 16:46:15",
+    "updated_at": "2023-03-08 16:53:26"
+  },
+  {
+    "id": "608",
+    "bike_id": "757",
+    "seat_type": "Showa 43mm SFF-CA USD, 200mm travel",
+    "stepup_seat": "Separate pressure, Pro-Link swingarm, 190mm travel",
+    "created_at": "2023-03-08 16:57:25",
+    "updated_at": "2023-03-08 17:05:11"
+  },
+  {
+    "id": "609",
+    "bike_id": "758",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Uni-Trak Swingarm",
+    "created_at": "2023-03-08 17:08:28",
+    "updated_at": "2023-03-08 17:15:33"
+  },
+  {
+    "id": "610",
+    "bike_id": "759",
+    "seat_type": "Inverted Telescopic, Air Spring, Oil Damped",
+    "stepup_seat": "Link type, Coil Spring, Oil Damped",
+    "created_at": "2023-03-08 17:20:11",
+    "updated_at": "2023-03-08 17:26:06"
+  },
+  {
+    "id": "611",
+    "bike_id": "760",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Unit Swing Arm",
+    "created_at": "2023-03-09 10:02:48",
+    "updated_at": "2023-03-09 10:09:21"
+  },
+  {
+    "id": "612",
+    "bike_id": "761",
+    "seat_type": "43mm inverted fork; 9.3-inch travel",
+    "stepup_seat": "Pro-Link® single shock with adjustable spring preload; 9.0-inch travel ",
+    "created_at": "2023-03-09 10:14:23",
+    "updated_at": "2023-03-09 10:23:38"
+  },
+  {
+    "id": "613",
+    "bike_id": "762",
+    "seat_type": "31mm telescopic fork; 7.1-inch travel ",
+    "stepup_seat": "Pro-Link® single shock with adjustable spring preload; 5.9-inch travel ",
+    "created_at": "2023-03-09 10:35:17",
+    "updated_at": "2023-03-09 10:41:55"
+  },
+  {
+    "id": "614",
+    "bike_id": "763",
+    "seat_type": "WP Semi-active suspension USD Ø 48 mm",
+    "stepup_seat": "WP Semi-active suspension monoshock",
+    "created_at": "2023-03-09 10:57:01",
+    "updated_at": "2023-03-09 11:04:39"
+  },
+  {
+    "id": "615",
+    "bike_id": "764",
+    "seat_type": "Telescopic fork",
+    "stepup_seat": "Single shock absorber",
+    "created_at": "2023-03-09 11:46:21",
+    "updated_at": "2023-03-09 12:16:48"
+  },
+  {
+    "id": "616",
+    "bike_id": "765",
+    "seat_type": "Telescopic",
+    "stepup_seat": null,
+    "created_at": "2023-03-10 16:44:01",
+    "updated_at": "2023-03-10 17:09:04"
+  },
+  {
+    "id": "617",
+    "bike_id": "766",
+    "seat_type": "Telescopic",
+    "stepup_seat": null,
+    "created_at": "2023-03-10 16:45:39",
+    "updated_at": "2023-03-10 17:17:24"
+  },
+  {
+    "id": "618",
+    "bike_id": "767",
+    "seat_type": "Telescopic Hydraulic",
+    "stepup_seat": null,
+    "created_at": "2023-03-10 16:49:19",
+    "updated_at": "2023-03-10 17:23:58"
+  },
+  {
+    "id": "619",
+    "bike_id": "768",
+    "seat_type": "Telescopic",
+    "stepup_seat": null,
+    "created_at": "2023-03-10 16:52:37",
+    "updated_at": "2023-03-10 17:30:52"
+  },
+  {
+    "id": "620",
+    "bike_id": "769",
+    "seat_type": "Telescopic Hydraulic",
+    "stepup_seat": null,
+    "created_at": "2023-03-10 16:54:11",
+    "updated_at": "2023-03-10 17:37:37"
+  },
+  {
+    "id": "621",
+    "bike_id": "770",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-11 12:03:51",
+    "updated_at": "2023-03-11 12:03:51"
+  },
+  {
+    "id": "622",
+    "bike_id": "771",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-11 12:15:38",
+    "updated_at": "2023-03-11 12:15:38"
+  },
+  {
+    "id": "623",
+    "bike_id": "772",
+    "seat_type": "Telescopic Hydraulic",
+    "stepup_seat": null,
+    "created_at": "2023-03-11 16:52:21",
+    "updated_at": "2023-03-11 16:58:26"
+  },
+  {
+    "id": "624",
+    "bike_id": "773",
+    "seat_type": "Hydraulic Telescopic",
+    "stepup_seat": "Double Hydraulic Spring - 4 Step Adjustable",
+    "created_at": "2023-03-13 10:18:11",
+    "updated_at": "2023-07-05 11:16:06"
+  },
+  {
+    "id": "625",
+    "bike_id": "774",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-14 10:07:25",
+    "updated_at": "2023-03-14 10:07:25"
+  },
+  {
+    "id": "626",
+    "bike_id": "775",
+    "seat_type": "Telescopic Forks",
+    "stepup_seat": "Swingarm",
+    "created_at": "2023-03-14 11:30:15",
+    "updated_at": "2023-03-14 12:27:16"
+  },
+  {
+    "id": "627",
+    "bike_id": "776",
+    "seat_type": "Telescopic forks, 110 mm travel",
+    "stepup_seat": "Swingarm, 50 mm",
+    "created_at": "2023-03-14 14:51:01",
+    "updated_at": "2023-03-14 16:04:50"
+  },
+  {
+    "id": "628",
+    "bike_id": "777",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Unit Swing",
+    "created_at": "2023-03-14 16:28:26",
+    "updated_at": "2023-03-14 16:34:26"
+  },
+  {
+    "id": "629",
+    "bike_id": "778",
+    "seat_type": "telescopic fork up",
+    "stepup_seat": "monoshock absorber",
+    "created_at": "2023-03-14 17:04:59",
+    "updated_at": "2023-03-14 17:12:34"
+  },
+  {
+    "id": "630",
+    "bike_id": "779",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-14 17:15:30",
+    "updated_at": "2023-03-14 17:15:30"
+  },
+  {
+    "id": "631",
+    "bike_id": "780",
+    "seat_type": "Hydraulic telescopic fork Ø40 mm",
+    "stepup_seat": "Black hydraulic shock absorber Ø 53 mm, adjustable 5 positions",
+    "created_at": "2023-03-15 10:23:50",
+    "updated_at": "2023-03-15 12:25:11"
+  },
+  {
+    "id": "632",
+    "bike_id": "781",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-15 12:35:31",
+    "updated_at": "2023-03-15 12:35:31"
+  },
+  {
+    "id": "633",
+    "bike_id": "782",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-15 12:49:14",
+    "updated_at": "2023-03-15 12:49:14"
+  },
+  {
+    "id": "634",
+    "bike_id": "783",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-15 13:10:46",
+    "updated_at": "2023-03-15 13:10:46"
+  },
+  {
+    "id": "635",
+    "bike_id": "784",
+    "seat_type": "Single Arm, Dual Chamber Hydraulic Shock Absorber with Coaxial S",
+    "stepup_seat": "Two Dual Effect Shock Absorbers with Adjustable Preload",
+    "created_at": "2023-03-15 14:35:58",
+    "updated_at": "2023-03-15 15:07:27"
+  },
+  {
+    "id": "636",
+    "bike_id": "785",
+    "seat_type": "37 mm Telescopic Forks",
+    "stepup_seat": "Mono-shock",
+    "created_at": "2023-03-15 17:09:42",
+    "updated_at": "2023-03-15 17:17:28"
+  },
+  {
+    "id": "637",
+    "bike_id": "786",
+    "seat_type": "Hydraulic Telescopic",
+    "stepup_seat": "Hydraulic Telescopic",
+    "created_at": "2023-03-15 17:30:08",
+    "updated_at": "2023-03-15 17:34:54"
+  },
+  {
+    "id": "638",
+    "bike_id": "787",
+    "seat_type": "Aluminium single-sided Pro-arm swingarm and 43mm Honda Multi-Act",
+    "stepup_seat": "HMAS gas-charged rear shock that operates through a Pro-Link suspension linkage with remote spring preload and stepless rebound damping adjustment",
+    "created_at": "2023-03-16 11:17:27",
+    "updated_at": "2023-03-16 13:28:00"
+  },
+  {
+    "id": "639",
+    "bike_id": "788",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Telescopic",
+    "created_at": "2023-03-16 13:14:26",
+    "updated_at": "2023-03-16 13:20:08"
+  },
+  {
+    "id": "640",
+    "bike_id": "789",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-16 17:44:45",
+    "updated_at": "2023-03-16 17:44:45"
+  },
+  {
+    "id": "641",
+    "bike_id": "790",
+    "seat_type": "Telescopic fork",
+    "stepup_seat": "Hydraulic unit swing",
+    "created_at": "2023-03-17 14:53:01",
+    "updated_at": "2023-03-17 15:00:54"
+  },
+  {
+    "id": "642",
+    "bike_id": "791",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Dual-Shock Absorbers",
+    "created_at": "2023-03-17 15:06:05",
+    "updated_at": "2023-03-17 15:11:08"
+  },
+  {
+    "id": "643",
+    "bike_id": "792",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Swing Arm",
+    "created_at": "2023-03-17 15:19:12",
+    "updated_at": "2023-03-17 15:26:53"
+  },
+  {
+    "id": "644",
+    "bike_id": "793",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Telescopic",
+    "created_at": "2023-03-17 16:01:57",
+    "updated_at": "2023-03-17 16:10:13"
+  },
+  {
+    "id": "645",
+    "bike_id": "794",
+    "seat_type": "Upside down Kayaba 41 mm fork",
+    "stepup_seat": "Kayaba rear shock, pre-load adjustable.",
+    "created_at": "2023-03-20 15:13:07",
+    "updated_at": "2023-03-20 15:22:52"
+  },
+  {
+    "id": "646",
+    "bike_id": "795",
+    "seat_type": "Upside-down telescopic forks, 140 mm",
+    "stepup_seat": "Mono-shock-absorber, 50 mm",
+    "created_at": "2023-03-22 14:50:30",
+    "updated_at": "2023-03-22 15:06:13"
+  },
+  {
+    "id": "647",
+    "bike_id": "796",
+    "seat_type": "Upside-down forks Ø 50mm with adjustable hydraulic brake rebound",
+    "stepup_seat": "Aluminum rear swing arm with central shock absorber spring preload and hydraulic rebound brake adjustable",
+    "created_at": "2023-03-22 15:09:45",
+    "updated_at": "2023-03-22 15:17:29"
+  },
+  {
+    "id": "648",
+    "bike_id": "797",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Swing Arm",
+    "created_at": "2023-03-22 15:29:03",
+    "updated_at": "2023-03-22 15:45:21"
+  },
+  {
+    "id": "649",
+    "bike_id": "798",
+    "seat_type": "41mm telescopic forks",
+    "stepup_seat": "Twin shock absorbers with 5-step adjustable preload",
+    "created_at": "2023-03-22 15:52:18",
+    "updated_at": "2023-03-22 15:58:34"
+  },
+  {
+    "id": "650",
+    "bike_id": "799",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-22 16:19:05",
+    "updated_at": "2023-03-22 16:19:05"
+  },
+  {
+    "id": "651",
+    "bike_id": "800",
+    "seat_type": "φ37 Telescopic upside down, hydraulic damping type",
+    "stepup_seat": "Mono suspension, centre aligned",
+    "created_at": "2023-03-22 16:26:55",
+    "updated_at": "2023-03-22 16:36:34"
+  },
+  {
+    "id": "652",
+    "bike_id": "801",
+    "seat_type": "KYB inverted forks, adjustable by preload, 160 mm Travel",
+    "stepup_seat": "Double shock Absorber KYB, adjustable preload, 77.4 mm Travel",
+    "created_at": "2023-03-22 16:45:26",
+    "updated_at": "2023-03-22 16:53:44"
+  },
+  {
+    "id": "653",
+    "bike_id": "802",
+    "seat_type": "41mm inverted rebound adjustable",
+    "stepup_seat": "Oil-air separation rebound damping adjustable, preload adjustable shock absorber",
+    "created_at": "2023-03-22 17:01:18",
+    "updated_at": "2023-03-22 17:22:43"
+  },
+  {
+    "id": "654",
+    "bike_id": "803",
+    "seat_type": "Telescopic Hydraulic type with anti friction bush",
+    "stepup_seat": "7 step adjustable monoshocks suspension",
+    "created_at": "2023-03-22 17:29:11",
+    "updated_at": "2023-03-22 17:47:31"
+  },
+  {
+    "id": "655",
+    "bike_id": "804",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Twin Shock",
+    "created_at": "2023-03-23 12:07:21",
+    "updated_at": "2023-03-23 12:20:55"
+  },
+  {
+    "id": "656",
+    "bike_id": "805",
+    "seat_type": "USD fork 41 mm diameter",
+    "stepup_seat": "Solid Die cast Aluminium swing arm directly hinged monoshox, pre-load adjustable",
+    "created_at": "2023-03-23 12:26:33",
+    "updated_at": "2023-09-09 12:24:19"
+  },
+  {
+    "id": "657",
+    "bike_id": "806",
+    "seat_type": "Inverted telescopic, coil spring, oil damped",
+    "stepup_seat": "Link type, coil spring, oil damped",
+    "created_at": "2023-03-23 14:56:46",
+    "updated_at": "2023-03-23 15:07:46"
+  },
+  {
+    "id": "658",
+    "bike_id": "807",
+    "seat_type": "Inverted telescopic, coil spring, oil damped",
+    "stepup_seat": "Link type, coil spring, oil damped",
+    "created_at": "2023-03-23 15:22:32",
+    "updated_at": "2023-03-23 15:30:44"
+  },
+  {
+    "id": "659",
+    "bike_id": "808",
+    "seat_type": "telescopic hydraulic shock absorber",
+    "stepup_seat": "monoshock",
+    "created_at": "2023-03-23 16:20:33",
+    "updated_at": "2023-03-23 16:43:55"
+  },
+  {
+    "id": "660",
+    "bike_id": "809",
+    "seat_type": "41 mm USD Forks",
+    "stepup_seat": "MonoShock",
+    "created_at": "2023-03-23 16:48:34",
+    "updated_at": "2023-03-23 16:55:24"
+  },
+  {
+    "id": "661",
+    "bike_id": "810",
+    "seat_type": "WP upside-down",
+    "stepup_seat": "WP monoshock",
+    "created_at": "2023-03-23 16:58:05",
+    "updated_at": "2023-03-23 17:06:20"
+  },
+  {
+    "id": "662",
+    "bike_id": "811",
+    "seat_type": "WP APEX 43",
+    "stepup_seat": "WP APEX - Monoshock",
+    "created_at": "2023-03-23 17:13:45",
+    "updated_at": "2023-03-23 17:23:37"
+  },
+  {
+    "id": "663",
+    "bike_id": "812",
+    "seat_type": "Triple rate spring, Inverted telescopic fork (USD)",
+    "stepup_seat": "Double rate, Mono shock- 10 steps (Adjuster Slots)",
+    "created_at": "2023-03-23 17:27:19",
+    "updated_at": "2023-03-23 17:36:26"
+  },
+  {
+    "id": "664",
+    "bike_id": "813",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-24 16:48:01",
+    "updated_at": "2023-03-24 16:48:01"
+  },
+  {
+    "id": "665",
+    "bike_id": "814",
+    "seat_type": "Telescopic Suspension",
+    "stepup_seat": "Dual Tube Spring type hydraulic shockers",
+    "created_at": "2023-03-24 17:05:55",
+    "updated_at": "2023-03-24 17:19:01"
+  },
+  {
+    "id": "666",
+    "bike_id": "815",
+    "seat_type": "Telescopic with 241 mm travel",
+    "stepup_seat": "Single Mono-shock spring",
+    "created_at": "2023-03-24 17:44:02",
+    "updated_at": "2023-03-24 17:52:55"
+  },
+  {
+    "id": "667",
+    "bike_id": "816",
+    "seat_type": "WP XPLOR 48",
+    "stepup_seat": "WP XPLOR Monoshock with PDS",
+    "created_at": "2023-03-27 15:47:19",
+    "updated_at": "2023-03-27 15:54:06"
+  },
+  {
+    "id": "668",
+    "bike_id": "817",
+    "seat_type": "Inverted Telescopic Front Suspension",
+    "stepup_seat": "Swing Arm with Monoshock (Pro-Link) System",
+    "created_at": "2023-03-27 16:11:30",
+    "updated_at": "2023-03-27 16:23:47"
+  },
+  {
+    "id": "669",
+    "bike_id": "818",
+    "seat_type": "Telescopic",
+    "stepup_seat": null,
+    "created_at": "2023-03-27 16:30:27",
+    "updated_at": "2023-03-27 16:40:24"
+  },
+  {
+    "id": "670",
+    "bike_id": "819",
+    "seat_type": "Inverted 700mmX35mm twin internal hydraulic shocks with 200mm tr",
+    "stepup_seat": "Adjustable trailing arm over spring/hydraulic shock",
+    "created_at": "2023-03-27 16:48:14",
+    "updated_at": "2023-03-27 16:59:28"
+  },
+  {
+    "id": "671",
+    "bike_id": "820",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Coil Spring Three Steps Adjustable",
+    "created_at": "2023-03-27 17:06:34",
+    "updated_at": "2023-05-17 15:14:51"
+  },
+  {
+    "id": "672",
+    "bike_id": "821",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Coil Spring Three Steps Adjustable",
+    "created_at": "2023-03-27 17:13:07",
+    "updated_at": "2023-05-17 13:28:44"
+  },
+  {
+    "id": "673",
+    "bike_id": "822",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Coil Spring Three Steps Adjustable suspension",
+    "created_at": "2023-03-28 10:32:45",
+    "updated_at": "2023-05-17 13:32:07"
+  },
+  {
+    "id": "674",
+    "bike_id": "823",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Hydraulic damper",
+    "created_at": "2023-03-28 10:42:16",
+    "updated_at": "2023-05-17 15:09:09"
+  },
+  {
+    "id": "675",
+    "bike_id": "824",
+    "seat_type": "Upside down suspension forks",
+    "stepup_seat": "Adjustable mono shock",
+    "created_at": "2023-03-28 11:45:35",
+    "updated_at": "2023-03-28 11:55:40"
+  },
+  {
+    "id": "676",
+    "bike_id": "825",
+    "seat_type": "Upside down suspension forks",
+    "stepup_seat": "Adjustable mono shock",
+    "created_at": "2023-03-28 12:03:09",
+    "updated_at": "2023-03-28 12:10:44"
+  },
+  {
+    "id": "677",
+    "bike_id": "826",
+    "seat_type": "Hydraulic Telescopic",
+    "stepup_seat": "Dual Shocker Dual Tube",
+    "created_at": "2023-03-28 12:24:34",
+    "updated_at": "2023-03-28 12:28:28"
+  },
+  {
+    "id": "678",
+    "bike_id": "827",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-03-28 13:08:24",
+    "updated_at": "2023-03-28 13:08:24"
+  },
+  {
+    "id": "679",
+    "bike_id": "828",
+    "seat_type": "Fork Type Hydraulic",
+    "stepup_seat": "Adjustable Hydraulic Coilover",
+    "created_at": "2023-04-03 16:21:50",
+    "updated_at": "2023-04-03 16:50:41"
+  },
+  {
+    "id": "680",
+    "bike_id": "829",
+    "seat_type": "Fork Type Hydraulic",
+    "stepup_seat": "Adjustable Hydraulic Coilover",
+    "created_at": "2023-04-03 17:10:44",
+    "updated_at": "2023-04-03 17:29:08"
+  },
+  {
+    "id": "681",
+    "bike_id": "830",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-04-03 17:40:27",
+    "updated_at": "2023-04-03 17:40:27"
+  },
+  {
+    "id": "682",
+    "bike_id": "831",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-04-04 11:03:21",
+    "updated_at": "2023-04-04 11:03:21"
+  },
+  {
+    "id": "683",
+    "bike_id": "832",
+    "seat_type": "Hydraulic Telescopic",
+    "stepup_seat": null,
+    "created_at": "2023-04-04 11:10:50",
+    "updated_at": "2023-04-04 11:22:07"
+  },
+  {
+    "id": "684",
+    "bike_id": "833",
+    "seat_type": "Telescopic Hydraulic Shock Absorbers",
+    "stepup_seat": "Unit Swing with Spring Loaded Hydraulic Damper",
+    "created_at": "2023-04-04 11:35:27",
+    "updated_at": "2023-04-04 11:43:37"
+  },
+  {
+    "id": "685",
+    "bike_id": "834",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-04-04 11:53:09",
+    "updated_at": "2023-04-04 11:53:09"
+  },
+  {
+    "id": "686",
+    "bike_id": "835",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-04-04 12:18:14",
+    "updated_at": "2023-04-04 12:18:14"
+  },
+  {
+    "id": "687",
+    "bike_id": "836",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-04-04 12:37:16",
+    "updated_at": "2023-04-04 12:37:16"
+  },
+  {
+    "id": "688",
+    "bike_id": "837",
+    "seat_type": "WP SAT (semi-active technology) Upside-Down Ø 48 mm",
+    "stepup_seat": "WP SAT (semi-active technology) shock absorber",
+    "created_at": "2023-04-04 14:46:20",
+    "updated_at": "2023-04-04 14:53:08"
+  },
+  {
+    "id": "689",
+    "bike_id": "838",
+    "seat_type": "Telescopic, coil spring, oil damped",
+    "stepup_seat": "Link type, coil spring, oil damped",
+    "created_at": "2023-04-04 15:02:53",
+    "updated_at": "2023-04-04 15:11:30"
+  },
+  {
+    "id": "690",
+    "bike_id": "839",
+    "seat_type": "Telescopic Forks",
+    "stepup_seat": "Mono-shock",
+    "created_at": "2023-04-04 15:17:39",
+    "updated_at": "2023-04-04 15:25:18"
+  },
+  {
+    "id": "691",
+    "bike_id": "840",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-04-04 15:33:12",
+    "updated_at": "2023-04-04 15:33:12"
+  },
+  {
+    "id": "692",
+    "bike_id": "841",
+    "seat_type": "Telescopic Suspension",
+    "stepup_seat": "Heavy Spring Loaded",
+    "created_at": "2023-04-04 15:53:22",
+    "updated_at": "2023-04-04 16:25:36"
+  },
+  {
+    "id": "693",
+    "bike_id": "842",
+    "seat_type": "Telescopic Fork Cartridge Type",
+    "stepup_seat": "Single Shock with Air adjust",
+    "created_at": "2023-04-04 16:45:40",
+    "updated_at": "2023-04-04 16:57:26"
+  },
+  {
+    "id": "694",
+    "bike_id": "843",
+    "seat_type": "Telescopic Forks, 46mm Cartridge Forks With Dual Rate Springs",
+    "stepup_seat": "Single Shock, Pneumatic Adjustment",
+    "created_at": "2023-04-04 17:03:15",
+    "updated_at": "2023-04-04 17:13:06"
+  },
+  {
+    "id": "695",
+    "bike_id": "844",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-04-04 17:43:49",
+    "updated_at": "2023-04-04 17:43:49"
+  },
+  {
+    "id": "696",
+    "bike_id": "845",
+    "seat_type": "Telescopic Hydraulic Shock Absorbers",
+    "stepup_seat": "5-Step Adjustable Telescopic Hydraulic Shock Absorbers",
+    "created_at": "2023-04-11 12:33:59",
+    "updated_at": "2023-04-11 12:41:38"
+  },
+  {
+    "id": "697",
+    "bike_id": "846",
+    "seat_type": "USD front forks",
+    "stepup_seat": "dual shock absorber",
+    "created_at": "2023-04-12 12:43:33",
+    "updated_at": "2023-04-12 13:17:02"
+  },
+  {
+    "id": "698",
+    "bike_id": "847",
+    "seat_type": "Telescopic front forks",
+    "stepup_seat": "Twin shock absorbers",
+    "created_at": "2023-04-12 13:28:22",
+    "updated_at": "2023-04-12 14:33:47"
+  },
+  {
+    "id": "699",
+    "bike_id": "848",
+    "seat_type": "Inverted Cartridge (USD) Telescopic Forks",
+    "stepup_seat": "2-Arm Aluminium Die-Cast Swing-Arm, Mono Tube Floating Piston Gas Assisted Shock Absorber",
+    "created_at": "2023-04-12 14:42:36",
+    "updated_at": "2023-04-12 14:52:52"
+  },
+  {
+    "id": "700",
+    "bike_id": "849",
+    "seat_type": "Hydraulic Telescopic",
+    "stepup_seat": null,
+    "created_at": "2023-04-20 11:50:37",
+    "updated_at": "2023-04-20 12:00:43"
+  },
+  {
+    "id": "701",
+    "bike_id": "850",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-04-20 13:07:28",
+    "updated_at": "2023-04-20 13:07:28"
+  },
+  {
+    "id": "702",
+    "bike_id": "851",
+    "seat_type": "Telescopic Forks",
+    "stepup_seat": "Dual Rear Shock Absorbers",
+    "created_at": "2023-04-20 13:29:52",
+    "updated_at": "2023-04-20 15:18:38"
+  },
+  {
+    "id": "703",
+    "bike_id": "852",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-04-25 09:59:16",
+    "updated_at": "2023-04-25 09:59:16"
+  },
+  {
+    "id": "704",
+    "bike_id": "853",
+    "seat_type": "Telescopic forks",
+    "stepup_seat": "Swingarm (link suspension)",
+    "created_at": "2023-04-25 10:06:52",
+    "updated_at": "2023-04-25 10:15:13"
+  },
+  {
+    "id": "705",
+    "bike_id": "854",
+    "seat_type": "Double USD Telescopic Forks",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-04-25 10:17:53",
+    "updated_at": "2023-04-25 10:29:53"
+  },
+  {
+    "id": "706",
+    "bike_id": "855",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-04-25 12:31:27",
+    "updated_at": "2023-04-25 12:31:27"
+  },
+  {
+    "id": "707",
+    "bike_id": "856",
+    "seat_type": "Telescopic front fork",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-05-02 09:56:26",
+    "updated_at": "2023-05-02 10:31:50"
+  },
+  {
+    "id": "708",
+    "bike_id": "857",
+    "seat_type": "41 mm telescopic forks",
+    "stepup_seat": "Pre-load adjustable monoshock",
+    "created_at": "2023-05-02 11:09:07",
+    "updated_at": "2023-05-02 11:40:26"
+  },
+  {
+    "id": "709",
+    "bike_id": "858",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Horizontal Unilink Monoshock",
+    "created_at": "2023-05-02 11:56:42",
+    "updated_at": "2023-05-02 12:12:36"
+  },
+  {
+    "id": "710",
+    "bike_id": "859",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-05-02 13:11:07",
+    "updated_at": "2023-05-02 13:11:07"
+  },
+  {
+    "id": "711",
+    "bike_id": "860",
+    "seat_type": "Telescope",
+    "stepup_seat": "Spring Coil",
+    "created_at": "2023-05-02 14:38:25",
+    "updated_at": "2023-05-02 14:46:32"
+  },
+  {
+    "id": "712",
+    "bike_id": "861",
+    "seat_type": "Telescopic Upside-Down",
+    "stepup_seat": "Mono-shock-Absorber",
+    "created_at": "2023-05-02 16:18:37",
+    "updated_at": "2023-05-02 16:25:12"
+  },
+  {
+    "id": "713",
+    "bike_id": "862",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-05-05 10:22:36",
+    "updated_at": "2023-05-05 10:22:36"
+  },
+  {
+    "id": "714",
+    "bike_id": "863",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-05-05 10:30:47",
+    "updated_at": "2023-05-05 10:30:47"
+  },
+  {
+    "id": "715",
+    "bike_id": "864",
+    "seat_type": "Telescopic shock absorber",
+    "stepup_seat": "Hydraulic shock absorber",
+    "created_at": "2023-05-05 10:45:18",
+    "updated_at": "2023-05-05 10:49:57"
+  },
+  {
+    "id": "717",
+    "bike_id": "866",
+    "seat_type": "Telescopic shock absorber",
+    "stepup_seat": "Hydraulic shock absorber",
+    "created_at": "2023-05-05 12:59:39",
+    "updated_at": "2023-05-05 13:13:40"
+  },
+  {
+    "id": "718",
+    "bike_id": "867",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-05-17 10:59:42",
+    "updated_at": "2023-05-17 10:59:42"
+  },
+  {
+    "id": "719",
+    "bike_id": "868",
+    "seat_type": "Inverted Telescopic Front Suspension (Golden USD Forks)",
+    "stepup_seat": "Aluminum Swing Arm (5 Adjustable Mono Suspension with Pro-Link System)",
+    "created_at": "2023-05-18 11:53:22",
+    "updated_at": "2023-05-18 12:03:17"
+  },
+  {
+    "id": "720",
+    "bike_id": "869",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Telescopic",
+    "created_at": "2023-05-22 13:09:29",
+    "updated_at": "2023-05-22 13:15:16"
+  },
+  {
+    "id": "721",
+    "bike_id": "870",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Telescopic",
+    "created_at": "2023-05-22 13:17:37",
+    "updated_at": "2023-05-22 13:23:15"
+  },
+  {
+    "id": "722",
+    "bike_id": "871",
+    "seat_type": "Telescopic",
+    "stepup_seat": null,
+    "created_at": "2023-05-23 16:49:51",
+    "updated_at": "2023-05-23 17:01:00"
+  },
+  {
+    "id": "723",
+    "bike_id": "872",
+    "seat_type": "Telescopic",
+    "stepup_seat": null,
+    "created_at": "2023-05-23 16:51:37",
+    "updated_at": "2023-05-23 17:06:26"
+  },
+  {
+    "id": "724",
+    "bike_id": "873",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-05-23 16:53:05",
+    "updated_at": "2023-05-23 17:12:42"
+  },
+  {
+    "id": "725",
+    "bike_id": "874",
+    "seat_type": "Telescopic",
+    "stepup_seat": null,
+    "created_at": "2023-05-23 16:54:15",
+    "updated_at": "2023-05-23 17:29:37"
+  },
+  {
+    "id": "726",
+    "bike_id": "875",
+    "seat_type": "Telescopic",
+    "stepup_seat": null,
+    "created_at": "2023-05-23 16:55:14",
+    "updated_at": "2023-05-23 17:37:25"
+  },
+  {
+    "id": "727",
+    "bike_id": "876",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-05-23 17:41:13",
+    "updated_at": "2023-05-23 17:41:13"
+  },
+  {
+    "id": "728",
+    "bike_id": "877",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-05-23 17:43:09",
+    "updated_at": "2023-05-23 17:43:09"
+  },
+  {
+    "id": "729",
+    "bike_id": "878",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-05-23 17:45:00",
+    "updated_at": "2023-05-23 17:45:00"
+  },
+  {
+    "id": "730",
+    "bike_id": "879",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-05-23 17:46:10",
+    "updated_at": "2023-05-23 17:46:10"
+  },
+  {
+    "id": "731",
+    "bike_id": "880",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-05-23 17:47:29",
+    "updated_at": "2023-05-23 17:47:29"
+  },
+  {
+    "id": "732",
+    "bike_id": "881",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-05-25 10:05:09",
+    "updated_at": "2023-05-25 10:05:09"
+  },
+  {
+    "id": "733",
+    "bike_id": "882",
+    "seat_type": "Hydraulic Shock Absorber",
+    "stepup_seat": "Hydraulic Shock Absorber",
+    "created_at": "2023-05-25 10:10:02",
+    "updated_at": "2023-05-25 10:22:09"
+  },
+  {
+    "id": "734",
+    "bike_id": "883",
+    "seat_type": "Hydraulic Shock Absorber",
+    "stepup_seat": "Hydraulic Shock Absorber",
+    "created_at": "2023-05-25 10:31:10",
+    "updated_at": "2023-05-25 10:37:11"
+  },
+  {
+    "id": "735",
+    "bike_id": "884",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Telescopic",
+    "created_at": "2023-05-25 10:39:40",
+    "updated_at": "2023-05-25 10:42:46"
+  },
+  {
+    "id": "736",
+    "bike_id": "885",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-05-25 10:47:01",
+    "updated_at": "2023-05-25 10:47:01"
+  },
+  {
+    "id": "737",
+    "bike_id": "886",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-05-25 12:07:03",
+    "updated_at": "2023-05-25 12:07:03"
+  },
+  {
+    "id": "738",
+    "bike_id": "887",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-05-25 12:30:50",
+    "updated_at": "2023-05-25 12:30:50"
+  },
+  {
+    "id": "739",
+    "bike_id": "888",
+    "seat_type": "Hydraulic Shock Absorber",
+    "stepup_seat": "Hydraulic Shock Absorber",
+    "created_at": "2023-05-25 12:36:39",
+    "updated_at": "2023-05-25 12:42:21"
+  },
+  {
+    "id": "740",
+    "bike_id": "889",
+    "seat_type": "Hydraulic Shock Absorber",
+    "stepup_seat": "Hydraulic Shock Absorber",
+    "created_at": "2023-05-25 12:44:41",
+    "updated_at": "2023-05-25 12:54:39"
+  },
+  {
+    "id": "741",
+    "bike_id": "890",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Coil Spring",
+    "created_at": "2023-06-05 16:42:47",
+    "updated_at": "2023-06-05 17:38:58"
+  },
+  {
+    "id": "742",
+    "bike_id": "891",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Dual Coil Spring",
+    "created_at": "2023-06-05 17:22:45",
+    "updated_at": "2023-06-07 12:14:21"
+  },
+  {
+    "id": "743",
+    "bike_id": "892",
+    "seat_type": "Telescopic 12 inch",
+    "stepup_seat": "Coil Spring",
+    "created_at": "2023-06-05 17:26:10",
+    "updated_at": "2023-06-07 12:52:32"
+  },
+  {
+    "id": "744",
+    "bike_id": "893",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-06-19 10:17:52",
+    "updated_at": "2023-06-19 10:27:42"
+  },
+  {
+    "id": "745",
+    "bike_id": "894",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-06-19 14:35:03",
+    "updated_at": "2023-06-19 14:50:00"
+  },
+  {
+    "id": "746",
+    "bike_id": "895",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-06-19 15:02:04",
+    "updated_at": "2023-06-19 15:06:38"
+  },
+  {
+    "id": "747",
+    "bike_id": "896",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-06-19 15:20:33",
+    "updated_at": "2023-06-19 15:29:45"
+  },
+  {
+    "id": "748",
+    "bike_id": "897",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Spring Loaded Gas",
+    "created_at": "2023-06-20 15:07:31",
+    "updated_at": "2023-06-20 15:52:06"
+  },
+  {
+    "id": "749",
+    "bike_id": "898",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Spring Loaded Gas",
+    "created_at": "2023-06-20 16:11:24",
+    "updated_at": "2023-06-20 16:37:33"
+  },
+  {
+    "id": "750",
+    "bike_id": "899",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Spring Loaded Gas",
+    "created_at": "2023-06-20 16:58:35",
+    "updated_at": "2023-06-20 17:11:36"
+  },
+  {
+    "id": "751",
+    "bike_id": "900",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Spring Loaded Gas",
+    "created_at": "2023-06-20 17:14:08",
+    "updated_at": "2023-06-20 17:21:22"
+  },
+  {
+    "id": "752",
+    "bike_id": "901",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Spring Loaded Gas",
+    "created_at": "2023-06-20 17:23:44",
+    "updated_at": "2023-06-20 17:30:13"
+  },
+  {
+    "id": "753",
+    "bike_id": "902",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Spring Loaded Gas",
+    "created_at": "2023-06-20 17:32:58",
+    "updated_at": "2023-06-20 17:42:46"
+  },
+  {
+    "id": "754",
+    "bike_id": "903",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Spring Loaded Gas",
+    "created_at": "2023-06-20 17:45:03",
+    "updated_at": "2023-06-20 17:50:46"
+  },
+  {
+    "id": "755",
+    "bike_id": "904",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Spring Loaded Gas",
+    "created_at": "2023-06-20 17:52:46",
+    "updated_at": "2023-06-20 17:57:21"
+  },
+  {
+    "id": "756",
+    "bike_id": "905",
+    "seat_type": "KYB Upside-down Forks 43mm",
+    "stepup_seat": "Twinshock Absorbers, 7 Step Preload adjustable",
+    "created_at": "2023-07-05 11:49:16",
+    "updated_at": "2023-07-05 12:09:52"
+  },
+  {
+    "id": "757",
+    "bike_id": "906",
+    "seat_type": "43mm upside down Big Piston forks. 140mm wheel travel",
+    "stepup_seat": "Gas monoshock RSU with external reservoir and pre-load adjustment. 130mm wheel travel",
+    "created_at": "2023-07-10 12:40:57",
+    "updated_at": "2023-07-10 12:55:56"
+  },
+  {
+    "id": "758",
+    "bike_id": "907",
+    "seat_type": "43mm upside down Big Piston forks. 150mm wheel travel",
+    "stepup_seat": "Gas monoshock RSU with external reservoir and pre-load adjustment. 150mm wheel travel",
+    "created_at": "2023-07-10 13:06:38",
+    "updated_at": "2023-07-10 13:14:03"
+  },
+  {
+    "id": "759",
+    "bike_id": "908",
+    "seat_type": "Single-bridge telescopic forks with 110 mm spring travel",
+    "stepup_seat": "Single-sided swing arm/directly hinged suspension strut with 92 mm spring travel",
+    "created_at": "2023-07-18 10:20:23",
+    "updated_at": "2023-07-18 11:21:06"
+  },
+  {
+    "id": "760",
+    "bike_id": "909",
+    "seat_type": "Upside-down telescopic fork",
+    "stepup_seat": "Adjustable shock absorber",
+    "created_at": "2023-07-18 10:49:08",
+    "updated_at": "2023-07-18 15:49:37"
+  },
+  {
+    "id": "761",
+    "bike_id": "910",
+    "seat_type": "Telescopic fork / 220 mm",
+    "stepup_seat": "New Uni Trak Swingarm / 223 mm",
+    "created_at": "2023-07-31 09:55:06",
+    "updated_at": "2023-07-31 10:00:34"
+  },
+  {
+    "id": "762",
+    "bike_id": "911",
+    "seat_type": "Telescopic(USD) fork/ 275 mm",
+    "stepup_seat": "Uni Trak Swingarm/ 275 mm",
+    "created_at": "2023-07-31 10:06:24",
+    "updated_at": "2023-07-31 10:12:43"
+  },
+  {
+    "id": "763",
+    "bike_id": "912",
+    "seat_type": "Telescopic fork/210 mm",
+    "stepup_seat": "Uni Trak Swingarm/240 mm",
+    "created_at": "2023-07-31 10:26:38",
+    "updated_at": "2023-07-31 10:30:55"
+  },
+  {
+    "id": "764",
+    "bike_id": "913",
+    "seat_type": "Telescopic",
+    "stepup_seat": "3 Step Adjustable Spring Loaded Hydraulic",
+    "created_at": "2023-07-31 10:36:13",
+    "updated_at": "2023-07-31 10:46:06"
+  },
+  {
+    "id": "765",
+    "bike_id": "914",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Spring Loaded",
+    "created_at": "2023-07-31 11:24:32",
+    "updated_at": "2023-07-31 11:44:52"
+  },
+  {
+    "id": "766",
+    "bike_id": "915",
+    "seat_type": "Hydraulic Telescopic",
+    "stepup_seat": "Double Shocker with dual tube technology",
+    "created_at": "2023-07-31 11:46:51",
+    "updated_at": "2023-07-31 11:54:31"
+  },
+  {
+    "id": "767",
+    "bike_id": "916",
+    "seat_type": "Telescopic, 43mm Dia",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-07-31 11:58:43",
+    "updated_at": "2023-07-31 12:07:19"
+  },
+  {
+    "id": "768",
+    "bike_id": "917",
+    "seat_type": "Telescopic, 43mm Dia",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-07-31 12:14:41",
+    "updated_at": "2023-07-31 12:22:50"
+  },
+  {
+    "id": "769",
+    "bike_id": "918",
+    "seat_type": "Telescopic, 43mm Dia",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-07-31 12:27:44",
+    "updated_at": "2023-07-31 12:34:24"
+  },
+  {
+    "id": "770",
+    "bike_id": "919",
+    "seat_type": "Telescopic, 43mm Dia",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-07-31 12:45:57",
+    "updated_at": "2023-07-31 13:02:55"
+  },
+  {
+    "id": "771",
+    "bike_id": "920",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Adjustable Spring loaded Telescopic",
+    "created_at": "2023-07-31 13:22:43",
+    "updated_at": "2023-07-31 13:27:08"
+  },
+  {
+    "id": "772",
+    "bike_id": "921",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Adjustable Spring loaded Telescopic",
+    "created_at": "2023-07-31 13:28:41",
+    "updated_at": "2023-07-31 13:34:35"
+  },
+  {
+    "id": "773",
+    "bike_id": "922",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Spring loaded Telescopic",
+    "created_at": "2023-07-31 14:28:09",
+    "updated_at": "2023-07-31 15:31:27"
+  },
+  {
+    "id": "774",
+    "bike_id": "923",
+    "seat_type": "Double Hydraulic Telescopic",
+    "stepup_seat": "Hydraulic",
+    "created_at": "2023-08-03 10:08:29",
+    "updated_at": "2023-08-03 10:29:49"
+  },
+  {
+    "id": "775",
+    "bike_id": "924",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Dual Shocker",
+    "created_at": "2023-08-03 10:33:27",
+    "updated_at": "2023-08-03 10:39:13"
+  },
+  {
+    "id": "776",
+    "bike_id": "925",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Dual Shocker",
+    "created_at": "2023-08-03 11:03:30",
+    "updated_at": "2023-08-03 11:12:19"
+  },
+  {
+    "id": "777",
+    "bike_id": "926",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Dual Shocker",
+    "created_at": "2023-08-03 11:26:07",
+    "updated_at": "2023-08-03 12:05:38"
+  },
+  {
+    "id": "778",
+    "bike_id": "927",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Dual Shocker",
+    "created_at": "2023-08-03 12:20:51",
+    "updated_at": "2023-08-07 10:11:52"
+  },
+  {
+    "id": "779",
+    "bike_id": "928",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Dual Shocker",
+    "created_at": "2023-08-07 10:13:50",
+    "updated_at": "2023-08-07 10:20:26"
+  },
+  {
+    "id": "780",
+    "bike_id": "929",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Dual Shocker",
+    "created_at": "2023-08-07 10:26:30",
+    "updated_at": "2023-08-07 10:32:41"
+  },
+  {
+    "id": "781",
+    "bike_id": "930",
+    "seat_type": null,
+    "stepup_seat": null,
+    "created_at": "2023-08-07 10:38:03",
+    "updated_at": "2023-08-07 10:38:03"
+  },
+  {
+    "id": "782",
+    "bike_id": "931",
+    "seat_type": "Hydraulic",
+    "stepup_seat": "Dual Shocker",
+    "created_at": "2023-08-07 10:46:39",
+    "updated_at": "2023-08-07 11:02:32"
+  },
+  {
+    "id": "783",
+    "bike_id": "932",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-08-10 13:13:50",
+    "updated_at": "2023-08-10 13:26:14"
+  },
+  {
+    "id": "784",
+    "bike_id": "933",
+    "seat_type": "Telescopic forks",
+    "stepup_seat": "Symmetrically mounted progressive monoshock",
+    "created_at": "2023-08-16 15:46:04",
+    "updated_at": "2023-08-16 15:52:14"
+  },
+  {
+    "id": "785",
+    "bike_id": "934",
+    "seat_type": "Twin telescopic",
+    "stepup_seat": "Dual shock",
+    "created_at": "2023-08-16 16:12:23",
+    "updated_at": "2023-08-16 16:17:38"
+  },
+  {
+    "id": "786",
+    "bike_id": "935",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Coil Spring",
+    "created_at": "2023-08-18 13:05:14",
+    "updated_at": "2023-08-18 13:25:39"
+  },
+  {
+    "id": "787",
+    "bike_id": "936",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Coil spring",
+    "created_at": "2023-08-18 13:26:53",
+    "updated_at": "2023-08-18 14:29:04"
+  },
+  {
+    "id": "788",
+    "bike_id": "937",
+    "seat_type": "Telescopic Fork",
+    "stepup_seat": "Single Coil Spring Hydraulic Type",
+    "created_at": "2023-08-21 11:12:18",
+    "updated_at": "2023-08-21 11:25:56"
+  },
+  {
+    "id": "789",
+    "bike_id": "938",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Monoshock",
+    "created_at": "2023-08-24 11:10:22",
+    "updated_at": "2023-08-24 11:18:56"
+  },
+  {
+    "id": "790",
+    "bike_id": "939",
+    "seat_type": "Telescopic",
+    "stepup_seat": "Dual Tube Twin Shock Absorbers",
+    "created_at": "2023-08-24 12:04:38",
+    "updated_at": "2023-08-24 12:16:47"
+  },
+  {
+    "id": "791",
+    "bike_id": "940",
+    "seat_type": "Dia 37 mm, Telescopic Front Forks with Anti Friction Bush",
+    "stepup_seat": "Gas Charged Mono Shock, 6 Step Pre-load Adjustable",
+    "created_at": "2023-08-24 15:04:41",
+    "updated_at": "2023-08-29 16:25:21"
+  }
+]
