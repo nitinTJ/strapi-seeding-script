@@ -1,0 +1,3001 @@
+[
+  {
+    "slug": "z900",
+    "name": "Z900",
+    "max_price": 902000,
+    "min_price": 902000,
+    "mileage": "15.26 Kmpl",
+    "displacement": "948",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "w175",
+    "name": "W175",
+    "max_price": 149000,
+    "min_price": 147000,
+    "mileage": "40 Kmpl",
+    "displacement": "177",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "classiq",
+    "name": "ClassIQ",
+    "max_price": 74499,
+    "min_price": 74499,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 13 },
+    "brand_id": 33
+  },
+  {
+    "slug": "freedum",
+    "name": "Freedum",
+    "max_price": 74900,
+    "min_price": 74899,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 13 },
+    "brand_id": 33
+  },
+  {
+    "slug": "faast",
+    "name": "Faast",
+    "max_price": 109000,
+    "min_price": 109000,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 13 },
+    "brand_id": 33
+  },
+  {
+    "slug": "maestro-xoom-110",
+    "name": "Maestro Xoom 110",
+    "max_price": 79800,
+    "min_price": 68590,
+    "mileage": "40",
+    "displacement": "110.9",
+    "brand": { "id": 4 },
+    "brand_id": 17
+  },
+  {
+    "slug": "ninja-zx-10r",
+    "name": "Ninja ZX-10R",
+    "max_price": 1615000,
+    "min_price": 1615000,
+    "mileage": "12 Kmpl",
+    "displacement": "998",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "apache-rtr-160",
+    "name": "Apache RTR 160",
+    "max_price": 125181,
+    "min_price": 114004,
+    "mileage": "50",
+    "displacement": "159.7",
+    "brand": { "id": 2 },
+    "brand_id": 44
+  },
+  {
+    "slug": "apache-rtr-180",
+    "name": "Apache RTR 180",
+    "max_price": 130590,
+    "min_price": 121725,
+    "mileage": "41",
+    "displacement": "177.4",
+    "brand": { "id": 2 },
+    "brand_id": 44
+  },
+  {
+    "slug": "xpulse-200-4v",
+    "name": "Xpulse 200 4V",
+    "max_price": 138246,
+    "min_price": 138246,
+    "mileage": "42.28",
+    "displacement": "199.6",
+    "brand": { "id": 4 },
+    "brand_id": 17
+  },
+  {
+    "slug": "390-duke",
+    "name": "390 Duke",
+    "max_price": 296230,
+    "min_price": 296230,
+    "mileage": "28.9",
+    "displacement": "373.2",
+    "brand": { "id": 54 },
+    "brand_id": 26
+  },
+  {
+    "slug": "250-duke",
+    "name": "250 Duke",
+    "max_price": 237222,
+    "min_price": 237222,
+    "mileage": "30.8",
+    "displacement": "248.8",
+    "brand": { "id": 54 },
+    "brand_id": 26
+  },
+  {
+    "slug": "200-duke",
+    "name": "200 Duke",
+    "max_price": 191693,
+    "min_price": 191693,
+    "mileage": "35",
+    "displacement": "199.5",
+    "brand": { "id": 54 },
+    "brand_id": 26
+  },
+  {
+    "slug": "125-duke",
+    "name": "125 Duke",
+    "max_price": 178041,
+    "min_price": 178041,
+    "mileage": "48",
+    "displacement": "124.7",
+    "brand": { "id": 54 },
+    "brand_id": 26
+  },
+  {
+    "slug": "panigale-v4",
+    "name": "Panigale V4",
+    "max_price": 6999000,
+    "min_price": 2741000,
+    "mileage": "13.1",
+    "displacement": "1103",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "v302c",
+    "name": "V302C",
+    "max_price": 420000,
+    "min_price": 420000,
+    "mileage": "45",
+    "displacement": "298",
+    "brand": { "id": 25 },
+    "brand_id": 25
+  },
+  {
+    "slug": "streetfighter-v2",
+    "name": "Streetfighter V2",
+    "max_price": 1810000,
+    "min_price": 1810000,
+    "mileage": "17",
+    "displacement": "955",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "shine",
+    "name": "Shine",
+    "max_price": 84187,
+    "min_price": 78687,
+    "mileage": "65",
+    "displacement": "124",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "ct-125x",
+    "name": "CT 125X",
+    "max_price": 74554,
+    "min_price": 71354,
+    "mileage": "60",
+    "displacement": "124.4",
+    "brand": { "id": 6 },
+    "brand_id": 5
+  },
+  {
+    "slug": "activa-6g",
+    "name": "Activa 6G",
+    "max_price": 78016,
+    "min_price": 73531,
+    "mileage": "48",
+    "displacement": "109.51",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "k-1600",
+    "name": "K 1600",
+    "max_price": 3300000,
+    "min_price": 2990000,
+    "mileage": "17",
+    "displacement": "1649",
+    "brand": { "id": 40 },
+    "brand_id": 9
+  },
+  {
+    "slug": "r-1250-rt",
+    "name": "R 1250 RT",
+    "max_price": 2395000,
+    "min_price": 2395000,
+    "mileage": "21",
+    "displacement": "1254",
+    "brand": { "id": 40 },
+    "brand_id": 9
+  },
+  {
+    "slug": "bonneville-speedmaster",
+    "name": "Bonneville Speedmaster",
+    "max_price": 1285000,
+    "min_price": 1285000,
+    "mileage": "21.7",
+    "displacement": "1200",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "bonneville-bobber",
+    "name": "Bonneville Bobber",
+    "max_price": 1285000,
+    "min_price": 1285000,
+    "mileage": "29",
+    "displacement": "1200",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "activa-7g",
+    "name": "Activa 7G",
+    "max_price": 90000,
+    "min_price": 80000,
+    "mileage": "55",
+    "displacement": "110",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "cb300f",
+    "name": "CB300F",
+    "max_price": 228900,
+    "min_price": 225900,
+    "mileage": "30",
+    "displacement": "293.52",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "hunter-350",
+    "name": "Hunter 350",
+    "max_price": 171900,
+    "min_price": 149900,
+    "mileage": "36.5",
+    "displacement": "349",
+    "brand": { "id": 7 },
+    "brand_id": 38
+  },
+  {
+    "slug": "bonneville-t120",
+    "name": "Bonneville T120",
+    "max_price": 1189000,
+    "min_price": 1189000,
+    "mileage": "21",
+    "displacement": "1200",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "speed-twin",
+    "name": "Speed Twin",
+    "max_price": 1109000,
+    "min_price": 1109000,
+    "mileage": "19.6",
+    "displacement": "1200",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "dio",
+    "name": "Dio",
+    "max_price": 74353,
+    "min_price": 67817,
+    "mileage": "60",
+    "displacement": "109.51",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "aerox-155",
+    "name": "Aerox 155",
+    "max_price": 142800,
+    "min_price": 142800,
+    "mileage": "48.62",
+    "displacement": "155",
+    "brand": { "id": 14 },
+    "brand_id": 46
+  },
+  {
+    "slug": "r15-v4",
+    "name": "R15 V4",
+    "max_price": 191900,
+    "min_price": 180900,
+    "mileage": "45",
+    "displacement": "155",
+    "brand": { "id": 14 },
+    "brand_id": 46
+  },
+  {
+    "slug": "mt-15-v2",
+    "name": "MT 15 V2",
+    "max_price": 168400,
+    "min_price": 168400,
+    "mileage": "45",
+    "displacement": "155",
+    "brand": { "id": 14 },
+    "brand_id": 46
+  },
+  {
+    "slug": "bonneville-t100",
+    "name": "Bonneville T100",
+    "max_price": 1004000,
+    "min_price": 1004000,
+    "mileage": "24",
+    "displacement": "900",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "pleasure-plus-xtec",
+    "name": "Pleasure + Xtec",
+    "max_price": 77268,
+    "min_price": 68368,
+    "mileage": "50",
+    "displacement": "110.9",
+    "brand": { "id": 4 },
+    "brand_id": 17
+  },
+  {
+    "slug": "destini-125-xtec",
+    "name": "Destini 125 Xtec",
+    "max_price": 83808,
+    "min_price": 71608,
+    "mileage": "45",
+    "displacement": "124.6",
+    "brand": { "id": 4 },
+    "brand_id": 17
+  },
+  {
+    "slug": "passion-xtec",
+    "name": "Passion Xtec",
+    "max_price": 81758,
+    "min_price": 77358,
+    "mileage": "68.2",
+    "displacement": "110",
+    "brand": { "id": 4 },
+    "brand_id": 17
+  },
+  {
+    "slug": "glamour-xtec",
+    "name": "Glamour Xtec",
+    "max_price": 90518,
+    "min_price": 85918,
+    "mileage": "60",
+    "displacement": "124.7",
+    "brand": { "id": 4 },
+    "brand_id": 17
+  },
+  {
+    "slug": "splendor-plus-xtec",
+    "name": "Splendor Plus Xtec",
+    "max_price": 76346,
+    "min_price": 76346,
+    "mileage": "81",
+    "displacement": "97.2",
+    "brand": { "id": 4 },
+    "brand_id": 17
+  },
+  {
+    "slug": "rx-100",
+    "name": "RX 100",
+    "max_price": 100000,
+    "min_price": 100000,
+    "mileage": "40",
+    "displacement": "98",
+    "brand": { "id": 14 },
+    "brand_id": 46
+  },
+  {
+    "slug": "bullet-350-next-gen",
+    "name": "Bullet 350 Next Gen",
+    "max_price": 150000,
+    "min_price": 150000,
+    "mileage": "40.8",
+    "displacement": "350",
+    "brand": { "id": 7 },
+    "brand_id": 38
+  },
+  {
+    "slug": "dual-100",
+    "name": "Dual 100",
+    "max_price": 70000,
+    "min_price": 70000,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 60 },
+    "brand_id": 34
+  },
+  {
+    "slug": "scrambler-900",
+    "name": "Scrambler 900",
+    "max_price": 989000,
+    "min_price": 989000,
+    "mileage": "23",
+    "displacement": "900",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "xtreme-160r",
+    "name": "Xtreme 160R",
+    "max_price": 129738,
+    "min_price": 118616,
+    "mileage": "55.47",
+    "displacement": "163",
+    "brand": { "id": 4 },
+    "brand_id": 17
+  },
+  {
+    "slug": "speed-twin-900",
+    "name": "Speed Twin 900",
+    "max_price": 879000,
+    "min_price": 879000,
+    "mileage": "24",
+    "displacement": "900",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "super-splendor",
+    "name": "Super Splendor",
+    "max_price": 83248,
+    "min_price": 79118,
+    "mileage": "60",
+    "displacement": "124.7",
+    "brand": { "id": 4 },
+    "brand_id": 17
+  },
+  {
+    "slug": "cb350",
+    "name": "CB350",
+    "max_price": 210000,
+    "min_price": 200000,
+    "mileage": "35",
+    "displacement": "350",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "450x-gen-3",
+    "name": "450X Gen 3",
+    "max_price": 169149,
+    "min_price": 169149,
+    "mileage": "N/A",
+    "displacement": "0",
+    "brand": { "id": 1 },
+    "brand_id": 4
+  },
+  {
+    "slug": "g-310-r",
+    "name": "G 310 R",
+    "max_price": 280000,
+    "min_price": 280000,
+    "mileage": "32.46",
+    "displacement": "313",
+    "brand": { "id": 40 },
+    "brand_id": 9
+  },
+  {
+    "slug": "g-310-gs",
+    "name": "G 310 GS",
+    "max_price": 320000,
+    "min_price": 320000,
+    "mileage": "29.26",
+    "displacement": "313",
+    "brand": { "id": 40 },
+    "brand_id": 9
+  },
+  {
+    "slug": "g310-rr",
+    "name": "G310 RR",
+    "max_price": 305000,
+    "min_price": 295000,
+    "mileage": "30.3",
+    "displacement": "313",
+    "brand": { "id": 40 },
+    "brand_id": 9
+  },
+  {
+    "slug": "x-cape",
+    "name": "X-Cape",
+    "max_price": 750000,
+    "min_price": 730000,
+    "mileage": "28",
+    "displacement": "649",
+    "brand": { "id": 57 },
+    "brand_id": 30
+  },
+  {
+    "slug": "seiemmezzo-6",
+    "name": "SEIEMMEZZO 6",
+    "max_price": 710000,
+    "min_price": 699000,
+    "mileage": "Not Available",
+    "displacement": "649",
+    "brand": { "id": 57 },
+    "brand_id": 30
+  },
+  {
+    "slug": "ronin",
+    "name": "Ronin",
+    "max_price": 168750,
+    "min_price": 149000,
+    "mileage": "40",
+    "displacement": "225.9",
+    "brand": { "id": 2 },
+    "brand_id": 44
+  },
+  {
+    "slug": "f900xr-2023",
+    "name": "F900XR [2023]",
+    "max_price": 1255000,
+    "min_price": 1255000,
+    "mileage": "24",
+    "displacement": "895",
+    "brand": { "id": 40 },
+    "brand_id": 9
+  },
+  {
+    "slug": "nightster",
+    "name": "Nightster",
+    "max_price": 1499000,
+    "min_price": 1499000,
+    "mileage": "19.6",
+    "displacement": "975",
+    "brand": { "id": 47 },
+    "brand_id": 16
+  },
+  {
+    "slug": "streetfighter-v4",
+    "name": "Streetfighter V4",
+    "max_price": 7200000,
+    "min_price": 2215000,
+    "mileage": "13.15",
+    "displacement": "1103",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "scrambler-urban-motard",
+    "name": "Scrambler Urban Motard",
+    "max_price": 1199000,
+    "min_price": 1199000,
+    "mileage": "19",
+    "displacement": "803",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "street-triple-rs",
+    "name": "Street Triple 765 RS",
+    "max_price": 1200000,
+    "min_price": 1150000,
+    "mileage": "19.2",
+    "displacement": "765",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "trident-660",
+    "name": "Trident 660",
+    "max_price": 745000,
+    "min_price": 745000,
+    "mileage": "17.47",
+    "displacement": "660",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "speed-triple-1200-rs",
+    "name": "Speed Triple 1200 RS",
+    "max_price": 1795000,
+    "min_price": 1795000,
+    "mileage": "17.8",
+    "displacement": "1160",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "katana",
+    "name": "Katana",
+    "max_price": 1361000,
+    "min_price": 1361000,
+    "mileage": "22",
+    "displacement": "999",
+    "brand": { "id": 27 },
+    "brand_id": 40
+  },
+  {
+    "slug": "versys-650",
+    "name": "Versys 650",
+    "max_price": 754000,
+    "min_price": 754000,
+    "mileage": "20 Kmpl",
+    "displacement": "649",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "s1000-rr",
+    "name": "S1000 RR",
+    "max_price": 2445000,
+    "min_price": 2025000,
+    "mileage": "16",
+    "displacement": "999",
+    "brand": { "id": 40 },
+    "brand_id": 9
+  },
+  {
+    "slug": "etryst-350",
+    "name": "Etryst-350",
+    "max_price": 154999,
+    "min_price": 154999,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 61 },
+    "brand_id": 36
+  },
+  {
+    "slug": "passion-pro",
+    "name": "Passion Pro",
+    "max_price": 77408,
+    "min_price": 74408,
+    "mileage": "60",
+    "displacement": "110",
+    "brand": { "id": 4 },
+    "brand_id": 17
+  },
+  {
+    "slug": "pulsar-n250",
+    "name": "Pulsar N250",
+    "max_price": 149978,
+    "min_price": 144285,
+    "mileage": "38",
+    "displacement": "249.07",
+    "brand": { "id": 6 },
+    "brand_id": 5
+  },
+  {
+    "slug": "pulsar-f250",
+    "name": "Pulsar F250",
+    "max_price": 149978,
+    "min_price": 144285,
+    "mileage": "37",
+    "displacement": "249.07",
+    "brand": { "id": 6 },
+    "brand_id": 5
+  },
+  {
+    "slug": "pulsar-n160",
+    "name": "Pulsar N160",
+    "max_price": 129645,
+    "min_price": 122854,
+    "mileage": "45",
+    "displacement": "164.82",
+    "brand": { "id": 6 },
+    "brand_id": 5
+  },
+  {
+    "slug": "eddy",
+    "name": "Eddy",
+    "max_price": 72000,
+    "min_price": 72000,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 48 },
+    "brand_id": 18
+  },
+  {
+    "slug": "tiger-1200",
+    "name": "Tiger 1200",
+    "max_price": 2169000,
+    "min_price": 1919000,
+    "mileage": "18",
+    "displacement": "1160",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "iqube",
+    "name": "iQube",
+    "max_price": 125000,
+    "min_price": 99123,
+    "mileage": "N/A",
+    "displacement": "0",
+    "brand": { "id": 2 },
+    "brand_id": 44
+  },
+  {
+    "slug": "k-light-250v",
+    "name": "K-Light 250V",
+    "max_price": 320000,
+    "min_price": 320000,
+    "mileage": "32",
+    "displacement": "249",
+    "brand": { "id": 25 },
+    "brand_id": 25
+  },
+  {
+    "slug": "sixties-300i",
+    "name": "Sixties 300i",
+    "max_price": 330000,
+    "min_price": 330000,
+    "mileage": "27.73",
+    "displacement": "278.2",
+    "brand": { "id": 25 },
+    "brand_id": 25
+  },
+  {
+    "slug": "vieste-300",
+    "name": "Vieste 300",
+    "max_price": 325000,
+    "min_price": 325000,
+    "mileage": "27.88",
+    "displacement": "278.2",
+    "brand": { "id": 25 },
+    "brand_id": 25
+  },
+  {
+    "slug": "d15",
+    "name": "D15",
+    "max_price": 145651,
+    "min_price": 134514,
+    "mileage": "N/A",
+    "displacement": "0",
+    "brand": { "id": 39 },
+    "brand_id": 8
+  },
+  {
+    "slug": "classic-350",
+    "name": "Classic 350",
+    "max_price": 221297,
+    "min_price": 190229,
+    "mileage": "41.55",
+    "displacement": "349",
+    "brand": { "id": 7 },
+    "brand_id": 38
+  },
+  {
+    "slug": "ntorq-125",
+    "name": "Ntorq 125",
+    "max_price": 104391,
+    "min_price": 84386,
+    "mileage": "40.5",
+    "displacement": "124.8",
+    "brand": { "id": 2 },
+    "brand_id": 44
+  },
+  {
+    "slug": "ninja-300",
+    "name": "Ninja 300",
+    "max_price": 340000,
+    "min_price": 340000,
+    "mileage": "32.1",
+    "displacement": "296",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "multistrada-v2",
+    "name": "Multistrada V2",
+    "max_price": 1832000,
+    "min_price": 1605000,
+    "mileage": "17",
+    "displacement": "937",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "goldwing",
+    "name": "Goldwing",
+    "max_price": 3920000,
+    "min_price": 3920000,
+    "mileage": "14",
+    "displacement": "1833",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "f850-gs",
+    "name": "F850 GS",
+    "max_price": 1375000,
+    "min_price": 1295000,
+    "mileage": "24",
+    "displacement": "853",
+    "brand": { "id": 40 },
+    "brand_id": 9
+  },
+  {
+    "slug": "glamour",
+    "name": "Glamour",
+    "max_price": 82768,
+    "min_price": 78768,
+    "mileage": "70",
+    "displacement": "124.7",
+    "brand": { "id": 4 },
+    "brand_id": 17
+  },
+  {
+    "slug": "scooty-pep-plus",
+    "name": "Scooty Pep Plus",
+    "max_price": 68414,
+    "min_price": 65514,
+    "mileage": "50",
+    "displacement": "87.8",
+    "brand": { "id": 2 },
+    "brand_id": 44
+  },
+  {
+    "slug": "f900xr",
+    "name": "F900XR",
+    "max_price": 1230000,
+    "min_price": 1230000,
+    "mileage": "24",
+    "displacement": "895",
+    "brand": { "id": 40 },
+    "brand_id": 9
+  },
+  {
+    "slug": "splendor-plus",
+    "name": "Splendor Plus",
+    "max_price": 74396,
+    "min_price": 72076,
+    "mileage": "60",
+    "displacement": "97.2",
+    "brand": { "id": 4 },
+    "brand_id": 17
+  },
+  {
+    "slug": "hf-deluxe",
+    "name": "HF Deluxe",
+    "max_price": 67138,
+    "min_price": 59990,
+    "mileage": "65",
+    "displacement": "97.2",
+    "brand": { "id": 4 },
+    "brand_id": 17
+  },
+  {
+    "slug": "avenis-125",
+    "name": "Avenis 125",
+    "max_price": 92300,
+    "min_price": 87800,
+    "mileage": "55",
+    "displacement": "124.3",
+    "brand": { "id": 27 },
+    "brand_id": 40
+  },
+  {
+    "slug": "fascino-125",
+    "name": "Fascino 125",
+    "max_price": 91030,
+    "min_price": 78600,
+    "mileage": "68.75",
+    "displacement": "125",
+    "brand": { "id": 14 },
+    "brand_id": 46
+  },
+  {
+    "slug": "cd-110-dream",
+    "name": "CD 110 Dream",
+    "max_price": 71133,
+    "min_price": 71133,
+    "mileage": "65",
+    "displacement": "109.51",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "okhi-90",
+    "name": "OKHI-90",
+    "max_price": 121866,
+    "min_price": 121866,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 60 },
+    "brand_id": 34
+  },
+  {
+    "slug": "africa-twin",
+    "name": "Africa Twin",
+    "max_price": 1755500,
+    "min_price": 1601500,
+    "mileage": "24",
+    "displacement": "1082",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "panigale-v2",
+    "name": "Panigale V2",
+    "max_price": 2360000,
+    "min_price": 2027000,
+    "mileage": "16.6",
+    "displacement": "955",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "scram-411",
+    "name": "Scram 411",
+    "max_price": 208593,
+    "min_price": 203085,
+    "mileage": "38.23",
+    "displacement": "411",
+    "brand": { "id": 7 },
+    "brand_id": 38
+  },
+  {
+    "slug": "jupiter",
+    "name": "Jupiter",
+    "max_price": 87693,
+    "min_price": 71390,
+    "mileage": "60.44",
+    "displacement": "109.7",
+    "brand": { "id": 2 },
+    "brand_id": 44
+  },
+  {
+    "slug": "scrambler-1100",
+    "name": "Scrambler 1100",
+    "max_price": 1599000,
+    "min_price": 1195000,
+    "mileage": "19",
+    "displacement": "1079",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "390-adventure",
+    "name": "390 Adventure",
+    "max_price": 337043,
+    "min_price": 337043,
+    "mileage": "28",
+    "displacement": "373.27",
+    "brand": { "id": 54 },
+    "brand_id": 26
+  },
+  {
+    "slug": "z650rs",
+    "name": "Z650RS",
+    "max_price": 699000,
+    "min_price": 692000,
+    "mileage": "23.2",
+    "displacement": "649",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "kratos",
+    "name": "Kratos",
+    "max_price": 137499,
+    "min_price": 122499,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 42 }
+  },
+  {
+    "slug": "fz25",
+    "name": "FZ25",
+    "max_price": 154400,
+    "min_price": 154400,
+    "mileage": "50.33",
+    "displacement": "249",
+    "brand": { "id": 14 },
+    "brand_id": 46
+  },
+  {
+    "slug": "cb200x",
+    "name": "CB200X",
+    "max_price": 148844,
+    "min_price": 148844,
+    "mileage": "42",
+    "displacement": "184.4",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "scrambler",
+    "name": "Scrambler",
+    "max_price": 207900,
+    "min_price": 207900,
+    "mileage": "28",
+    "displacement": "334",
+    "brand": { "id": 66 },
+    "brand_id": 47
+  },
+  {
+    "slug": "adventure",
+    "name": "Adventure",
+    "max_price": 224237,
+    "min_price": 212900,
+    "mileage": "33.07",
+    "displacement": "334",
+    "brand": { "id": 66 },
+    "brand_id": 47
+  },
+  {
+    "slug": "roadster",
+    "name": "Roadster",
+    "max_price": 209142,
+    "min_price": 201142,
+    "mileage": "28.53",
+    "displacement": "334",
+    "brand": { "id": 66 },
+    "brand_id": 47
+  },
+  {
+    "slug": "himalayan-450",
+    "name": "Himalayan 450",
+    "max_price": 260000,
+    "min_price": 260000,
+    "mileage": "30",
+    "displacement": "450",
+    "brand": { "id": 7 },
+    "brand_id": 38
+  },
+  {
+    "slug": "250-adventure",
+    "name": "250 Adventure",
+    "max_price": 244205,
+    "min_price": 244205,
+    "mileage": "38.12",
+    "displacement": "248.76",
+    "brand": { "id": 54 },
+    "brand_id": 26
+  },
+  {
+    "slug": "fz-s-fi",
+    "name": "FZ S FI",
+    "max_price": 122400,
+    "min_price": 121400,
+    "mileage": "45.5",
+    "displacement": "149",
+    "brand": { "id": 14 },
+    "brand_id": 46
+  },
+  {
+    "slug": "street-twin",
+    "name": "Street Twin",
+    "max_price": 855000,
+    "min_price": 855000,
+    "mileage": "24",
+    "displacement": "900",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "rocket-3",
+    "name": "Rocket 3",
+    "max_price": 2050000,
+    "min_price": 1990000,
+    "mileage": "14.6",
+    "displacement": "2458",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "street-scrambler",
+    "name": "Street Scrambler",
+    "max_price": 1005000,
+    "min_price": 995000,
+    "mileage": "23",
+    "displacement": "900",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "klx450r",
+    "name": "KLX450R",
+    "max_price": 899000,
+    "min_price": 899000,
+    "mileage": "23",
+    "displacement": "449",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "shotgun-650",
+    "name": "Shotgun 650",
+    "max_price": 300000,
+    "min_price": 300000,
+    "mileage": "25",
+    "displacement": "648",
+    "brand": { "id": 7 },
+    "brand_id": 38
+  },
+  {
+    "slug": "super-meteor-650",
+    "name": "Super Meteor 650",
+    "max_price": 378900,
+    "min_price": 378900,
+    "mileage": "25",
+    "displacement": "648",
+    "brand": { "id": 7 },
+    "brand_id": 38
+  },
+  {
+    "slug": "infinity-e1",
+    "name": "Infinity E1",
+    "max_price": 80000,
+    "min_price": 47499,
+    "mileage": "N/A",
+    "displacement": "0",
+    "brand": { "id": 41 },
+    "brand_id": 10
+  },
+  {
+    "slug": "hness-cb350",
+    "name": "Hness CB350",
+    "max_price": 205679,
+    "min_price": 115759,
+    "mileage": "45",
+    "displacement": "348.36",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "sportster-s",
+    "name": "Sportster S",
+    "max_price": 1551000,
+    "min_price": 1551000,
+    "mileage": "19.6",
+    "displacement": "1252",
+    "brand": { "id": 47 },
+    "brand_id": 16
+  },
+  {
+    "slug": "dominar-400",
+    "name": "Dominar 400",
+    "max_price": 224783,
+    "min_price": 224783,
+    "mileage": "29",
+    "displacement": "373.3",
+    "brand": { "id": 6 },
+    "brand_id": 5
+  },
+  {
+    "slug": "apache-rtr-200-4v",
+    "name": "Apache RTR 200 4V",
+    "max_price": 146042,
+    "min_price": 139690,
+    "mileage": "38.5",
+    "displacement": "197.75",
+    "brand": { "id": 2 },
+    "brand_id": 44
+  },
+  {
+    "slug": "ninja-1000",
+    "name": "Ninja 1000",
+    "max_price": 1210000,
+    "min_price": 1210000,
+    "mileage": "17.2 Kmpl",
+    "displacement": "1043",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "sr-160",
+    "name": "SR 160",
+    "max_price": 139000,
+    "min_price": 130000,
+    "mileage": "44",
+    "displacement": "160.03",
+    "brand": { "id": 35 },
+    "brand_id": 3
+  },
+  {
+    "slug": "r15s",
+    "name": "R15S",
+    "max_price": 163400,
+    "min_price": 163400,
+    "mileage": "40",
+    "displacement": "155",
+    "brand": { "id": 14 },
+    "brand_id": 46
+  },
+  {
+    "slug": "sr-125",
+    "name": "SR 125",
+    "max_price": 121000,
+    "min_price": 121000,
+    "mileage": "40",
+    "displacement": "124.45",
+    "brand": { "id": 35 },
+    "brand_id": 3
+  },
+  {
+    "slug": "burgman-street-electric",
+    "name": "Burgman Street Electric",
+    "max_price": 105000,
+    "min_price": 105000,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 27 },
+    "brand_id": 40
+  },
+  {
+    "slug": "s1-pro",
+    "name": "S1 Pro",
+    "max_price": 139999,
+    "min_price": 139999,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 12 },
+    "brand_id": 35
+  },
+  {
+    "slug": "hypermotard-950",
+    "name": "Hypermotard 950",
+    "max_price": 1799000,
+    "min_price": 1560000,
+    "mileage": "19.6",
+    "displacement": "937",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "maestro-edge-110",
+    "name": "Maestro Edge 110",
+    "max_price": 76137,
+    "min_price": 70639,
+    "mileage": "45",
+    "displacement": "110.9",
+    "brand": { "id": 4 },
+    "brand_id": 17
+  },
+  {
+    "slug": "scrambler-desert-sled",
+    "name": "Scrambler Desert Sled",
+    "max_price": 1259000,
+    "min_price": 1099000,
+    "mileage": "19.6",
+    "displacement": "803",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "versys-1000",
+    "name": "Versys 1000",
+    "max_price": 1219000,
+    "min_price": 1219000,
+    "mileage": "14",
+    "displacement": "1043",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "radeon",
+    "name": "Radeon",
+    "max_price": 78834,
+    "min_price": 60925,
+    "mileage": "65",
+    "displacement": "109.7",
+    "brand": { "id": 2 },
+    "brand_id": 44
+  },
+  {
+    "slug": "himalayan-650",
+    "name": "Himalayan 650",
+    "max_price": 400000,
+    "min_price": 400000,
+    "mileage": "40",
+    "displacement": "650",
+    "brand": { "id": 7 },
+    "brand_id": 38
+  },
+  {
+    "slug": "magnus-ex",
+    "name": "Magnus EX",
+    "max_price": 81900,
+    "min_price": 81900,
+    "mileage": "121 Km",
+    "displacement": "0",
+    "brand": { "id": 34 },
+    "brand_id": 2
+  },
+  {
+    "slug": "apache-rtr-160-4v",
+    "name": "Apache RTR 160 4V",
+    "max_price": 130487,
+    "min_price": 112616,
+    "mileage": "45",
+    "displacement": "159.7",
+    "brand": { "id": 2 },
+    "brand_id": 44
+  },
+  {
+    "slug": "jupiter-125",
+    "name": "Jupiter 125",
+    "max_price": 90405,
+    "min_price": 83605,
+    "mileage": "50",
+    "displacement": "124.8",
+    "brand": { "id": 2 },
+    "brand_id": 44
+  },
+  {
+    "slug": "monster-bs6",
+    "name": "Monster BS6",
+    "max_price": 1269000,
+    "min_price": 1249000,
+    "mileage": "19",
+    "displacement": "937",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "raider-125",
+    "name": "Raider 125",
+    "max_price": 100820,
+    "min_price": 86803,
+    "mileage": "57",
+    "displacement": "124.8",
+    "brand": { "id": 2 },
+    "brand_id": 44
+  },
+  {
+    "slug": "supersport",
+    "name": "SuperSport",
+    "max_price": 1839000,
+    "min_price": 1575000,
+    "mileage": "17.8",
+    "displacement": "937",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "ray-zr-125",
+    "name": "Ray ZR 125",
+    "max_price": 93530,
+    "min_price": 83730,
+    "mileage": "52",
+    "displacement": "125",
+    "brand": { "id": 14 },
+    "brand_id": 46
+  },
+  {
+    "slug": "rc-390",
+    "name": "RC 390",
+    "max_price": 316070,
+    "min_price": 316070,
+    "mileage": "29",
+    "displacement": "373.27",
+    "brand": { "id": 54 },
+    "brand_id": 26
+  },
+  {
+    "slug": "rc-200",
+    "name": "RC 200",
+    "max_price": 214688,
+    "min_price": 214688,
+    "mileage": "34",
+    "displacement": "199.5",
+    "brand": { "id": 54 },
+    "brand_id": 26
+  },
+  {
+    "slug": "rc-125",
+    "name": "RC 125",
+    "max_price": 188640,
+    "min_price": 188640,
+    "mileage": "45",
+    "displacement": "124.7",
+    "brand": { "id": 54 },
+    "brand_id": 26
+  },
+  {
+    "slug": "kx450",
+    "name": "KX450",
+    "max_price": 859000,
+    "min_price": 859000,
+    "mileage": "20",
+    "displacement": "449",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "kx250",
+    "name": "KX250",
+    "max_price": 799000,
+    "min_price": 799000,
+    "mileage": "20",
+    "displacement": "249",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "v85-tt",
+    "name": "V85 TT",
+    "max_price": 1540000,
+    "min_price": 1540000,
+    "mileage": "23",
+    "displacement": "853",
+    "brand": { "id": 56 },
+    "brand_id": 29
+  },
+  {
+    "slug": "apache-rr-310-racing-edition",
+    "name": "Apache RR 310 Racing Edition",
+    "max_price": 264983,
+    "min_price": 264983,
+    "mileage": "30",
+    "displacement": "312.2",
+    "brand": { "id": 2 },
+    "brand_id": 44
+  },
+  {
+    "slug": "tiger-sport-660",
+    "name": "Tiger Sport 660",
+    "max_price": 895000,
+    "min_price": 895000,
+    "mileage": "22",
+    "displacement": "660",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "vxl-150",
+    "name": "VXL 150",
+    "max_price": 153607,
+    "min_price": 142989,
+    "mileage": "45",
+    "displacement": "149.5",
+    "brand": { "id": 65 },
+    "brand_id": 45
+  },
+  {
+    "slug": "optima-cx",
+    "name": "Optima CX",
+    "max_price": 85190,
+    "min_price": 67190,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 48 },
+    "brand_id": 18
+  },
+  {
+    "slug": "nyx-hx",
+    "name": "NYX HX",
+    "max_price": 86540,
+    "min_price": 86540,
+    "mileage": "N/A",
+    "displacement": "0",
+    "brand": { "id": 48 },
+    "brand_id": 18
+  },
+  {
+    "slug": "vulcan-s",
+    "name": "Vulcan S",
+    "max_price": 640000,
+    "min_price": 640000,
+    "mileage": "20.58",
+    "displacement": "649",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "xdiavel",
+    "name": "XDiavel",
+    "max_price": 2679000,
+    "min_price": 2120000,
+    "mileage": "18",
+    "displacement": "1262",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "z650",
+    "name": "Z650",
+    "max_price": 643034,
+    "min_price": 643000,
+    "mileage": "28.11",
+    "displacement": "649",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "ninja-650",
+    "name": "Ninja 650",
+    "max_price": 712000,
+    "min_price": 712000,
+    "mileage": "21 Kmpl",
+    "displacement": "649",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "standard",
+    "name": "Standard",
+    "max_price": 196357,
+    "min_price": 181415,
+    "mileage": "30",
+    "displacement": "294.72",
+    "brand": { "id": 51 },
+    "brand_id": 22
+  },
+  {
+    "slug": "one",
+    "name": "One",
+    "max_price": 153445,
+    "min_price": 153445,
+    "mileage": "N/A",
+    "displacement": "0",
+    "brand": { "id": 62 },
+    "brand_id": 39
+  },
+  {
+    "slug": "maestro-edge-125",
+    "name": "Maestro Edge 125",
+    "max_price": 86766,
+    "min_price": 77896,
+    "mileage": "65",
+    "displacement": "124.6",
+    "brand": { "id": 4 },
+    "brand_id": 17
+  },
+  {
+    "slug": "multistrada-v4",
+    "name": "Multistrada V4",
+    "max_price": 3148000,
+    "min_price": 2148000,
+    "mileage": "15",
+    "displacement": "1158",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "c-400-gt",
+    "name": "C 400 GT",
+    "max_price": 1075000,
+    "min_price": 1075000,
+    "mileage": "28.6",
+    "displacement": "350",
+    "brand": { "id": 40 },
+    "brand_id": 9
+  },
+  {
+    "slug": "s1",
+    "name": "S1",
+    "max_price": 99999,
+    "min_price": 99999,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 12 },
+    "brand_id": 35
+  },
+  {
+    "slug": "502c",
+    "name": "502C",
+    "max_price": 559000,
+    "min_price": 559000,
+    "mileage": "26.52",
+    "displacement": "500",
+    "brand": { "id": 37 },
+    "brand_id": 6
+  },
+  {
+    "slug": "fz-x",
+    "name": "FZ X",
+    "max_price": 136900,
+    "min_price": 135900,
+    "mileage": "48",
+    "displacement": "149",
+    "brand": { "id": 14 },
+    "brand_id": 46
+  },
+  {
+    "slug": "super-chief-limited",
+    "name": "Super Chief Limited",
+    "max_price": 2433264,
+    "min_price": 2433264,
+    "mileage": "14",
+    "displacement": "1890",
+    "brand": { "id": 50 },
+    "brand_id": 21
+  },
+  {
+    "slug": "chief-bobber-dark-horse",
+    "name": "Chief Bobber Dark Horse",
+    "max_price": 2281633,
+    "min_price": 2281633,
+    "mileage": "18",
+    "displacement": "1890",
+    "brand": { "id": 50 },
+    "brand_id": 21
+  },
+  {
+    "slug": "chief-dark-horse",
+    "name": "Chief Dark Horse",
+    "max_price": 2213399,
+    "min_price": 2213399,
+    "mileage": "18",
+    "displacement": "1890",
+    "brand": { "id": 50 },
+    "brand_id": 21
+  },
+  {
+    "slug": "s-1000-r",
+    "name": "S 1000 R",
+    "max_price": 2330000,
+    "min_price": 1900000,
+    "mileage": "16.12",
+    "displacement": "999",
+    "brand": { "id": 40 },
+    "brand_id": 9
+  },
+  {
+    "slug": "diavel-1260",
+    "name": "Diavel 1260",
+    "max_price": 2499999,
+    "min_price": 2149000,
+    "mileage": "18.5",
+    "displacement": "1262",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "atria",
+    "name": "Atria",
+    "max_price": 77690,
+    "min_price": 77690,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 48 },
+    "brand_id": 18
+  },
+  {
+    "slug": "photon",
+    "name": "Photon",
+    "max_price": 86391,
+    "min_price": 86391,
+    "mileage": "N/A",
+    "displacement": "0",
+    "brand": { "id": 48 },
+    "brand_id": 18
+  },
+  {
+    "slug": "platina-110",
+    "name": "Platina 110",
+    "max_price": 72224,
+    "min_price": 68544,
+    "mileage": "70",
+    "displacement": "115.45",
+    "brand": { "id": 6 },
+    "brand_id": 5
+  },
+  {
+    "slug": "650mt",
+    "name": "650MT",
+    "max_price": 529000,
+    "min_price": 529000,
+    "mileage": "20",
+    "displacement": "649",
+    "brand": { "id": 42 },
+    "brand_id": 11
+  },
+  {
+    "slug": "650gt",
+    "name": "650GT",
+    "max_price": 559000,
+    "min_price": 559000,
+    "mileage": "20",
+    "displacement": "649.3",
+    "brand": { "id": 42 },
+    "brand_id": 11
+  },
+  {
+    "slug": "street-glide-special",
+    "name": "Street Glide Special",
+    "max_price": 3399000,
+    "min_price": 3399000,
+    "mileage": "18",
+    "displacement": "1868",
+    "brand": { "id": 47 },
+    "brand_id": 16
+  },
+  {
+    "slug": "road-glide-special",
+    "name": "Road Glide Special",
+    "max_price": 3699000,
+    "min_price": 3699000,
+    "mileage": "16.3",
+    "displacement": "1868",
+    "brand": { "id": 47 },
+    "brand_id": 16
+  },
+  {
+    "slug": "road-king",
+    "name": "Road King",
+    "max_price": 2849000,
+    "min_price": 2849000,
+    "mileage": "18",
+    "displacement": "1745",
+    "brand": { "id": 47 },
+    "brand_id": 16
+  },
+  {
+    "slug": "heritage-classic",
+    "name": "Heritage Classic",
+    "max_price": 2659000,
+    "min_price": 2349000,
+    "mileage": "18.1",
+    "displacement": "1868",
+    "brand": { "id": 47 },
+    "brand_id": 16
+  },
+  {
+    "slug": "electra-glide",
+    "name": "Electra Glide",
+    "max_price": 2499000,
+    "min_price": 2499000,
+    "mileage": "18",
+    "displacement": "1746",
+    "brand": { "id": 47 },
+    "brand_id": 16
+  },
+  {
+    "slug": "fat-bob",
+    "name": "Fat Bob",
+    "max_price": 1799000,
+    "min_price": 1799000,
+    "mileage": "18.1",
+    "displacement": "1868",
+    "brand": { "id": 47 },
+    "brand_id": 16
+  },
+  {
+    "slug": "street-bob",
+    "name": "Street Bob",
+    "max_price": 1601576,
+    "min_price": 1601576,
+    "mileage": "18",
+    "displacement": "1868",
+    "brand": { "id": 47 },
+    "brand_id": 16
+  },
+  {
+    "slug": "softail",
+    "name": "Softail",
+    "max_price": 1525000,
+    "min_price": 1525000,
+    "mileage": "18",
+    "displacement": "1746",
+    "brand": { "id": 47 },
+    "brand_id": 16
+  },
+  {
+    "slug": "pan-america-1250",
+    "name": "PAN America 1250",
+    "max_price": 2099000,
+    "min_price": 1825000,
+    "mileage": "18.1",
+    "displacement": "1252",
+    "brand": { "id": 47 },
+    "brand_id": 16
+  },
+  {
+    "slug": "gsx-s1000",
+    "name": "GSX-S1000",
+    "max_price": 1200000,
+    "min_price": 1200000,
+    "mileage": "20",
+    "displacement": "999",
+    "brand": { "id": 27 },
+    "brand_id": 40
+  },
+  {
+    "slug": "scrambler-1200",
+    "name": "Scrambler 1200",
+    "max_price": 1375000,
+    "min_price": 1375000,
+    "mileage": "24.6",
+    "displacement": "1200",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "650nk",
+    "name": "650NK",
+    "max_price": 429000,
+    "min_price": 429000,
+    "mileage": "21",
+    "displacement": "649.3",
+    "brand": { "id": 42 },
+    "brand_id": 11
+  },
+  {
+    "slug": "pulsar-ns125",
+    "name": "Pulsar NS125",
+    "max_price": 104371,
+    "min_price": 104371,
+    "mileage": "49.5",
+    "displacement": "124.4",
+    "brand": { "id": 6 },
+    "brand_id": 5
+  },
+  {
+    "slug": "ct-110",
+    "name": "CT 110",
+    "max_price": 67322,
+    "min_price": 59104,
+    "mileage": "70",
+    "displacement": "115",
+    "brand": { "id": 6 },
+    "brand_id": 5
+  },
+  {
+    "slug": "racer",
+    "name": "Racer",
+    "max_price": 78686,
+    "min_price": 78686,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 59 },
+    "brand_id": 32
+  },
+  {
+    "slug": "hawk",
+    "name": "Hawk",
+    "max_price": 117950,
+    "min_price": 99400,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 59 },
+    "brand_id": 32
+  },
+  {
+    "slug": "e2go",
+    "name": "E2Go",
+    "max_price": 70900,
+    "min_price": 59663,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 59 },
+    "brand_id": 32
+  },
+  {
+    "slug": "evoqis",
+    "name": "Evoqis",
+    "max_price": 171250,
+    "min_price": 171250,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 59 },
+    "brand_id": 32
+  },
+  {
+    "slug": "m-1000-rr",
+    "name": "M 1000 RR",
+    "max_price": 4500000,
+    "min_price": 4200000,
+    "mileage": "15.3",
+    "displacement": "999",
+    "brand": { "id": 40 },
+    "brand_id": 9
+  },
+  {
+    "slug": "cb350rs",
+    "name": "CB350RS",
+    "max_price": 206015,
+    "min_price": 205386,
+    "mileage": "35",
+    "displacement": "348.36",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "etrance-neo",
+    "name": "ETrance Neo",
+    "max_price": 87999,
+    "min_price": 87999,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 61 },
+    "brand_id": 36
+  },
+  {
+    "slug": "scrambler-nightshift",
+    "name": "Scrambler Nightshift",
+    "max_price": 1200000,
+    "min_price": 1169000,
+    "mileage": "19",
+    "displacement": "803",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "xpulse-200t",
+    "name": "Xpulse 200T",
+    "max_price": 135726,
+    "min_price": 125726,
+    "mileage": "42",
+    "displacement": "199.6",
+    "brand": { "id": 4 },
+    "brand_id": 17
+  },
+  {
+    "slug": "platina-100",
+    "name": "Platina 100",
+    "max_price": 65856,
+    "min_price": 52733,
+    "mileage": "72",
+    "displacement": "102",
+    "brand": { "id": 6 },
+    "brand_id": 5
+  },
+  {
+    "slug": "star-city-plus",
+    "name": "Star City Plus",
+    "max_price": 79970,
+    "min_price": 74990,
+    "mileage": "83.09",
+    "displacement": "109.7",
+    "brand": { "id": 2 },
+    "brand_id": 44
+  },
+  {
+    "slug": "r18",
+    "name": "R18",
+    "max_price": 2400000,
+    "min_price": 1990000,
+    "mileage": "17",
+    "displacement": "1802",
+    "brand": { "id": 40 },
+    "brand_id": 9
+  },
+  {
+    "slug": "42",
+    "name": "42",
+    "max_price": 181357,
+    "min_price": 167487,
+    "mileage": "33",
+    "displacement": "294.72",
+    "brand": { "id": 51 },
+    "brand_id": 22
+  },
+  {
+    "slug": "himalayan",
+    "name": "Himalayan",
+    "max_price": 221992,
+    "min_price": 214501,
+    "mileage": "32.4",
+    "displacement": "411",
+    "brand": { "id": 7 },
+    "brand_id": 38
+  },
+  {
+    "slug": "fz-fi",
+    "name": "FZ FI",
+    "max_price": 116200,
+    "min_price": 116200,
+    "mileage": "45",
+    "displacement": "149",
+    "brand": { "id": 14 },
+    "brand_id": 46
+  },
+  {
+    "slug": "hayabusa",
+    "name": "Hayabusa",
+    "max_price": 1690000,
+    "min_price": 1690000,
+    "mileage": "17.8",
+    "displacement": "1340",
+    "brand": { "id": 27 },
+    "brand_id": 40
+  },
+  {
+    "slug": "300nk",
+    "name": "300NK",
+    "max_price": 229000,
+    "min_price": 229000,
+    "mileage": "33",
+    "displacement": "292.4",
+    "brand": { "id": 42 },
+    "brand_id": 11
+  },
+  {
+    "slug": "scrambler-icon",
+    "name": "Scrambler Icon",
+    "max_price": 989000,
+    "min_price": 939000,
+    "mileage": "19",
+    "displacement": "803",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "xl100-heavy-duty",
+    "name": "XL100 Heavy Duty",
+    "max_price": 57532,
+    "min_price": 49191,
+    "mileage": "80",
+    "displacement": "99.7",
+    "brand": { "id": 2 },
+    "brand_id": 44
+  },
+  {
+    "slug": "wolf",
+    "name": "Wolf",
+    "max_price": 79900,
+    "min_price": 79900,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 52 },
+    "brand_id": 23
+  },
+  {
+    "slug": "monster",
+    "name": "Monster",
+    "max_price": 110000,
+    "min_price": 110000,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 52 },
+    "brand_id": 23
+  },
+  {
+    "slug": "honeybee",
+    "name": "Honeybee",
+    "max_price": 42200,
+    "min_price": 42200,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 52 },
+    "brand_id": 23
+  },
+  {
+    "slug": "glob",
+    "name": "Glob",
+    "max_price": 77400,
+    "min_price": 77400,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 52 },
+    "brand_id": 23
+  },
+  {
+    "slug": "gen-nxt",
+    "name": "Gen Nxt",
+    "max_price": 73865,
+    "min_price": 73865,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 52 },
+    "brand_id": 23
+  },
+  {
+    "slug": "z-h2",
+    "name": "Z H2",
+    "max_price": 2695000,
+    "min_price": 2302000,
+    "mileage": "15",
+    "displacement": "998",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "tiger-850-sport",
+    "name": "Tiger 850 Sport",
+    "max_price": 1195000,
+    "min_price": 1195000,
+    "mileage": "19",
+    "displacement": "888",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "xl100-comfort",
+    "name": "XL100 Comfort",
+    "max_price": 57790,
+    "min_price": 46671,
+    "mileage": "80",
+    "displacement": "99.7",
+    "brand": { "id": 2 },
+    "brand_id": 44
+  },
+  {
+    "slug": "xtreme-200s",
+    "name": "Xtreme 200S",
+    "max_price": 135360,
+    "min_price": 135360,
+    "mileage": "40",
+    "displacement": "199.6",
+    "brand": { "id": 4 },
+    "brand_id": 17
+  },
+  {
+    "slug": "meteor-350",
+    "name": "Meteor 350",
+    "max_price": 222065,
+    "min_price": 201253,
+    "mileage": "36.2",
+    "displacement": "349",
+    "brand": { "id": 7 },
+    "brand_id": 38
+  },
+  {
+    "slug": "kriti",
+    "name": "Kriti",
+    "max_price": 56940,
+    "min_price": 56940,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 38 },
+    "brand_id": 7
+  },
+  {
+    "slug": "icon",
+    "name": "Icon",
+    "max_price": 65470,
+    "min_price": 65470,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 38 },
+    "brand_id": 7
+  },
+  {
+    "slug": "falcon",
+    "name": "Falcon",
+    "max_price": 62200,
+    "min_price": 62200,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 38 },
+    "brand_id": 7
+  },
+  {
+    "slug": "aura",
+    "name": "Aura",
+    "max_price": 73000,
+    "min_price": 73000,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 38 },
+    "brand_id": 7
+  },
+  {
+    "slug": "pulsar-125",
+    "name": "Pulsar 125",
+    "max_price": 89254,
+    "min_price": 81389,
+    "mileage": "50",
+    "displacement": "124.4",
+    "brand": { "id": 6 },
+    "brand_id": 5
+  },
+  {
+    "slug": "access-125",
+    "name": "Access 125",
+    "max_price": 89500,
+    "min_price": 79600,
+    "mileage": "52.45",
+    "displacement": "124",
+    "brand": { "id": 27 },
+    "brand_id": 40
+  },
+  {
+    "slug": "burgman-street-125",
+    "name": "Burgman Street 125",
+    "max_price": 92851,
+    "min_price": 89287,
+    "mileage": "55.89",
+    "displacement": "124",
+    "brand": { "id": 27 },
+    "brand_id": 40
+  },
+  {
+    "slug": "ryder",
+    "name": "Ryder",
+    "max_price": 60000,
+    "min_price": 60000,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 46 },
+    "brand_id": 15
+  },
+  {
+    "slug": "astrid-lite",
+    "name": "Astrid Lite",
+    "max_price": 79999,
+    "min_price": 79999,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 46 },
+    "brand_id": 15
+  },
+  {
+    "slug": "b8",
+    "name": "B8",
+    "max_price": 89699,
+    "min_price": 89699,
+    "mileage": "N/A",
+    "displacement": "0",
+    "brand": { "id": 39 },
+    "brand_id": 8
+  },
+  {
+    "slug": "a2",
+    "name": "A2",
+    "max_price": 76199,
+    "min_price": 76199,
+    "mileage": "N/A",
+    "displacement": "0",
+    "brand": { "id": 39 },
+    "brand_id": 8
+  },
+  {
+    "slug": "epluto-7g",
+    "name": "EPluto 7G",
+    "max_price": 92999,
+    "min_price": 92999,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 61 },
+    "brand_id": 36
+  },
+  {
+    "slug": "epluto",
+    "name": "EPluto",
+    "max_price": 80999,
+    "min_price": 80999,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 61 },
+    "brand_id": 36
+  },
+  {
+    "slug": "sxl-150",
+    "name": "SXL 150",
+    "max_price": 153023,
+    "min_price": 147355,
+    "mileage": "35",
+    "displacement": "149.5",
+    "brand": { "id": 65 },
+    "brand_id": 45
+  },
+  {
+    "slug": "sxl-125",
+    "name": "SXL 125",
+    "max_price": 139224,
+    "min_price": 133403,
+    "mileage": "40",
+    "displacement": "124.45",
+    "brand": { "id": 65 },
+    "brand_id": 45
+  },
+  {
+    "slug": "hornet-2-0",
+    "name": "Hornet 2.0",
+    "max_price": 136583,
+    "min_price": 136583,
+    "mileage": "45",
+    "displacement": "184.4",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "r30",
+    "name": "R30",
+    "max_price": 61998,
+    "min_price": 61998,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 60 },
+    "brand_id": 34
+  },
+  {
+    "slug": "cbr1000rr-r-fireblade",
+    "name": "CBR1000RR-R Fireblade",
+    "max_price": 2362720,
+    "min_price": 2311292,
+    "mileage": "16",
+    "displacement": "1000",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "tuono-factory",
+    "name": "Tuono Factory",
+    "max_price": 2066000,
+    "min_price": 2066000,
+    "mileage": "14",
+    "displacement": "1077",
+    "brand": { "id": 35 },
+    "brand_id": 3
+  },
+  {
+    "slug": "v-strom-650-xt",
+    "name": "V-Strom 650 XT",
+    "max_price": 888030,
+    "min_price": 888030,
+    "mileage": "25",
+    "displacement": "645",
+    "brand": { "id": 27 },
+    "brand_id": 40
+  },
+  {
+    "slug": "cb1000r",
+    "name": "CB1000R",
+    "max_price": 1500000,
+    "min_price": 1500000,
+    "mileage": "18",
+    "displacement": "998",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "cb300r",
+    "name": "CB300R",
+    "max_price": 277000,
+    "min_price": 277000,
+    "mileage": "18",
+    "displacement": "286.01",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "cbr-650r",
+    "name": "CBR 650R",
+    "max_price": 867000,
+    "min_price": 867000,
+    "mileage": "25",
+    "displacement": "648.72",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "street-triple-765-r",
+    "name": "Street Triple 765 R",
+    "max_price": 1000000,
+    "min_price": 950000,
+    "mileage": "19",
+    "displacement": "765",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "versys-x-300",
+    "name": "Versys X-300",
+    "max_price": 480000,
+    "min_price": 480000,
+    "mileage": "22",
+    "displacement": "296",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "ninja-zx-6r",
+    "name": "Ninja ZX-6R",
+    "max_price": 1150000,
+    "min_price": 1100000,
+    "mileage": "23.6",
+    "displacement": "636",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "ninja-h2r",
+    "name": "Ninja H2R",
+    "max_price": 7990000,
+    "min_price": 7990000,
+    "mileage": "15",
+    "displacement": "998",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "ninja-h2-sx-se",
+    "name": "Ninja H2 SX SE",
+    "max_price": 2850000,
+    "min_price": 2850000,
+    "mileage": "15",
+    "displacement": "998",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "ninja-h2-sx",
+    "name": "Ninja H2 SX",
+    "max_price": 2350000,
+    "min_price": 2300000,
+    "mileage": "15",
+    "displacement": "998",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "ninja-h2",
+    "name": "Ninja H2",
+    "max_price": 3499000,
+    "min_price": 3499000,
+    "mileage": "15",
+    "displacement": "998",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "r-ninet-racer",
+    "name": "R nineT Racer",
+    "max_price": 1866250,
+    "min_price": 1866250,
+    "mileage": "19.6",
+    "displacement": "1170",
+    "brand": { "id": 40 },
+    "brand_id": 9
+  },
+  {
+    "slug": "r-ninet",
+    "name": "R nineT",
+    "max_price": 2400000,
+    "min_price": 1900000,
+    "mileage": "19.6",
+    "displacement": "1170",
+    "brand": { "id": 40 },
+    "brand_id": 9
+  },
+  {
+    "slug": "r-nine-t-scrambler",
+    "name": "R Nine T Scrambler",
+    "max_price": 1725000,
+    "min_price": 1725000,
+    "mileage": "19",
+    "displacement": "1170",
+    "brand": { "id": 40 },
+    "brand_id": 9
+  },
+  {
+    "slug": "r-1250-gs-adventure",
+    "name": "R 1250 GS Adventure",
+    "max_price": 2250000,
+    "min_price": 2250000,
+    "mileage": "21",
+    "displacement": "1254",
+    "brand": { "id": 40 },
+    "brand_id": 9
+  },
+  {
+    "slug": "r-1250-gs",
+    "name": "R 1250 GS",
+    "max_price": 2055000,
+    "min_price": 2055000,
+    "mileage": "21",
+    "displacement": "1254",
+    "brand": { "id": 40 },
+    "brand_id": 9
+  },
+  {
+    "slug": "monster-1200",
+    "name": "Monster 1200",
+    "max_price": 2100000,
+    "min_price": 2100000,
+    "mileage": "16.5",
+    "displacement": "1198.4",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "panigale-v4-r",
+    "name": "Panigale V4 R",
+    "max_price": 6999000,
+    "min_price": 6999000,
+    "mileage": "15",
+    "displacement": "998",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "scrambler-cafe-racer",
+    "name": "Scrambler Cafe Racer",
+    "max_price": 1000000,
+    "min_price": 1000000,
+    "mileage": "19.6",
+    "displacement": "803",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "scrambler-mach-2-0",
+    "name": "Scrambler Mach 2.0",
+    "max_price": 900000,
+    "min_price": 900000,
+    "mileage": "20",
+    "displacement": "803",
+    "brand": { "id": 43 },
+    "brand_id": 12
+  },
+  {
+    "slug": "scooty-zest-110",
+    "name": "Scooty Zest 110",
+    "max_price": 74713,
+    "min_price": 73036,
+    "mileage": "45",
+    "displacement": "109.7",
+    "brand": { "id": 2 },
+    "brand_id": 44
+  },
+  {
+    "slug": "vxl-125",
+    "name": "VXL 125",
+    "max_price": 129527,
+    "min_price": 129527,
+    "mileage": "39",
+    "displacement": "124.45",
+    "brand": { "id": 65 },
+    "brand_id": 45
+  },
+  {
+    "slug": "leoncino-500",
+    "name": "Leoncino 500",
+    "max_price": 459000,
+    "min_price": 459000,
+    "mileage": "25",
+    "displacement": "500",
+    "brand": { "id": 37 },
+    "brand_id": 6
+  },
+  {
+    "slug": "tnt600i",
+    "name": "TNT600i",
+    "max_price": 630000,
+    "min_price": 630000,
+    "mileage": "19",
+    "displacement": "600",
+    "brand": { "id": 37 },
+    "brand_id": 6
+  },
+  {
+    "slug": "trk-502",
+    "name": "TRK 502",
+    "max_price": 479900,
+    "min_price": 479900,
+    "mileage": "20",
+    "displacement": "500",
+    "brand": { "id": 37 },
+    "brand_id": 6
+  },
+  {
+    "slug": "trk-502x",
+    "name": "TRK 502X",
+    "max_price": 519900,
+    "min_price": 519900,
+    "mileage": "20",
+    "displacement": "500",
+    "brand": { "id": 37 },
+    "brand_id": 6
+  },
+  {
+    "slug": "tnt-300",
+    "name": "TNT 300",
+    "max_price": 320000,
+    "min_price": 320000,
+    "mileage": "25",
+    "displacement": "300",
+    "brand": { "id": 37 },
+    "brand_id": 6
+  },
+  {
+    "slug": "leoncino-250",
+    "name": "Leoncino 250",
+    "max_price": 270000,
+    "min_price": 270000,
+    "mileage": "24.4",
+    "displacement": "249",
+    "brand": { "id": 37 },
+    "brand_id": 6
+  },
+  {
+    "slug": "302r",
+    "name": "302R",
+    "max_price": 360000,
+    "min_price": 360000,
+    "mileage": "25",
+    "displacement": "300",
+    "brand": { "id": 37 },
+    "brand_id": 6
+  },
+  {
+    "slug": "xpulse-200",
+    "name": "Xpulse 200",
+    "max_price": 127296,
+    "min_price": 127296,
+    "mileage": "49.01",
+    "displacement": "199.6",
+    "brand": { "id": 4 },
+    "brand_id": 17
+  },
+  {
+    "slug": "imperiale-400",
+    "name": "Imperiale 400",
+    "max_price": 189000,
+    "min_price": 189000,
+    "mileage": "31.25",
+    "displacement": "374",
+    "brand": { "id": 37 },
+    "brand_id": 6
+  },
+  {
+    "slug": "x-blade",
+    "name": "X-Blade",
+    "max_price": 120004,
+    "min_price": 115759,
+    "mileage": "50",
+    "displacement": "162.71",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "livo",
+    "name": "Livo",
+    "max_price": 79820,
+    "min_price": 75820,
+    "mileage": "74",
+    "displacement": "109.51",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "grazia",
+    "name": "Grazia",
+    "max_price": 89845,
+    "min_price": 82520,
+    "mileage": "54",
+    "displacement": "123.97",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "tiger-900",
+    "name": "Tiger 900",
+    "max_price": 1550000,
+    "min_price": 1370000,
+    "mileage": "19.2",
+    "displacement": "888",
+    "brand": { "id": 64 },
+    "brand_id": 43
+  },
+  {
+    "slug": "fat-boy",
+    "name": "Fat Boy",
+    "max_price": 2199000,
+    "min_price": 2199000,
+    "mileage": "20",
+    "displacement": "1868",
+    "brand": { "id": 47 },
+    "brand_id": 16
+  },
+  {
+    "slug": "forty-eight",
+    "name": "Forty Eight",
+    "max_price": 1360000,
+    "min_price": 1100000,
+    "mileage": "19.2",
+    "displacement": "1202",
+    "brand": { "id": 47 },
+    "brand_id": 16
+  },
+  {
+    "slug": "iron-883",
+    "name": "Iron 883",
+    "max_price": 1199000,
+    "min_price": 1199000,
+    "mileage": "20.8",
+    "displacement": "883",
+    "brand": { "id": 47 },
+    "brand_id": 16
+  },
+  {
+    "slug": "w800",
+    "name": "W800",
+    "max_price": 732698,
+    "min_price": 732698,
+    "mileage": "25",
+    "displacement": "773",
+    "brand": { "id": 53 },
+    "brand_id": 24
+  },
+  {
+    "slug": "tuono-660",
+    "name": "Tuono 660",
+    "max_price": 1309000,
+    "min_price": 1309000,
+    "mileage": "20.4",
+    "displacement": "659",
+    "brand": { "id": 35 },
+    "brand_id": 3
+  },
+  {
+    "slug": "gixxer-sf-250",
+    "name": "Gixxer SF 250",
+    "max_price": 202500,
+    "min_price": 192100,
+    "mileage": "35",
+    "displacement": "249",
+    "brand": { "id": 27 },
+    "brand_id": 40
+  },
+  {
+    "slug": "gixxer-250",
+    "name": "Gixxer 250",
+    "max_price": 195000,
+    "min_price": 181400,
+    "mileage": "35",
+    "displacement": "249",
+    "brand": { "id": 27 },
+    "brand_id": 40
+  },
+  {
+    "slug": "edge",
+    "name": "Edge",
+    "max_price": 49000,
+    "min_price": 49000,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 23 },
+    "brand_id": 48
+  },
+  {
+    "slug": "drift",
+    "name": "Drift",
+    "max_price": 51000,
+    "min_price": 51000,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 23 },
+    "brand_id": 48
+  },
+  {
+    "slug": "sport",
+    "name": "Sport",
+    "max_price": 70223,
+    "min_price": 64050,
+    "mileage": "70",
+    "displacement": "109.7",
+    "brand": { "id": 2 },
+    "brand_id": 44
+  },
+  {
+    "slug": "pulsar-rs-200",
+    "name": "Pulsar RS 200",
+    "max_price": 171021,
+    "min_price": 171021,
+    "mileage": "35",
+    "displacement": "199.5",
+    "brand": { "id": 6 },
+    "brand_id": 5
+  },
+  {
+    "slug": "bullet-350",
+    "name": "Bullet 350",
+    "max_price": 163217,
+    "min_price": 147910,
+    "mileage": "37.17",
+    "displacement": "346",
+    "brand": { "id": 7 },
+    "brand_id": 38
+  },
+  {
+    "slug": "gixxer-sf",
+    "name": "Gixxer SF",
+    "max_price": 145500,
+    "min_price": 137100,
+    "mileage": "45",
+    "displacement": "155",
+    "brand": { "id": 27 },
+    "brand_id": 40
+  },
+  {
+    "slug": "gixxer",
+    "name": "Gixxer",
+    "max_price": 140500,
+    "min_price": 134800,
+    "mileage": "45",
+    "displacement": "155",
+    "brand": { "id": 27 },
+    "brand_id": 40
+  },
+  {
+    "slug": "dominar-250",
+    "name": "Dominar 250",
+    "max_price": 181850,
+    "min_price": 181850,
+    "mileage": "32.5",
+    "displacement": "248.77",
+    "brand": { "id": 6 },
+    "brand_id": 5
+  },
+  {
+    "slug": "unicorn",
+    "name": "Unicorn",
+    "max_price": 105718,
+    "min_price": 105718,
+    "mileage": "60",
+    "displacement": "162.7",
+    "brand": { "id": 3 },
+    "brand_id": 19
+  },
+  {
+    "slug": "ae-47",
+    "name": "AE-47",
+    "max_price": 125000,
+    "min_price": 125000,
+    "mileage": "N/A",
+    "displacement": "0",
+    "brand": { "id": 48 },
+    "brand_id": 18
+  },
+  {
+    "slug": "ae-29",
+    "name": "AE-29",
+    "max_price": 85000,
+    "min_price": 85000,
+    "mileage": "",
+    "displacement": "0",
+    "brand": { "id": 48 },
+    "brand_id": 18
+  },
+  {
+    "slug": "rsv4-1100-factory",
+    "name": "RSV4 1100 Factory",
+    "max_price": 2369000,
+    "min_price": 2369000,
+    "mileage": "14",
+    "displacement": "1099",
+    "brand": { "id": 35 },
+    "brand_id": 3
+  },
+  {
+    "slug": "sxr-125",
+    "name": "SXR 125",
+    "max_price": 131000,
+    "min_price": 131000,
+    "mileage": "45",
+    "displacement": "124.45",
+    "brand": { "id": 35 },
+    "brand_id": 3
+  },
+  {
+    "slug": "cruiser",
+    "name": "Cruiser",
+    "max_price": 100000,
+    "min_price": 90000,
+    "mileage": "N/A",
+    "displacement": "0",
+    "brand": { "id": 60 },
+    "brand_id": 34
+  },
+  {
+    "slug": "continental-gt-650",
+    "name": "Continental GT 650",
+    "max_price": 330789,
+    "min_price": 304970,
+    "mileage": "25",
+    "displacement": "648",
+    "brand": { "id": 7 },
+    "brand_id": 38
+  },
+  {
+    "slug": "interceptor-650",
+    "name": "Interceptor 650",
+    "max_price": 313909,
+    "min_price": 288166,
+    "mileage": "23",
+    "displacement": "648",
+    "brand": { "id": 7 },
+    "brand_id": 38
+  },
+  {
+    "slug": "pulsar-ns200",
+    "name": "Pulsar NS200",
+    "max_price": 140666,
+    "min_price": 140666,
+    "mileage": "36",
+    "displacement": "199.5",
+    "brand": { "id": 6 },
+    "brand_id": 5
+  },
+  {
+    "slug": "pulsar-ns160",
+    "name": "Pulsar NS160",
+    "max_price": 125114,
+    "min_price": 125114,
+    "mileage": "42",
+    "displacement": "160.3",
+    "brand": { "id": 6 },
+    "brand_id": 5
+  },
+  {
+    "slug": "avenger-cruise-220",
+    "name": "Avenger Cruise 220",
+    "max_price": 138368,
+    "min_price": 138368,
+    "mileage": "40",
+    "displacement": "220",
+    "brand": { "id": 6 },
+    "brand_id": 5
+  },
+  {
+    "slug": "avenger-street-160",
+    "name": "Avenger Street 160",
+    "max_price": 111827,
+    "min_price": 111827,
+    "mileage": "45",
+    "displacement": "160",
+    "brand": { "id": 6 },
+    "brand_id": 5
+  },
+  {
+    "slug": "pulsar-150",
+    "name": "Pulsar 150",
+    "max_price": 119757,
+    "min_price": 104000,
+    "mileage": "48",
+    "displacement": "149.5",
+    "brand": { "id": 6 },
+    "brand_id": 5
+  },
+  {
+    "slug": "sxr-160",
+    "name": "SXR 160",
+    "max_price": 143000,
+    "min_price": 143000,
+    "mileage": "47",
+    "displacement": "160",
+    "brand": { "id": 35 },
+    "brand_id": 3
+  },
+  {
+    "slug": "elegante-150",
+    "name": "Elegante 150",
+    "max_price": 155444,
+    "min_price": 155444,
+    "mileage": "45",
+    "displacement": "149.5",
+    "brand": { "id": 65 },
+    "brand_id": 45
+  },
+  {
+    "slug": "zx-125",
+    "name": "ZX 125",
+    "max_price": 115409,
+    "min_price": 115409,
+    "mileage": "45",
+    "displacement": "124.45",
+    "brand": { "id": 65 },
+    "brand_id": 45
+  },
+  {
+    "slug": "storm-125",
+    "name": "Storm 125",
+    "max_price": 110000,
+    "min_price": 110000,
+    "mileage": "40",
+    "displacement": "124.45",
+    "brand": { "id": 35 },
+    "brand_id": 3
+  },
+  {
+    "slug": "chetak",
+    "name": "Chetak",
+    "max_price": 154189,
+    "min_price": 154189,
+    "mileage": "N/A",
+    "displacement": "0",
+    "brand": { "id": 6 },
+    "brand_id": 5
+  }
+]

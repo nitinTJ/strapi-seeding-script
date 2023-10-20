@@ -1,0 +1,2797 @@
+[
+  {
+    "id": 815,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet multi-disc, manual"
+    }
+  },
+  {
+    "id": 817,
+    "seat": {
+      "gear_box": "1 Down 4 Up ",
+      "transmission": "5 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 844,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 813,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 883,
+    "seat": { "gear_box": "", "transmission": " Automatic ", "clutch": "" }
+  },
+  {
+    "id": 819,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 879,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet multi-disc, manual"
+    }
+  },
+  {
+    "id": 880,
+    "seat": {
+      "gear_box": "1 Down 4 Up ",
+      "transmission": "5 Speed Manual ",
+      "clutch": "Wet, Multi Plate "
+    }
+  },
+  {
+    "id": 885,
+    "seat": {
+      "gear_box": "1 Down 4 Up ",
+      "transmission": "5 Speed Manual ",
+      "clutch": "Wet multiplate "
+    }
+  },
+  {
+    "id": 816,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Multi-plate, Wet type"
+    }
+  },
+  {
+    "id": 886,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "PASC™ antihopping clutch, mechanically operated"
+    }
+  },
+  {
+    "id": 818,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Assist & Slipper"
+    }
+  },
+  {
+    "id": 884,
+    "seat": {
+      "gear_box": "6-Speed",
+      "transmission": "Manual",
+      "clutch": "Wet Multi-Disc"
+    }
+  },
+  {
+    "id": 820,
+    "seat": {
+      "gear_box": "6-Speed",
+      "transmission": "Manual",
+      "clutch": "Hydraulically controlled slipper and self-servo wet multiplate clutch. Self bleeding master cylinder."
+    }
+  },
+  {
+    "id": 837,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": null }
+  },
+  {
+    "id": 881,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Hydraulically controlled slipper and self-servo wet multiplate clutch. Self bleeding master cylinder"
+    }
+  },
+  {
+    "id": 814,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Multiplate Wet Clutch"
+    }
+  },
+  {
+    "id": 834,
+    "seat": { "gear_box": "5 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 887,
+    "seat": {
+      "gear_box": "Automatic ",
+      "transmission": " Automatic ",
+      "clutch": "Automatic "
+    }
+  },
+  {
+    "id": 890,
+    "seat": {
+      "gear_box": "6-Speed",
+      "transmission": "Manual",
+      "clutch": "Anti-hopping Clutch"
+    }
+  },
+  {
+    "id": 892,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet clutch with an anti-hopping function, hydraulic activation"
+    }
+  },
+  {
+    "id": 826,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multi-plate torque assist clutch"
+    }
+  },
+  {
+    "id": 824,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multi-plate torque assist clutch"
+    }
+  },
+  {
+    "id": 836,
+    "seat": { "gear_box": null, "transmission": "Automatic", "clutch": null }
+  },
+  {
+    "id": 882,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Multiplate Wet clutch"
+    }
+  },
+  {
+    "id": 846,
+    "seat": {
+      "gear_box": "1 Down 4 Up",
+      "transmission": "5 Speed Manual",
+      "clutch": "Wet Multiplate"
+    }
+  },
+  {
+    "id": 833,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Tubular steel, with twin cradles"
+    }
+  },
+  {
+    "id": 822,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multi-plate torque assist clutch"
+    }
+  },
+  {
+    "id": 877,
+    "seat": {
+      "gear_box": "CVT",
+      "transmission": "Automatic",
+      "clutch": "Automatic"
+    }
+  },
+  {
+    "id": 831,
+    "seat": {
+      "gear_box": "V-Belt Automatic",
+      "transmission": "Automatic",
+      "clutch": "Dry, Centrifugal Automatic"
+    }
+  },
+  {
+    "id": 829,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multiple-disc"
+    }
+  },
+  {
+    "id": 845,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multiple Disc"
+    }
+  },
+  {
+    "id": 827,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multi-Plate, Torque assist clutch"
+    }
+  },
+  {
+    "id": 878,
+    "seat": {
+      "gear_box": "CVT",
+      "transmission": "Automatic",
+      "clutch": "Dry Automatic Centrifugal Clutch"
+    }
+  },
+  {
+    "id": 857,
+    "seat": {
+      "gear_box": "Variomatic Drive",
+      "transmission": "Automatic",
+      "clutch": "Dry, Centrifugal"
+    }
+  },
+  {
+    "id": 897,
+    "seat": {
+      "gear_box": "4 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet Multi-plate"
+    }
+  },
+  {
+    "id": 835,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet Multiplate"
+    }
+  },
+  {
+    "id": 825,
+    "seat": {
+      "gear_box": "4 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet Multi Plate"
+    }
+  },
+  {
+    "id": 823,
+    "seat": { "gear_box": "4 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 830,
+    "seat": { "gear_box": "--", "transmission": " Manual ", "clutch": "--" }
+  },
+  {
+    "id": 832,
+    "seat": { "gear_box": "", "transmission": " Automatic ", "clutch": "" }
+  },
+  {
+    "id": 898,
+    "seat": {
+      "gear_box": "1 Down 4 Up ",
+      "transmission": "5 Speed Manual ",
+      "clutch": "Wet, MultiPlate "
+    }
+  },
+  {
+    "id": 894,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Multi Plate Wet Clutch"
+    }
+  },
+  {
+    "id": 876,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multi-plate torque assist clutch"
+    }
+  },
+  {
+    "id": 842,
+    "seat": {
+      "gear_box": "5 Speed Constant Mesh",
+      "transmission": "Manual",
+      "clutch": "Wet Multi Plate"
+    }
+  },
+  {
+    "id": 896,
+    "seat": {
+      "gear_box": "5 Gears",
+      "transmission": "Manual",
+      "clutch": "Multiplate Wet Clutch"
+    }
+  },
+  {
+    "id": 828,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 843,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Multi-disc clutch in oil bath"
+    }
+  },
+  {
+    "id": 891,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Mechanically operated multi disc wet clutch"
+    }
+  },
+  {
+    "id": 888,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 889,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet Multiplate "
+    }
+  },
+  {
+    "id": 895,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet Multiplate "
+    }
+  },
+  {
+    "id": 874,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Assist & Slipper Clutch"
+    }
+  },
+  {
+    "id": 841,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet-Multiple-disc  "
+    }
+  },
+  {
+    "id": 868,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 862,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 867,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet Multiplate Clutch "
+    }
+  },
+  {
+    "id": 870,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet, multi-plate, slip-assisted "
+    }
+  },
+  {
+    "id": 838,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multi-plate, slip"
+    }
+  },
+  {
+    "id": 848,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multi-plate, slip"
+    }
+  },
+  {
+    "id": 1818,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 873,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multi-Plate"
+    }
+  },
+  {
+    "id": 840,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Multiplate clutch in oil bath, anti-hopping clutch, with self-reinforcement"
+    }
+  },
+  {
+    "id": 871,
+    "seat": { "gear_box": "5 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 859,
+    "seat": { "gear_box": "5 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 849,
+    "seat": { "gear_box": "5 speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 847,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 872,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Hydraulic, wet, multi-plate, slip and assist"
+    }
+  },
+  {
+    "id": 821,
+    "seat": { "gear_box": "", "transmission": " Automatic ", "clutch": "" }
+  },
+  {
+    "id": 839,
+    "seat": { "gear_box": "5-Speed", "transmission": "Manual", "clutch": null }
+  },
+  {
+    "id": 861,
+    "seat": { "gear_box": null, "transmission": "Automatic", "clutch": null }
+  },
+  {
+    "id": 853,
+    "seat": { "gear_box": null, "transmission": "Automatic", "clutch": null }
+  },
+  {
+    "id": 850,
+    "seat": { "gear_box": null, "transmission": null, "clutch": null }
+  },
+  {
+    "id": 854,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multi-plate"
+    }
+  },
+  {
+    "id": 858,
+    "seat": {
+      "gear_box": "CVT",
+      "transmission": "Automatic",
+      "clutch": "Automatic Centrifugal Clutch"
+    }
+  },
+  {
+    "id": 855,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Assist and Slipper Clutch "
+    }
+  },
+  {
+    "id": 875,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Slipper and self servo wet multiplate clutch with hydraulic control"
+    }
+  },
+  {
+    "id": 866,
+    "seat": {
+      "gear_box": "7 Speed",
+      "transmission": "Automatic",
+      "clutch": "(DCT) Hydraulic, wet, multi-plate with oil pressure"
+    }
+  },
+  {
+    "id": 851,
+    "seat": {
+      "gear_box": "6-Speed",
+      "transmission": "Manual",
+      "clutch": "Multiple-Disc Wet Clutch (anti hopping), Mechanically Operated"
+    }
+  },
+  {
+    "id": 863,
+    "seat": {
+      "gear_box": "5 Speed Constant Mesh",
+      "transmission": "Manual",
+      "clutch": "Wet Multi Plate"
+    }
+  },
+  {
+    "id": 906,
+    "seat": {
+      "gear_box": "Automatic ",
+      "transmission": " Automatic ",
+      "clutch": "Dry - Centrifugal Clutch "
+    }
+  },
+  {
+    "id": 852,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Anti-hopping Clutch"
+    }
+  },
+  {
+    "id": 865,
+    "seat": {
+      "gear_box": "4 Speeed",
+      "transmission": "Manual",
+      "clutch": "Wet Multi Plate"
+    }
+  },
+  {
+    "id": 856,
+    "seat": {
+      "gear_box": "4 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet Multi Plate"
+    }
+  },
+  {
+    "id": 864,
+    "seat": { "gear_box": "CVT", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 869,
+    "seat": {
+      "gear_box": "V-belt automatic",
+      "transmission": "Automatic",
+      "clutch": ""
+    }
+  },
+  {
+    "id": 899,
+    "seat": {
+      "gear_box": "4 Speed",
+      "transmission": "Manual",
+      "clutch": "Multiplate Wet Clutch"
+    }
+  },
+  {
+    "id": 903,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 908,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet Multiplate "
+    }
+  },
+  {
+    "id": 902,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Hydraulically controlled slipper and self-servo wet multiplate clutch"
+    }
+  },
+  {
+    "id": 904,
+    "seat": {
+      "gear_box": "6-Speed",
+      "transmission": "Manual",
+      "clutch": "Light action, wet, multiplate clutch with hydraulic control. Self-servo action on drive, slipper action on over-run"
+    }
+  },
+  {
+    "id": 907,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "PASC Slipper Clutch, Mechanically Operated"
+    }
+  },
+  {
+    "id": 905,
+    "seat": {
+      "gear_box": "6 speed",
+      "transmission": "Manual",
+      "clutch": "Wet multi-disc, manual"
+    }
+  },
+  {
+    "id": 909,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 900,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet,multiple disc"
+    }
+  },
+  {
+    "id": 910,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Multiplate Wet Clutch"
+    }
+  },
+  {
+    "id": 912,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet Multidisc "
+    }
+  },
+  {
+    "id": 893,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 901,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 911,
+    "seat": { "gear_box": "--", "transmission": " Manual ", "clutch": "--" }
+  },
+  {
+    "id": 913,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "PASC Slipper Clutch, Mechanically Operated"
+    }
+  },
+  {
+    "id": 917,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multi-disc"
+    }
+  },
+  {
+    "id": 922,
+    "seat": {
+      "gear_box": "1 Down 4 Up ",
+      "transmission": "5 Speed Manual ",
+      "clutch": "Wet, multi-plate assist clutch "
+    }
+  },
+  {
+    "id": 918,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multi-plate hydraulically operated, torque assist"
+    }
+  },
+  {
+    "id": 946,
+    "seat": {
+      "gear_box": "1 Down 4 Up ",
+      "transmission": "5 Speed Manual ",
+      "clutch": "Wet, MultiPlate "
+    }
+  },
+  {
+    "id": 916,
+    "seat": { "gear_box": "5-speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 921,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 919,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multi-plate"
+    }
+  },
+  {
+    "id": 928,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 927,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Multiplate Wet Clutch"
+    }
+  },
+  {
+    "id": 930,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 926,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multiplate with Assist & Slipper Clutch"
+    }
+  },
+  {
+    "id": 951,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet multi plate- slipper clutch with 5 plate"
+    }
+  },
+  {
+    "id": 942,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multi-Disc"
+    }
+  },
+  {
+    "id": 925,
+    "seat": {
+      "gear_box": "CVT",
+      "transmission": "Automatic",
+      "clutch": "Self Ventilating Dry - Centrifugal Clutch"
+    }
+  },
+  {
+    "id": 945,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multiple-disc"
+    }
+  },
+  {
+    "id": 914,
+    "seat": {
+      "gear_box": "",
+      "transmission": "Automatic",
+      "clutch": "Self Ventilating Dry - Centrifugal Clutch"
+    }
+  },
+  {
+    "id": 915,
+    "seat": {
+      "gear_box": "6-Speed",
+      "transmission": "Manual",
+      "clutch": "Slipper and self-servo wet multiplate clutch, hydraulic control"
+    }
+  },
+  {
+    "id": 920,
+    "seat": {
+      "gear_box": "Automatic ",
+      "transmission": " Automatic ",
+      "clutch": "Dry, Centrifugal "
+    }
+  },
+  {
+    "id": 933,
+    "seat": {
+      "gear_box": "6 speed",
+      "transmission": "Manual",
+      "clutch": "Hydraulically controlled slipper and self-servo wet multiplate clutch"
+    }
+  },
+  {
+    "id": 939,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Slipper Clutch"
+    }
+  },
+  {
+    "id": 938,
+    "seat": {
+      "gear_box": "All 4 Up ",
+      "transmission": "4 Speed Manual ",
+      "clutch": "Wet, multiple-disc "
+    }
+  },
+  {
+    "id": 924,
+    "seat": { "gear_box": "--", "transmission": " Manual ", "clutch": "--" }
+  },
+  {
+    "id": 929,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 935,
+    "seat": {
+      "gear_box": "1 Down 4 Up ",
+      "transmission": "5 Speed Manual ",
+      "clutch": "Wet Multiplate "
+    }
+  },
+  {
+    "id": 1011,
+    "seat": {
+      "gear_box": "Automatic ",
+      "transmission": " Automatic ",
+      "clutch": "Automatic "
+    }
+  },
+  {
+    "id": 948,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Slipper and self-servo multiplate wet clutch with hydraulic control"
+    }
+  },
+  {
+    "id": 943,
+    "seat": {
+      "gear_box": "1 Down 4 Up ",
+      "transmission": "5 Speed Manual ",
+      "clutch": "Wet Multiplate "
+    }
+  },
+  {
+    "id": 936,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet Multiplate Clutch "
+    }
+  },
+  {
+    "id": 923,
+    "seat": {
+      "gear_box": "V-Belt Automatic",
+      "transmission": "Automatic",
+      "clutch": "Dry, Centrifugal"
+    }
+  },
+  {
+    "id": 937,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "PASC™ antihopping clutch, mechanically operated"
+    }
+  },
+  {
+    "id": 940,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet multi-disc clutch, mechanically actuated"
+    }
+  },
+  {
+    "id": 947,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet multi-disc clutch, mechanically actuated"
+    }
+  },
+  {
+    "id": 934,
+    "seat": {
+      "gear_box": "5-speed",
+      "transmission": "Manual",
+      "clutch": "Hydraulic Clutch"
+    }
+  },
+  {
+    "id": 944,
+    "seat": { "gear_box": "5-Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 1012,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 941,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet multi plate - 7 plate design, RT slipper clutch "
+    }
+  },
+  {
+    "id": 999,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multi-plate, slip &assist"
+    }
+  },
+  {
+    "id": 931,
+    "seat": {
+      "gear_box": "CVT",
+      "transmission": "Automatic",
+      "clutch": "Automatic"
+    }
+  },
+  { "id": 950, "seat": { "gear_box": "", "transmission": "", "clutch": "" } },
+  {
+    "id": 952,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 949,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet Multi-Disc, Manual"
+    }
+  },
+  {
+    "id": 932,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Slipper And Self-servo Wet Multiplate Clutch With Hydraulic Control"
+    }
+  },
+  {
+    "id": 958,
+    "seat": {
+      "gear_box": "6 speed",
+      "transmission": "Manual",
+      "clutch": "Wet multi-disc, manual"
+    }
+  },
+  {
+    "id": 959,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 957,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet Multidisc "
+    }
+  },
+  {
+    "id": 960,
+    "seat": {
+      "gear_box": "CVT",
+      "transmission": "Automatic",
+      "clutch": "Automatic"
+    }
+  },
+  {
+    "id": 965,
+    "seat": {
+      "gear_box": "Variomatic Drive",
+      "transmission": "Automatic",
+      "clutch": "Dry, Centrifugal"
+    }
+  },
+  {
+    "id": 964,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Multiplate wet clutch with hydraulic control, self-servo action on drive, slipper action on over-run"
+    }
+  },
+  {
+    "id": 962,
+    "seat": {
+      "gear_box": "CVT",
+      "transmission": "Automatic",
+      "clutch": "Centrifugal dry clutch"
+    }
+  },
+  {
+    "id": 963,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 980,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet multi-plate"
+    }
+  },
+  {
+    "id": 975,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multiple-disc"
+    }
+  },
+  {
+    "id": 977,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multi-Plate"
+    }
+  },
+  {
+    "id": 969,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multi-plate"
+    }
+  },
+  {
+    "id": 971,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multi-Plate"
+    }
+  },
+  {
+    "id": 961,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Anti-hopping Clutch"
+    }
+  },
+  {
+    "id": 966,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet Multiplate Clutch "
+    }
+  },
+  {
+    "id": 978,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 973,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 986,
+    "seat": { "gear_box": "5 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 992,
+    "seat": { "gear_box": "6-Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 983,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 989,
+    "seat": { "gear_box": "6-Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 981,
+    "seat": { "gear_box": "6-speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 988,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 968,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 987,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Hydraulically actuated w/ assist-and-slip functions "
+    }
+  },
+  {
+    "id": 970,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet Multiplate, Assist "
+    }
+  },
+  {
+    "id": 982,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet Multiplate & Assist "
+    }
+  },
+  {
+    "id": 967,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet, Multiplate, Assist "
+    }
+  },
+  {
+    "id": 953,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Mechanical, 8 plate wet, assist & slip, 1090N"
+    }
+  },
+  {
+    "id": 956,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 985,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet, Multiplate "
+    }
+  },
+  {
+    "id": 1010,
+    "seat": { "gear_box": "6-speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 1000,
+    "seat": { "gear_box": "5 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 996,
+    "seat": {
+      "gear_box": "4 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multi Plate"
+    }
+  },
+  {
+    "id": 994,
+    "seat": { "gear_box": "", "transmission": " Automatic ", "clutch": "" }
+  },
+  {
+    "id": 1004,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 955,
+    "seat": { "gear_box": "", "transmission": " Automatic ", "clutch": "" }
+  },
+  { "id": 974, "seat": { "gear_box": "", "transmission": "", "clutch": "" } },
+  {
+    "id": 1002,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Multiplate clutch in oil bath, anti-hopping clutch, with self-reinforcement"
+    }
+  },
+  {
+    "id": 993,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Multiplate Wet Clutch"
+    }
+  },
+  {
+    "id": 990,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 997,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet Multiplate Clutch "
+    }
+  },
+  {
+    "id": 1003,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Multi Plate Wet Clutch"
+    }
+  },
+  {
+    "id": 984,
+    "seat": {
+      "gear_box": "All 4 Down ",
+      "transmission": "4 Speed Manual ",
+      "clutch": "Wet multiplate "
+    }
+  },
+  {
+    "id": 991,
+    "seat": {
+      "gear_box": "4 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multiple - Disc"
+    }
+  },
+  {
+    "id": 979,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Single-disk dry clutch"
+    }
+  },
+  {
+    "id": 1009,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": null }
+  },
+  {
+    "id": 954,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet Multiplate"
+    }
+  },
+  {
+    "id": 998,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multi-disc"
+    }
+  },
+  {
+    "id": 1005,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 976,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 1006,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet Multiplate Clutch "
+    }
+  },
+  {
+    "id": 1008,
+    "seat": {
+      "gear_box": "Single Speed Gear Box",
+      "transmission": "Automatic",
+      "clutch": "Centrifugal Wet Clutch"
+    }
+  },
+  {
+    "id": 995,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 972,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1007,
+    "seat": { "gear_box": "", "transmission": " Automatic ", "clutch": "" }
+  },
+  {
+    "id": 1001,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1027,
+    "seat": { "gear_box": "", "transmission": " Automatic ", "clutch": "" }
+  },
+  {
+    "id": 1016,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 1019,
+    "seat": {
+      "gear_box": "6 speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multi-plate, slip"
+    }
+  },
+  {
+    "id": 1018,
+    "seat": {
+      "gear_box": "Single Speed Gear Box",
+      "transmission": "Automatic",
+      "clutch": "Centrifugal Wet Clutch"
+    }
+  },
+  {
+    "id": 1024,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Multi-plate, wet type"
+    }
+  },
+  {
+    "id": 1050,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "WET, MULTI-PLATE"
+    }
+  },
+  {
+    "id": 1023,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1058,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1020,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1014,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1033,
+    "seat": { "gear_box": "5 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 1015,
+    "seat": {
+      "gear_box": "Automatic ",
+      "transmission": " Automatic ",
+      "clutch": "Automatic "
+    }
+  },
+  {
+    "id": 1047,
+    "seat": {
+      "gear_box": "Automatic ",
+      "transmission": " Automatic ",
+      "clutch": "Automatic "
+    }
+  },
+  { "id": 1048, "seat": { "gear_box": "", "transmission": "", "clutch": "" } },
+  { "id": 1025, "seat": { "gear_box": "", "transmission": "", "clutch": "" } },
+  {
+    "id": 1022,
+    "seat": { "gear_box": null, "transmission": "Automatic", "clutch": null }
+  },
+  {
+    "id": 1021,
+    "seat": { "gear_box": null, "transmission": "Automatic", "clutch": null }
+  },
+  {
+    "id": 1062,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1046,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1034,
+    "seat": {
+      "gear_box": "CVT",
+      "transmission": "Automatic",
+      "clutch": "Automatic"
+    }
+  },
+  {
+    "id": 1036,
+    "seat": {
+      "gear_box": "CVT",
+      "transmission": "Automatic",
+      "clutch": "Automatic"
+    }
+  },
+  {
+    "id": 1049,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Multiplate Wet Clutch"
+    }
+  },
+  {
+    "id": 1032,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1059,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multiplate clutch with diaphragm spring with assist slipper"
+    }
+  },
+  {
+    "id": 1045,
+    "seat": {
+      "gear_box": "6 speed",
+      "transmission": "Manual",
+      "clutch": "Multiplate wet clutch with mechanical slipper system"
+    }
+  },
+  {
+    "id": 1028,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 1051,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1013,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Multiplate Wet Clutch"
+    }
+  },
+  {
+    "id": 1026,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Multiplate Wet Clutch"
+    }
+  },
+  {
+    "id": 1040,
+    "seat": {
+      "gear_box": "6-Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multi Plate"
+    }
+  },
+  {
+    "id": 1031,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1017,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1060,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet, Multi Disc "
+    }
+  },
+  {
+    "id": 1055,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1030,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet Multi Disc, Manual"
+    }
+  },
+  {
+    "id": 1029,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multi Disc"
+    }
+  },
+  {
+    "id": 1035,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Single dry plate clutch, hydraulically operated "
+    }
+  },
+  {
+    "id": 1052,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Single dry plate clutch, hydraulically operated"
+    }
+  },
+  {
+    "id": 1056,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Single dry plate clutch, hydraulically operated"
+    }
+  },
+  {
+    "id": 1057,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet clutch with an anti-hopping function "
+    }
+  },
+  {
+    "id": 1061,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet clutch with an anti-hopping function "
+    }
+  },
+  {
+    "id": 1054,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1694,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1044,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1041,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1063,
+    "seat": {
+      "gear_box": "Automatic ",
+      "transmission": " Automatic ",
+      "clutch": "Automatic "
+    }
+  },
+  {
+    "id": 1038,
+    "seat": {
+      "gear_box": "CVT",
+      "transmission": "Automatic",
+      "clutch": "Automatic"
+    }
+  },
+  {
+    "id": 1042,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet clutch"
+    }
+  },
+  {
+    "id": 1037,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1070,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multiple Disc"
+    }
+  },
+  {
+    "id": 1043,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Multidisc wet clutch"
+    }
+  },
+  {
+    "id": 1069,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1072,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1068,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet Clutch"
+    }
+  },
+  {
+    "id": 1053,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Multi Plate Wet Clutch"
+    }
+  },
+  {
+    "id": 1071,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Multidisc wet clutch"
+    }
+  },
+  {
+    "id": 1073,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Multiplate Wet Clutch"
+    }
+  },
+  {
+    "id": 1064,
+    "seat": {
+      "gear_box": "4 Speed",
+      "transmission": "Manual",
+      "clutch": "Multiplate Wet Clutch"
+    }
+  },
+  {
+    "id": 1067,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "V-Matic" }
+  },
+  {
+    "id": 1066,
+    "seat": {
+      "gear_box": "6 speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multi-plate"
+    }
+  },
+  {
+    "id": 1111,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet Multiplate "
+    }
+  },
+  {
+    "id": 1078,
+    "seat": { "gear_box": "5 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 1065,
+    "seat": { "gear_box": "5 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 1074,
+    "seat": {
+      "gear_box": "1 Down 4 Up ",
+      "transmission": "5 Speed Manual ",
+      "clutch": "Assist & Slipper Clutch "
+    }
+  },
+  {
+    "id": 1076,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Multi plate wet clutch with slipper system"
+    }
+  },
+  {
+    "id": 1112,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multi-plate type"
+    }
+  },
+  {
+    "id": 1075,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, multi-plate type"
+    }
+  },
+  {
+    "id": 1077,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1089,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1079,
+    "seat": {
+      "gear_box": "4 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multi Plate"
+    }
+  },
+  {
+    "id": 1083,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 1080,
+    "seat": {
+      "gear_box": "5-speed",
+      "transmission": "Manual",
+      "clutch": "Wet multiplate (6 plate)"
+    }
+  },
+  {
+    "id": 1087,
+    "seat": { "gear_box": "5 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 1082,
+    "seat": { "gear_box": "5 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 1095,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multiplate with Assist & Slipper Clutch"
+    }
+  },
+  {
+    "id": 1085,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Multiplate Wet Clutch"
+    }
+  },
+  {
+    "id": 1081,
+    "seat": { "gear_box": "", "transmission": " Automatic ", "clutch": "" }
+  },
+  {
+    "id": 1084,
+    "seat": { "gear_box": "", "transmission": " Automatic ", "clutch": "" }
+  },
+  {
+    "id": 1086,
+    "seat": {
+      "gear_box": "6 speed",
+      "transmission": "Manual",
+      "clutch": "Multi plate wet clutch with mechanical slipper system"
+    }
+  },
+  {
+    "id": 1090,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1098,
+    "seat": { "gear_box": "", "transmission": " Automatic ", "clutch": "" }
+  },
+  {
+    "id": 1099,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet multi plate"
+    }
+  },
+  {
+    "id": 1088,
+    "seat": {
+      "gear_box": "",
+      "transmission": "Manual",
+      "clutch": "Wet, Multi Disc"
+    }
+  },
+  {
+    "id": 1093,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multi-Plate"
+    }
+  },
+  {
+    "id": 1091,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multi Plate"
+    }
+  },
+  {
+    "id": 1106,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multi-Plate"
+    }
+  },
+  {
+    "id": 1094,
+    "seat": {
+      "gear_box": "5 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multi Plate"
+    }
+  },
+  {
+    "id": 1096,
+    "seat": {
+      "gear_box": "CVT",
+      "transmission": "Automatic",
+      "clutch": "Self ventilating dry - centrifugal clutch"
+    }
+  },
+  {
+    "id": 1097,
+    "seat": {
+      "gear_box": "CVT",
+      "transmission": "Automatic",
+      "clutch": "Automatic"
+    }
+  },
+  {
+    "id": 1092,
+    "seat": {
+      "gear_box": "CVT",
+      "transmission": "Automatic",
+      "clutch": "Automatic"
+    }
+  },
+  {
+    "id": 1100,
+    "seat": {
+      "gear_box": "Automatic ",
+      "transmission": " Automatic ",
+      "clutch": "Automatic "
+    }
+  },
+  {
+    "id": 1102,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1110,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "A & S Clutch"
+    }
+  },
+  {
+    "id": 1103,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "A & S Clutch"
+    }
+  },
+  {
+    "id": 1101,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 1104,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "multi-plate anti-hopping wet clutch"
+    }
+  },
+  {
+    "id": 1105,
+    "seat": {
+      "gear_box": "All 4 Up ",
+      "transmission": "4 Speed Manual ",
+      "clutch": "Wet Multi Plate "
+    }
+  },
+  {
+    "id": 1108,
+    "seat": {
+      "gear_box": "6 speed",
+      "transmission": "Manual",
+      "clutch": "Multi-plate wet clutch with mechanical slip system"
+    }
+  },
+  {
+    "id": 1107,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1109,
+    "seat": { "gear_box": "", "transmission": " Automatic ", "clutch": "" }
+  },
+  {
+    "id": 1114,
+    "seat": { "gear_box": "", "transmission": " Automatic ", "clutch": "" }
+  },
+  {
+    "id": 1118,
+    "seat": { "gear_box": "", "transmission": " Automatic ", "clutch": "" }
+  },
+  {
+    "id": 1119,
+    "seat": { "gear_box": "", "transmission": " Automatic ", "clutch": "" }
+  },
+  { "id": 1115, "seat": { "gear_box": "", "transmission": "", "clutch": "" } },
+  { "id": 1141, "seat": { "gear_box": "", "transmission": "", "clutch": "" } },
+  { "id": 1121, "seat": { "gear_box": "", "transmission": "", "clutch": "" } },
+  {
+    "id": 1123,
+    "seat": { "gear_box": null, "transmission": "Automatic", "clutch": null }
+  },
+  {
+    "id": 1137,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1116,
+    "seat": {
+      "gear_box": "6-Speed",
+      "transmission": "Manual",
+      "clutch": "Wet multi-disc, manual"
+    }
+  },
+  {
+    "id": 1113,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1120,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1117,
+    "seat": { "gear_box": "", "transmission": " Automatic ", "clutch": "" }
+  },
+  {
+    "id": 1122,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1127,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1160,
+    "seat": { "gear_box": "--", "transmission": " Automatic ", "clutch": "--" }
+  },
+  {
+    "id": 1132,
+    "seat": { "gear_box": "--", "transmission": " Automatic ", "clutch": "--" }
+  },
+  {
+    "id": 1139,
+    "seat": { "gear_box": "", "transmission": " Automatic ", "clutch": "" }
+  },
+  {
+    "id": 1140,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1130,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1135,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1131,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": null }
+  },
+  {
+    "id": 1155,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1128,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1179,
+    "seat": { "gear_box": "--", "transmission": "--", "clutch": "--" }
+  },
+  {
+    "id": 1158,
+    "seat": { "gear_box": "5-Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 1172,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Multiplate Wet Clutch"
+    }
+  },
+  {
+    "id": 1129,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "--" }
+  },
+  {
+    "id": 1143,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet multi-plate"
+    }
+  },
+  {
+    "id": 1138,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1151,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1161,
+    "seat": { "gear_box": "", "transmission": "Automatic", "clutch": "" }
+  },
+  {
+    "id": 1146,
+    "seat": { "gear_box": "", "transmission": " Automatic ", "clutch": "" }
+  },
+  {
+    "id": 1126,
+    "seat": { "gear_box": "--", "transmission": " Automatic ", "clutch": "--" }
+  },
+  {
+    "id": 1133,
+    "seat": { "gear_box": "--", "transmission": " Automatic ", "clutch": "--" }
+  },
+  {
+    "id": 1165,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1136,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet, Multi Disc "
+    }
+  },
+  {
+    "id": 1134,
+    "seat": {
+      "gear_box": "1 Down 5 Up ",
+      "transmission": "6 Speed Manual ",
+      "clutch": "Wet Multi-Disc "
+    }
+  },
+  {
+    "id": 1162,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1202,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1175,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1124,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "" }
+  },
+  {
+    "id": 1174,
+    "seat": {
+      "gear_box": "4 Speed",
+      "transmission": "Manual",
+      "clutch": "Centrifugal Clutch"
+    }
+  },
+  {
+    "id": 1177,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet, Multiple Disc"
+    }
+  },
+  {
+    "id": 1144,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "6 Speed Manual ",
+      "clutch": "--"
+    }
+  },
+  {
+    "id": 1153,
+    "seat": { "gear_box": "--", "transmission": " Automatic ", "clutch": "--" }
+  },
+  {
+    "id": 1154,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Manual",
+      "clutch": "Wet multiplate"
+    }
+  },
+  {
+    "id": 1145,
+    "seat": {
+      "gear_box": "6 speed",
+      "transmission": "Manual",
+      "clutch": "Multiplate Wet Clutch"
+    }
+  },
+  {
+    "id": 1142,
+    "seat": {
+      "gear_box": "6 speed",
+      "transmission": "Manual",
+      "clutch": "Wet multiplate"
+    }
+  },
+  {
+    "id": 1125,
+    "seat": {
+      "gear_box": "--",
+      "transmission": "5 Speed Manual ",
+      "clutch": "Wet multiplate "
+    }
+  },
+  {
+    "id": 1164,
+    "seat": {
+      "gear_box": "Automatic ",
+      "transmission": " Automatic ",
+      "clutch": "Automatic "
+    }
+  },
+  {
+    "id": 1309,
+    "seat": { "gear_box": null, "transmission": null, "clutch": null }
+  },
+  {
+    "id": 1308,
+    "seat": { "gear_box": "N/A", "transmission": "N/A", "clutch": "N/A" }
+  },
+  {
+    "id": 1319,
+    "seat": { "gear_box": "N/A", "transmission": "N/A", "clutch": "N/A" }
+  },
+  {
+    "id": 1322,
+    "seat": { "gear_box": "N/A", "transmission": "N/A", "clutch": "N/A" }
+  },
+  {
+    "id": 1317,
+    "seat": { "gear_box": "N/A", "transmission": "N/A", "clutch": "N/A" }
+  },
+  {
+    "id": 1331,
+    "seat": { "gear_box": "N/A", "transmission": "N/A", "clutch": "N/A" }
+  },
+  {
+    "id": 1349,
+    "seat": {
+      "gear_box": "5 speed gear box",
+      "transmission": "N/A",
+      "clutch": "Wet multi plate RT slipper clutch"
+    }
+  },
+  {
+    "id": 1349,
+    "seat": {
+      "gear_box": "5 speed gear box",
+      "transmission": null,
+      "clutch": "Wet multi plate RT slipper clutch"
+    }
+  },
+  {
+    "id": 1323,
+    "seat": {
+      "gear_box": "6 speed",
+      "transmission": "N/A",
+      "clutch": "Wet multi plate - 7 plate design, RT slipper clutch"
+    }
+  },
+  {
+    "id": 1318,
+    "seat": { "gear_box": "N/A", "transmission": "N/A", "clutch": "N/A" }
+  },
+  {
+    "id": 1320,
+    "seat": {
+      "gear_box": "4-speed Constant Mesh",
+      "transmission": "Manual",
+      "clutch": "Multiplate Wet Type"
+    }
+  },
+  {
+    "id": 1315,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Automatic",
+      "clutch": "N/A"
+    }
+  },
+  {
+    "id": 1327,
+    "seat": { "gear_box": "5 Speed", "transmission": "manual", "clutch": null }
+  },
+  {
+    "id": 1345,
+    "seat": {
+      "gear_box": "6speed",
+      "transmission": "Automatic",
+      "clutch": "Wet, Multi-Plate"
+    }
+  },
+  {
+    "id": 1344,
+    "seat": {
+      "gear_box": "6speed",
+      "transmission": "Automatic",
+      "clutch": "Wet, Multi-Plate"
+    }
+  },
+  {
+    "id": 1326,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": null }
+  },
+  {
+    "id": 1324,
+    "seat": { "gear_box": null, "transmission": null, "clutch": null }
+  },
+  {
+    "id": 1341,
+    "seat": {
+      "gear_box": "6speed",
+      "transmission": "manual",
+      "clutch": "Wet, Multi-Plate"
+    }
+  },
+  {
+    "id": 1332,
+    "seat": { "gear_box": "5 Speed", "transmission": "Automa", "clutch": "N/A" }
+  },
+  {
+    "id": 1342,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Automatic",
+      "clutch": "N/A"
+    }
+  },
+  {
+    "id": 1340,
+    "seat": {
+      "gear_box": "6 Speed",
+      "transmission": "Automatic",
+      "clutch": "N/A"
+    }
+  },
+  {
+    "id": 1352,
+    "seat": { "gear_box": "N/A", "transmission": null, "clutch": "N/A" }
+  },
+  {
+    "id": 1325,
+    "seat": {
+      "gear_box": "4 Speed Hypershift",
+      "transmission": "Manual",
+      "clutch": "N/A"
+    }
+  },
+  {
+    "id": 1328,
+    "seat": {
+      "gear_box": "4 Up 1 Down",
+      "transmission": "Manual",
+      "clutch": "N/A"
+    }
+  },
+  {
+    "id": 1394,
+    "seat": {
+      "gear_box": null,
+      "transmission": "Clutchless Single Speed",
+      "clutch": null
+    }
+  },
+  {
+    "id": 1337,
+    "seat": {
+      "gear_box": null,
+      "transmission": "Clutchless Single Speed",
+      "clutch": null
+    }
+  },
+  {
+    "id": 1330,
+    "seat": { "gear_box": "N/A", "transmission": "N/A", "clutch": "N/A" }
+  },
+  {
+    "id": 1334,
+    "seat": { "gear_box": "6speed", "transmission": "manual", "clutch": "N/A" }
+  },
+  {
+    "id": 1329,
+    "seat": { "gear_box": "N/A", "transmission": "N/A", "clutch": "N/A" }
+  },
+  {
+    "id": 1343,
+    "seat": { "gear_box": "5 Speed", "transmission": "Manual", "clutch": null }
+  },
+  {
+    "id": 1336,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "N/A" }
+  },
+  {
+    "id": 1338,
+    "seat": {
+      "gear_box": "N/A",
+      "transmission": "N/A",
+      "clutch": "Wet Multiplate"
+    }
+  },
+  {
+    "id": 1354,
+    "seat": { "gear_box": "N/A", "transmission": "N/A", "clutch": "N/A" }
+  },
+  {
+    "id": 1366,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1335,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1365,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1353,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1393,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1395,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1346,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1379,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1362,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1364,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1355,
+    "seat": {
+      "gear_box": "N/A",
+      "transmission": "Clutchless direct drive",
+      "clutch": "N/A"
+    }
+  },
+  {
+    "id": 1350,
+    "seat": {
+      "gear_box": null,
+      "transmission": null,
+      "clutch": "Clutchless direct drive"
+    }
+  },
+  {
+    "id": 1348,
+    "seat": {
+      "gear_box": "N/A",
+      "transmission": "Clutchless direct drive",
+      "clutch": "N/A"
+    }
+  },
+  {
+    "id": 1360,
+    "seat": {
+      "gear_box": "N/A",
+      "transmission": "Clutchless direct drive",
+      "clutch": "N/A"
+    }
+  },
+  {
+    "id": 1347,
+    "seat": {
+      "gear_box": "N/A",
+      "transmission": "Clutchless direct drive",
+      "clutch": "N/A"
+    }
+  },
+  {
+    "id": 1358,
+    "seat": {
+      "gear_box": "N/A",
+      "transmission": "Clutchless direct drive",
+      "clutch": "N/A"
+    }
+  },
+  {
+    "id": 1361,
+    "seat": {
+      "gear_box": "N/A",
+      "transmission": "Clutchless direct drive",
+      "clutch": "N/A"
+    }
+  },
+  {
+    "id": 1359,
+    "seat": {
+      "gear_box": "N/A",
+      "transmission": "Clutchless direct drive",
+      "clutch": "N/A"
+    }
+  },
+  {
+    "id": 1376,
+    "seat": {
+      "gear_box": "N/A",
+      "transmission": "Clutchless direct drive",
+      "clutch": "N/A"
+    }
+  },
+  {
+    "id": 1671,
+    "seat": {
+      "gear_box": "N/A",
+      "transmission": "FLO drive belt",
+      "clutch": "N/A"
+    }
+  },
+  {
+    "id": 1371,
+    "seat": { "gear_box": "21", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1397,
+    "seat": { "gear_box": "21", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1400,
+    "seat": { "gear_box": "7", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1372,
+    "seat": { "gear_box": "7", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1373,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1378,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1377,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1374,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1369,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1398,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1396,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1367,
+    "seat": { "gear_box": "N/A", "transmission": "N/A", "clutch": "N/A" }
+  },
+  {
+    "id": 1368,
+    "seat": { "gear_box": "N/A", "transmission": "N/A", "clutch": "N/A" }
+  },
+  {
+    "id": 1399,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1370,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1375,
+    "seat": {
+      "gear_box": "N/A",
+      "transmission": "Gates poly chain GT Carbon  belt with stretch-free carbon-fiber tensiles cords",
+      "clutch": "N/A"
+    }
+  },
+  {
+    "id": 1356,
+    "seat": { "gear_box": "N/A", "transmission": "N/A", "clutch": "N/A" }
+  },
+  {
+    "id": 1351,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1357,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1363,
+    "seat": { "gear_box": "N/A", "transmission": "N/A", "clutch": "N/A" }
+  },
+  {
+    "id": 1381,
+    "seat": { "gear_box": "6 Speed", "transmission": "Manual", "clutch": "N/A" }
+  },
+  {
+    "id": 1380,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1385,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1388,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1391,
+    "seat": {
+      "gear_box": "3 Forward & 1 Reverse",
+      "transmission": "Automatic",
+      "clutch": "N/A"
+    }
+  },
+  {
+    "id": 1384,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1389,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1382,
+    "seat": {
+      "gear_box": "3 Forward & 1 Reverse",
+      "transmission": "Automatic",
+      "clutch": "N/A"
+    }
+  },
+  {
+    "id": 1387,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1383,
+    "seat": { "gear_box": "N/A", "transmission": "Automatic", "clutch": "N/A" }
+  },
+  {
+    "id": 1390,
+    "seat": { "gear_box": null, "transmission": "Automatic", "clutch": null }
+  },
+  {
+    "id": 1386,
+    "seat": { "gear_box": null, "transmission": null, "clutch": null }
+  },
+  {
+    "id": 1408,
+    "seat": { "gear_box": null, "transmission": "Automatic", "clutch": null }
+  },
+  {
+    "id": 1407,
+    "seat": { "gear_box": null, "transmission": "Automatic", "clutch": null }
+  },
+  {
+    "id": 1406,
+    "seat": { "gear_box": null, "transmission": "Automatic", "clutch": null }
+  },
+  {
+    "id": 1405,
+    "seat": { "gear_box": null, "transmission": "Automatic", "clutch": null }
+  },
+  {
+    "id": 1402,
+    "seat": { "gear_box": null, "transmission": "Automatic", "clutch": null }
+  },
+  {
+    "id": 1403,
+    "seat": { "gear_box": null, "transmission": "Automatic", "clutch": null }
+  },
+  {
+    "id": 1410,
+    "seat": { "gear_box": null, "transmission": "Automatic", "clutch": null }
+  },
+  {
+    "id": 1401,
+    "seat": { "gear_box": null, "transmission": "Automatic", "clutch": null }
+  },
+  {
+    "id": 1404,
+    "seat": { "gear_box": null, "transmission": "Automatic", "clutch": null }
+  },
+  {
+    "id": 1412,
+    "seat": {
+      "gear_box": null,
+      "transmission": "Direct Drive System",
+      "clutch": null
+    }
+  },
+  {
+    "id": 1411,
+    "seat": { "gear_box": null, "transmission": "Automatic", "clutch": null }
+  }
+]

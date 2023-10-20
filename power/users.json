@@ -1,0 +1,2150 @@
+[
+  {
+    "id": 1214,
+    "data": { "power": "300", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1264,
+    "data": { "power": "249", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1630,
+    "data": { "power": "1133", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1260,
+    "data": { "power": "109.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1270,
+    "data": { "power": "293", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1922,
+    "data": { "power": "373.27", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 848, "data": { "power": "349", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1984,
+    "data": { "power": "162.71", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1233,
+    "data": { "power": "500", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1924,
+    "data": { "power": "334", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1221,
+    "data": { "power": "163", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1232,
+    "data": { "power": "109.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1223,
+    "data": { "power": "97.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1337,
+    "data": { "power": "123.94", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 837,
+    "data": { "power": "199.5", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1219,
+    "data": { "power": "109.51", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1299,
+    "data": { "power": "124", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1257,
+    "data": { "power": "155", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1298,
+    "data": { "power": "648", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 824, "data": { "power": "955", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 829,
+    "data": { "power": "1649", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1965,
+    "data": { "power": "348", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1972,
+    "data": { "power": "233", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1784,
+    "data": { "power": "997", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 833,
+    "data": { "power": "124.4", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1344,
+    "data": { "power": "248.76", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1276,
+    "data": { "power": "346", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1940,
+    "data": { "power": "398.15", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1995,
+    "data": { "power": "348", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1913,
+    "data": { "power": "334", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 834,
+    "data": { "power": "1103", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1948,
+    "data": { "power": "398.15", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1216,
+    "data": { "power": "199.6", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 818,
+    "data": { "power": "159.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1215,
+    "data": { "power": "500", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1350,
+    "data": { "power": "155", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 864,
+    "data": { "power": "1160", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1678,
+    "data": { "power": "440", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1720,
+    "data": { "power": "937", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1295,
+    "data": { "power": "113.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1768,
+    "data": { "power": "754", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1360,
+    "data": { "power": "888", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1256,
+    "data": { "power": "124.4", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 2002,
+    "data": { "power": "349", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1888,
+    "data": { "power": "689", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1303,
+    "data": { "power": "115", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1310,
+    "data": { "power": "199.5", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 877,
+    "data": { "power": "1649", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1239,
+    "data": { "power": "109.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1294,
+    "data": { "power": "163", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1987,
+    "data": { "power": "112", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1340,
+    "data": { "power": "197.75", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1356,
+    "data": { "power": "249", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1342,
+    "data": { "power": "159.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1794,
+    "data": { "power": "450", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 885,
+    "data": { "power": "159.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1541,
+    "data": { "power": "1768", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1286,
+    "data": { "power": "155", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 816,
+    "data": { "power": "159.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 823, "data": { "power": "349", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1307,
+    "data": { "power": "115", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 826, "data": { "power": "298", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1715,
+    "data": { "power": "155", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1301,
+    "data": { "power": "648", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1349,
+    "data": { "power": "159.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1293,
+    "data": { "power": "97.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1631,
+    "data": { "power": "1890", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 881,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1275,
+    "data": { "power": "249", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1704,
+    "data": { "power": "749", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1378,
+    "data": { "power": "400", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1312,
+    "data": { "power": "162.71", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 898,
+    "data": { "power": "1200", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1252,
+    "data": { "power": "249", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1985,
+    "data": { "power": "312.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1792,
+    "data": { "power": "471", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 820,
+    "data": { "power": "248.8", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1367,
+    "data": { "power": "1252", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 815, "data": { "power": "948", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1297,
+    "data": { "power": "113.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1727,
+    "data": { "power": "175.3", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1348,
+    "data": { "power": "399", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 897,
+    "data": { "power": "293.52", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 1652, "data": { "power": "0", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1407,
+    "data": { "power": "112", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1749,
+    "data": { "power": "335", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 887,
+    "data": { "power": "1103", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1401,
+    "data": { "power": "471.03", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1897,
+    "data": { "power": "348", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 863, "data": { "power": "975", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1331,
+    "data": { "power": "159.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1767,
+    "data": { "power": "1200", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 942, "data": { "power": "937", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1412,
+    "data": { "power": "125", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 832,
+    "data": { "power": "1200", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 853, "data": { "power": "313", "power_unit": "CC", "unit": "Kmpl" } },
+  { "id": 873, "data": { "power": "900", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1387,
+    "data": { "power": "373", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1825,
+    "data": { "power": "97.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1817,
+    "data": { "power": "223", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1394,
+    "data": { "power": "123.94", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 914, "data": { "power": "853", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1804,
+    "data": { "power": "1301", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 938,
+    "data": { "power": "97.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1790,
+    "data": { "power": "652", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 882, "data": { "power": "124", "power_unit": "CC", "unit": "Kmpl" } },
+  { "id": 841, "data": { "power": "110", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1785,
+    "data": { "power": "698", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 878,
+    "data": { "power": "1200", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1700,
+    "data": { "power": "296", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 930, "data": { "power": "296", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 845,
+    "data": { "power": "1254", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 912, "data": { "power": "313", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1802,
+    "data": { "power": "249.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 827,
+    "data": { "power": "1200", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1991,
+    "data": { "power": "210", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1382,
+    "data": { "power": "998", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1544,
+    "data": { "power": "125", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 858, "data": { "power": "649", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1812,
+    "data": { "power": "348.36", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 859,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1375,
+    "data": { "power": "689", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 986, "data": { "power": "149", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 870,
+    "data": { "power": "97.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1761,
+    "data": { "power": "2458", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 884,
+    "data": { "power": "373.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 890, "data": { "power": "298", "power_unit": "CC", "unit": "Kmpl" } },
+  { "id": 922, "data": { "power": "249", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1759,
+    "data": { "power": "1158", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 814,
+    "data": { "power": "1103", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1710,
+    "data": { "power": "997", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 915,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1831,
+    "data": { "power": "799", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1347,
+    "data": { "power": "292", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1887,
+    "data": { "power": "164.82", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1351,
+    "data": { "power": "752", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1399,
+    "data": { "power": "1202", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 950, "data": { "power": "373", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1758,
+    "data": { "power": "900", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1840,
+    "data": { "power": "889", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1730,
+    "data": { "power": "149.68", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1011,
+    "data": { "power": "155", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1750,
+    "data": { "power": "998", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1856,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 828, "data": { "power": "155", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1012,
+    "data": { "power": "411", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 925, "data": { "power": "937", "power_unit": "CC", "unit": "Kmpl" } },
+  { "id": 868, "data": { "power": "110", "power_unit": "CC", "unit": "Kmpl" } },
+  { "id": 951, "data": { "power": "937", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1634,
+    "data": { "power": "1203", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 983,
+    "data": { "power": "2458", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1813,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1357,
+    "data": { "power": "399", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1909,
+    "data": { "power": "1252", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 929, "data": { "power": "155", "power_unit": "CC", "unit": "Kmpl" } },
+  { "id": 861, "data": { "power": "313", "power_unit": "CC", "unit": "Kmpl" } },
+  { "id": 854, "data": { "power": "649", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1009,
+    "data": { "power": "649", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1015,
+    "data": { "power": "155", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1649,
+    "data": { "power": "1890", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 892, "data": { "power": "298", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1910,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1068,
+    "data": { "power": "149", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1788,
+    "data": { "power": "155", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1368,
+    "data": { "power": "1,250", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1859,
+    "data": { "power": "220", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1520,
+    "data": { "power": "1768", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1688,
+    "data": { "power": "291.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1868,
+    "data": { "power": "124.8", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1849,
+    "data": { "power": "124", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 840, "data": { "power": "163", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1850,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1701,
+    "data": { "power": "300", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1843,
+    "data": { "power": "1043", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 900,
+    "data": { "power": "164.82", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 903, "data": { "power": "999", "power_unit": "CC", "unit": "Kmpl" } },
+  { "id": 851, "data": { "power": "895", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 831,
+    "data": { "power": "1649", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1090,
+    "data": { "power": "649.3", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1755,
+    "data": { "power": "496", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1744,
+    "data": { "power": "321", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1884,
+    "data": { "power": "199", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 830,
+    "data": { "power": "1200", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1803,
+    "data": { "power": "286", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 836, "data": { "power": "124", "power_unit": "CC", "unit": "Kmpl" } },
+  { "id": 899, "data": { "power": "649", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 947,
+    "data": { "power": "1,082", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 953,
+    "data": { "power": "1252", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1848,
+    "data": { "power": "125", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1920,
+    "data": { "power": "124.8", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1915,
+    "data": { "power": "249.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 855, "data": { "power": "649", "power_unit": "CC", "unit": "Kmpl" } },
+  { "id": 896, "data": { "power": "155", "power_unit": "CC", "unit": "Kmpl" } },
+  { "id": 875, "data": { "power": "226", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1801,
+    "data": { "power": "1158", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1743,
+    "data": { "power": "149.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 869, "data": { "power": "999", "power_unit": "CC", "unit": "Kmpl" } },
+  { "id": 908, "data": { "power": "999", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1756,
+    "data": { "power": "499", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1889,
+    "data": { "power": "847", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1781,
+    "data": { "power": "1262", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 989,
+    "data": { "power": "2458", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1729,
+    "data": { "power": "399", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1798,
+    "data": { "power": "312.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1056,
+    "data": { "power": "649", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1751,
+    "data": { "power": "2458", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1121,
+    "data": { "power": "293", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 904,
+    "data": { "power": "249.07", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 944, "data": { "power": "411", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1933,
+    "data": { "power": "199.6", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1265,
+    "data": { "power": "99.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 846,
+    "data": { "power": "124.4", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 959, "data": { "power": "249", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1410,
+    "data": { "power": "471", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1912,
+    "data": { "power": "124.8", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 2006,
+    "data": { "power": "348", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1851,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 988, "data": { "power": "449", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 909,
+    "data": { "power": "164.82", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 952,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1766,
+    "data": { "power": "1200", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 939, "data": { "power": "895", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1979,
+    "data": { "power": "109.51", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1782,
+    "data": { "power": "199.6", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1886,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1726,
+    "data": { "power": "1301", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1773,
+    "data": { "power": "1262", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 954,
+    "data": { "power": "1043", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1882,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 838, "data": { "power": "98", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1300,
+    "data": { "power": "97.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 920,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 934, "data": { "power": "955", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1873,
+    "data": { "power": "649", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1739,
+    "data": { "power": "286", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1845,
+    "data": { "power": "248.8", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1968,
+    "data": { "power": "348", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 999,
+    "data": { "power": "1,082", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1823,
+    "data": { "power": "1811", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 964, "data": { "power": "334", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1896,
+    "data": { "power": "373", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 2000,
+    "data": { "power": "109.51", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1754,
+    "data": { "power": "149", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 926, "data": { "power": "937", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1998,
+    "data": { "power": "349", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 973, "data": { "power": "149", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1816,
+    "data": { "power": "149.16", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1865,
+    "data": { "power": "373.27", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1079,
+    "data": { "power": "1745", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1869,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1143,
+    "data": { "power": "102", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 911,
+    "data": { "power": "1160", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1762,
+    "data": { "power": "803", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1906,
+    "data": { "power": "1252", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1846,
+    "data": { "power": "373.27", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1161,
+    "data": { "power": "349", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 945,
+    "data": { "power": "1833", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 852, "data": { "power": "803", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 931,
+    "data": { "power": "1079", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1854,
+    "data": { "power": "199.6", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 924,
+    "data": { "power": "97.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 992, "data": { "power": "900", "power_unit": "CC", "unit": "Kmpl" } },
+  { "id": 960, "data": { "power": "334", "power_unit": "CC", "unit": "Kmpl" } },
+  { "id": 866, "data": { "power": "226", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 849,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1908,
+    "data": { "power": "334", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 962, "data": { "power": "334", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1847,
+    "data": { "power": "1000", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 949,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1783,
+    "data": { "power": "1158", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1877,
+    "data": { "power": "100", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 957,
+    "data": { "power": "184.4", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 971, "data": { "power": "334", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1277,
+    "data": { "power": "109.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 978,
+    "data": { "power": "248.76", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1857,
+    "data": { "power": "1802", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 998,
+    "data": { "power": "249.07", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1858,
+    "data": { "power": "199.6", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 972, "data": { "power": "334", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1036,
+    "data": { "power": "373", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 977, "data": { "power": "334", "power_unit": "CC", "unit": "Kmpl" } },
+  { "id": 980, "data": { "power": "334", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1892,
+    "data": { "power": "124.8", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 966, "data": { "power": "450", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1010,
+    "data": { "power": "197.75", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1262,
+    "data": { "power": "248.77", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 976,
+    "data": { "power": "109.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 969, "data": { "power": "334", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1281,
+    "data": { "power": "648", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 919, "data": { "power": "349", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1893,
+    "data": { "power": "294.72", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1769,
+    "data": { "power": "249", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 975, "data": { "power": "334", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1057,
+    "data": { "power": "649", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1806,
+    "data": { "power": "755", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 985,
+    "data": { "power": "197.75", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1860,
+    "data": { "power": "373.27", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 979, "data": { "power": "803", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1007,
+    "data": { "power": "159.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1716,
+    "data": { "power": "937", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1760,
+    "data": { "power": "803", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1713,
+    "data": { "power": "249", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1141,
+    "data": { "power": "348.36", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1005,
+    "data": { "power": "109.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1049,
+    "data": { "power": "199.5", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1000,
+    "data": { "power": "1043", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1052,
+    "data": { "power": "1262", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1071,
+    "data": { "power": "1890", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1027,
+    "data": { "power": "159.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1534,
+    "data": { "power": "480", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1657,
+    "data": { "power": "1203", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1172,
+    "data": { "power": "99.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 865, "data": { "power": "765", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1047,
+    "data": { "power": "124.8", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1220,
+    "data": { "power": "1202", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 867,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1014,
+    "data": { "power": "155", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1516,
+    "data": { "power": "312.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1809,
+    "data": { "power": "125", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1653,
+    "data": { "power": "124", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1031,
+    "data": { "power": "312.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1050,
+    "data": { "power": "937", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1077,
+    "data": { "power": "1868", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1024,
+    "data": { "power": "199.6", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1775,
+    "data": { "power": "125", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1013,
+    "data": { "power": "349", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1035,
+    "data": { "power": "649", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1114,
+    "data": { "power": "102", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1112,
+    "data": { "power": "649", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 910, "data": { "power": "349", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 886,
+    "data": { "power": "177.4", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1006,
+    "data": { "power": "650", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1059,
+    "data": { "power": "449", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1089,
+    "data": { "power": "1868", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1182,
+    "data": { "power": "998", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1316,
+    "data": { "power": "97.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1160,
+    "data": { "power": "99.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1105,
+    "data": { "power": "803", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1084,
+    "data": { "power": "999", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1095,
+    "data": { "power": "1,746", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1075,
+    "data": { "power": "649.3", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1222,
+    "data": { "power": "888", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1695,
+    "data": { "power": "249", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1151,
+    "data": { "power": "97.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1086,
+    "data": { "power": "1,200", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 835,
+    "data": { "power": "293.52", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1190,
+    "data": { "power": "803", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1120,
+    "data": { "power": "1340", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1411,
+    "data": { "power": "124", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1158,
+    "data": { "power": "888", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1088,
+    "data": { "power": "115.45", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1162,
+    "data": { "power": "97.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 1582, "data": { "power": "0", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1304,
+    "data": { "power": "149.5", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 905,
+    "data": { "power": "225.9", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1111,
+    "data": { "power": "1158", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1229,
+    "data": { "power": "883", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1127,
+    "data": { "power": "803", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 862,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 1636, "data": { "power": "0", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1205,
+    "data": { "power": "1079", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1123,
+    "data": { "power": "411", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1211,
+    "data": { "power": "1170", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1087,
+    "data": { "power": "1,868", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1201,
+    "data": { "power": "1262", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1118,
+    "data": { "power": "109.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1651,
+    "data": { "power": "1133", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1175,
+    "data": { "power": "124.4", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1545,
+    "data": { "power": "200", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1110,
+    "data": { "power": "999", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1138,
+    "data": { "power": "199.6", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1066,
+    "data": { "power": "1,262", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1080,
+    "data": { "power": "1,746", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1405,
+    "data": { "power": "286", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1787,
+    "data": { "power": "776", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 843, "data": { "power": "900", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1559,
+    "data": { "power": "223", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1083,
+    "data": { "power": "1868", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1209,
+    "data": { "power": "853", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1206,
+    "data": { "power": "1,254", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1045,
+    "data": { "power": "249", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1108,
+    "data": { "power": "199.6", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1204,
+    "data": { "power": "348.36", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1101,
+    "data": { "power": "348.36", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1082,
+    "data": { "power": "1,868", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1194,
+    "data": { "power": "1,198.40", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1247,
+    "data": { "power": "374", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1119,
+    "data": { "power": "1802", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1129,
+    "data": { "power": "99.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1146,
+    "data": { "power": "349", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 906,
+    "data": { "power": "1103", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1026,
+    "data": { "power": "349", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1248,
+    "data": { "power": "300", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1128,
+    "data": { "power": "998", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1186,
+    "data": { "power": "998", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1178,
+    "data": { "power": "645", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 850, "data": { "power": "649", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1181,
+    "data": { "power": "998", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1404,
+    "data": { "power": "471", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 839, "data": { "power": "313", "power_unit": "CC", "unit": "Kmpl" } },
+  { "id": 968, "data": { "power": "648", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1193,
+    "data": { "power": "803", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1261,
+    "data": { "power": "177.4", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1185,
+    "data": { "power": "1170", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1822,
+    "data": { "power": "124.4", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 963, "data": { "power": "334", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1150,
+    "data": { "power": "102", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1212,
+    "data": { "power": "1,170", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 981, "data": { "power": "900", "power_unit": "CC", "unit": "Kmpl" } },
+  { "id": 847, "data": { "power": "350", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1180,
+    "data": { "power": "765", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1358,
+    "data": { "power": "2458", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1210,
+    "data": { "power": "999", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1396,
+    "data": { "power": "300", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1167,
+    "data": { "power": "648.72", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 932, "data": { "power": "649", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1208,
+    "data": { "power": "999", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1159,
+    "data": { "power": "2458", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1156,
+    "data": { "power": "296", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1203,
+    "data": { "power": "197.75", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1170,
+    "data": { "power": "1802", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1363,
+    "data": { "power": "300", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1179,
+    "data": { "power": "998", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1198,
+    "data": { "power": "937", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 1640, "data": { "power": "0", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1269,
+    "data": { "power": "293", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1187,
+    "data": { "power": "998", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1714,
+    "data": { "power": "799", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1535,
+    "data": { "power": "680", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1189,
+    "data": { "power": "998", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1191,
+    "data": { "power": "803", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1236,
+    "data": { "power": "955", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1235,
+    "data": { "power": "109.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1305,
+    "data": { "power": "160", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1527,
+    "data": { "power": "400", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1814,
+    "data": { "power": "184", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1183,
+    "data": { "power": "636", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1325,
+    "data": { "power": "659", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1279,
+    "data": { "power": "109.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 956,
+    "data": { "power": "373.3", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 967,
+    "data": { "power": "348.36", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1255,
+    "data": { "power": "659", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1195,
+    "data": { "power": "803", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1703,
+    "data": { "power": "292.4", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1291,
+    "data": { "power": "160.3", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 871, "data": { "power": "900", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1645,
+    "data": { "power": "1890", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1192,
+    "data": { "power": "249", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1637,
+    "data": { "power": "125", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1824,
+    "data": { "power": "496", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1197,
+    "data": { "power": "1079", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 961, "data": { "power": "334", "power_unit": "CC", "unit": "Kmpl" } },
+  { "id": 974, "data": { "power": "155", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1309,
+    "data": { "power": "149.5", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1628,
+    "data": { "power": "1890", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1696,
+    "data": { "power": "399", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1001,
+    "data": { "power": "159.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1048,
+    "data": { "power": "937", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1237,
+    "data": { "power": "1802", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1258,
+    "data": { "power": "124.4", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1051,
+    "data": { "power": "349", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1883,
+    "data": { "power": "398", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1546,
+    "data": { "power": "149", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1514,
+    "data": { "power": "180", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1016,
+    "data": { "power": "159.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1053,
+    "data": { "power": "1890", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1273,
+    "data": { "power": "162.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1069,
+    "data": { "power": "500", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1249,
+    "data": { "power": "115.45", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1085,
+    "data": { "power": "1252", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1326,
+    "data": { "power": "1037", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1352,
+    "data": { "power": "113.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1244,
+    "data": { "power": "99.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1529,
+    "data": { "power": "97.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1336,
+    "data": { "power": "113.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1102,
+    "data": { "power": "349", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1280,
+    "data": { "power": "124", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1061,
+    "data": { "power": "411", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1692,
+    "data": { "power": "291.6", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1644,
+    "data": { "power": "698", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1017,
+    "data": { "power": "660", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1311,
+    "data": { "power": "102", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1271,
+    "data": { "power": "1099", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1941,
+    "data": { "power": "440", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1274,
+    "data": { "power": "294.72", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1866,
+    "data": { "power": "113.2", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1103,
+    "data": { "power": "999", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1386,
+    "data": { "power": "249", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1530,
+    "data": { "power": "292.4", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1302,
+    "data": { "power": "220", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1025,
+    "data": { "power": "124.8", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1251,
+    "data": { "power": "346", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1028,
+    "data": { "power": "853", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1040,
+    "data": { "power": "349", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1807,
+    "data": { "power": "1082", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1238,
+    "data": { "power": "109.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1328,
+    "data": { "power": "754", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1406,
+    "data": { "power": "321", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1799,
+    "data": { "power": "220", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1772,
+    "data": { "power": "900", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1748,
+    "data": { "power": "782", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1338,
+    "data": { "power": "1103", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1137,
+    "data": { "power": "411", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1332,
+    "data": { "power": "159.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1946,
+    "data": { "power": "440", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1740,
+    "data": { "power": "199", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1242,
+    "data": { "power": "249", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1157,
+    "data": { "power": "184.4", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1113,
+    "data": { "power": "149", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1240,
+    "data": { "power": "349", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1226,
+    "data": { "power": "1,868", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 1654, "data": { "power": "0", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1054,
+    "data": { "power": "294.72", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1795,
+    "data": { "power": "1103", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1675,
+    "data": { "power": "1037", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1370,
+    "data": { "power": "648.72", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1377,
+    "data": { "power": "500", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 901,
+    "data": { "power": "1160", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1020,
+    "data": { "power": "155", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 965, "data": { "power": "334", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1687,
+    "data": { "power": "494", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1737,
+    "data": { "power": "149", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1126,
+    "data": { "power": "197.75", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1389,
+    "data": { "power": "948", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1646,
+    "data": { "power": "1890", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1384,
+    "data": { "power": "998", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1522,
+    "data": { "power": "486", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1735,
+    "data": { "power": "156", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1324,
+    "data": { "power": "999", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1116,
+    "data": { "power": "411", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 907,
+    "data": { "power": "249.07", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1163,
+    "data": { "power": "1000", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1369,
+    "data": { "power": "334", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1904,
+    "data": { "power": "1170", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1383,
+    "data": { "power": "373", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1064,
+    "data": { "power": "999", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 928,
+    "data": { "power": "1160", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1171,
+    "data": { "power": "998", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1033,
+    "data": { "power": "155", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1573,
+    "data": { "power": "754", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1391,
+    "data": { "power": "1,200", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1164,
+    "data": { "power": "348.36", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1254,
+    "data": { "power": "162.71", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1633,
+    "data": { "power": "1768", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1073,
+    "data": { "power": "1890", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1650,
+    "data": { "power": "1203", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1023,
+    "data": { "power": "937", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1076,
+    "data": { "power": "115.45", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1081,
+    "data": { "power": "249.07", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1122,
+    "data": { "power": "1079", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1272,
+    "data": { "power": "99.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1660,
+    "data": { "power": "373", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1184,
+    "data": { "power": "1160", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1067,
+    "data": { "power": "999", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1100,
+    "data": { "power": "900", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1638,
+    "data": { "power": "1133", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1952,
+    "data": { "power": "440", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1003,
+    "data": { "power": "937", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1810,
+    "data": { "power": "1200", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1253,
+    "data": { "power": "600", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1032,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1250,
+    "data": { "power": "109.51", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1241,
+    "data": { "power": "346", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1038,
+    "data": { "power": "1158", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1207,
+    "data": { "power": "1,254", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1245,
+    "data": { "power": "773", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1078,
+    "data": { "power": "1103", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1117,
+    "data": { "power": "292.4", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1562,
+    "data": { "power": "124.7", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1725,
+    "data": { "power": "155", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1109,
+    "data": { "power": "197.75", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1815,
+    "data": { "power": "889", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1533,
+    "data": { "power": "164.9", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1805,
+    "data": { "power": "776", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 856, "data": { "power": "660", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1779,
+    "data": { "power": "649", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1176,
+    "data": { "power": "286.01", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1655,
+    "data": { "power": "1133", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 995, "data": { "power": "163", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1173,
+    "data": { "power": "1077", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 987, "data": { "power": "648", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1227,
+    "data": { "power": "888", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1234,
+    "data": { "power": "199.5", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1306,
+    "data": { "power": "149.5", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1872,
+    "data": { "power": "1868", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1283,
+    "data": { "power": "648", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1099,
+    "data": { "power": "124.4", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1166,
+    "data": { "power": "1000", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1289,
+    "data": { "power": "648", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1879,
+    "data": { "power": "1340", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1266,
+    "data": { "power": "294.72", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1224,
+    "data": { "power": "124.4", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1278,
+    "data": { "power": "648", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1225,
+    "data": { "power": "500", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1098,
+    "data": { "power": "900", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 1964, "data": { "power": "64", "power_unit": "CC", "unit": "Kmpl" } },
+  {
+    "id": 1902,
+    "data": { "power": "1811", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1188,
+    "data": { "power": "1,262", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  {
+    "id": 1345,
+    "data": { "power": "248.76", "power_unit": "CC", "unit": "Kmpl" }
+  },
+  { "id": 1786, "data": { "power": "900", "power_unit": "CC", "unit": "Kmpl" } }
+]

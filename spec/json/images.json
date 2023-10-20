@@ -1,0 +1,4598 @@
+[
+  {
+    "id": 1789,
+    "attributes": {
+      "name": "Zeal Ex standard",
+      "variant_id": "1250",
+      "slug": "zeal-ex-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1214,
+    "attributes": {
+      "name": "TNT 300 Standard",
+      "variant_id": "424",
+      "slug": "tnt-300-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1216,
+    "attributes": {
+      "name": "Xpulse 200 Standard",
+      "variant_id": "427",
+      "slug": "xpulse-200-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1172,
+    "attributes": {
+      "name": "XL100 Heavy Duty Kick Start",
+      "variant_id": "338",
+      "slug": "xl100-heavy-duty-kick-start",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1914,
+    "attributes": {
+      "name": "Evanka standard",
+      "variant_id": "1444",
+      "slug": "evanka-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1775,
+    "attributes": {
+      "name": "Ninja 125 standard",
+      "variant_id": "1290",
+      "slug": "ninja-125-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1232,
+    "attributes": {
+      "name": "Radeon Commuter Bike of the Year-Disc",
+      "variant_id": "453",
+      "slug": "radeon-commuter-bike-of-the-year-disc",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1587,
+    "attributes": {
+      "name": "Flash standard",
+      "variant_id": "1083",
+      "slug": "flash-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1558,
+    "attributes": {
+      "name": "DMS standard",
+      "variant_id": "1066",
+      "slug": "dms-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1862,
+    "attributes": {
+      "name": "TS Street Hunter standard",
+      "variant_id": "1340",
+      "slug": "ts-street-hunter-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1940,
+    "attributes": {
+      "name": "Scrambler 400 X standard",
+      "variant_id": "1478",
+      "slug": "scrambler-400-x-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1668,
+    "attributes": {
+      "name": "Hawk standard",
+      "variant_id": "1177",
+      "slug": "hawk-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1677,
+    "attributes": {
+      "name": "Faast F3 standard",
+      "variant_id": "1210",
+      "slug": "faast-f3-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1930,
+    "attributes": {
+      "name": "E2G standard",
+      "variant_id": "1455",
+      "slug": "e2g-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1784,
+    "attributes": {
+      "name": "MBP T100 2V standard",
+      "variant_id": "1322",
+      "slug": "mbp-t100-2v-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1918,
+    "attributes": {
+      "name": "Optima CX 5.0 standard",
+      "variant_id": "1439",
+      "slug": "optima-cx-50-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1929,
+    "attributes": {
+      "name": "LXS standard",
+      "variant_id": "1459",
+      "slug": "lxs-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1551,
+    "attributes": {
+      "name": "FXE standard",
+      "variant_id": "1072",
+      "slug": "fxe-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1913,
+    "attributes": {
+      "name": "42 Bobber OBD-2 (2023)",
+      "variant_id": "1431",
+      "slug": "42-bobber-obd-2-2023",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1201,
+    "attributes": {
+      "name": "XDiavel Black Star",
+      "variant_id": "412",
+      "slug": "xdiavel-black-star",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1567,
+    "attributes": {
+      "name": "Supersport standard",
+      "variant_id": "411",
+      "slug": "supersport-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1948,
+    "attributes": {
+      "name": "Speed 400 standard",
+      "variant_id": "1477",
+      "slug": "speed-400-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1694,
+    "attributes": {
+      "name": "ONE standard",
+      "variant_id": "250",
+      "slug": "one-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1955,
+    "attributes": {
+      "name": "M3 standard",
+      "variant_id": "1454",
+      "slug": "m3-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1720,
+    "attributes": {
+      "name": "DesertX standard",
+      "variant_id": "1233",
+      "slug": "desertx-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1678,
+    "attributes": {
+      "name": "RS 440 standard",
+      "variant_id": "1205",
+      "slug": "rs-440-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1947,
+    "attributes": {
+      "name": "Gracy i standard",
+      "variant_id": "1464",
+      "slug": "gracy-i-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1599,
+    "attributes": {
+      "name": "Atum Vader standard",
+      "variant_id": "1111",
+      "slug": "atum-vader-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1936,
+    "attributes": {
+      "name": "Feisty-Ev standard",
+      "variant_id": "1471",
+      "slug": "feisty-ev-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1768,
+    "attributes": {
+      "name": "TRK 800 standard",
+      "variant_id": "1317",
+      "slug": "trk-800-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1867,
+    "attributes": {
+      "name": "Surge standard",
+      "variant_id": "1416",
+      "slug": "surge-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1876,
+    "attributes": {
+      "name": "Foresti standard",
+      "variant_id": "1407",
+      "slug": "foresti-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1167,
+    "attributes": {
+      "name": "CBR 650R Standard",
+      "variant_id": "385",
+      "slug": "cbr-650r-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1756,
+    "attributes": {
+      "name": "Classic 500 standard",
+      "variant_id": "1254",
+      "slug": "classic-500-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1763,
+    "attributes": {
+      "name": "GTS 300 standard",
+      "variant_id": "1289",
+      "slug": "gts-300-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1205,
+    "attributes": {
+      "name": "Scrambler 1100 Pro Sport",
+      "variant_id": "367",
+      "slug": "scrambler-1100-pro-sport",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1888,
+    "attributes": {
+      "name": "Tracer 700 standard",
+      "variant_id": "1404",
+      "slug": "tracer-700-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1330,
+    "attributes": {
+      "name": "Activa 125 Dlx - Fi (BS-VI)",
+      "variant_id": "547",
+      "slug": "activa-125-dlx-fi-bs-vi",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1217,
+    "attributes": {
+      "name": "VXL 125 Facelift",
+      "variant_id": "417",
+      "slug": "vxl-125-facelift",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1758,
+    "attributes": {
+      "name": "Speed Twin 900 Chrome Edition",
+      "variant_id": "1308",
+      "slug": "speed-twin-900-chrome-edition",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1569,
+    "attributes": {
+      "name": "FX standard",
+      "variant_id": "1076",
+      "slug": "fx-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1191,
+    "attributes": {
+      "name": "Scrambler Icon Standard",
+      "variant_id": "409",
+      "slug": "scrambler-icon-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1549,
+    "attributes": {
+      "name": "S standard",
+      "variant_id": "1071",
+      "slug": "s-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1315,
+    "attributes": {
+      "name": "Access 125 Alloy Wheel - Drum -CBS Fi",
+      "variant_id": "530",
+      "slug": "access-125-alloy-wheel-drum-cbs-fi",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1916,
+    "attributes": {
+      "name": "Eagle 100 (4.8) standard",
+      "variant_id": "1441",
+      "slug": "eagle-100-48-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1931,
+    "attributes": {
+      "name": "Jaunty Pro standard",
+      "variant_id": "1468",
+      "slug": "jaunty-pro-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1541,
+    "attributes": {
+      "name": "Pursuit Dark Horse standard",
+      "variant_id": "1042",
+      "slug": "pursuit-dark-horse-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1817,
+    "attributes": {
+      "name": "Karizma 400 standard",
+      "variant_id": "1329",
+      "slug": "karizma-400-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1715,
+    "attributes": {
+      "name": "YZF-R15M standard",
+      "variant_id": "1247",
+      "slug": "yzf-r15m-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1722,
+    "attributes": {
+      "name": "Typhoon 125 standard",
+      "variant_id": "1238",
+      "slug": "typhoon-125-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1840,
+    "attributes": {
+      "name": "Norden 901 standard",
+      "variant_id": "1332",
+      "slug": "norden-901-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1683,
+    "attributes": {
+      "name": "Milan standard",
+      "variant_id": "1172",
+      "slug": "milan-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1671,
+    "attributes": {
+      "name": "Raptor standard",
+      "variant_id": "573",
+      "slug": "raptor-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1711,
+    "attributes": {
+      "name": "Activa 6G H-smart standard",
+      "variant_id": "1226",
+      "slug": "activa-6g-h-smart-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1595,
+    "attributes": {
+      "name": "E-Spark standard",
+      "variant_id": "1104",
+      "slug": "e-spark-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1212,
+    "attributes": {
+      "name": "R nineT Racer Standard",
+      "variant_id": "394",
+      "slug": "r-ninet-racer-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1792,
+    "attributes": {
+      "name": "Rebel 500 standard",
+      "variant_id": "1259",
+      "slug": "rebel-500-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1727,
+    "attributes": {
+      "name": "180S standard",
+      "variant_id": "1281",
+      "slug": "180s-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1794,
+    "attributes": {
+      "name": "450 SR standard",
+      "variant_id": "1242",
+      "slug": "450-sr-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1630,
+    "attributes": {
+      "name": "Scout Bobber Twenty standard",
+      "variant_id": "1163",
+      "slug": "scout-bobber-twenty-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1247,
+    "attributes": {
+      "name": "Imperiale 400 Standard",
+      "variant_id": "428",
+      "slug": "imperiale-400-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1771,
+    "attributes": {
+      "name": "Connect STD standard",
+      "variant_id": "1291",
+      "slug": "connect-std-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1189,
+    "attributes": {
+      "name": "Panigale V4 R Standard",
+      "variant_id": "405",
+      "slug": "panigale-v4-r-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1749,
+    "attributes": {
+      "name": "X350 standard",
+      "variant_id": "1323",
+      "slug": "x350-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1837,
+    "attributes": {
+      "name": "SA 2000 standard",
+      "variant_id": "1353",
+      "slug": "sa-2000-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1926,
+    "attributes": {
+      "name": "Mantra standard",
+      "variant_id": "1458",
+      "slug": "mantra-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1897,
+    "attributes": {
+      "name": "350S standard",
+      "variant_id": "1419",
+      "slug": "350s-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1838,
+    "attributes": {
+      "name": "Oki 100 standard",
+      "variant_id": "1334",
+      "slug": "oki-100-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1251,
+    "attributes": {
+      "name": "Bullet 350 ES",
+      "variant_id": "462",
+      "slug": "bullet-350-es",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1804,
+    "attributes": {
+      "name": "Brabus 1300 r standard",
+      "variant_id": "1230",
+      "slug": "brabus-1300-r-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1554,
+    "attributes": {
+      "name": "Quanto standard",
+      "variant_id": "1060",
+      "slug": "quanto-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1767,
+    "attributes": {
+      "name": "Bonneville Speedmaster Chrome Edition",
+      "variant_id": "1310",
+      "slug": "bonneville-speedmaster-chrome-edition",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1618,
+    "attributes": {
+      "name": "Sport 63 48V standard",
+      "variant_id": "1133",
+      "slug": "sport-63-48v-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1583,
+    "attributes": {
+      "name": "SR/S standard",
+      "variant_id": "1068",
+      "slug": "sr-s-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1614,
+    "attributes": {
+      "name": "XGT-Classic standard",
+      "variant_id": "1146",
+      "slug": "xgt-classic-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1606,
+    "attributes": {
+      "name": "Kollegio standard",
+      "variant_id": "1122",
+      "slug": "kollegio-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1623,
+    "attributes": {
+      "name": "TEM G33 standard",
+      "variant_id": "1128",
+      "slug": "tem-g33-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1723,
+    "attributes": {
+      "name": "Start standard",
+      "variant_id": "1253",
+      "slug": "start-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1788,
+    "attributes": {
+      "name": "WR 155R standard",
+      "variant_id": "1318",
+      "slug": "wr-155r-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1594,
+    "attributes": {
+      "name": "Rame standard",
+      "variant_id": "1090",
+      "slug": "rame-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1820,
+    "attributes": {
+      "name": "Aera 6000 Plus standard",
+      "variant_id": "1357",
+      "slug": "aera-6000-plus-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1693,
+    "attributes": {
+      "name": "F 99 standard",
+      "variant_id": "1214",
+      "slug": "f-99-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1689,
+    "attributes": {
+      "name": "Urban Classic standard",
+      "variant_id": "1220",
+      "slug": "urban-classic-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1785,
+    "attributes": {
+      "name": "TRK 702 standard",
+      "variant_id": "1316",
+      "slug": "trk-702-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1802,
+    "attributes": {
+      "name": "250SR standard",
+      "variant_id": "1321",
+      "slug": "250sr-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1698,
+    "attributes": {
+      "name": "Ecodryft standard",
+      "variant_id": "1212",
+      "slug": "ecodryft-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1852,
+    "attributes": {
+      "name": "Xoom LX",
+      "variant_id": "1354",
+      "slug": "xoom-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1724,
+    "attributes": {
+      "name": "Indie standard",
+      "variant_id": "1252",
+      "slug": "indie-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1753,
+    "attributes": {
+      "name": "Vario 160 standard",
+      "variant_id": "1297",
+      "slug": "vario-160-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1544,
+    "attributes": {
+      "name": "SR125 standard",
+      "variant_id": "1039",
+      "slug": "sr125-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1752,
+    "attributes": {
+      "name": "Atreo standard",
+      "variant_id": "1277",
+      "slug": "atreo-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1812,
+    "attributes": {
+      "name": "CB 350 Cafe Racer standard",
+      "variant_id": "1258",
+      "slug": "cb-350-cafe-racer-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1665,
+    "attributes": {
+      "name": "Miso standard",
+      "variant_id": "1185",
+      "slug": "miso-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1761,
+    "attributes": {
+      "name": "Rocket 3 GT Chrome Edition",
+      "variant_id": "1313",
+      "slug": "rocket-3-gt-chrome-edition",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1898,
+    "attributes": {
+      "name": "Leo (Basic)",
+      "variant_id": "1411",
+      "slug": "leo-basic",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1674,
+    "attributes": {
+      "name": "Venice Eco standard",
+      "variant_id": "1193",
+      "slug": "venice-eco-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1759,
+    "attributes": {
+      "name": "Multistrada V4 Rally",
+      "variant_id": "1302",
+      "slug": "multistrada-v4-rally",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1543,
+    "attributes": {
+      "name": "Kratos R standard",
+      "variant_id": "1050",
+      "slug": "kratos-r-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1800,
+    "attributes": {
+      "name": "X Plus standard",
+      "variant_id": "1298",
+      "slug": "x-plus-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1891,
+    "attributes": {
+      "name": "Zoom standard",
+      "variant_id": "1343",
+      "slug": "zoom-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1831,
+    "attributes": {
+      "name": "790 Adventure standard",
+      "variant_id": "1331",
+      "slug": "790-adventure-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1631,
+    "attributes": {
+      "name": "Roadmaster Limited standard",
+      "variant_id": "1150",
+      "slug": "roadmaster-limited-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 915,
+    "attributes": {
+      "name": "Glamour Disc Self Alloy [2022]",
+      "variant_id": "125",
+      "slug": "glamour-disc-self-alloy-2022",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1829,
+    "attributes": {
+      "name": "Zing HSS standard",
+      "variant_id": "1341",
+      "slug": "zing-hss-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1557,
+    "attributes": {
+      "name": "Gaze standard",
+      "variant_id": "1085",
+      "slug": "gaze-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1524,
+    "attributes": {
+      "name": "JF standard",
+      "variant_id": "1065",
+      "slug": "jf-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1730,
+    "attributes": {
+      "name": "Pulsar P150 standard",
+      "variant_id": "1257",
+      "slug": "pulsar-p150-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1922,
+    "attributes": {
+      "name": "390 Adventure (2023)",
+      "variant_id": "1433",
+      "slug": "390-adventure-2023",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1734,
+    "attributes": {
+      "name": "Wind standard",
+      "variant_id": "1272",
+      "slug": "wind-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1811,
+    "attributes": {
+      "name": "S1 Air standard",
+      "variant_id": "1239",
+      "slug": "s1-air-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1746,
+    "attributes": {
+      "name": "DeX GR standard",
+      "variant_id": "1276",
+      "slug": "dex-gr-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1652,
+    "attributes": {
+      "name": "Challenger Limited standard",
+      "variant_id": "1152",
+      "slug": "challenger-limited-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1813,
+    "attributes": {
+      "name": "Svartpilen 125 standard",
+      "variant_id": "1333",
+      "slug": "svartpilen-125-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1634,
+    "attributes": {
+      "name": "FTR R Carbon standard",
+      "variant_id": "1158",
+      "slug": "ftr-r-carbon-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1881,
+    "attributes": {
+      "name": "Vader standard",
+      "variant_id": "1364",
+      "slug": "vader-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1928,
+    "attributes": {
+      "name": "Speedstar standard",
+      "variant_id": "1440",
+      "slug": "speedstar-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1563,
+    "attributes": {
+      "name": "Doodle V2 standard",
+      "variant_id": "1080",
+      "slug": "doodle-v2-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1709,
+    "attributes": {
+      "name": "RM Mitra standard",
+      "variant_id": "1223",
+      "slug": "rm-mitra-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1910,
+    "attributes": {
+      "name": "Super Splendor Xtec Drum Brake Self Start cast wheel",
+      "variant_id": "1370",
+      "slug": "super-splendor-xtec-drum-brake-self-start-cast-wheel",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1616,
+    "attributes": {
+      "name": "Lithino 2.0 60V standard",
+      "variant_id": "1131",
+      "slug": "lithino-2-0-60v-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1699,
+    "attributes": {
+      "name": "RM Buddie 25 standard",
+      "variant_id": "1222",
+      "slug": "rm-buddie-25-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1648,
+    "attributes": {
+      "name": "Bziness standard",
+      "variant_id": "1171",
+      "slug": "bziness-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1873,
+    "attributes": {
+      "name": "Vulcan S (2023)",
+      "variant_id": "1389",
+      "slug": "vulcan-s-2023",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1685,
+    "attributes": {
+      "name": "Ranger standard",
+      "variant_id": "1186",
+      "slug": "ranger-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1680,
+    "attributes": {
+      "name": "Yoda standard",
+      "variant_id": "1179",
+      "slug": "yoda-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1764,
+    "attributes": {
+      "name": "AE-8 standard",
+      "variant_id": "1284",
+      "slug": "ae-8-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1859,
+    "attributes": {
+      "name": "Zeppelin standard",
+      "variant_id": "1330",
+      "slug": "zeppelin-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1670,
+    "attributes": {
+      "name": "LY standard",
+      "variant_id": "1190",
+      "slug": "ly-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1905,
+    "attributes": {
+      "name": "Ninja HEV standard",
+      "variant_id": "1420",
+      "slug": "ninja-hev-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1592,
+    "attributes": {
+      "name": "Electro standard",
+      "variant_id": "1061",
+      "slug": "electro-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1553,
+    "attributes": {
+      "name": "DSR-X standard",
+      "variant_id": "1073",
+      "slug": "dsr-x-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1702,
+    "attributes": {
+      "name": "350 D standard",
+      "variant_id": "1215",
+      "slug": "350-d-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1755,
+    "attributes": {
+      "name": "BD500 standard",
+      "variant_id": "1294",
+      "slug": "bd500-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1708,
+    "attributes": {
+      "name": "Urban S standard",
+      "variant_id": "1219",
+      "slug": "urban-s-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1790,
+    "attributes": {
+      "name": "Gold Star standard",
+      "variant_id": "1319",
+      "slug": "gold-star-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1684,
+    "attributes": {
+      "name": "X standard",
+      "variant_id": "1216",
+      "slug": "x-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1518,
+    "attributes": {
+      "name": "Ozone+ Standard",
+      "variant_id": "1029",
+      "slug": "ozone-plus-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1701,
+    "attributes": {
+      "name": "302 R standard",
+      "variant_id": "1197",
+      "slug": "302-r-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1625,
+    "attributes": {
+      "name": "T133 standard",
+      "variant_id": "1129",
+      "slug": "t133-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1539,
+    "attributes": {
+      "name": "QRX standard",
+      "variant_id": "1051",
+      "slug": "qrx-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1890,
+    "attributes": {
+      "name": "Leo (Extended)",
+      "variant_id": "1412",
+      "slug": "leo-extended",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1610,
+    "attributes": {
+      "name": "KM 3000 standard",
+      "variant_id": "1113",
+      "slug": "km-3000-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1797,
+    "attributes": {
+      "name": "Thunderbolt E1 standard",
+      "variant_id": "1240",
+      "slug": "thunderbolt-e1-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1770,
+    "attributes": {
+      "name": "Ahava standard",
+      "variant_id": "1274",
+      "slug": "ahava-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1744,
+    "attributes": {
+      "name": "Yzf R3 standard",
+      "variant_id": "1280",
+      "slug": "yzf-r3-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1874,
+    "attributes": {
+      "name": "X plus standard",
+      "variant_id": "1403",
+      "slug": "x-plus-793-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1700,
+    "attributes": {
+      "name": "SRV 300 standard",
+      "variant_id": "1202",
+      "slug": "srv-300-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1949,
+    "attributes": {
+      "name": "Ecity Zip standard",
+      "variant_id": "1461",
+      "slug": "ecity-zip-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1848,
+    "attributes": {
+      "name": "Z125 standard",
+      "variant_id": "1362",
+      "slug": "z125-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1570,
+    "attributes": {
+      "name": "S1 standard",
+      "variant_id": "1096",
+      "slug": "s1-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1742,
+    "attributes": {
+      "name": "XP 400 standard",
+      "variant_id": "1246",
+      "slug": "xp-400-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1915,
+    "attributes": {
+      "name": "CBR 250RR standard",
+      "variant_id": "1434",
+      "slug": "cbr-250rr-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1791,
+    "attributes": {
+      "name": "Aera 5000 standard",
+      "variant_id": "1255",
+      "slug": "aera-5000-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 840,
+    "attributes": {
+      "name": "Xtreme 160R Stealth Edition [2022]",
+      "variant_id": "64",
+      "slug": "xtreme-160r-stealth-edition-2022",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1718,
+    "attributes": {
+      "name": "ZT125-M Maxi standard",
+      "variant_id": "1248",
+      "slug": "zt125-m-maxi-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 920,
+    "attributes": {
+      "name": "Glamour Drum Self Alloy [2022]",
+      "variant_id": "126",
+      "slug": "glamour-drum-self-alloy-2022",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1728,
+    "attributes": {
+      "name": "Faast F2F standard",
+      "variant_id": "1251",
+      "slug": "faast-f2f-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1937,
+    "attributes": {
+      "name": "Legender standard",
+      "variant_id": "1462",
+      "slug": "legender-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1920,
+    "attributes": {
+      "name": "Raider 125 SX",
+      "variant_id": "1436",
+      "slug": "raider-125-sx",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1793,
+    "attributes": {
+      "name": "C12i Max standard",
+      "variant_id": "1278",
+      "slug": "c12i-max-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1520,
+    "attributes": {
+      "name": "Pursuit Limited standard",
+      "variant_id": "1037",
+      "slug": "pursuit-limited-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1901,
+    "attributes": {
+      "name": "E-Dyroth standard",
+      "variant_id": "1421",
+      "slug": "e-dyroth-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1833,
+    "attributes": {
+      "name": "Flex standard",
+      "variant_id": "1344",
+      "slug": "flex-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1769,
+    "attributes": {
+      "name": "YZF-R25 standard",
+      "variant_id": "1244",
+      "slug": "yzf-r25-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1798,
+    "attributes": {
+      "name": "Apache RTR 310 standard",
+      "variant_id": "1326",
+      "slug": "apache-rtr-310-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1780,
+    "attributes": {
+      "name": "Cygnus GT standard",
+      "variant_id": "1283",
+      "slug": "cygnus-gt-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1808,
+    "attributes": {
+      "name": "Tesoro standard",
+      "variant_id": "1320",
+      "slug": "tesoro-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1942,
+    "attributes": {
+      "name": "E-Bullet standard",
+      "variant_id": "1456",
+      "slug": "e-bullet-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1653,
+    "attributes": {
+      "name": "TRX 125 standard",
+      "variant_id": "1167",
+      "slug": "trx-125-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1719,
+    "attributes": {
+      "name": "Scoopy standard",
+      "variant_id": "1231",
+      "slug": "scoopy-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1912,
+    "attributes": {
+      "name": "Raider 125 Split Seat",
+      "variant_id": "1437",
+      "slug": "raider-125-split-seat",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1516,
+    "attributes": {
+      "name": "Apache RR 310 standard",
+      "variant_id": "1031",
+      "slug": "apache-rr-310-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1917,
+    "attributes": {
+      "name": "T4 standard",
+      "variant_id": "1448",
+      "slug": "t4-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1921,
+    "attributes": {
+      "name": "DB standard",
+      "variant_id": "1451",
+      "slug": "db-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1747,
+    "attributes": {
+      "name": "Nmax 155 standard",
+      "variant_id": "1282",
+      "slug": "nmax-155-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1887,
+    "attributes": {
+      "name": "Pulsar N160 OBD-2 (2023)",
+      "variant_id": "1428",
+      "slug": "pulsar-n160-obd-2-2023",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1889,
+    "attributes": {
+      "name": "Niken standard",
+      "variant_id": "1405",
+      "slug": "niken-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1958,
+    "attributes": {
+      "name": "SX25 standard",
+      "variant_id": "1460",
+      "slug": "sx25-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1953,
+    "attributes": {
+      "name": "S25 standard",
+      "variant_id": "1446",
+      "slug": "s25-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1841,
+    "attributes": {
+      "name": "TZ 3.3 standard",
+      "variant_id": "1339",
+      "slug": "tz-3-3-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1943,
+    "attributes": {
+      "name": "Marvel Deluxe standard",
+      "variant_id": "1453",
+      "slug": "marvel-deluxe-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1886,
+    "attributes": {
+      "name": "Super Splendor Xtec Disc Brake Self Start Cast Wheel",
+      "variant_id": "1371",
+      "slug": "super-splendor-xtec-disc-brake-self-start-cast-wheel",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1935,
+    "attributes": {
+      "name": "T1 standard",
+      "variant_id": "1447",
+      "slug": "t1-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1704,
+    "attributes": {
+      "name": "GSX S750 standard",
+      "variant_id": "1198",
+      "slug": "gsx-s750-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1882,
+    "attributes": {
+      "name": "Glamour Drum Self Cast Black and Accent",
+      "variant_id": "1376",
+      "slug": "glamour-drum-self-cast-black-and-accent",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1566,
+    "attributes": {
+      "name": "EMX standard",
+      "variant_id": "1078",
+      "slug": "emx-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1327,
+    "attributes": {
+      "name": "Access 125 Steel Wheel - Drum - CBS -Fi",
+      "variant_id": "531",
+      "slug": "access-125-steel-wheel-drum-cbs-fi",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1739,
+    "attributes": {
+      "name": "CRF 300 LS standard",
+      "variant_id": "1265",
+      "slug": "crf-300-ls-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1956,
+    "attributes": {
+      "name": "Gracy Pro standard",
+      "variant_id": "1465",
+      "slug": "gracy-pro-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1896,
+    "attributes": {
+      "name": "390 Adventure V",
+      "variant_id": "1427",
+      "slug": "390-adventure-v",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1871,
+    "attributes": {
+      "name": "Aera 4000 standard",
+      "variant_id": "1355",
+      "slug": "aera-4000-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 926,
+    "attributes": {
+      "name": "Multistrada V2 S - Street Grey",
+      "variant_id": "117",
+      "slug": "multistrada-v2-s-street-grey",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1834,
+    "attributes": {
+      "name": "Delux standard",
+      "variant_id": "1348",
+      "slug": "delux-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1880,
+    "attributes": {
+      "name": "Standard Drum Brake",
+      "variant_id": "1381",
+      "slug": "standard-drum-brake",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1823,
+    "attributes": {
+      "name": "Roadmaster Elite standard",
+      "variant_id": "1365",
+      "slug": "roadmaster-elite-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1591,
+    "attributes": {
+      "name": "Leo standard",
+      "variant_id": "1110",
+      "slug": "leo-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1816,
+    "attributes": {
+      "name": "CBR 150R standard",
+      "variant_id": "1338",
+      "slug": "cbr-150r-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1726,
+    "attributes": {
+      "name": "1290 GS standard",
+      "variant_id": "1267",
+      "slug": "1290-gs-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1903,
+    "attributes": {
+      "name": "Oxo (Pro Package)",
+      "variant_id": "1408",
+      "slug": "oxo-pro-package",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1869,
+    "attributes": {
+      "name": "Glamour Drum Self Cast",
+      "variant_id": "1375",
+      "slug": "glamour-drum-self-cast",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1803,
+    "attributes": {
+      "name": "CL300 standard",
+      "variant_id": "1243",
+      "slug": "cl300-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1751,
+    "attributes": {
+      "name": "Rocket 3 R Chrome Edition",
+      "variant_id": "1314",
+      "slug": "rocket-3-r-chrome-edition",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1762,
+    "attributes": {
+      "name": "Nightshift (2023)",
+      "variant_id": "1306",
+      "slug": "nightshift-2023",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1571,
+    "attributes": {
+      "name": "SR standard",
+      "variant_id": "1070",
+      "slug": "sr-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1710,
+    "attributes": {
+      "name": "C1002V standard",
+      "variant_id": "1200",
+      "slug": "c1002v-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 983,
+    "attributes": {
+      "name": "Rocket 3 GT 221 - Special Edition",
+      "variant_id": "170",
+      "slug": "rocket-3-gt-221-special-edition",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1906,
+    "attributes": {
+      "name": "Pan America 1250 (2023)",
+      "variant_id": "1386",
+      "slug": "pan-america-1250-2023",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 887,
+    "attributes": {
+      "name": "Panigale V4 Standard",
+      "variant_id": "20",
+      "slug": "panigale-v4-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1908,
+    "attributes": {
+      "name": "42 Bobber standard",
+      "variant_id": "1430",
+      "slug": "42-bobber-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1847,
+    "attributes": {
+      "name": "Scout Bobber Sixty standard",
+      "variant_id": "1367",
+      "slug": "scout-bobber-sixty-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1783,
+    "attributes": {
+      "name": "Multistrada V4 Pikes Peak",
+      "variant_id": "1303",
+      "slug": "multistrada-v4-pikes-peak",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1865,
+    "attributes": {
+      "name": "RC 390 ODB2 (2023)",
+      "variant_id": "1400",
+      "slug": "rc-390-odb2-2023",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1659,
+    "attributes": {
+      "name": "Quanta standard",
+      "variant_id": "1175",
+      "slug": "quanta-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1682,
+    "attributes": {
+      "name": "M7 standard",
+      "variant_id": "1213",
+      "slug": "m7-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1877,
+    "attributes": {
+      "name": "Shine 100 standard",
+      "variant_id": "1397",
+      "slug": "shine-100-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 2007,
+    "attributes": {
+      "name": "SuperSport Standard",
+      "variant_id": "411",
+      "slug": "supersport-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1239,
+    "attributes": {
+      "name": "Sport Kick Start Alloy BS6",
+      "variant_id": "456",
+      "slug": "sport-kick-start-alloy-bs6",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1857,
+    "attributes": {
+      "name": "R 18 Transcontinental",
+      "variant_id": "1393",
+      "slug": "r-18-transcontinental",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 2008,
+    "attributes": {
+      "name": "S1 Standard",
+      "variant_id": "258",
+      "slug": "s1-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 2009,
+    "attributes": {
+      "name": "Raptor Standard",
+      "variant_id": "573",
+      "slug": "raptor-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1676,
+    "attributes": {
+      "name": "Kalk standard",
+      "variant_id": "1218",
+      "slug": "kalk-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1198,
+    "attributes": {
+      "name": "Hypermotard 950 RVE",
+      "variant_id": "402",
+      "slug": "hypermotard-950-rve",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1858,
+    "attributes": {
+      "name": "Self Start ABS Disc Brake Alloy wheel - FI",
+      "variant_id": "1380",
+      "slug": "self-start-abs-disc-brake-alloy-wheel-fi",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1686,
+    "attributes": {
+      "name": "Eleq standard",
+      "variant_id": "1176",
+      "slug": "eleq-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1114,
+    "attributes": {
+      "name": "Platina 100 ES Drum - 2021",
+      "variant_id": "313",
+      "slug": "platina-100-es-drum-2021",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1649,
+    "attributes": {
+      "name": "Spring Field dark Horse standard",
+      "variant_id": "1156",
+      "slug": "spring-field-dark-horse-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1923,
+    "attributes": {
+      "name": "Fashia standard",
+      "variant_id": "1443",
+      "slug": "fashia-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1861,
+    "attributes": {
+      "name": "Pleasure+ VX",
+      "variant_id": "1383",
+      "slug": "pleasure-vx",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1850,
+    "attributes": {
+      "name": "Super Splendor Xtec standard",
+      "variant_id": "1369",
+      "slug": "super-splendor-xtec-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1222,
+    "attributes": {
+      "name": "Tiger 900 Rally",
+      "variant_id": "437",
+      "slug": "tiger-900-rally",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1667,
+    "attributes": {
+      "name": "Lithino Pro standard",
+      "variant_id": "1136",
+      "slug": "lithino-pro-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1892,
+    "attributes": {
+      "name": "Fiero 125 standard",
+      "variant_id": "1414",
+      "slug": "fiero-125-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1579,
+    "attributes": {
+      "name": "Trono standard",
+      "variant_id": "1097",
+      "slug": "trono-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1600,
+    "attributes": {
+      "name": "Series 2 standard",
+      "variant_id": "1095",
+      "slug": "series-2-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1015,
+    "attributes": {
+      "name": "R15 V4 Metallic Red",
+      "variant_id": "219",
+      "slug": "r15-v4-metallic-red",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1586,
+    "attributes": {
+      "name": "Viva standard",
+      "variant_id": "1077",
+      "slug": "viva-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1619,
+    "attributes": {
+      "name": "Alfa Pro standard",
+      "variant_id": "1130",
+      "slug": "alfa-pro-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1844,
+    "attributes": {
+      "name": "NYX CX5.0 standard",
+      "variant_id": "1395",
+      "slug": "nyx-cx50-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 951,
+    "attributes": {
+      "name": "Multistrada V2 S - Ducati Red",
+      "variant_id": "118",
+      "slug": "multistrada-v2-s-ducati-red",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1170,
+    "attributes": {
+      "name": "R18 First Edition",
+      "variant_id": "369",
+      "slug": "r18-first-edition",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1828,
+    "attributes": {
+      "name": "Storie standard",
+      "variant_id": "1351",
+      "slug": "storie-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1193,
+    "attributes": {
+      "name": "Scrambler Desert Sled Standard",
+      "variant_id": "408",
+      "slug": "scrambler-desert-sled-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1801,
+    "attributes": {
+      "name": "Diavel V4 standard",
+      "variant_id": "1232",
+      "slug": "diavel-v4-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1806,
+    "attributes": {
+      "name": "XL750 Transalp standard",
+      "variant_id": "1261",
+      "slug": "xl750-transalp-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1909,
+    "attributes": {
+      "name": "Sportster S (2023)",
+      "variant_id": "1387",
+      "slug": "sportster-s-2023",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1672,
+    "attributes": {
+      "name": "Venice standard",
+      "variant_id": "1187",
+      "slug": "venice-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1716,
+    "attributes": {
+      "name": "Monster SP standard",
+      "variant_id": "1236",
+      "slug": "monster-sp-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1760,
+    "attributes": {
+      "name": "Full Throttel standard",
+      "variant_id": "1305",
+      "slug": "full-throttel-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1713,
+    "attributes": {
+      "name": "RM Z250 standard",
+      "variant_id": "1263",
+      "slug": "rm-z250-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1738,
+    "attributes": {
+      "name": "Xeniaa standard",
+      "variant_id": "1270",
+      "slug": "xeniaa-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1951,
+    "attributes": {
+      "name": "Inspirer standard",
+      "variant_id": "1469",
+      "slug": "inspirer-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1021,
+    "attributes": {
+      "name": "Ray ZR 125 Hybrid Disc - MotoGP Edition",
+      "variant_id": "224",
+      "slug": "ray-zr-125-hybrid-disc-motogp-edition",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1721,
+    "attributes": {
+      "name": "Tricity 155 standard",
+      "variant_id": "1235",
+      "slug": "tricity-155-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1774,
+    "attributes": {
+      "name": "Neo's standard",
+      "variant_id": "1295",
+      "slug": "neo-s-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1669,
+    "attributes": {
+      "name": "Elektron standard",
+      "variant_id": "1173",
+      "slug": "elektron-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1925,
+    "attributes": {
+      "name": "Optima CX 2.0 standard",
+      "variant_id": "1438",
+      "slug": "optima-cx-20-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1590,
+    "attributes": {
+      "name": "Hermes 75 standard",
+      "variant_id": "1115",
+      "slug": "hermes-75-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1690,
+    "attributes": {
+      "name": "Plasma standard",
+      "variant_id": "1174",
+      "slug": "plasma-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1605,
+    "attributes": {
+      "name": "Storm ZX plus standard",
+      "variant_id": "1126",
+      "slug": "storm-zx-plus-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1750,
+    "attributes": {
+      "name": "Panigale V4 R",
+      "variant_id": "1304",
+      "slug": "panigale-v4-r",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1657,
+    "attributes": {
+      "name": "FTR Rally standard",
+      "variant_id": "1160",
+      "slug": "ftr-rally-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1860,
+    "attributes": {
+      "name": "390 Adventure X",
+      "variant_id": "1385",
+      "slug": "390-adventure-x",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1781,
+    "attributes": {
+      "name": "XDiavel S",
+      "variant_id": "1299",
+      "slug": "xdiavel-s",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1534,
+    "attributes": {
+      "name": "SRC 500 standard",
+      "variant_id": "1043",
+      "slug": "src-500-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1220,
+    "attributes": {
+      "name": "Forty Eight Standard",
+      "variant_id": "440",
+      "slug": "forty-eight-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1177,
+    "attributes": {
+      "name": "Burgman Street 125 Bluetooth",
+      "variant_id": "357",
+      "slug": "burgman-street-125-bluetooth",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 896,
+    "attributes": {
+      "name": "R15 V4 M - MotoGP Edition",
+      "variant_id": "47",
+      "slug": "r15-v4-m-motogp-edition",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1184,
+    "attributes": {
+      "name": "Tiger 1200 GT Pro",
+      "variant_id": "393",
+      "slug": "tiger-1200-gt-pro",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1601,
+    "attributes": {
+      "name": "Intercity 300 standard",
+      "variant_id": "1116",
+      "slug": "intercity-300-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1673,
+    "attributes": {
+      "name": "GT 120 standard",
+      "variant_id": "1181",
+      "slug": "gt-120-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1519,
+    "attributes": {
+      "name": "Spectra Standard",
+      "variant_id": "1025",
+      "slug": "spectra-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1182,
+    "attributes": {
+      "name": "Ninja H2 SX Standard",
+      "variant_id": "391",
+      "slug": "ninja-h2-sx-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1621,
+    "attributes": {
+      "name": "XGT-X4 standard",
+      "variant_id": "1144",
+      "slug": "xgt-x4-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1957,
+    "attributes": {
+      "name": "Brisk standard",
+      "variant_id": "1473",
+      "slug": "brisk-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1851,
+    "attributes": {
+      "name": "Glamour Disc Self Cast",
+      "variant_id": "1377",
+      "slug": "glamour-disc-self-cast",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1695,
+    "attributes": {
+      "name": "SRC 250 standard",
+      "variant_id": "1201",
+      "slug": "src-250-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1899,
+    "attributes": {
+      "name": "Wynn standard",
+      "variant_id": "1418",
+      "slug": "wynn-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1200,
+    "attributes": {
+      "name": "SuperSport Standard",
+      "variant_id": "411",
+      "slug": "super-sport-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1773,
+    "attributes": {
+      "name": "XDiavel Nera",
+      "variant_id": "1300",
+      "slug": "xdiavel-nera",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1169,
+    "attributes": {
+      "name": "Maestro Edge 110 Alloy Wheel - ZX",
+      "variant_id": "371",
+      "slug": "maestro-edge-110-alloy-wheel-zx",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1111,
+    "attributes": {
+      "name": "Multistrada V4 Standard",
+      "variant_id": "268",
+      "slug": "multistrada-v4-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1229,
+    "attributes": {
+      "name": "Iron 883 Standard",
+      "variant_id": "441",
+      "slug": "iron-883-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1636,
+    "attributes": {
+      "name": "Chieftain Limited standard",
+      "variant_id": "1154",
+      "slug": "chieftain-limited-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 989,
+    "attributes": {
+      "name": "Rocket 3 R 221 - Special Edition",
+      "variant_id": "171",
+      "slug": "rocket-3-r-221-special-edition",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1641,
+    "attributes": {
+      "name": "Mini Lithino 48V standard",
+      "variant_id": "1137",
+      "slug": "mini-lithino-48v-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1895,
+    "attributes": {
+      "name": "Reco standard",
+      "variant_id": "1426",
+      "slug": "reco-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1211,
+    "attributes": {
+      "name": "R nineT Standard",
+      "variant_id": "395",
+      "slug": "r-ninet-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1688,
+    "attributes": {
+      "name": "XRE 300 Rally standard",
+      "variant_id": "1204",
+      "slug": "xre-300-rally-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1868,
+    "attributes": {
+      "name": "Raider 125 Single Seat",
+      "variant_id": "1390",
+      "slug": "raider-125-single-seat",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1894,
+    "attributes": {
+      "name": "Axel pro",
+      "variant_id": "1425",
+      "slug": "axel-pro",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1538,
+    "attributes": {
+      "name": "Ambition standard",
+      "variant_id": "1058",
+      "slug": "ambition-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1782,
+    "attributes": {
+      "name": "Xtreme 200R standard",
+      "variant_id": "1324",
+      "slug": "xtreme-200r-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1933,
+    "attributes": {
+      "name": "Xpulse 200 4V OBD-2 (2023)",
+      "variant_id": "1435",
+      "slug": "xpulse-200-4v-obd-2-2023",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1651,
+    "attributes": {
+      "name": "Scout Rogue standard",
+      "variant_id": "1162",
+      "slug": "scout-rogue-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1585,
+    "attributes": {
+      "name": "Zepop standard",
+      "variant_id": "1089",
+      "slug": "zepop-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1545,
+    "attributes": {
+      "name": "U1 200 standard",
+      "variant_id": "1052",
+      "slug": "u1-200-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1666,
+    "attributes": {
+      "name": "DT-3000 standard",
+      "variant_id": "1191",
+      "slug": "dt-3000-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1565,
+    "attributes": {
+      "name": "Kollegio Neo standard",
+      "variant_id": "1119",
+      "slug": "kollegio-neo-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1819,
+    "attributes": {
+      "name": "Aera 5000 Plus standard",
+      "variant_id": "1356",
+      "slug": "aera-5000-plus-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1754,
+    "attributes": {
+      "name": "FZ-S FI Ver 4.0 DLX",
+      "variant_id": "1315",
+      "slug": "fz-s-fi-ver-4-0-dlx",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1787,
+    "attributes": {
+      "name": "GSX-8S standard",
+      "variant_id": "1327",
+      "slug": "gsx-8s-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1559,
+    "attributes": {
+      "name": "SR 250 standard",
+      "variant_id": "1054",
+      "slug": "sr-250-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1731,
+    "attributes": {
+      "name": "Joymax Z 300 standard",
+      "variant_id": "1264",
+      "slug": "joymax-z-300-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1230,
+    "attributes": {
+      "name": "SXL 125 Facelift",
+      "variant_id": "419",
+      "slug": "sxl-125-facelift",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1194,
+    "attributes": {
+      "name": "Monster 1200 Standard",
+      "variant_id": "404",
+      "slug": "monster-1200-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1884,
+    "attributes": {
+      "name": "RC 200 OBD2  (2023)",
+      "variant_id": "1399",
+      "slug": "rc-200-obd2-2023",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1885,
+    "attributes": {
+      "name": "CSR 762 standard",
+      "variant_id": "1417",
+      "slug": "csr-762-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1564,
+    "attributes": {
+      "name": "Viva Xl standard",
+      "variant_id": "1099",
+      "slug": "viva-xl-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1186,
+    "attributes": {
+      "name": "Ninja H2 SX SE Standard",
+      "variant_id": "390",
+      "slug": "ninja-h2-sx-se-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1568,
+    "attributes": {
+      "name": "SR/F standard",
+      "variant_id": "1069",
+      "slug": "sr-f-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1181,
+    "attributes": {
+      "name": "Ninja H2R Standard",
+      "variant_id": "389",
+      "slug": "ninja-h2r-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1121,
+    "attributes": {
+      "name": "42 Version 2.1",
+      "variant_id": "318",
+      "slug": "42-version-2-1",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1582,
+    "attributes": {
+      "name": "LFS 700 standard",
+      "variant_id": "1098",
+      "slug": "lfs-700-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1624,
+    "attributes": {
+      "name": "XGT-X2-VOGUE standard",
+      "variant_id": "1142",
+      "slug": "xgt-x2-vogue-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1766,
+    "attributes": {
+      "name": "Bonneville Bobber Chrome Edition",
+      "variant_id": "1309",
+      "slug": "bonneville-bobber-chrome-edition",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1822,
+    "attributes": {
+      "name": "GSX S125 standard",
+      "variant_id": "1361",
+      "slug": "gsx-s125-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1830,
+    "attributes": {
+      "name": "Buzz standard",
+      "variant_id": "1352",
+      "slug": "buzz-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1729,
+    "attributes": {
+      "name": "Z400 standard",
+      "variant_id": "1262",
+      "slug": "z400-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1265,
+    "attributes": {
+      "name": "XL100 Heavy Duty i-TOUCH start - SE - BS-VI",
+      "variant_id": "465",
+      "slug": "xl100-heavy-duty-i-touch-start-se-bs-vi",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1809,
+    "attributes": {
+      "name": "ZT 125 standard",
+      "variant_id": "1249",
+      "slug": "zt-125-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1878,
+    "attributes": {
+      "name": "Lyf (Basic)",
+      "variant_id": "1409",
+      "slug": "lyf-basic",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1525,
+    "attributes": {
+      "name": "Pleasure+ XTEC standard",
+      "variant_id": "1057",
+      "slug": "pleasure-plus-xtec-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1607,
+    "attributes": {
+      "name": "Intercity Aeolus standard",
+      "variant_id": "1120",
+      "slug": "intercity-aeolus-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1661,
+    "attributes": {
+      "name": "Ryder Supermax standard",
+      "variant_id": "1184",
+      "slug": "ryder-supermax-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1168,
+    "attributes": {
+      "name": "SXL 150 Racing Sixties",
+      "variant_id": "373",
+      "slug": "sxl-150-racing-sixties",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1615,
+    "attributes": {
+      "name": "Sport63 Alpha 48V standard",
+      "variant_id": "1134",
+      "slug": "sport63-alpha-48v-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1580,
+    "attributes": {
+      "name": "DS standard",
+      "variant_id": "1075",
+      "slug": "ds-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1157,
+    "attributes": {
+      "name": "Hornet 2.0 Standard",
+      "variant_id": "375",
+      "slug": "hornet-2-0-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1180,
+    "attributes": {
+      "name": "Street Triple R Standard",
+      "variant_id": "386",
+      "slug": "street-triple-r-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1681,
+    "attributes": {
+      "name": "Trot standard",
+      "variant_id": "1211",
+      "slug": "trot-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1203,
+    "attributes": {
+      "name": "Apache RTR 200 4V Single Channel ABS - BS VI",
+      "variant_id": "368",
+      "slug": "apache-rtr-200-4v-single-channel-abs-bs-vi",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1662,
+    "attributes": {
+      "name": "BOB-E standard",
+      "variant_id": "1180",
+      "slug": "bob-e-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1640,
+    "attributes": {
+      "name": "FTR Sport standard",
+      "variant_id": "1159",
+      "slug": "ftr-sport-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1517,
+    "attributes": {
+      "name": "EXE standard",
+      "variant_id": "1047",
+      "slug": "exe-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1187,
+    "attributes": {
+      "name": "Ninja H2 Standard",
+      "variant_id": "392",
+      "slug": "ninja-h2-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1542,
+    "attributes": {
+      "name": "Thunder Standard",
+      "variant_id": "1028",
+      "slug": "thunder-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1626,
+    "attributes": {
+      "name": "Elelktrika 60 LI plus standard",
+      "variant_id": "1127",
+      "slug": "elelktrika-60-li-plus-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1535,
+    "attributes": {
+      "name": "LFC 700 standard",
+      "variant_id": "1045",
+      "slug": "lfc-700-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1714,
+    "attributes": {
+      "name": "800 MT standard",
+      "variant_id": "1228",
+      "slug": "800-mt-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1550,
+    "attributes": {
+      "name": "LIl E standard",
+      "variant_id": "1082",
+      "slug": "lil-e-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1893,
+    "attributes": {
+      "name": "42 OBD-2 (2023)",
+      "variant_id": "1429",
+      "slug": "42-obd-2-2023",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1778,
+    "attributes": {
+      "name": "Elettrica standard",
+      "variant_id": "1286",
+      "slug": "elettrica-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1814,
+    "attributes": {
+      "name": "CRF 190L standard",
+      "variant_id": "1336",
+      "slug": "crf-190l-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1527,
+    "attributes": {
+      "name": "SRK 400 standard",
+      "variant_id": "1044",
+      "slug": "srk-400-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1183,
+    "attributes": {
+      "name": "Ninja ZX-6R Standard",
+      "variant_id": "388",
+      "slug": "ninja-zx-6r-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1604,
+    "attributes": {
+      "name": "ROMA S standard",
+      "variant_id": "1125",
+      "slug": "roma-s-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1577,
+    "attributes": {
+      "name": "KM 4000 standard",
+      "variant_id": "1114",
+      "slug": "km-4000-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1548,
+    "attributes": {
+      "name": "T-Rex+ standard",
+      "variant_id": "1081",
+      "slug": "t-rex-plus-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1613,
+    "attributes": {
+      "name": "Sport 63 60V standard",
+      "variant_id": "1132",
+      "slug": "sport-63-60v-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1707,
+    "attributes": {
+      "name": "Dhanno standard",
+      "variant_id": "1182",
+      "slug": "dhanno-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1712,
+    "attributes": {
+      "name": "ELK standard",
+      "variant_id": "1217",
+      "slug": "elk-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1703,
+    "attributes": {
+      "name": "K 300R standard",
+      "variant_id": "1199",
+      "slug": "k-300r-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1195,
+    "attributes": {
+      "name": "Scrambler Mach 2.0 Standard",
+      "variant_id": "410",
+      "slug": "scrambler-mach-2-0-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1855,
+    "attributes": {
+      "name": "Xoom VX",
+      "variant_id": "1358",
+      "slug": "xoom-vx",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1645,
+    "attributes": {
+      "name": "Chieftain Dark Horse standard",
+      "variant_id": "1155",
+      "slug": "chieftain-dark-horse-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1637,
+    "attributes": {
+      "name": "SRV125 standard",
+      "variant_id": "1169",
+      "slug": "srv125-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1197,
+    "attributes": {
+      "name": "Scrambler 1100 Pro",
+      "variant_id": "406",
+      "slug": "scrambler-1100-pro",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1824,
+    "attributes": {
+      "name": "Darg Flag standard",
+      "variant_id": "1372",
+      "slug": "darg-flag-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1620,
+    "attributes": {
+      "name": "Storm ZX standard",
+      "variant_id": "1138",
+      "slug": "storm-zx-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1706,
+    "attributes": {
+      "name": "S2 DEL MA standard",
+      "variant_id": "1225",
+      "slug": "s2-del-ma-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1679,
+    "attributes": {
+      "name": "Flora standard",
+      "variant_id": "1192",
+      "slug": "flora-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1628,
+    "attributes": {
+      "name": "SpringField standard",
+      "variant_id": "1157",
+      "slug": "springfield-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1696,
+    "attributes": {
+      "name": "Ninja ZX-4R standard",
+      "variant_id": "1227",
+      "slug": "ninja-zx-4r-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1515,
+    "attributes": {
+      "name": "Spectra Pro Standard",
+      "variant_id": "1026",
+      "slug": "spectra-pro-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1532,
+    "attributes": {
+      "name": "Vespar Standard",
+      "variant_id": "1027",
+      "slug": "vespar-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1546,
+    "attributes": {
+      "name": "Ethenol FZ 15 standard",
+      "variant_id": "1041",
+      "slug": "ethenol-fz-15-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1883,
+    "attributes": {
+      "name": "Eliminator 400 standard",
+      "variant_id": "1363",
+      "slug": "eliminator-400-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1617,
+    "attributes": {
+      "name": "Elelktrika 60v standard",
+      "variant_id": "1139",
+      "slug": "elelktrika-60v-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1691,
+    "attributes": {
+      "name": "Vida V1 Pro standard",
+      "variant_id": "1208",
+      "slug": "vida-v1-pro-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1514,
+    "attributes": {
+      "name": "Springfield Dark Horse standard",
+      "variant_id": "1036",
+      "slug": "springfield-dark-horse-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1589,
+    "attributes": {
+      "name": "Lyf standard",
+      "variant_id": "1109",
+      "slug": "lyf-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1656,
+    "attributes": {
+      "name": "XGT-CAT-2.0 standard",
+      "variant_id": "1149",
+      "slug": "xgt-cat-2-0-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1658,
+    "attributes": {
+      "name": "Warrior standard",
+      "variant_id": "1178",
+      "slug": "warrior-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1603,
+    "attributes": {
+      "name": "Kollegio plus standard",
+      "variant_id": "1123",
+      "slug": "kollegio-plus-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1547,
+    "attributes": {
+      "name": "DMG standard",
+      "variant_id": "1091",
+      "slug": "dmg-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1574,
+    "attributes": {
+      "name": "Bravo NM standard",
+      "variant_id": "1101",
+      "slug": "bravo-nm-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1934,
+    "attributes": {
+      "name": "Gracy standard",
+      "variant_id": "1463",
+      "slug": "gracy-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1597,
+    "attributes": {
+      "name": "YB2000 standard",
+      "variant_id": "1102",
+      "slug": "yb2000-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1757,
+    "attributes": {
+      "name": "EF1 standard",
+      "variant_id": "1288",
+      "slug": "ef1-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1528,
+    "attributes": {
+      "name": "XL standard",
+      "variant_id": "1063",
+      "slug": "xl-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1692,
+    "attributes": {
+      "name": "XRE 300 standard",
+      "variant_id": "1203",
+      "slug": "xre-300-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1643,
+    "attributes": {
+      "name": "350E standard",
+      "variant_id": "1170",
+      "slug": "350e-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1531,
+    "attributes": {
+      "name": "Mihos standard",
+      "variant_id": "1053",
+      "slug": "mihos-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1945,
+    "attributes": {
+      "name": "Jaunty Plus standard",
+      "variant_id": "1467",
+      "slug": "jaunty-plus-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1644,
+    "attributes": {
+      "name": "SRK700-8A standard",
+      "variant_id": "1168",
+      "slug": "srk700-8a-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1733,
+    "attributes": {
+      "name": "Django 125 standard",
+      "variant_id": "1285",
+      "slug": "django-125-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1927,
+    "attributes": {
+      "name": "GTR standard",
+      "variant_id": "1457",
+      "slug": "gtr-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1941,
+    "attributes": {
+      "name": "X440 Denim",
+      "variant_id": "1474",
+      "slug": "x440-denim",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1609,
+    "attributes": {
+      "name": "Aetos 100 standard",
+      "variant_id": "1124",
+      "slug": "aetos-100-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1552,
+    "attributes": {
+      "name": "Bravo standard",
+      "variant_id": "1100",
+      "slug": "bravo-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1866,
+    "attributes": {
+      "name": "Passion Pro (2023)",
+      "variant_id": "1406",
+      "slug": "passion-pro-2023",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1530,
+    "attributes": {
+      "name": "K300N standard",
+      "variant_id": "1038",
+      "slug": "k300n-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1575,
+    "attributes": {
+      "name": "Aero standard",
+      "variant_id": "1105",
+      "slug": "aero-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1807,
+    "attributes": {
+      "name": "Hawk 11 standard",
+      "variant_id": "1229",
+      "slug": "hawk-11-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1238,
+    "attributes": {
+      "name": "Sport Self Start Alloy BS6",
+      "variant_id": "457",
+      "slug": "sport-self-start-alloy-bs6",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1602,
+    "attributes": {
+      "name": "Prana standard",
+      "variant_id": "1121",
+      "slug": "prana-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1799,
+    "attributes": {
+      "name": "Pulsar 220F standard",
+      "variant_id": "1241",
+      "slug": "pulsar-220f-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1526,
+    "attributes": {
+      "name": "E-smart standard",
+      "variant_id": "1062",
+      "slug": "e-smart-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1772,
+    "attributes": {
+      "name": "Scrambler 900 Chrome Edition",
+      "variant_id": "1307",
+      "slug": "scrambler-900-chrome-edition",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1748,
+    "attributes": {
+      "name": "VFR 800F standard",
+      "variant_id": "1292",
+      "slug": "vfr-800f-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1338,
+    "attributes": {
+      "name": "Streetfighter V4 Standard",
+      "variant_id": "552",
+      "slug": "streetfighter-v4-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1740,
+    "attributes": {
+      "name": "YZF-R2 standard",
+      "variant_id": "1237",
+      "slug": "yzf-r2-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1946,
+    "attributes": {
+      "name": "X440 Vivid",
+      "variant_id": "1475",
+      "slug": "x440-vivid",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1409,
+    "attributes": {
+      "name": "Electric Bike Standard",
+      "variant_id": "1024",
+      "slug": "electric-bike-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1622,
+    "attributes": {
+      "name": "XGT-KM standard",
+      "variant_id": "1140",
+      "slug": "xgt-km-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1732,
+    "attributes": {
+      "name": "Energy X1 standard",
+      "variant_id": "1287",
+      "slug": "energy-x1-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1537,
+    "attributes": {
+      "name": "V6 standard",
+      "variant_id": "1064",
+      "slug": "v6-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1329,
+    "attributes": {
+      "name": "Activa 125 Std - Fi (BS-VI)",
+      "variant_id": "549",
+      "slug": "activa-125-std-fi-bs-vi",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1635,
+    "attributes": {
+      "name": "XGT-VP standard",
+      "variant_id": "1147",
+      "slug": "xgt-vp-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1240,
+    "attributes": {
+      "name": "Meteor 350 Fireball",
+      "variant_id": "444",
+      "slug": "meteor-350-fireball",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1226,
+    "attributes": {
+      "name": "Fat Boy Standard",
+      "variant_id": "439",
+      "slug": "fat-boy-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1054,
+    "attributes": {
+      "name": "Standard Khakhi & Midnight Grey",
+      "variant_id": "249",
+      "slug": "standard-khakhi-and-midnight-grey",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1654,
+    "attributes": {
+      "name": "SV 650 standard",
+      "variant_id": "1194",
+      "slug": "sv-650-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1588,
+    "attributes": {
+      "name": "KRIDN standard",
+      "variant_id": "1106",
+      "slug": "kridn-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1639,
+    "attributes": {
+      "name": "MX-3 standard",
+      "variant_id": "1148",
+      "slug": "mx-3-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1776,
+    "attributes": {
+      "name": "Iskia 125 standard",
+      "variant_id": "1268",
+      "slug": "iskia-125-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1939,
+    "attributes": {
+      "name": "Jaunty standard",
+      "variant_id": "1466",
+      "slug": "jaunty-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1578,
+    "attributes": {
+      "name": "Delight standard",
+      "variant_id": "1092",
+      "slug": "delight-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1795,
+    "attributes": {
+      "name": "Streetfighter V4 Lamborghini",
+      "variant_id": "1301",
+      "slug": "streetfighter-v4-lamborghini",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1536,
+    "attributes": {
+      "name": "Turbo Standard",
+      "variant_id": "1084",
+      "slug": "turbo-standard-1084",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1675,
+    "attributes": {
+      "name": "V- Strom 1050 standard",
+      "variant_id": "536",
+      "slug": "v-strom-1050-standard-1",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1555,
+    "attributes": {
+      "name": "Delta standard",
+      "variant_id": "1087",
+      "slug": "delta-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1745,
+    "attributes": {
+      "name": "Tricity standard",
+      "variant_id": "1234",
+      "slug": "tricity-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1513,
+    "attributes": {
+      "name": "F77 standard",
+      "variant_id": "1048",
+      "slug": "f77-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1561,
+    "attributes": {
+      "name": "Spark standard",
+      "variant_id": "1059",
+      "slug": "spark-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1687,
+    "attributes": {
+      "name": "500 standard",
+      "variant_id": "1196",
+      "slug": "500-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1663,
+    "attributes": {
+      "name": "SE standard",
+      "variant_id": "1189",
+      "slug": "se-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1907,
+    "attributes": {
+      "name": "Axel standard",
+      "variant_id": "1422",
+      "slug": "axel-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1864,
+    "attributes": {
+      "name": "Mantis standard",
+      "variant_id": "1415",
+      "slug": "mantis-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1556,
+    "attributes": {
+      "name": "Wings standard",
+      "variant_id": "1086",
+      "slug": "wings-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1598,
+    "attributes": {
+      "name": "Viva Mix standard",
+      "variant_id": "1093",
+      "slug": "viva-mix-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1627,
+    "attributes": {
+      "name": "XGT-X-ONE standard",
+      "variant_id": "1141",
+      "slug": "xgt-x-one-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1950,
+    "attributes": {
+      "name": "S-pin standard",
+      "variant_id": "1472",
+      "slug": "s-pin-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1737,
+    "attributes": {
+      "name": "XR 150L standard",
+      "variant_id": "1266",
+      "slug": "xr-150l-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1646,
+    "attributes": {
+      "name": "Roadmaster Dark Horse standard",
+      "variant_id": "1151",
+      "slug": "roadmaster-dark-horse-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1870,
+    "attributes": {
+      "name": "450X ProPack",
+      "variant_id": "1391",
+      "slug": "450x-propack",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1522,
+    "attributes": {
+      "name": "MBP 502N standard",
+      "variant_id": "1055",
+      "slug": "mbp-502n-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1735,
+    "attributes": {
+      "name": "PCX 160 standard",
+      "variant_id": "1260",
+      "slug": "pcx-160-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1593,
+    "attributes": {
+      "name": "Intercity 350 standard",
+      "variant_id": "1117",
+      "slug": "intercity-350-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1853,
+    "attributes": {
+      "name": "C12 standard",
+      "variant_id": "1392",
+      "slug": "c12-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1228,
+    "attributes": {
+      "name": "Grazia Disc",
+      "variant_id": "434",
+      "slug": "grazia-disc",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1608,
+    "attributes": {
+      "name": "Atum Version 1.0 standard",
+      "variant_id": "1112",
+      "slug": "atum-version-1-0-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1904,
+    "attributes": {
+      "name": "R nine T 100 Year",
+      "variant_id": "1413",
+      "slug": "r-nine-t-100-year",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1163,
+    "attributes": {
+      "name": "CBR1000RR-R Fireblade SP",
+      "variant_id": "379",
+      "slug": "cbr1000rr-r-fireblade-sp",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1584,
+    "attributes": {
+      "name": "A 1-4 standard",
+      "variant_id": "1067",
+      "slug": "a-1-4-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1171,
+    "attributes": {
+      "name": "CB1000R Standard",
+      "variant_id": "383",
+      "slug": "cb1000r-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1875,
+    "attributes": {
+      "name": "Lyf (Extended)",
+      "variant_id": "1410",
+      "slug": "lyf-extended",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1741,
+    "attributes": {
+      "name": "Soul standard",
+      "variant_id": "1273",
+      "slug": "soul-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1573,
+    "attributes": {
+      "name": "Leoncino 800 S standard",
+      "variant_id": "1040",
+      "slug": "leoncino-800-s-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1632,
+    "attributes": {
+      "name": "Rise standard",
+      "variant_id": "1166",
+      "slug": "rise-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1164,
+    "attributes": {
+      "name": "Hness CB350 DLX Pro",
+      "variant_id": "365",
+      "slug": "hness-cb350-dlx-pro",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1633,
+    "attributes": {
+      "name": "Challenger Dark Horse standard",
+      "variant_id": "1153",
+      "slug": "challenger-dark-horse-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1938,
+    "attributes": {
+      "name": "TTX standard",
+      "variant_id": "1452",
+      "slug": "ttx-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1650,
+    "attributes": {
+      "name": "FTR standard",
+      "variant_id": "1161",
+      "slug": "ftr-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1647,
+    "attributes": {
+      "name": "XGT-X3 standard",
+      "variant_id": "1143",
+      "slug": "xgt-x3-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1900,
+    "attributes": {
+      "name": "Zing standard",
+      "variant_id": "1342",
+      "slug": "zing-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1932,
+    "attributes": {
+      "name": "Jaunty-3W standard",
+      "variant_id": "1470",
+      "slug": "jaunty-3w-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1660,
+    "attributes": {
+      "name": "Avenger 400 standard",
+      "variant_id": "1195",
+      "slug": "avenger-400-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1611,
+    "attributes": {
+      "name": "Intercity Neo standard",
+      "variant_id": "1118",
+      "slug": "intercity-neo-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1952,
+    "attributes": {
+      "name": "X440 S",
+      "variant_id": "1476",
+      "slug": "x440-s",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1638,
+    "attributes": {
+      "name": "Scout bobber standard",
+      "variant_id": "1164",
+      "slug": "scout-bobber-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1810,
+    "attributes": {
+      "name": "Bonneville T120 Chrome Edition",
+      "variant_id": "1312",
+      "slug": "bonneville-t120-chrome-edition",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1560,
+    "attributes": {
+      "name": "Kratos X standard",
+      "variant_id": "1049",
+      "slug": "kratos-x-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1253,
+    "attributes": {
+      "name": "TNT600i Standard",
+      "variant_id": "421",
+      "slug": "tnt600i-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1612,
+    "attributes": {
+      "name": "Astro standard",
+      "variant_id": "1103",
+      "slug": "astro-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1231,
+    "attributes": {
+      "name": "Edge DX",
+      "variant_id": "449",
+      "slug": "edge-dx",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1241,
+    "attributes": {
+      "name": "Bullet 350 KS",
+      "variant_id": "463",
+      "slug": "bullet-350-ks",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1207,
+    "attributes": {
+      "name": "R 1250 GS Standard",
+      "variant_id": "399",
+      "slug": "r-1250-gs-standard",
+      "images": [
+        {
+          "id": "4208",
+          "bike_variant_id": "1326",
+          "image": "tvs-apache-rtr-310-standard1694090264.jpg",
+          "status": "1",
+          "created_at": "2023-09-07 18:07:44"
+        },
+        {
+          "id": "4209",
+          "bike_variant_id": "1326",
+          "image": "tvs-apache-rtr-310-standard1694090267.jpg",
+          "status": "1",
+          "created_at": "2023-09-07 18:07:47"
+        }
+      ]
+    }
+  },
+  {
+    "id": 1777,
+    "attributes": {
+      "name": "U-Go standard",
+      "variant_id": "1296",
+      "slug": "u-go-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1581,
+    "attributes": {
+      "name": "EMX Aqua standard",
+      "variant_id": "1079",
+      "slug": "emx-aqua-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1835,
+    "attributes": {
+      "name": "LO:EV standard",
+      "variant_id": "1350",
+      "slug": "loev-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1523,
+    "attributes": {
+      "name": "DSR standard",
+      "variant_id": "1074",
+      "slug": "dsr-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1863,
+    "attributes": {
+      "name": "P-Sport standard",
+      "variant_id": "1345",
+      "slug": "p-sport-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1562,
+    "attributes": {
+      "name": "Glamour Canvas standard",
+      "variant_id": "1056",
+      "slug": "glamour-canvas-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1815,
+    "attributes": {
+      "name": "890 Adventure standard",
+      "variant_id": "1337",
+      "slug": "890-adventure-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1944,
+    "attributes": {
+      "name": "S2 (HS) standard",
+      "variant_id": "1445",
+      "slug": "s2-hs-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1596,
+    "attributes": {
+      "name": "Rorr standard",
+      "variant_id": "1107",
+      "slug": "rorr-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1765,
+    "attributes": {
+      "name": "EM1 E standard",
+      "variant_id": "1293",
+      "slug": "em1-e-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1796,
+    "attributes": {
+      "name": "Forza 350 standard",
+      "variant_id": "1325",
+      "slug": "forza-350-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1664,
+    "attributes": {
+      "name": "TN-95 standard",
+      "variant_id": "1188",
+      "slug": "tn-95-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1705,
+    "attributes": {
+      "name": "Vida V1 Plus standard",
+      "variant_id": "1209",
+      "slug": "vida-v1-plus-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1839,
+    "attributes": {
+      "name": "P-Sport plus standard",
+      "variant_id": "1346",
+      "slug": "p-sport-plus-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1642,
+    "attributes": {
+      "name": "XGT-X5 standard",
+      "variant_id": "1145",
+      "slug": "xgt-x5-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1533,
+    "attributes": {
+      "name": "Apache RP 165 standard",
+      "variant_id": "1030",
+      "slug": "apache-rp-165-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1805,
+    "attributes": {
+      "name": "V-Strom 800 DE standard",
+      "variant_id": "1328",
+      "slug": "v-strom-800-de-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1572,
+    "attributes": {
+      "name": "Vegatron standard",
+      "variant_id": "1094",
+      "slug": "vegatron-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1174,
+    "attributes": {
+      "name": "Access 125 Drum Alloy - Bluetooth",
+      "variant_id": "356",
+      "slug": "access-125-drum-alloy-bluetooth",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1836,
+    "attributes": {
+      "name": "EZ standard",
+      "variant_id": "1347",
+      "slug": "ez-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1779,
+    "attributes": {
+      "name": "X-Cape 650 standard",
+      "variant_id": "1245",
+      "slug": "x-cape-650-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1919,
+    "attributes": {
+      "name": "EVA standard",
+      "variant_id": "1450",
+      "slug": "eva-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1317,
+    "attributes": {
+      "name": "iQube Standard",
+      "variant_id": "520",
+      "slug": "iqube-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1176,
+    "attributes": {
+      "name": "CB300R Standard",
+      "variant_id": "384",
+      "slug": "cb300r-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1911,
+    "attributes": {
+      "name": "Eagle 100 (6.0) standard",
+      "variant_id": "1442",
+      "slug": "eagle-100-60-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1655,
+    "attributes": {
+      "name": "Scout standard",
+      "variant_id": "1165",
+      "slug": "scout-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1173,
+    "attributes": {
+      "name": "Tuono Factory Standard",
+      "variant_id": "381",
+      "slug": "tuono-factory-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1227,
+    "attributes": {
+      "name": "Tiger 900 Rally Pro",
+      "variant_id": "436",
+      "slug": "tiger-900-rally-pro",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1629,
+    "attributes": {
+      "name": "Lithino LI standard",
+      "variant_id": "1135",
+      "slug": "lithino-li-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1540,
+    "attributes": {
+      "name": "Primus standard",
+      "variant_id": "1046",
+      "slug": "primus-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1872,
+    "attributes": {
+      "name": "Heritage Classic Edition 2023",
+      "variant_id": "1384",
+      "slug": "heritage-classic-edition-2023",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1166,
+    "attributes": {
+      "name": "CBR1000RR-R Fireblade Standard",
+      "variant_id": "380",
+      "slug": "cbr1000rr-r-fireblade-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1879,
+    "attributes": {
+      "name": "Hayabusa (2023)",
+      "variant_id": "1388",
+      "slug": "hayabusa-2023",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1954,
+    "attributes": {
+      "name": "T1 FX standard",
+      "variant_id": "1449",
+      "slug": "t1-fx-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1224,
+    "attributes": {
+      "name": "Pulsar 125 Disc - Split Seat",
+      "variant_id": "438",
+      "slug": "pulsar-125-disc-split-seat",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1225,
+    "attributes": {
+      "name": "Leoncino 500 Standard",
+      "variant_id": "420",
+      "slug": "leoncino-500-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1902,
+    "attributes": {
+      "name": "Roadmaster Classic standard",
+      "variant_id": "1366",
+      "slug": "roadmaster-classic-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1188,
+    "attributes": {
+      "name": "Diavel 1260 Standard",
+      "variant_id": "403",
+      "slug": "diavel-1260-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1334,
+    "attributes": {
+      "name": "Activa 125 Alloy - Fi (BS-VI)",
+      "variant_id": "548",
+      "slug": "activa-125-alloy-fi-bs-vi",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1717,
+    "attributes": {
+      "name": "Xeniaa 2.0 standard",
+      "variant_id": "1271",
+      "slug": "xeniaa-2-0-standard",
+      "images": { "data": null }
+    }
+  },
+  {
+    "id": 1786,
+    "attributes": {
+      "name": "Bonneville T100 Chrome Edition",
+      "variant_id": "1311",
+      "slug": "bonneville-t100-chrome-edition",
+      "images": { "data": null }
+    }
+  }
+]

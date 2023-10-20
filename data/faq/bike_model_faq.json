@@ -1,0 +1,3035 @@
+[
+  {
+    "id": "2",
+    "bike_id": "13",
+    "question": "What is the new KTM Duke 200 price in India?",
+    "answer": "KTM Duke 200 price in India is Rs 1.92 Lakh.",
+    "status": "1",
+    "created_at": "2023-04-07 15:48:23",
+    "updated_at": "2023-04-07 15:48:23"
+  },
+  {
+    "id": "3",
+    "bike_id": "13",
+    "question": "What is the KTM Duke 200 mileage?",
+    "answer": "KTM Duke 200 mileage is 35 kmpl",
+    "status": "1",
+    "created_at": "2023-04-07 15:49:16",
+    "updated_at": "2023-04-07 15:49:16"
+  },
+  {
+    "id": "4",
+    "bike_id": "13",
+    "question": "How many variants are available in KTM Duke 200?",
+    "answer": "KTM Duke 200 is offered in 1 other variant - 200 Duke Standard, priced at Rs 1.92 Lakh.",
+    "status": "1",
+    "created_at": "2023-04-07 15:49:31",
+    "updated_at": "2023-04-07 15:49:31"
+  },
+  {
+    "id": "5",
+    "bike_id": "13",
+    "question": "How many KTM bike dealership showrooms are available in India?",
+    "answer": "There are roughly 457 Jawa Bikes showrooms available in India (as of march 2023). They are spread across 302 cities.",
+    "status": "1",
+    "created_at": "2023-04-07 15:49:57",
+    "updated_at": "2023-04-07 15:49:57"
+  },
+  {
+    "id": "6",
+    "bike_id": "13",
+    "question": "How much is the fuel tank capacity of KTM Duke 200?",
+    "answer": "KTM Duke 200 comes with 13.5 litres of fuel tank capacity, letting you travel for a longer period of time.",
+    "status": "1",
+    "created_at": "2023-04-07 15:50:15",
+    "updated_at": "2023-04-07 15:50:15"
+  },
+  {
+    "id": "7",
+    "bike_id": "13",
+    "question": "What is the top speed of KTM Duke 200?",
+    "answer": "With KTM Duke 200, you can achieve a top speed of 142 kmph.",
+    "status": "1",
+    "created_at": "2023-04-07 15:50:31",
+    "updated_at": "2023-04-07 15:50:31"
+  },
+  {
+    "id": "8",
+    "bike_id": "168",
+    "question": "What is the new Bajaj Platina 110 price in India?",
+    "answer": "Bajaj Platina 110 price in India starts from Rs 68,544 and goes up to Rs 72,224.",
+    "status": "1",
+    "created_at": "2023-04-07 16:31:40",
+    "updated_at": "2023-04-07 16:31:40"
+  },
+  {
+    "id": "9",
+    "bike_id": "168",
+    "question": "What is the Bajaj Platina 110 mileage?",
+    "answer": "Bajaj Platina 110 mileage is 70 kmpl.",
+    "status": "1",
+    "created_at": "2023-04-07 16:32:12",
+    "updated_at": "2023-04-07 16:32:12"
+  },
+  {
+    "id": "10",
+    "bike_id": "168",
+    "question": "How many variants are available in Bajaj Platina 110?",
+    "answer": "Bajaj Platina 110 has 2 variants -  Platina 110 ES Drum - BS VI, Platina 110 ES Disc - BS VI",
+    "status": "1",
+    "created_at": "2023-04-07 16:33:19",
+    "updated_at": "2023-04-07 16:34:10"
+  },
+  {
+    "id": "11",
+    "bike_id": "168",
+    "question": "How many Bajaj bikes dealership showrooms are available in India?",
+    "answer": "With us, you can get access to 660 Bajaj Bike showrooms spanning across 31 states & 408 cities in India.",
+    "status": "1",
+    "created_at": "2023-04-07 16:34:44",
+    "updated_at": "2023-04-07 16:34:44"
+  },
+  {
+    "id": "12",
+    "bike_id": "168",
+    "question": "How much is the fuel tank capacity of Bajaj Platina 110?",
+    "answer": "Bajaj Platina 110 comes with 11 litres of fuel tank capacity, letting you travel for a longer period of time.",
+    "status": "1",
+    "created_at": "2023-04-07 16:38:16",
+    "updated_at": "2023-04-07 16:38:16"
+  },
+  {
+    "id": "13",
+    "bike_id": "168",
+    "question": "What is the top speed of Bajaj Platina 110?",
+    "answer": "With Bajaj Platina 110, you can achieve a top speed of 90 kmph.",
+    "status": "1",
+    "created_at": "2023-04-07 16:38:52",
+    "updated_at": "2023-04-07 16:38:52"
+  },
+  {
+    "id": "14",
+    "bike_id": "79",
+    "question": "What is the new Kawasaki Ninja 300 price in India?",
+    "answer": "Kawasaki Ninja 300 price in India is Rs 3.4 Lakh.",
+    "status": "1",
+    "created_at": "2023-04-11 17:37:13",
+    "updated_at": "2023-04-11 17:37:13"
+  },
+  {
+    "id": "15",
+    "bike_id": "79",
+    "question": "What is the Kawasaki Ninja 300 mileage?",
+    "answer": "Kawasaki Ninja 300 mileage is 32.1 Kmpl",
+    "status": "1",
+    "created_at": "2023-04-11 17:37:36",
+    "updated_at": "2023-04-11 17:37:36"
+  },
+  {
+    "id": "16",
+    "bike_id": "79",
+    "question": "How many variants are available in Kawasaki Ninja 300?",
+    "answer": "Kawasaki Ninja 300 is offered in 1 other variant - Ninja 300 Standard, priced at Rs 3.4 Lakh.",
+    "status": "1",
+    "created_at": "2023-04-11 17:37:52",
+    "updated_at": "2023-04-11 17:37:52"
+  },
+  {
+    "id": "17",
+    "bike_id": "79",
+    "question": "How many Kawasaki dealership showrooms are available in India?",
+    "answer": "Roughly 97 Kawasaki Bikes dealer showrooms are available in India (as of march 2023). They are spread across 26 states and 62 cities.",
+    "status": "1",
+    "created_at": "2023-04-11 17:38:10",
+    "updated_at": "2023-04-11 17:38:10"
+  },
+  {
+    "id": "18",
+    "bike_id": "79",
+    "question": "How much is the fuel tank capacity of Kawasaki Ninja 300?",
+    "answer": "Kawasaki Ninja 300 comes with 17 litres of fuel tank capacity, letting you travel for a longer period of time.",
+    "status": "1",
+    "created_at": "2023-04-11 17:38:28",
+    "updated_at": "2023-04-11 17:38:28"
+  },
+  {
+    "id": "19",
+    "bike_id": "79",
+    "question": "What is the top speed of Kawasaki Ninja 300?",
+    "answer": "With the Kawasaki Ninja 300, you can achieve a top speed of 160 Kmph.",
+    "status": "1",
+    "created_at": "2023-04-11 17:38:46",
+    "updated_at": "2023-04-11 17:38:46"
+  },
+  {
+    "id": "20",
+    "bike_id": "219",
+    "question": "What is the new Suzuki Access 125 price in India?",
+    "answer": "Suzuki Access 125 price in India is Rs 77,230 - 87,200.",
+    "status": "1",
+    "created_at": "2023-04-11 18:07:27",
+    "updated_at": "2023-04-11 18:07:27"
+  },
+  {
+    "id": "21",
+    "bike_id": "219",
+    "question": "What is the Suzuki Access 125 mileage?",
+    "answer": "Suzuki Access 125 mileage is 52.45 Kmpl.",
+    "status": "1",
+    "created_at": "2023-04-11 18:07:45",
+    "updated_at": "2023-04-11 18:07:45"
+  },
+  {
+    "id": "22",
+    "bike_id": "219",
+    "question": "How many variants are available in Suzuki Access 125?",
+    "answer": "Suzuki Access 125 is offered in 6 additional variants - Access 125 Disc Alloy - Bluetooth, Access 125 Drum Alloy - Bluetooth, Access 125 SE - Disc CBS - Fi, Access 125 Disc - CBS - Fi, Access 125 Alloy Wheel - Drum -CBS Fi, Access 125 Steel Wheel - Drum - CBS -Fi",
+    "status": "1",
+    "created_at": "2023-04-11 18:10:36",
+    "updated_at": "2023-04-11 18:11:05"
+  },
+  {
+    "id": "23",
+    "bike_id": "219",
+    "question": "How many Suzuki dealership showrooms are available in India?",
+    "answer": "Roughly 520 Suzuki dealer showrooms are available in India (as of march 2023).",
+    "status": "1",
+    "created_at": "2023-04-11 18:11:27",
+    "updated_at": "2023-04-11 18:11:27"
+  },
+  {
+    "id": "24",
+    "bike_id": "219",
+    "question": "What is the fuel tank capacity of the Suzuki Access 125?",
+    "answer": "Suzuki Access 125 comes with 5 litres of fuel tank capacity, letting you travel for a longer period of time.",
+    "status": "1",
+    "created_at": "2023-04-11 18:11:52",
+    "updated_at": "2023-04-11 18:11:52"
+  },
+  {
+    "id": "25",
+    "bike_id": "219",
+    "question": "What is the top speed of the Suzuki Access 125?",
+    "answer": "With the Suzuki Access 125, you can achieve a top speed of 90 Kmph.",
+    "status": "1",
+    "created_at": "2023-04-11 18:12:07",
+    "updated_at": "2023-04-11 18:12:07"
+  },
+  {
+    "id": "36",
+    "bike_id": "86",
+    "question": "What is the new Hero Splendor Plus i3S price in India?",
+    "answer": "Hero Splendor Plus i3S price in India starts from  Rs. 72,076 and goes up to Rs. 74,396.",
+    "status": "1",
+    "created_at": "2023-04-21 11:49:51",
+    "updated_at": "2023-05-17 17:36:19"
+  },
+  {
+    "id": "37",
+    "bike_id": "86",
+    "question": "What is the Hero Splendor Plus mileage?",
+    "answer": "Hero Splendor Plus mileage is 60 kmpl.",
+    "status": "1",
+    "created_at": "2023-04-21 11:50:08",
+    "updated_at": "2023-04-21 11:50:08"
+  },
+  {
+    "id": "38",
+    "bike_id": "86",
+    "question": "What Is The Engine Capacity Of Hero Splendor Plus?",
+    "answer": "Hero Splendor Plus engine capacity is 97.2 CC.",
+    "status": "1",
+    "created_at": "2023-04-21 11:50:22",
+    "updated_at": "2023-04-21 11:50:22"
+  },
+  {
+    "id": "39",
+    "bike_id": "86",
+    "question": "What Is The Power Output Of The Hero Splendor Plus?",
+    "answer": "Hero Splendor Plus can belt out a maximum power output of 5.9 kW at 8000 rpm.",
+    "status": "1",
+    "created_at": "2023-04-21 11:50:41",
+    "updated_at": "2023-04-21 11:50:41"
+  },
+  {
+    "id": "40",
+    "bike_id": "86",
+    "question": "What Is The Body Type Of Hero Splendor Plus?",
+    "answer": "Hero Splendor Plus comes with a Commuter body type.",
+    "status": "1",
+    "created_at": "2023-04-21 11:51:04",
+    "updated_at": "2023-04-21 11:51:04"
+  },
+  {
+    "id": "41",
+    "bike_id": "86",
+    "question": "How many variants are available in Hero Splendor Plus?",
+    "answer": "Hero Splendor Plus has 4 variants — Splendor + Drum Self Cast, Splendor+ i3S Drum Self Cast Black & Accent, Splendor + i3S Drum Self Cast and Splendor+ i3S Drum Self Cast Matt Shield Gold.",
+    "status": "1",
+    "created_at": "2023-04-21 11:55:24",
+    "updated_at": "2023-04-21 11:55:24"
+  },
+  {
+    "id": "42",
+    "bike_id": "86",
+    "question": "How many Hero bikes dealership showrooms are available in India?",
+    "answer": "There are roughly 887 Hero Bikes showrooms available in India (as of March 2023), spread across 32 states & 485 cities.",
+    "status": "1",
+    "created_at": "2023-04-21 11:55:43",
+    "updated_at": "2023-04-21 11:55:43"
+  },
+  {
+    "id": "43",
+    "bike_id": "86",
+    "question": "What Is The Starting Mode Of Hero Splendor Plus?",
+    "answer": "Hero Splendor Plus has an Electric Start starting mode.",
+    "status": "1",
+    "created_at": "2023-04-21 11:55:59",
+    "updated_at": "2023-04-21 11:55:59"
+  },
+  {
+    "id": "44",
+    "bike_id": "86",
+    "question": "How Many Cylinders Are In The Hero Splendor Plus Engine?",
+    "answer": "Hero Splendor Plus comes fitted with a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-04-21 11:56:15",
+    "updated_at": "2023-04-21 11:56:15"
+  },
+  {
+    "id": "45",
+    "bike_id": "86",
+    "question": "What is the fuel tank capacity of Hero Splendor Plus?",
+    "answer": "Hero Splendor Plus comes with 9.8 litres of fuel tank capacity, letting you travel for a longer period of time.",
+    "status": "1",
+    "created_at": "2023-04-21 11:56:33",
+    "updated_at": "2023-04-21 11:56:33"
+  },
+  {
+    "id": "46",
+    "bike_id": "86",
+    "question": "What is the top speed of Hero Splendor Plus?",
+    "answer": "With Hero Splendor Plus, you can achieve a top speed of 87 kmph.",
+    "status": "1",
+    "created_at": "2023-04-21 11:56:45",
+    "updated_at": "2023-04-21 11:56:45"
+  },
+  {
+    "id": "47",
+    "bike_id": "197",
+    "question": "What Is The Jawa 42 Price In India?",
+    "answer": "The ex-showroom price of Jawa 42 starts from Rs 1.67 Lakh and goes up to Rs 1.81 Lakh in India.",
+    "status": "1",
+    "created_at": "2023-04-26 17:19:39",
+    "updated_at": "2023-04-26 17:20:03"
+  },
+  {
+    "id": "48",
+    "bike_id": "197",
+    "question": "What Is Jawa 42 Mileage?",
+    "answer": "The mileage of Jawa 42 is 33 kmpl.",
+    "status": "1",
+    "created_at": "2023-04-26 17:20:36",
+    "updated_at": "2023-04-26 17:20:36"
+  },
+  {
+    "id": "49",
+    "bike_id": "197",
+    "question": "What Is The Engine Capacity Of Jawa 42?",
+    "answer": "The engine capacity of Jawa 42 is 294.72 CC.",
+    "status": "1",
+    "created_at": "2023-04-26 17:21:26",
+    "updated_at": "2023-04-26 17:21:26"
+  },
+  {
+    "id": "50",
+    "bike_id": "197",
+    "question": "What Is The Power Output Of The Jawa 42?",
+    "answer": "The maximum power output a Jawa 42 produces is of 20.1 KW.",
+    "status": "1",
+    "created_at": "2023-04-26 17:21:53",
+    "updated_at": "2023-04-26 17:21:53"
+  },
+  {
+    "id": "51",
+    "bike_id": "197",
+    "question": "What Is The Body Type Of Jawa 42?",
+    "answer": "Jawa 42 comes with a cruiser bike body type.",
+    "status": "1",
+    "created_at": "2023-04-26 17:22:14",
+    "updated_at": "2023-04-26 17:22:14"
+  },
+  {
+    "id": "52",
+    "bike_id": "197",
+    "question": "What Is The Fuel Tank Capacity Of Jawa 42?",
+    "answer": "Jawa 42 comes with a 14 litres fuel tank, letting you travel for a longer period of time.",
+    "status": "1",
+    "created_at": "2023-04-26 17:22:46",
+    "updated_at": "2023-04-26 17:22:46"
+  },
+  {
+    "id": "53",
+    "bike_id": "197",
+    "question": "What Is The Starting Mode Of Jawa 42?",
+    "answer": "The starting mode of Jawa 42 is self start only.",
+    "status": "1",
+    "created_at": "2023-04-26 17:23:06",
+    "updated_at": "2023-04-26 17:23:06"
+  },
+  {
+    "id": "54",
+    "bike_id": "197",
+    "question": "How Many Cylinders Are In The Jawa 42 Engine?",
+    "answer": "Jawa 42 comes fitted with a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-04-26 17:23:36",
+    "updated_at": "2023-04-26 17:23:36"
+  },
+  {
+    "id": "55",
+    "bike_id": "197",
+    "question": "How Many Variants Are Available In Jawa 42?",
+    "answer": "Jawa 42 is offered in 3 additional variants — 42 Version 2.1, 42 Dual Channel ABS - BS VI and 42 Single Channel ABS - BS VI.",
+    "status": "1",
+    "created_at": "2023-04-26 17:24:26",
+    "updated_at": "2023-04-26 17:24:26"
+  },
+  {
+    "id": "56",
+    "bike_id": "197",
+    "question": "What Is The Top Speed Of Jawa 42?",
+    "answer": "With Jawa 42, you can achieve a top speed of around 130 kmph.",
+    "status": "1",
+    "created_at": "2023-04-26 17:24:44",
+    "updated_at": "2023-04-26 17:24:44"
+  },
+  {
+    "id": "57",
+    "bike_id": "218",
+    "question": "What Is The Price Of Bajaj Pulsar 125 In India?",
+    "answer": "Bajaj Pulsar 125 en-showroom price in India ranges between Rs 81,389 - 89,254.",
+    "status": "1",
+    "created_at": "2023-05-09 14:23:50",
+    "updated_at": "2023-05-09 14:23:50"
+  },
+  {
+    "id": "58",
+    "bike_id": "218",
+    "question": "What Is The Engine Capacity Of Bajaj Pulsar 125?",
+    "answer": "Bajaj Pulsar 125 comes with a 124.4 CC engine capacity.",
+    "status": "1",
+    "created_at": "2023-05-09 14:24:09",
+    "updated_at": "2023-05-09 14:24:09"
+  },
+  {
+    "id": "59",
+    "bike_id": "218",
+    "question": "What Is The Mileage Of Bajaj Pulsar 125?",
+    "answer": "Bajaj Pulsar 125 mileage is 50 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-09 14:24:28",
+    "updated_at": "2023-05-09 14:24:28"
+  },
+  {
+    "id": "60",
+    "bike_id": "218",
+    "question": "What Is The Power Of The Bajaj Pulsar 125 Engine?",
+    "answer": "Bajaj Pulsar 125 engine can deliver a maximum power output of 11.64 bhp @ 8500 rpm.",
+    "status": "1",
+    "created_at": "2023-05-09 14:25:51",
+    "updated_at": "2023-05-09 14:25:51"
+  },
+  {
+    "id": "61",
+    "bike_id": "218",
+    "question": "What Is The Body Type Of Bajaj Pulsar 125?",
+    "answer": "Bajaj Pulsar 125 has a Commuter Body Type.",
+    "status": "1",
+    "created_at": "2023-05-09 14:26:08",
+    "updated_at": "2023-05-09 14:26:08"
+  },
+  {
+    "id": "62",
+    "bike_id": "218",
+    "question": "What Is The Fuel Tank Capacity Of Bajaj Pulsar 125?",
+    "answer": "Bajaj Pulsar 125 has a fuel tank capacity of 11.5 Litres.",
+    "status": "1",
+    "created_at": "2023-05-09 14:26:24",
+    "updated_at": "2023-05-09 14:26:24"
+  },
+  {
+    "id": "63",
+    "bike_id": "218",
+    "question": "What Is The Starting Mode Of Bajaj Pulsar 125?",
+    "answer": "Bajaj Pulsar 125 has a Kick and Self Start starting system.",
+    "status": "1",
+    "created_at": "2023-05-09 14:26:43",
+    "updated_at": "2023-05-09 14:26:43"
+  },
+  {
+    "id": "64",
+    "bike_id": "218",
+    "question": "How Many Cylinders Are In The Bajaj Pulsar 125 Engine?",
+    "answer": "Bajaj Pulsar 125 comes with a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-09 14:26:57",
+    "updated_at": "2023-05-09 14:26:57"
+  },
+  {
+    "id": "65",
+    "bike_id": "218",
+    "question": "How many Bajaj bike dealership showrooms are available in India?",
+    "answer": "There are roughly 1153 Bajaj bike dealership showrooms across the country.",
+    "status": "1",
+    "created_at": "2023-05-09 14:27:13",
+    "updated_at": "2023-05-09 14:27:13"
+  },
+  {
+    "id": "66",
+    "bike_id": "218",
+    "question": "What is the top speed of the Bajaj Pulsar 125?",
+    "answer": "Bajaj Pulsar 125 offers a top speed of 100 Kmph.",
+    "status": "1",
+    "created_at": "2023-05-09 14:27:29",
+    "updated_at": "2023-05-09 14:27:29"
+  },
+  {
+    "id": "67",
+    "bike_id": "218",
+    "question": "How many variants are available in Bajaj Pulsar 125?",
+    "answer": "Bajaj Pulsar 125 comes in 4 variants. - Pulsar 125 Drum - Split Seat, Pulsar 125 Disc - Split Seat & more.",
+    "status": "1",
+    "created_at": "2023-05-09 14:27:42",
+    "updated_at": "2023-05-09 14:27:42"
+  },
+  {
+    "id": "68",
+    "bike_id": "290",
+    "question": "What Is The Price Of Royal Enfield Interceptor 650 In India?",
+    "answer": "The Royal Enfield Interceptor 650 ex showroom price in India is between Rs 2.88 to 3.14 Lakhs.",
+    "status": "1",
+    "created_at": "2023-05-09 14:51:35",
+    "updated_at": "2023-05-09 14:51:35"
+  },
+  {
+    "id": "69",
+    "bike_id": "290",
+    "question": "What Is The Engine Capacity Of Royal Enfield Interceptor 650?",
+    "answer": "The Royal Enfield Interceptor 650 engine capacity is 648 CC.",
+    "status": "1",
+    "created_at": "2023-05-09 14:51:49",
+    "updated_at": "2023-05-09 14:51:49"
+  },
+  {
+    "id": "70",
+    "bike_id": "290",
+    "question": "What Is The Mileage Of Royal Enfield Interceptor 650?",
+    "answer": "With RE Interceptor 650, you can easily achieve a mileage of 23 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-09 14:52:05",
+    "updated_at": "2023-05-09 14:52:05"
+  },
+  {
+    "id": "71",
+    "bike_id": "290",
+    "question": "What Is The Power Of The Royal Enfield Interceptor 650 Engine?",
+    "answer": "The RE Interceptor 650 BS6-compliant engine can easily churn out maximum power output of 34.9 kW @ 7250 rpm.",
+    "status": "1",
+    "created_at": "2023-05-09 14:52:17",
+    "updated_at": "2023-05-09 14:52:17"
+  },
+  {
+    "id": "72",
+    "bike_id": "290",
+    "question": "What Is The Body Type Of Royal Enfield Interceptor 650?",
+    "answer": "The Royal Enfield Interceptor 650 is built to have a Cruiser body type.",
+    "status": "1",
+    "created_at": "2023-05-09 14:52:30",
+    "updated_at": "2023-05-09 14:52:30"
+  },
+  {
+    "id": "73",
+    "bike_id": "290",
+    "question": "What Is The Fuel Tank Capacity Of Royal Enfield Interceptor 650?",
+    "answer": "Royal Enfield offers Interceptor 650 with 13.7 Litres of total fuel tank capacity.",
+    "status": "1",
+    "created_at": "2023-05-09 14:52:41",
+    "updated_at": "2023-05-09 14:52:41"
+  },
+  {
+    "id": "74",
+    "bike_id": "290",
+    "question": "What Is The Starting Mode Of Royal Enfield Interceptor 650?",
+    "answer": "With RE Interceptor 650, you get an Electric Start starting mode.",
+    "status": "1",
+    "created_at": "2023-05-09 14:52:57",
+    "updated_at": "2023-05-09 14:52:57"
+  },
+  {
+    "id": "75",
+    "bike_id": "290",
+    "question": "How Many Cylinders Are In The Royal Enfield Interceptor 650 Engine?",
+    "answer": "RE Interceptor 650 comes with a 2-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-09 14:53:11",
+    "updated_at": "2023-05-09 14:53:11"
+  },
+  {
+    "id": "76",
+    "bike_id": "290",
+    "question": "How many Royal Enfield bike dealership showrooms are available in India?",
+    "answer": "There are roughly 457 Royal Enfield Bikes showrooms available in India (as of April 2023). They are spread across 302 cities.",
+    "status": "1",
+    "created_at": "2023-05-09 14:53:27",
+    "updated_at": "2023-05-09 14:53:27"
+  },
+  {
+    "id": "77",
+    "bike_id": "290",
+    "question": "What is the top speed of the Royal Enfield Interceptor 650?",
+    "answer": "Royal Enfield Interceptor top speed is 170 kmph.",
+    "status": "1",
+    "created_at": "2023-05-09 14:53:39",
+    "updated_at": "2023-05-09 14:53:39"
+  },
+  {
+    "id": "78",
+    "bike_id": "290",
+    "question": "How many variants are available in Royal Enfield Interceptor 650?",
+    "answer": "3 variants - Interceptor 650 Chrome, Interceptor 650 Custom and Interceptor 650 Standard",
+    "status": "1",
+    "created_at": "2023-05-09 14:53:54",
+    "updated_at": "2023-05-09 14:53:54"
+  },
+  {
+    "id": "79",
+    "bike_id": "279",
+    "question": "What Is The Royal Enfield Bullet 350 Price In India?",
+    "answer": "Royal Enfield Bullet 350 ex showroom price in India is between Rs 1.48 to 1.63 Lakh.",
+    "status": "1",
+    "created_at": "2023-05-09 15:20:38",
+    "updated_at": "2023-05-09 15:20:38"
+  },
+  {
+    "id": "80",
+    "bike_id": "279",
+    "question": "What Is Royal Enfield Bullet 350 Mileage?",
+    "answer": "Royal Enfield Bullet 350 mileage is 37.17 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-09 15:20:47",
+    "updated_at": "2023-05-09 15:20:47"
+  },
+  {
+    "id": "81",
+    "bike_id": "279",
+    "question": "What Is The Engine Capacity Of Royal Enfield Bullet 350?",
+    "answer": "Royal Enfield Bullet 350 has a 346 CC engine capacity.",
+    "status": "1",
+    "created_at": "2023-05-09 15:20:58",
+    "updated_at": "2023-05-09 15:20:58"
+  },
+  {
+    "id": "82",
+    "bike_id": "279",
+    "question": "What Is The Power Output Of The Royal Enfield Bullet 350?",
+    "answer": "Royal Enfield Bullet 350 can belt out a maximum power output of 19.1 bhp at 5,250 rpm.",
+    "status": "1",
+    "created_at": "2023-05-09 15:21:09",
+    "updated_at": "2023-05-09 15:21:09"
+  },
+  {
+    "id": "83",
+    "bike_id": "279",
+    "question": "What Is The Body Type Of Royal Enfield Bullet 350?",
+    "answer": "Royal Enfield Bullet 350 has a cruiser body type.",
+    "status": "1",
+    "created_at": "2023-05-09 15:21:38",
+    "updated_at": "2023-05-09 15:21:38"
+  },
+  {
+    "id": "84",
+    "bike_id": "279",
+    "question": "What Is The Fuel Tank Capacity Of Royal Enfield Bullet 350?",
+    "answer": "Royal Enfield Bullet 350 comes with 13.5 Litres of total fuel tank capacity.",
+    "status": "1",
+    "created_at": "2023-05-09 15:26:35",
+    "updated_at": "2023-05-09 15:26:35"
+  },
+  {
+    "id": "85",
+    "bike_id": "279",
+    "question": "What Is The Starting Mode Of Royal Enfield Bullet 350?",
+    "answer": "Royal Enfield Bullet 350 has a kick-start starting mode.",
+    "status": "1",
+    "created_at": "2023-05-09 15:26:46",
+    "updated_at": "2023-05-09 15:26:46"
+  },
+  {
+    "id": "86",
+    "bike_id": "279",
+    "question": "How Many Cylinders Are In The Royal Enfield Bullet 350 Engine?",
+    "answer": "Royal Enfield Bullet 350 features a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-09 15:27:08",
+    "updated_at": "2023-05-09 15:27:08"
+  },
+  {
+    "id": "87",
+    "bike_id": "279",
+    "question": "How Many Variants Are Available In Royal Enfield Bullet 350?",
+    "answer": "Royal Enfield Bullet 350 is available in 3 variants - Bullet 350 ES, Bullet 350 KS and Bullet 350 Standard.",
+    "status": "1",
+    "created_at": "2023-05-09 15:27:20",
+    "updated_at": "2023-05-09 15:27:20"
+  },
+  {
+    "id": "88",
+    "bike_id": "279",
+    "question": "How Many Royal Enfield Dealership Showrooms Are Available In India?",
+    "answer": "There are roughly 457 Royal Enfield Bikes showrooms available in India (as of April 2023). They are spread across 302 cities.",
+    "status": "1",
+    "created_at": "2023-05-09 15:27:31",
+    "updated_at": "2023-05-09 15:27:31"
+  },
+  {
+    "id": "89",
+    "bike_id": "279",
+    "question": "What Is The Top Speed Of Royal Enfield Bullet 350?",
+    "answer": "Royal Enfield Bullet 350 can achieve a top speed of 110 kmph.",
+    "status": "1",
+    "created_at": "2023-05-09 15:27:40",
+    "updated_at": "2023-05-09 15:27:40"
+  },
+  {
+    "id": "90",
+    "bike_id": "198",
+    "question": "What Is The Price Of Royal Enfield Himalayan In India?",
+    "answer": "Royal Enfield Himalayan Price in India is between Rs 2.15 to  2.22 Lakh.",
+    "status": "1",
+    "created_at": "2023-05-16 12:06:21",
+    "updated_at": "2023-05-16 12:06:21"
+  },
+  {
+    "id": "91",
+    "bike_id": "198",
+    "question": "What Is The Engine Capacity Of Royal Enfield Himalayan?",
+    "answer": "Royal Enfield Himalayan engine capacity is 411 CC.",
+    "status": "1",
+    "created_at": "2023-05-16 12:06:35",
+    "updated_at": "2023-05-16 12:06:35"
+  },
+  {
+    "id": "92",
+    "bike_id": "198",
+    "question": "What Is The Mileage Of Royal Enfield Himalayan?",
+    "answer": "Royal Enfield Himalayan mileage is 32.4 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-16 12:06:45",
+    "updated_at": "2023-05-16 12:06:45"
+  },
+  {
+    "id": "93",
+    "bike_id": "198",
+    "question": "What Is The Power Of The Royal Enfield Himalayan Engine?",
+    "answer": "Royal Enfield Himalayan can belt out a maximum power output of 24.3 bhp at 6,500 rpm.",
+    "status": "1",
+    "created_at": "2023-05-16 12:06:56",
+    "updated_at": "2023-05-16 12:06:56"
+  },
+  {
+    "id": "94",
+    "bike_id": "198",
+    "question": "What Is The Body Type Of Royal Enfield Himalayan?",
+    "answer": "Royal Enfield Himalayan comes with an Adventure Tourer body type.",
+    "status": "1",
+    "created_at": "2023-05-16 12:07:07",
+    "updated_at": "2023-05-16 12:07:07"
+  },
+  {
+    "id": "95",
+    "bike_id": "198",
+    "question": "What Is The Fuel Tank Capacity Of Royal Enfield Himalayan?",
+    "answer": "Royal Enfield Himalayan has a total fuel tank capacity of 15 Litres.",
+    "status": "1",
+    "created_at": "2023-05-16 12:07:17",
+    "updated_at": "2023-05-16 12:07:17"
+  },
+  {
+    "id": "96",
+    "bike_id": "198",
+    "question": "What Is The Starting Mode Of Royal Enfield Himalayan?",
+    "answer": "Royal Enfield Himalayan comes with an Electric Start starting mode.",
+    "status": "1",
+    "created_at": "2023-05-16 12:07:27",
+    "updated_at": "2023-05-16 12:07:27"
+  },
+  {
+    "id": "97",
+    "bike_id": "198",
+    "question": "How Many Cylinders Are In The Royal Enfield Himalayan Engine?",
+    "answer": "Royal Enfield Himalayan features a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-16 12:07:36",
+    "updated_at": "2023-05-16 12:07:36"
+  },
+  {
+    "id": "98",
+    "bike_id": "198",
+    "question": "How many Royal Enfield bike dealership showrooms are available in India?",
+    "answer": "There are roughly 457 Royal Enfield Bikes showrooms available in India across 302 cities (as of April 2023).",
+    "status": "1",
+    "created_at": "2023-05-16 12:07:46",
+    "updated_at": "2023-05-16 12:07:46"
+  },
+  {
+    "id": "99",
+    "bike_id": "198",
+    "question": "What is the top speed of the Royal Enfield Himalayan?",
+    "answer": "With Royal Enfield Himalayan, you can achieve a top speed of 145 kmph.",
+    "status": "1",
+    "created_at": "2023-05-16 12:07:54",
+    "updated_at": "2023-05-16 12:07:54"
+  },
+  {
+    "id": "100",
+    "bike_id": "198",
+    "question": "How many variants are available in Royal Enfield Himalayan?",
+    "answer": "Royal Enfield Himalayan is offered in 3 variants- Himalayan Pine Green and Granite Black, Himalayan Dual Tone - BS VI [2021] and Himalayan Standard - BS VI [2021].",
+    "status": "1",
+    "created_at": "2023-05-16 12:08:07",
+    "updated_at": "2023-05-16 12:08:07"
+  },
+  {
+    "id": "101",
+    "bike_id": "213",
+    "question": "What is the Royal Enfield Meteor 350 BS6 price in India?",
+    "answer": "Royal Enfield Meteor 350 price in India is between Rs 2.01 to 2.22 Lakh.",
+    "status": "1",
+    "created_at": "2023-05-16 12:18:47",
+    "updated_at": "2023-05-16 12:18:47"
+  },
+  {
+    "id": "102",
+    "bike_id": "213",
+    "question": "What is the Royal Enfield Meteor 350 mileage?",
+    "answer": "Royal Enfield Meteor 350 mileage is 36.2 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-16 12:18:57",
+    "updated_at": "2023-05-16 12:18:57"
+  },
+  {
+    "id": "103",
+    "bike_id": "213",
+    "question": "What Is The Engine Capacity Of Royal Enfield Meteor 350?",
+    "answer": "Royal Enfield Meteor 350 engine capacity is 349 CC.",
+    "status": "1",
+    "created_at": "2023-05-16 12:19:10",
+    "updated_at": "2023-05-16 12:19:10"
+  },
+  {
+    "id": "104",
+    "bike_id": "213",
+    "question": "What Is The Power Output Of The Royal Enfield Meteor 350?",
+    "answer": "Royal Enfield Meteor 350 can belt out a maximum power output of 20.2 bhp at 6,100 rpm.",
+    "status": "1",
+    "created_at": "2023-05-16 12:19:25",
+    "updated_at": "2023-05-16 12:19:25"
+  },
+  {
+    "id": "105",
+    "bike_id": "213",
+    "question": "What Is The Body Type Of Royal Enfield Meteor 350?",
+    "answer": "Royal Enfield Meteor 350 comes with a Cruiser body type.",
+    "status": "1",
+    "created_at": "2023-05-16 12:19:35",
+    "updated_at": "2023-05-16 12:19:35"
+  },
+  {
+    "id": "106",
+    "bike_id": "213",
+    "question": "How many variants are available in Royal Enfield Meteor 350?",
+    "answer": "Royal Enfield Meteor 350 has 3 variants: Meteor 350 Supernova, Meteor 350 Stellar and Meteor 350 Fireball.",
+    "status": "1",
+    "created_at": "2023-05-16 12:19:44",
+    "updated_at": "2023-05-16 12:19:44"
+  },
+  {
+    "id": "107",
+    "bike_id": "213",
+    "question": "What Is The Starting Mode Of Royal Enfield Meteor 350?",
+    "answer": "Royal Enfield Meteor 350 has an Electric Start starting mode.",
+    "status": "1",
+    "created_at": "2023-05-16 12:19:54",
+    "updated_at": "2023-05-16 12:19:54"
+  },
+  {
+    "id": "108",
+    "bike_id": "213",
+    "question": "How Many Cylinders Are In The Royal Enfield Meteor 350 Engine?",
+    "answer": "Royal Enfield Meteor 350 comes fitted with a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-16 12:20:03",
+    "updated_at": "2023-05-16 12:20:03"
+  },
+  {
+    "id": "109",
+    "bike_id": "213",
+    "question": "How many Royal Enfield bike dealership showrooms are available in India?",
+    "answer": "With us, you can get access to 349 Royal Enfield Bike showrooms spanning 31 states & 239 cities in India.",
+    "status": "1",
+    "created_at": "2023-05-16 12:20:20",
+    "updated_at": "2023-05-16 12:20:20"
+  },
+  {
+    "id": "110",
+    "bike_id": "213",
+    "question": "How much is the fuel tank capacity of the Royal Enfield Meteor 350?",
+    "answer": "Royal Enfield Meteor 350 comes with 15 litres of fuel tank capacity for long cruising on road.",
+    "status": "1",
+    "created_at": "2023-05-16 12:20:31",
+    "updated_at": "2023-05-16 12:20:31"
+  },
+  {
+    "id": "111",
+    "bike_id": "213",
+    "question": "What is the top speed of the Royal Enfield Meteor 350?",
+    "answer": "With Royal Enfield Meteor 350, you can achieve a top speed of 120 kmph.",
+    "status": "1",
+    "created_at": "2023-05-16 12:20:41",
+    "updated_at": "2023-05-16 12:20:41"
+  },
+  {
+    "id": "112",
+    "bike_id": "77",
+    "question": "What is the Royal Enfield Classic 350 BS6 price in India?",
+    "answer": "Royal Enfield Classic 350 price in India starts from Rs 1.9 Lakhs and goes up to Rs 2.21 Lakhs.",
+    "status": "1",
+    "created_at": "2023-05-16 12:40:21",
+    "updated_at": "2023-05-16 12:40:21"
+  },
+  {
+    "id": "113",
+    "bike_id": "77",
+    "question": "What is the Royal Enfield Classic 350 mileage?",
+    "answer": "Royal Enfield Classic 350 mileage is 41.55 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-16 12:40:33",
+    "updated_at": "2023-05-16 12:40:33"
+  },
+  {
+    "id": "114",
+    "bike_id": "77",
+    "question": "What Is The Engine Capacity Of Royal Enfield Classic 350?",
+    "answer": "Royal Enfield Classic 350 engine capacity is 349 CC.",
+    "status": "1",
+    "created_at": "2023-05-16 12:40:41",
+    "updated_at": "2023-05-16 12:40:41"
+  },
+  {
+    "id": "115",
+    "bike_id": "77",
+    "question": "What Is The Power Output Of The Royal Enfield Classic 350?",
+    "answer": "Royal Enfield Classic 350 can belt out a maximum power output of 20.2 bhp at 6,100 rpm.",
+    "status": "1",
+    "created_at": "2023-05-16 12:40:51",
+    "updated_at": "2023-05-16 12:40:51"
+  },
+  {
+    "id": "116",
+    "bike_id": "77",
+    "question": "What Is The Body Type Of Royal Enfield Classic 350?",
+    "answer": "Royal Enfield Classic 350 comes with a Cruiser body type.",
+    "status": "1",
+    "created_at": "2023-05-16 12:41:00",
+    "updated_at": "2023-05-16 12:41:00"
+  },
+  {
+    "id": "117",
+    "bike_id": "77",
+    "question": "How many variants are available in the Royal Enfield Classic 350?",
+    "answer": "Royal Enfield Classic 350 has 6 variants — Classic 350 Halcyon - Single Channel ABS, Classic 350 Classic Signals - Dual Channel ABS and more.",
+    "status": "1",
+    "created_at": "2023-05-16 12:41:11",
+    "updated_at": "2023-05-16 12:41:11"
+  },
+  {
+    "id": "118",
+    "bike_id": "77",
+    "question": "What Is The Starting Mode Of Royal Enfield Classic 350?",
+    "answer": "Royal Enfield Classic 350 has an Electric Start starting mode.",
+    "status": "1",
+    "created_at": "2023-05-16 12:41:23",
+    "updated_at": "2023-05-16 12:41:23"
+  },
+  {
+    "id": "119",
+    "bike_id": "77",
+    "question": "How Many Cylinders Are In The Royal Enfield Classic 350 Engine?",
+    "answer": "Royal Enfield Classic 350 has a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-16 12:41:40",
+    "updated_at": "2023-05-16 12:41:40"
+  },
+  {
+    "id": "120",
+    "bike_id": "77",
+    "question": "How many Royal Enfield bike dealership showrooms are available in India?",
+    "answer": "With us, you can get access to 349 Royal Enfield Bike showrooms spanning across 239 cities & 31 states in India.",
+    "status": "1",
+    "created_at": "2023-05-16 12:41:50",
+    "updated_at": "2023-05-16 12:41:50"
+  },
+  {
+    "id": "121",
+    "bike_id": "77",
+    "question": "How much is the fuel tank capacity of the Royal Enfield Classic 350?",
+    "answer": "Royal Enfield Classic 350 has 13 litre of fuel tank capacity, suitable for long cruising on the road.",
+    "status": "1",
+    "created_at": "2023-05-16 12:42:00",
+    "updated_at": "2023-05-16 12:42:00"
+  },
+  {
+    "id": "122",
+    "bike_id": "77",
+    "question": "What is the top speed of the Royal Enfield Classic 350?",
+    "answer": "With Royal Enfield Classic 350, you can achieve a top speed of 130 kmph.",
+    "status": "1",
+    "created_at": "2023-05-16 12:42:08",
+    "updated_at": "2023-05-16 12:42:08"
+  },
+  {
+    "id": "123",
+    "bike_id": "220",
+    "question": "What is the new Suzuki Burgman Street 125 price in India?",
+    "answer": "Suzuki Burgman Street 125 price in India is Rs 89,287 - 92,851.",
+    "status": "1",
+    "created_at": "2023-05-16 12:55:40",
+    "updated_at": "2023-05-16 12:55:40"
+  },
+  {
+    "id": "124",
+    "bike_id": "220",
+    "question": "What is the Suzuki Burgman Street 125 mileage?",
+    "answer": "Suzuki Burgman Street 125 mileage is 55.89 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-16 12:55:52",
+    "updated_at": "2023-05-16 12:55:52"
+  },
+  {
+    "id": "125",
+    "bike_id": "220",
+    "question": "What Is The Engine Capacity Of Suzuki Burgman Street 125?",
+    "answer": "Suzuki Burgman Street 125 engine capacity is 124 CC.",
+    "status": "1",
+    "created_at": "2023-05-16 12:56:03",
+    "updated_at": "2023-05-16 12:56:03"
+  },
+  {
+    "id": "126",
+    "bike_id": "220",
+    "question": "What Is The Power Output Of The Suzuki Burgman Street 125?",
+    "answer": "Suzuki Burgman Street 125 can belt out a maximum power output of 8.58 bhp at 6,750 rpm.",
+    "status": "1",
+    "created_at": "2023-05-16 12:56:11",
+    "updated_at": "2023-05-16 12:56:11"
+  },
+  {
+    "id": "127",
+    "bike_id": "220",
+    "question": "How many variants are available in Suzuki Burgman Street 125?",
+    "answer": "Suzuki Burgman Street 125 is offered in 2 additional variants -  Burgman Street 125 Bluetooth Burgman Street 125 BS VI",
+    "status": "1",
+    "created_at": "2023-05-16 12:56:21",
+    "updated_at": "2023-05-16 12:56:21"
+  },
+  {
+    "id": "128",
+    "bike_id": "220",
+    "question": "What Is The Starting Mode Of Suzuki Burgman Street 125?",
+    "answer": "Suzuki Burgman Street 125 has an Electric Start starting mode.",
+    "status": "1",
+    "created_at": "2023-05-16 12:56:28",
+    "updated_at": "2023-05-16 12:56:28"
+  },
+  {
+    "id": "129",
+    "bike_id": "220",
+    "question": "How Many Cylinders Are In The Suzuki Burgman Street 125 Engine?",
+    "answer": "Suzuki Burgman Street 125 comes fitted with a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-16 12:56:38",
+    "updated_at": "2023-05-16 12:56:38"
+  },
+  {
+    "id": "130",
+    "bike_id": "220",
+    "question": "How many Suzuki dealership showrooms are available in India?",
+    "answer": "Roughly 520 Suzuki dealer showrooms are available in India (as of April 2023).",
+    "status": "1",
+    "created_at": "2023-05-16 12:56:50",
+    "updated_at": "2023-05-16 12:56:50"
+  },
+  {
+    "id": "131",
+    "bike_id": "220",
+    "question": "What is the fuel tank capacity of the Suzuki Burgman Street 125?",
+    "answer": "Suzuki Burgman Street 125 comes with 5.5 litres of fuel tank capacity, letting you travel for a longer period of time.",
+    "status": "1",
+    "created_at": "2023-05-16 12:57:00",
+    "updated_at": "2023-05-16 12:57:00"
+  },
+  {
+    "id": "132",
+    "bike_id": "220",
+    "question": "What is the top speed of the Suzuki Burgman Street 125?",
+    "answer": "With the Suzuki Burgman Street 125, you can achieve a top speed of 95 Kmph.",
+    "status": "1",
+    "created_at": "2023-05-16 12:57:09",
+    "updated_at": "2023-05-16 12:57:09"
+  },
+  {
+    "id": "133",
+    "bike_id": "280",
+    "question": "What is the new Suzuki Gixxer SF price in India?",
+    "answer": "Suzuki Gixxer SF price in India is Rs 1.37 - 1.46 Lakh.",
+    "status": "1",
+    "created_at": "2023-05-16 13:10:51",
+    "updated_at": "2023-05-16 13:10:51"
+  },
+  {
+    "id": "134",
+    "bike_id": "280",
+    "question": "What is the Suzuki Gixxer SF mileage?",
+    "answer": "Suzuki Gixxer SF mileage is 45 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-16 13:11:02",
+    "updated_at": "2023-05-16 13:11:02"
+  },
+  {
+    "id": "135",
+    "bike_id": "280",
+    "question": "What Is The Engine Capacity Of Suzuki Gixxer SF?",
+    "answer": "Suzuki Gixxer SF engine capacity is 155 CC.",
+    "status": "1",
+    "created_at": "2023-05-16 13:11:12",
+    "updated_at": "2023-05-16 13:11:12"
+  },
+  {
+    "id": "136",
+    "bike_id": "280",
+    "question": "What Is The Power Output Of The Suzuki Gixxer SF?",
+    "answer": "Suzuki Gixxer SF can belt out a maximum power output of 13.41 bhp at 8000 rpm.",
+    "status": "1",
+    "created_at": "2023-05-16 13:11:22",
+    "updated_at": "2023-05-16 13:11:22"
+  },
+  {
+    "id": "137",
+    "bike_id": "280",
+    "question": "What Is The Body Type Of Suzuki Gixxer SF?",
+    "answer": "Suzuki Gixxer SF comes with a Sports body type.",
+    "status": "1",
+    "created_at": "2023-05-16 13:11:31",
+    "updated_at": "2023-05-16 13:11:31"
+  },
+  {
+    "id": "138",
+    "bike_id": "280",
+    "question": "How many variants are available in Suzuki Gixxer SF?",
+    "answer": "Suzuki Gixxer SF is offered in 1 other variant - Gixxer SF Standard - BS VI, priced at Rs 1.37 - 1.46 Lakh.",
+    "status": "1",
+    "created_at": "2023-05-16 13:11:39",
+    "updated_at": "2023-05-16 13:11:39"
+  },
+  {
+    "id": "139",
+    "bike_id": "280",
+    "question": "What Is The Starting Mode Of Suzuki Gixxer SF?",
+    "answer": "Suzuki Gixxer SF has a Self Start Only starting mode.",
+    "status": "1",
+    "created_at": "2023-05-16 13:11:47",
+    "updated_at": "2023-05-16 13:11:47"
+  },
+  {
+    "id": "140",
+    "bike_id": "280",
+    "question": "How Many Cylinders Are In The Suzuki Gixxer SF Engine?",
+    "answer": "Suzuki Gixxer SF comes fitted with a 1-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-16 13:11:56",
+    "updated_at": "2023-05-16 13:11:56"
+  },
+  {
+    "id": "141",
+    "bike_id": "280",
+    "question": "How many Suzuki dealership showrooms are available in India?",
+    "answer": "Roughly 520 Suzuki dealer showrooms are available in India (as of April 2023).",
+    "status": "1",
+    "created_at": "2023-05-16 13:12:11",
+    "updated_at": "2023-05-16 13:12:11"
+  },
+  {
+    "id": "142",
+    "bike_id": "280",
+    "question": "What is the fuel tank capacity of the Suzuki Gixxer SF?",
+    "answer": "Suzuki Gixxer SF comes with 12 litres of fuel tank capacity, letting you travel for a longer period of time.",
+    "status": "1",
+    "created_at": "2023-05-16 13:12:27",
+    "updated_at": "2023-05-16 13:12:27"
+  },
+  {
+    "id": "143",
+    "bike_id": "280",
+    "question": "What is the top speed of the Suzuki Gixxer SF?",
+    "answer": "With the Suzuki Gixxer SF, you can achieve a top speed of 125 Kmph.",
+    "status": "1",
+    "created_at": "2023-05-16 13:12:35",
+    "updated_at": "2023-05-16 13:12:35"
+  },
+  {
+    "id": "144",
+    "bike_id": "7",
+    "question": "What is the new Kawasaki Ninja ZX-10R price in India?",
+    "answer": "Kawasaki Ninja ZX-10R price in India is Rs 16.15 Lakh.",
+    "status": "1",
+    "created_at": "2023-05-16 13:21:15",
+    "updated_at": "2023-05-16 13:21:15"
+  },
+  {
+    "id": "145",
+    "bike_id": "7",
+    "question": "What is the Kawasaki Ninja ZX-10R mileage?",
+    "answer": "Kawasaki Ninja ZX-10R mileage is 12 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-16 13:21:23",
+    "updated_at": "2023-05-16 13:21:23"
+  },
+  {
+    "id": "146",
+    "bike_id": "7",
+    "question": "What Is The Engine Capacity Of Kawasaki Ninja ZX-10R?",
+    "answer": "Kawasaki Ninja ZX-10R engine capacity is 998 CC.",
+    "status": "1",
+    "created_at": "2023-05-16 13:21:32",
+    "updated_at": "2023-05-16 13:21:32"
+  },
+  {
+    "id": "147",
+    "bike_id": "7",
+    "question": "What Is The Power Output Of The Kawasaki Ninja ZX-10R?",
+    "answer": "Kawasaki Ninja ZX-10R can belt out a maximum power output of 200.22 bhp at 13200 rpm.",
+    "status": "1",
+    "created_at": "2023-05-16 13:21:43",
+    "updated_at": "2023-05-16 13:21:43"
+  },
+  {
+    "id": "148",
+    "bike_id": "7",
+    "question": "What Is The Body Type Of Kawasaki Ninja ZX-10R?",
+    "answer": "Kawasaki Ninja ZX-10R comes with a Super Sports body type.",
+    "status": "1",
+    "created_at": "2023-05-16 13:21:56",
+    "updated_at": "2023-05-16 13:21:56"
+  },
+  {
+    "id": "149",
+    "bike_id": "7",
+    "question": "How many variants are available in the Kawasaki Ninja ZX-10R?",
+    "answer": "Kawasaki Ninja ZX-10R is offered in 1 other variant - Ninja ZX-10R Standard, priced at Rs 16.15 Lakh.",
+    "status": "1",
+    "created_at": "2023-05-16 13:22:07",
+    "updated_at": "2023-05-16 13:22:07"
+  },
+  {
+    "id": "150",
+    "bike_id": "7",
+    "question": "What Is The Starting Mode Of the Kawasaki Ninja ZX-10R?",
+    "answer": "Kawasaki Ninja ZX-10R has a Self Start Only starting mode.",
+    "status": "1",
+    "created_at": "2023-05-16 13:22:17",
+    "updated_at": "2023-05-16 13:22:17"
+  },
+  {
+    "id": "151",
+    "bike_id": "7",
+    "question": "How Many Cylinders Are In The Kawasaki Ninja ZX-10R Engine?",
+    "answer": "Kawasaki Ninja ZX-10R comes fitted with a 4-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-16 13:22:26",
+    "updated_at": "2023-05-16 13:22:26"
+  },
+  {
+    "id": "152",
+    "bike_id": "7",
+    "question": "How many Kawasaki dealership showrooms are available in India?",
+    "answer": "Roughly 97 Kawasaki Bikes dealer showrooms are available in India (as of April 2023). They are spread across 26 states and 62 cities.",
+    "status": "1",
+    "created_at": "2023-05-16 13:22:36",
+    "updated_at": "2023-05-16 13:22:36"
+  },
+  {
+    "id": "153",
+    "bike_id": "7",
+    "question": "How much is the fuel tank capacity of the Kawasaki Ninja ZX-10R?",
+    "answer": "Kawasaki Ninja ZX-10R comes with 17 litres of fuel tank capacity, letting you travel for a longer period of time.",
+    "status": "1",
+    "created_at": "2023-05-16 13:22:44",
+    "updated_at": "2023-05-16 13:22:44"
+  },
+  {
+    "id": "154",
+    "bike_id": "7",
+    "question": "What is the top speed of the Kawasaki Ninja ZX-10R?",
+    "answer": "With the Kawasaki Ninja ZX-10R, you can achieve a top speed of 299 Kmph.",
+    "status": "1",
+    "created_at": "2023-05-16 13:22:56",
+    "updated_at": "2023-05-16 13:22:56"
+  },
+  {
+    "id": "155",
+    "bike_id": "1",
+    "question": "What is the new Kawasaki Z900 price in India?",
+    "answer": "Kawasaki Z900 price in India is Rs 9.02 Lakh.",
+    "status": "1",
+    "created_at": "2023-05-16 16:04:57",
+    "updated_at": "2023-05-16 16:04:57"
+  },
+  {
+    "id": "156",
+    "bike_id": "1",
+    "question": "What is the Kawasaki Z900 mileage?",
+    "answer": "Kawasaki Z900 mileage is 15.26 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-16 16:05:17",
+    "updated_at": "2023-05-16 16:05:17"
+  },
+  {
+    "id": "157",
+    "bike_id": "1",
+    "question": "What Is The Engine Capacity Of Kawasaki Z900?",
+    "answer": "Kawasaki Z900 engine capacity is 948 CC.",
+    "status": "1",
+    "created_at": "2023-05-16 16:05:30",
+    "updated_at": "2023-05-16 16:05:30"
+  },
+  {
+    "id": "158",
+    "bike_id": "1",
+    "question": "What Is The Power Output Of The Kawasaki Z900?",
+    "answer": "Kawasaki Z900 can belt out a maximum power output of 123.29 bhp at 9500 rpm.",
+    "status": "1",
+    "created_at": "2023-05-16 16:05:51",
+    "updated_at": "2023-05-16 16:05:51"
+  },
+  {
+    "id": "159",
+    "bike_id": "1",
+    "question": "What Is The Body Type Of Kawasaki Z900?",
+    "answer": "Kawasaki Z900 comes with a Sports Naked body type.",
+    "status": "1",
+    "created_at": "2023-05-16 16:06:04",
+    "updated_at": "2023-05-16 16:06:04"
+  },
+  {
+    "id": "160",
+    "bike_id": "1",
+    "question": "How many variants are available in the Kawasaki Z900?",
+    "answer": "Kawasaki Z900 is offered in 1 other variant - Z900 Standard, priced at Rs 9.02 Lakh.",
+    "status": "1",
+    "created_at": "2023-05-16 16:06:16",
+    "updated_at": "2023-05-16 16:06:16"
+  },
+  {
+    "id": "161",
+    "bike_id": "1",
+    "question": "What Is The Starting Mode Of The Kawasaki Z900?",
+    "answer": "Kawasaki Z900 has a Self Start Only starting mode.",
+    "status": "1",
+    "created_at": "2023-05-16 16:06:33",
+    "updated_at": "2023-05-16 16:06:33"
+  },
+  {
+    "id": "162",
+    "bike_id": "1",
+    "question": "How Many Cylinders Are In The Kawasaki Z900 Engine?",
+    "answer": "Kawasaki Z900 comes fitted with a 4-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-16 16:06:42",
+    "updated_at": "2023-05-16 16:06:42"
+  },
+  {
+    "id": "163",
+    "bike_id": "1",
+    "question": "How many Kawasaki dealership showrooms are available in India?",
+    "answer": "Roughly 97 Kawasaki Bikes dealer showrooms are available in India (as of April 2023). They are spread across 26 states and 62 cities.",
+    "status": "1",
+    "created_at": "2023-05-16 16:06:57",
+    "updated_at": "2023-05-16 16:06:57"
+  },
+  {
+    "id": "164",
+    "bike_id": "1",
+    "question": "How much is the fuel tank capacity of the Kawasaki Z900?",
+    "answer": "Kawasaki Z900 comes with 17 litres of fuel tank capacity, letting you travel for a longer period of time.",
+    "status": "1",
+    "created_at": "2023-05-16 16:07:08",
+    "updated_at": "2023-05-16 16:07:08"
+  },
+  {
+    "id": "165",
+    "bike_id": "1",
+    "question": "What is the top speed of the Kawasaki Z900?",
+    "answer": "With the Kawasaki Z900, you can achieve a top speed of 195 Kmph.",
+    "status": "1",
+    "created_at": "2023-05-16 16:07:20",
+    "updated_at": "2023-05-16 16:07:20"
+  },
+  {
+    "id": "166",
+    "bike_id": "152",
+    "question": "What is the new Kawasaki Ninja 650 price in India?",
+    "answer": "Kawasaki Ninja 650 price in India is Rs 7.12 Lakh.",
+    "status": "1",
+    "created_at": "2023-05-16 16:15:59",
+    "updated_at": "2023-05-16 16:15:59"
+  },
+  {
+    "id": "167",
+    "bike_id": "152",
+    "question": "What is the Kawasaki Ninja 650 mileage?",
+    "answer": "Kawasaki Ninja 650 mileage is 21 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-16 16:16:08",
+    "updated_at": "2023-05-16 16:16:08"
+  },
+  {
+    "id": "168",
+    "bike_id": "152",
+    "question": "What Is The Engine Capacity Of Kawasaki Ninja 650?",
+    "answer": "Kawasaki Ninja 650 engine capacity is 649 CC.",
+    "status": "1",
+    "created_at": "2023-05-16 16:16:16",
+    "updated_at": "2023-05-16 16:16:16"
+  },
+  {
+    "id": "169",
+    "bike_id": "152",
+    "question": "What Is The Power Output Of The Kawasaki Ninja 650?",
+    "answer": "Kawasaki Ninja 650 can belt out a maximum power output of 67.07 bhp at 8000 rpm.",
+    "status": "1",
+    "created_at": "2023-05-16 16:16:26",
+    "updated_at": "2023-05-16 16:16:26"
+  },
+  {
+    "id": "170",
+    "bike_id": "152",
+    "question": "What Is The Body Type Of Kawasaki Ninja 650?",
+    "answer": "Kawasaki Ninja 650 comes with a Sports body type.",
+    "status": "1",
+    "created_at": "2023-05-16 16:16:37",
+    "updated_at": "2023-05-16 16:16:37"
+  },
+  {
+    "id": "171",
+    "bike_id": "152",
+    "question": "How many variants are available in Kawasaki Ninja 650?",
+    "answer": "Kawasaki Ninja 650 is offered in 1 other variant - Ninja 650 Standard, priced at Rs 7.12 Lakh.",
+    "status": "1",
+    "created_at": "2023-05-16 16:16:49",
+    "updated_at": "2023-05-16 16:16:49"
+  },
+  {
+    "id": "172",
+    "bike_id": "152",
+    "question": "What Is The Starting Mode Of Kawasaki Ninja 650?",
+    "answer": "Kawasaki Ninja 650 has a Self Start Only starting mode.",
+    "status": "1",
+    "created_at": "2023-05-16 16:16:59",
+    "updated_at": "2023-05-16 16:16:59"
+  },
+  {
+    "id": "173",
+    "bike_id": "152",
+    "question": "How Many Cylinders Are In The Kawasaki Ninja 650 Engine?",
+    "answer": "Kawasaki Ninja 650 comes fitted with a 2-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-16 16:17:08",
+    "updated_at": "2023-05-16 16:17:08"
+  },
+  {
+    "id": "174",
+    "bike_id": "152",
+    "question": "How many Kawasaki dealership showrooms are available in India?",
+    "answer": "Roughly 97 Kawasaki Bikes dealer showrooms are available in India (as of April 2023). They are spread across 26 states and 62 cities.",
+    "status": "1",
+    "created_at": "2023-05-16 16:17:17",
+    "updated_at": "2023-05-16 16:17:17"
+  },
+  {
+    "id": "175",
+    "bike_id": "152",
+    "question": "How much is the fuel tank capacity of Kawasaki Ninja 650?",
+    "answer": "Kawasaki Ninja 650 comes with 15 litres of fuel tank capacity, letting you travel for a longer period of time.",
+    "status": "1",
+    "created_at": "2023-05-16 16:17:27",
+    "updated_at": "2023-05-16 16:17:27"
+  },
+  {
+    "id": "176",
+    "bike_id": "152",
+    "question": "What is the top speed of Kawasaki Ninja 650?",
+    "answer": "With the Kawasaki Ninja 650, you can achieve a top speed of 210 Kmph.",
+    "status": "1",
+    "created_at": "2023-05-16 16:17:35",
+    "updated_at": "2023-05-16 16:17:35"
+  },
+  {
+    "id": "177",
+    "bike_id": "333",
+    "question": "What Is The Jawa Perak Price In India?",
+    "answer": "Jawa Perak price in India is Rs 2.09 Lakh.",
+    "status": "1",
+    "created_at": "2023-05-16 16:29:59",
+    "updated_at": "2023-05-16 16:29:59"
+  },
+  {
+    "id": "178",
+    "bike_id": "333",
+    "question": "What Is Jawa Perak Mileage?",
+    "answer": "Jawa Perak mileage is 34.05 kmpl.",
+    "status": "1",
+    "created_at": "2023-05-16 16:30:13",
+    "updated_at": "2023-05-16 16:30:13"
+  },
+  {
+    "id": "179",
+    "bike_id": "333",
+    "question": "What Is The Engine Capacity Of Jawa Perak?",
+    "answer": "Jawa Perak engine capacity is 334 CC.",
+    "status": "1",
+    "created_at": "2023-05-16 16:30:24",
+    "updated_at": "2023-05-16 16:30:24"
+  },
+  {
+    "id": "180",
+    "bike_id": "333",
+    "question": "What Is The Power Output Of The Jawa Perak?",
+    "answer": "Jawa Perak can belt out a maximum power output of 22.54 KW.",
+    "status": "1",
+    "created_at": "2023-05-16 16:30:34",
+    "updated_at": "2023-05-16 16:30:34"
+  },
+  {
+    "id": "181",
+    "bike_id": "333",
+    "question": "What Is The Body Type Of Jawa Perak?",
+    "answer": "Jawa Perak comes with a Cruiser body type.",
+    "status": "1",
+    "created_at": "2023-05-16 16:30:44",
+    "updated_at": "2023-05-16 16:30:44"
+  },
+  {
+    "id": "182",
+    "bike_id": "333",
+    "question": "What Is The Fuel Tank Capacity Of Jawa Perak?",
+    "answer": "Jawa Perak comes with 14 litres of fuel tank capacity, letting you travel for a longer period of time.",
+    "status": "1",
+    "created_at": "2023-05-16 16:30:54",
+    "updated_at": "2023-05-16 16:30:54"
+  },
+  {
+    "id": "183",
+    "bike_id": "333",
+    "question": "What Is The Starting Mode Of Jawa Perak?",
+    "answer": "Jawa Perak has a Self Start Only starting mode.",
+    "status": "1",
+    "created_at": "2023-05-16 16:31:03",
+    "updated_at": "2023-05-16 16:31:03"
+  },
+  {
+    "id": "184",
+    "bike_id": "333",
+    "question": "How Many Cylinders Are In The Jawa Perak Engine?",
+    "answer": "Jawa Perak comes fitted with a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-16 16:31:16",
+    "updated_at": "2023-05-16 16:31:16"
+  },
+  {
+    "id": "185",
+    "bike_id": "333",
+    "question": "How Many Variants Are Available In Jawa Perak?",
+    "answer": "Jawa Perak is offered in 1 other variant - Perak Standard, priced at Rs 2.09 Lakh.",
+    "status": "1",
+    "created_at": "2023-05-16 16:31:33",
+    "updated_at": "2023-05-16 16:31:33"
+  },
+  {
+    "id": "186",
+    "bike_id": "333",
+    "question": "How Many Bajaj Dealership Showrooms Are Available In India?",
+    "answer": "There are roughly 308 Jawa Bikes showrooms available in India (as of March 2023). They are spread across 2 Perak cities.",
+    "status": "1",
+    "created_at": "2023-05-16 16:31:45",
+    "updated_at": "2023-05-16 16:31:45"
+  },
+  {
+    "id": "187",
+    "bike_id": "333",
+    "question": "What Is The Top Speed Of Jawa Perak?",
+    "answer": "With Jawa Perak, you can achieve a top speed of 130 kmph",
+    "status": "1",
+    "created_at": "2023-05-16 16:31:57",
+    "updated_at": "2023-05-16 16:31:57"
+  },
+  {
+    "id": "188",
+    "bike_id": "137",
+    "question": "What Is The Price Of Yamaha Ray ZR 125 In India?",
+    "answer": "Yamaha Ray ZR 125 ex-showroom price is Rs 83,730 - 93,530.",
+    "status": "1",
+    "created_at": "2023-05-17 12:53:06",
+    "updated_at": "2023-05-17 12:53:06"
+  },
+  {
+    "id": "189",
+    "bike_id": "137",
+    "question": "What Is The Engine Capacity Of Yamaha Ray ZR 125?",
+    "answer": "Yamaha Ray ZR 125 engine capacity is 125 CC.",
+    "status": "1",
+    "created_at": "2023-05-17 12:53:17",
+    "updated_at": "2023-05-17 12:53:17"
+  },
+  {
+    "id": "190",
+    "bike_id": "137",
+    "question": "What Is The Mileage Of Yamaha Ray ZR 125?",
+    "answer": "Yamaha Ray ZR 125 mileage is 52 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-17 12:53:28",
+    "updated_at": "2023-05-17 12:53:28"
+  },
+  {
+    "id": "191",
+    "bike_id": "137",
+    "question": "What Is The Power Of The Yamaha Ray ZR 125 Engine?",
+    "answer": "Yamaha Ray ZR 125 engine can easily belt out 8.09 bhp @ 6500 rpm.",
+    "status": "1",
+    "created_at": "2023-05-17 12:53:38",
+    "updated_at": "2023-05-17 12:53:38"
+  },
+  {
+    "id": "192",
+    "bike_id": "137",
+    "question": "What Is The Fuel Tank Capacity Of Yamaha Ray ZR 125?",
+    "answer": "Yamaha Ray ZR 125 total fuel tank capacity is 5.2 Litres.",
+    "status": "1",
+    "created_at": "2023-05-17 12:53:48",
+    "updated_at": "2023-05-17 12:53:48"
+  },
+  {
+    "id": "193",
+    "bike_id": "137",
+    "question": "What Is The Starting Mode Of Yamaha Ray ZR 125?",
+    "answer": "Yamaha Ray ZR 125 comes with Kick and Self Start starting mode.",
+    "status": "1",
+    "created_at": "2023-05-17 12:53:58",
+    "updated_at": "2023-05-17 12:53:58"
+  },
+  {
+    "id": "194",
+    "bike_id": "137",
+    "question": "How Many Cylinders Are In The Yamaha Ray ZR 125 Engine?",
+    "answer": "Yamaha Ray ZR 125 comes with a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-17 12:54:09",
+    "updated_at": "2023-05-17 12:54:09"
+  },
+  {
+    "id": "195",
+    "bike_id": "137",
+    "question": "How many Yamaha Scooter dealership showrooms are available in India?",
+    "answer": "Yamaha Motor India has 1,769 dealership showrooms in India.",
+    "status": "1",
+    "created_at": "2023-05-17 12:54:19",
+    "updated_at": "2023-05-17 12:54:19"
+  },
+  {
+    "id": "196",
+    "bike_id": "137",
+    "question": "What is the top speed of the Yamaha Ray ZR 125?",
+    "answer": "Yamaha Ray ZR 125 boasts a top speed of 90.78 Kmph.",
+    "status": "1",
+    "created_at": "2023-05-17 12:54:29",
+    "updated_at": "2023-05-17 12:54:29"
+  },
+  {
+    "id": "197",
+    "bike_id": "137",
+    "question": "How many variants are available in Yamaha Ray ZR 125?",
+    "answer": "Yamaha Ray ZR 125 is offered in 4 variants - Ray ZR 125 Hybrid Disc - MotoGP Edition, Ray ZR 125 Street Rally Hybrid, etc.",
+    "status": "1",
+    "created_at": "2023-05-17 12:54:40",
+    "updated_at": "2023-05-17 12:54:40"
+  },
+  {
+    "id": "198",
+    "bike_id": "89",
+    "question": "What Is The Price Of Yamaha Fascino 125 In India?",
+    "answer": "Yamaha Fascino 125 ex-showroom price in India ranges between Rs 79,600 - 89,500.",
+    "status": "1",
+    "created_at": "2023-05-17 16:22:25",
+    "updated_at": "2023-05-17 16:22:25"
+  },
+  {
+    "id": "199",
+    "bike_id": "89",
+    "question": "What Is The Engine Capacity Of Yamaha Fascino 125?",
+    "answer": "Yamaha Fascino 125 has a 124 CC engine capacity.",
+    "status": "1",
+    "created_at": "2023-05-17 16:22:35",
+    "updated_at": "2023-05-17 16:22:35"
+  },
+  {
+    "id": "200",
+    "bike_id": "89",
+    "question": "What Is The Mileage Of Yamaha Fascino 125?",
+    "answer": "Yamaha Fascino 125 mileage is 52.45 Kmpl",
+    "status": "1",
+    "created_at": "2023-05-17 16:22:45",
+    "updated_at": "2023-05-17 16:22:45"
+  },
+  {
+    "id": "201",
+    "bike_id": "89",
+    "question": "What Is The Power Of The Yamaha Fascino 125 Engine?",
+    "answer": "Yamaha Fascino 125 engine can churn out a maximum power output of 8.6 bhp @ 6,750 rpm.",
+    "status": "1",
+    "created_at": "2023-05-17 16:22:54",
+    "updated_at": "2023-05-17 16:22:54"
+  },
+  {
+    "id": "202",
+    "bike_id": "89",
+    "question": "What Is The Fuel Tank Capacity Of Yamaha Fascino 125?",
+    "answer": "Yamaha Fascino 125 comes with a fuel tank capacity of 5 Litres.",
+    "status": "1",
+    "created_at": "2023-05-17 16:23:02",
+    "updated_at": "2023-05-17 16:23:02"
+  },
+  {
+    "id": "203",
+    "bike_id": "89",
+    "question": "What Is The Starting Mode Of the Yamaha Fascino 125?",
+    "answer": "Yamaha Fascino 125 is equipped with an Electric Start starting mode.",
+    "status": "1",
+    "created_at": "2023-05-17 16:23:12",
+    "updated_at": "2023-05-17 16:23:12"
+  },
+  {
+    "id": "204",
+    "bike_id": "89",
+    "question": "How Many Cylinders Are In The Yamaha Fascino 125 Engine?",
+    "answer": "Yamaha Fascino 125 engine has a single-cylinder.",
+    "status": "1",
+    "created_at": "2023-05-17 16:23:22",
+    "updated_at": "2023-05-17 16:23:22"
+  },
+  {
+    "id": "205",
+    "bike_id": "89",
+    "question": "How many Yamaha Scooter dealership showrooms are available in India?",
+    "answer": "Yamaha Motor India has 1,769 dealership showrooms in India.",
+    "status": "1",
+    "created_at": "2023-05-17 16:23:37",
+    "updated_at": "2023-05-17 16:23:37"
+  },
+  {
+    "id": "206",
+    "bike_id": "89",
+    "question": "What is the top speed of the Yamaha Fascino 125?",
+    "answer": "Yamaha Fascino 125 offers a top speed of 90 Kmph.",
+    "status": "1",
+    "created_at": "2023-05-17 16:23:47",
+    "updated_at": "2023-05-17 16:23:47"
+  },
+  {
+    "id": "207",
+    "bike_id": "89",
+    "question": "How many variants are available in Yamaha Fascino 125?",
+    "answer": "Yamaha Fascino 125 is available in 6 variant models, including Fascino 125 Hybrid-Disc Deluxe, Fascino 125 Hybrid-Drum Deluxe & more.",
+    "status": "1",
+    "created_at": "2023-05-17 16:23:58",
+    "updated_at": "2023-05-17 16:23:58"
+  },
+  {
+    "id": "208",
+    "bike_id": "107",
+    "question": "What Is The Price Of Yamaha FZ S FI In India?",
+    "answer": "The Yamaha FZ S ex-showroom price is Rs 1.21 - 1.22 Lakh.",
+    "status": "1",
+    "created_at": "2023-05-17 16:38:43",
+    "updated_at": "2023-05-17 16:38:43"
+  },
+  {
+    "id": "209",
+    "bike_id": "107",
+    "question": "What Is The Engine Capacity Of Yamaha FZ S FI?",
+    "answer": "The Yamaha FZ S FI engine capacity is 149 CC.",
+    "status": "1",
+    "created_at": "2023-05-17 16:38:54",
+    "updated_at": "2023-05-17 16:38:54"
+  },
+  {
+    "id": "210",
+    "bike_id": "107",
+    "question": "What Is The Mileage Of Yamaha FZ S FI?",
+    "answer": "Yamaha FZ S FI offers a mileage of 45.5 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-17 16:39:05",
+    "updated_at": "2023-05-17 16:39:05"
+  },
+  {
+    "id": "211",
+    "bike_id": "107",
+    "question": "What Is The Power Of The Yamaha FZ S FI Engine?",
+    "answer": "The Yamaha FZ S FI engine offers a maximum power output of 12.23 bhp.",
+    "status": "1",
+    "created_at": "2023-05-17 16:39:16",
+    "updated_at": "2023-05-17 16:39:16"
+  },
+  {
+    "id": "212",
+    "bike_id": "107",
+    "question": "What Is The Body Type Of Yamaha FZ S FI?",
+    "answer": "Yamaha FZ S FI comes with a Sports body type.",
+    "status": "1",
+    "created_at": "2023-05-17 16:39:26",
+    "updated_at": "2023-05-17 16:39:26"
+  },
+  {
+    "id": "213",
+    "bike_id": "107",
+    "question": "What Is The Fuel Tank Capacity Of Yamaha FZ S FI?",
+    "answer": "The Yamaha FZ S FI comes with a fuel tank capacity of 13 Litres.",
+    "status": "1",
+    "created_at": "2023-05-17 16:39:35",
+    "updated_at": "2023-05-17 16:39:35"
+  },
+  {
+    "id": "214",
+    "bike_id": "107",
+    "question": "What Is The Starting Mode Of Yamaha FZ S FI?",
+    "answer": "Yamaha FZ S FI has a Self Start Only starting mode.",
+    "status": "1",
+    "created_at": "2023-05-17 16:39:44",
+    "updated_at": "2023-05-17 16:39:44"
+  },
+  {
+    "id": "215",
+    "bike_id": "107",
+    "question": "How Many Cylinders Are In The Yamaha FZ S FI Engine?",
+    "answer": "Yamaha FZ S FI comes with a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-17 16:39:59",
+    "updated_at": "2023-05-17 16:39:59"
+  },
+  {
+    "id": "216",
+    "bike_id": "107",
+    "question": "How many Yamaha bike dealership showrooms are available in India?",
+    "answer": "Yamaha has over 1769 bike dealership showrooms across the country.",
+    "status": "1",
+    "created_at": "2023-05-17 16:40:08",
+    "updated_at": "2023-05-17 16:40:08"
+  },
+  {
+    "id": "217",
+    "bike_id": "107",
+    "question": "What is the top speed of the Yamaha FZ S FI?",
+    "answer": "Yamaha FZ S FI can reach a top speed of 115 kmph.",
+    "status": "1",
+    "created_at": "2023-05-17 16:40:21",
+    "updated_at": "2023-05-17 16:40:21"
+  },
+  {
+    "id": "218",
+    "bike_id": "107",
+    "question": "How many variants are available in Yamaha FZ S FI?",
+    "answer": "Yamaha offers FZ S FI in 3 variants: FZ S FI Deluxe [2022], FZ S FI Standard - [2022] and FZ-S FI Ver 4.0 DLX.",
+    "status": "1",
+    "created_at": "2023-05-17 16:40:32",
+    "updated_at": "2023-05-17 16:40:32"
+  },
+  {
+    "id": "219",
+    "bike_id": "32",
+    "question": "What Is The Price Of Yamaha R15 V4 In India?",
+    "answer": "The Yamaha R15 V4 ex-showroom price in India ranges between Rs 1.81 to 1.92 Lakhs.",
+    "status": "1",
+    "created_at": "2023-05-17 16:57:43",
+    "updated_at": "2023-05-17 16:57:43"
+  },
+  {
+    "id": "220",
+    "bike_id": "32",
+    "question": "What Is The Engine Capacity Of Yamaha R15 V4?",
+    "answer": "The Yamaha R15 V4 engine capacity is 155 CC.",
+    "status": "1",
+    "created_at": "2023-05-17 16:57:52",
+    "updated_at": "2023-05-17 16:57:52"
+  },
+  {
+    "id": "221",
+    "bike_id": "32",
+    "question": "What Is The Mileage Of Yamaha R15 V4?",
+    "answer": "Yamaha R15 V4 offers a mileage of 45 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-17 16:58:01",
+    "updated_at": "2023-05-17 16:58:01"
+  },
+  {
+    "id": "222",
+    "bike_id": "32",
+    "question": "What Is The Power Of The Yamaha R15 V4 Engine?",
+    "answer": "The Yamaha R15 V4 engine can churn out a maximum power output of 18.15 bhp at 10000 rpm.",
+    "status": "1",
+    "created_at": "2023-05-17 16:58:11",
+    "updated_at": "2023-05-17 16:58:11"
+  },
+  {
+    "id": "223",
+    "bike_id": "32",
+    "question": "What Is The Body Type Of Yamaha R15 V4?",
+    "answer": "Yamaha R15 V4 has a sports body type.",
+    "status": "1",
+    "created_at": "2023-05-17 16:58:20",
+    "updated_at": "2023-05-17 16:58:20"
+  },
+  {
+    "id": "224",
+    "bike_id": "32",
+    "question": "What Is The Fuel Tank Capacity Of Yamaha R15 V4?",
+    "answer": "Yamaha R15 V4 comes with a total fuel tank capacity of 11 litres.",
+    "status": "1",
+    "created_at": "2023-05-17 16:58:29",
+    "updated_at": "2023-05-17 16:58:29"
+  },
+  {
+    "id": "225",
+    "bike_id": "32",
+    "question": "What Is The Starting Mode Of Yamaha R15 V4?",
+    "answer": "Yamaha R15 V4 has a Self Start starting mode.",
+    "status": "1",
+    "created_at": "2023-05-17 16:58:44",
+    "updated_at": "2023-05-17 16:58:44"
+  },
+  {
+    "id": "226",
+    "bike_id": "32",
+    "question": "How Many Cylinders Are In The Yamaha R15 V4 Engine?",
+    "answer": "Yamaha R15 V4 comes with a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-17 16:58:52",
+    "updated_at": "2023-05-17 16:58:52"
+  },
+  {
+    "id": "227",
+    "bike_id": "32",
+    "question": "How many Yamaha bike dealership showrooms are available in India?",
+    "answer": "Yamaha has over 2,452 bike showrooms spread across 733 cities in India.",
+    "status": "1",
+    "created_at": "2023-05-17 16:59:03",
+    "updated_at": "2023-05-17 16:59:03"
+  },
+  {
+    "id": "228",
+    "bike_id": "32",
+    "question": "What is the top speed of the Yamaha R15 V4?",
+    "answer": "Yamaha R15 V4 can reach a top speed of 140 Kmph.",
+    "status": "1",
+    "created_at": "2023-05-17 16:59:16",
+    "updated_at": "2023-05-17 16:59:16"
+  },
+  {
+    "id": "229",
+    "bike_id": "32",
+    "question": "How many variants are available in Yamaha R15 V4?",
+    "answer": "Yamaha R15 V4 is available in 6 variants - R15 V4 M - MotoGP Edition, R15 V4 World GP 60th Anniversary Edition and more.",
+    "status": "1",
+    "created_at": "2023-05-17 16:59:26",
+    "updated_at": "2023-05-17 16:59:26"
+  },
+  {
+    "id": "230",
+    "bike_id": "87",
+    "question": "What Is The Price Of Hero HF Deluxe In India?",
+    "answer": "Hero HF Deluxe ex-showroom price in India ranges between Rs 59,990 - 67,138.",
+    "status": "1",
+    "created_at": "2023-05-18 10:11:27",
+    "updated_at": "2023-05-18 10:11:27"
+  },
+  {
+    "id": "231",
+    "bike_id": "87",
+    "question": "What Is The Engine Capacity Of Hero HF Deluxe?",
+    "answer": "Hero HF Deluxe comes with 97.2 cc engine capacity.",
+    "status": "1",
+    "created_at": "2023-05-18 10:11:35",
+    "updated_at": "2023-05-18 10:11:35"
+  },
+  {
+    "id": "232",
+    "bike_id": "87",
+    "question": "What Is The Mileage Of Hero HF Deluxe?",
+    "answer": "Hero HF Deluxe mileage is 65 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-18 10:11:44",
+    "updated_at": "2023-05-18 10:11:44"
+  },
+  {
+    "id": "233",
+    "bike_id": "87",
+    "question": "What Is The Power Of The Hero HF Deluxe Engine?",
+    "answer": "Hero HF Deluxe engine belts out a maximum power output of 5.9 kW @ 8000 rpm.",
+    "status": "1",
+    "created_at": "2023-05-18 10:11:52",
+    "updated_at": "2023-05-18 10:11:52"
+  },
+  {
+    "id": "234",
+    "bike_id": "87",
+    "question": "What Is The Body Type Of Hero HF Deluxe?",
+    "answer": "Hero HF Deluxe is built to have a Commuter body type.",
+    "status": "1",
+    "created_at": "2023-05-18 10:12:01",
+    "updated_at": "2023-05-18 10:12:01"
+  },
+  {
+    "id": "235",
+    "bike_id": "87",
+    "question": "What Is The Fuel Tank Capacity Of Hero HF Deluxe?",
+    "answer": "Hero HF Deluxe comes with a 9.6 Litres of fuel tank capacity.",
+    "status": "1",
+    "created_at": "2023-05-18 10:12:11",
+    "updated_at": "2023-05-18 10:12:11"
+  },
+  {
+    "id": "236",
+    "bike_id": "87",
+    "question": "What Is The Starting Mode Of Hero HF Deluxe?",
+    "answer": "Hero HF Deluxe has Kick-start, Self Start starting mode.",
+    "status": "1",
+    "created_at": "2023-05-18 10:12:25",
+    "updated_at": "2023-05-18 10:12:25"
+  },
+  {
+    "id": "237",
+    "bike_id": "87",
+    "question": "How Many Cylinders Are In The Hero HF Deluxe Engine?",
+    "answer": "Hero HF Deluxe comes with a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-18 10:12:37",
+    "updated_at": "2023-05-18 10:12:37"
+  },
+  {
+    "id": "238",
+    "bike_id": "87",
+    "question": "How many Hero bike dealership showrooms are available in India?",
+    "answer": "There are 1709 Hero bike dealership showrooms spread across the country.",
+    "status": "1",
+    "created_at": "2023-05-18 10:12:48",
+    "updated_at": "2023-05-18 10:12:48"
+  },
+  {
+    "id": "239",
+    "bike_id": "87",
+    "question": "What is the top speed of the Hero HF Deluxe?",
+    "answer": "Hero HF Deluxe can reach a top speed of 85-90 kmph.",
+    "status": "1",
+    "created_at": "2023-05-18 10:12:57",
+    "updated_at": "2023-05-18 10:12:57"
+  },
+  {
+    "id": "240",
+    "bike_id": "87",
+    "question": "How many variants are available in Hero HF Deluxe?",
+    "answer": "Hero HF Deluxe is offered in 4 variants - HF Deluxe Drum Self Alloy Black, HF Deluxe Self Alloy i3S BS6 and more.",
+    "status": "1",
+    "created_at": "2023-05-18 10:13:22",
+    "updated_at": "2023-05-18 10:13:22"
+  },
+  {
+    "id": "241",
+    "bike_id": "66",
+    "question": "What Is The Price Of Hero Passion Pro In India?",
+    "answer": "Hero Passion Pro ex-showroom price in India ranges between Rs 74,408 - 77,408.",
+    "status": "1",
+    "created_at": "2023-05-18 10:32:24",
+    "updated_at": "2023-05-18 10:32:24"
+  },
+  {
+    "id": "242",
+    "bike_id": "66",
+    "question": "What Is The Engine Capacity Of Hero Passion Pro?",
+    "answer": "Hero Passion Pro has a 110 CC engine capacity.",
+    "status": "1",
+    "created_at": "2023-05-18 10:32:34",
+    "updated_at": "2023-05-18 10:32:34"
+  },
+  {
+    "id": "243",
+    "bike_id": "66",
+    "question": "What Is The Mileage Of Hero Passion Pro?",
+    "answer": "Hero Passion Pro has 60 kmpl mileage.",
+    "status": "1",
+    "created_at": "2023-05-18 10:32:47",
+    "updated_at": "2023-05-18 10:32:47"
+  },
+  {
+    "id": "244",
+    "bike_id": "66",
+    "question": "What Is The Power Of The Hero Passion Pro Engine?",
+    "answer": "Hero Passion Pro engine can produce a maximum power output of 6.73 KW @ 7,500 rpm.",
+    "status": "1",
+    "created_at": "2023-05-18 10:33:00",
+    "updated_at": "2023-05-18 10:33:00"
+  },
+  {
+    "id": "245",
+    "bike_id": "66",
+    "question": "What Is The Body Type Of Hero Passion Pro?",
+    "answer": "Hero Passion Pro is built to have a commuter body type.",
+    "status": "1",
+    "created_at": "2023-05-18 10:33:11",
+    "updated_at": "2023-05-18 10:33:11"
+  },
+  {
+    "id": "246",
+    "bike_id": "66",
+    "question": "What Is The Fuel Tank Capacity Of Hero Passion Pro?",
+    "answer": "Hero Passion Pro comes with a total fuel tank capacity of 10 Litres.",
+    "status": "1",
+    "created_at": "2023-05-18 10:33:22",
+    "updated_at": "2023-05-18 10:33:22"
+  },
+  {
+    "id": "247",
+    "bike_id": "66",
+    "question": "What Is The Starting Mode Of Hero Passion Pro?",
+    "answer": "Hero Passion Pro comes with an Electric/Kick Start starting mode.",
+    "status": "1",
+    "created_at": "2023-05-18 10:33:33",
+    "updated_at": "2023-05-18 10:33:33"
+  },
+  {
+    "id": "248",
+    "bike_id": "66",
+    "question": "How Many Cylinders Are In The Hero Passion Pro Engine?",
+    "answer": "Hero Passion Pro boasts a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-18 10:33:45",
+    "updated_at": "2023-05-18 10:33:45"
+  },
+  {
+    "id": "249",
+    "bike_id": "66",
+    "question": "How many Hero bike dealership showrooms are available in India?",
+    "answer": "There are 1709 Hero bike dealership showrooms spread across the country.",
+    "status": "1",
+    "created_at": "2023-05-18 10:33:53",
+    "updated_at": "2023-05-18 10:33:53"
+  },
+  {
+    "id": "250",
+    "bike_id": "66",
+    "question": "What is the top speed of the Hero Passion Pro?",
+    "answer": "Hero Passion Pro can easily achieve a top speed of 90 kmph.",
+    "status": "1",
+    "created_at": "2023-05-18 10:34:04",
+    "updated_at": "2023-05-18 10:34:04"
+  },
+  {
+    "id": "251",
+    "bike_id": "66",
+    "question": "How many variants are available in Hero Passion Pro?",
+    "answer": "Hero Passion Pro is available in 3 variants - Passion Pro Disc - BS VI, Passion Pro Drum - BS VI & Passion Pro (2023).",
+    "status": "1",
+    "created_at": "2023-05-18 10:34:17",
+    "updated_at": "2023-05-18 10:34:17"
+  },
+  {
+    "id": "252",
+    "bike_id": "155",
+    "question": "What Is The Price Of Hero Maestro Edge 125 In India?",
+    "answer": "Hero Maestro Edge 125 ex-showroom price in India ranges between Rs 77,896 - 86,766.",
+    "status": "1",
+    "created_at": "2023-05-19 11:22:35",
+    "updated_at": "2023-05-19 11:22:35"
+  },
+  {
+    "id": "253",
+    "bike_id": "155",
+    "question": "What Is The Engine Capacity Of Hero Maestro Edge 125?",
+    "answer": "Hero Maestro Edge 125 comes with 124.6 CC engine capacity.",
+    "status": "1",
+    "created_at": "2023-05-19 11:22:48",
+    "updated_at": "2023-05-19 11:22:48"
+  },
+  {
+    "id": "254",
+    "bike_id": "155",
+    "question": "What Is The Mileage Of Hero Maestro Edge 125?",
+    "answer": "Hero Maestro Edge 125 mileage is 65 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-19 11:23:00",
+    "updated_at": "2023-05-19 11:23:00"
+  },
+  {
+    "id": "255",
+    "bike_id": "155",
+    "question": "What Is The Power Of The Hero Maestro Edge 125 Engine?",
+    "answer": "Hero Maestro Edge 125 engine belts out a maximum power output of 8.98 bhp @ 7000 rpm.",
+    "status": "1",
+    "created_at": "2023-05-19 11:23:11",
+    "updated_at": "2023-05-19 11:23:11"
+  },
+  {
+    "id": "256",
+    "bike_id": "155",
+    "question": "What Is The Fuel Tank Capacity Of Hero Maestro Edge 125?",
+    "answer": "Hero Maestro Edge 125 comes with a 5 Litres of fuel tank capacity.",
+    "status": "1",
+    "created_at": "2023-05-19 11:23:21",
+    "updated_at": "2023-05-19 11:23:21"
+  },
+  {
+    "id": "257",
+    "bike_id": "155",
+    "question": "What Is The Starting Mode Of Hero Maestro Edge 125?",
+    "answer": "Hero Maestro Edge 125 has Kick-start & Self Start starting mode.",
+    "status": "1",
+    "created_at": "2023-05-19 11:23:34",
+    "updated_at": "2023-05-19 11:23:34"
+  },
+  {
+    "id": "258",
+    "bike_id": "155",
+    "question": "How Many Cylinders Are In The Hero Maestro Edge 125 Engine?",
+    "answer": "Hero Maestro Edge 125 comes with a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-19 11:23:44",
+    "updated_at": "2023-05-19 11:23:44"
+  },
+  {
+    "id": "259",
+    "bike_id": "155",
+    "question": "How many Hero bike dealership showrooms are available in India?",
+    "answer": "There are 1709 Hero bike dealership showrooms spread across the country.",
+    "status": "1",
+    "created_at": "2023-05-19 11:23:55",
+    "updated_at": "2023-05-19 11:23:55"
+  },
+  {
+    "id": "260",
+    "bike_id": "155",
+    "question": "What is the top speed of the Hero Maestro Edge 125?",
+    "answer": "Hero Maestro Edge 125 can reach a top speed of 90 kmph.",
+    "status": "1",
+    "created_at": "2023-05-19 11:24:04",
+    "updated_at": "2023-05-19 11:24:04"
+  },
+  {
+    "id": "261",
+    "bike_id": "155",
+    "question": "How many variants are available in Hero Maestro Edge 125?",
+    "answer": "Hero Maestro Edge 125 is offered in 4 variants - Maestro Edge 125 Connected - 2021, Maestro Edge 125 Disc - 2021 and more.",
+    "status": "1",
+    "created_at": "2023-05-19 11:24:14",
+    "updated_at": "2023-05-19 11:24:14"
+  },
+  {
+    "id": "262",
+    "bike_id": "8",
+    "question": "What Is The Price Of TVS Apache RTR 160 In India?",
+    "answer": "TVS Apache RTR 160 ex-showroom price in India ranges between Rs 1.14 - 1.25 Lakh.",
+    "status": "1",
+    "created_at": "2023-05-19 12:10:02",
+    "updated_at": "2023-05-19 12:10:02"
+  },
+  {
+    "id": "263",
+    "bike_id": "8",
+    "question": "What Is The Engine Capacity Of TVS Apache RTR 160?",
+    "answer": "TVS Apache RTR 160 comes with 159.7 CC engine capacity.",
+    "status": "1",
+    "created_at": "2023-05-19 12:10:11",
+    "updated_at": "2023-05-19 12:10:11"
+  },
+  {
+    "id": "264",
+    "bike_id": "8",
+    "question": "What Is The Mileage Of TVS Apache RTR 160?",
+    "answer": "TVS Apache RTR 160 mileage is 50 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-19 12:10:31",
+    "updated_at": "2023-05-19 12:10:31"
+  },
+  {
+    "id": "265",
+    "bike_id": "8",
+    "question": "What Is The Power Of The TVS Apache RTR 160 Engine?",
+    "answer": "TVS Apache RTR 160 engine belts out a maximum power output of 15.31 bhp @ 8,400 rpm.",
+    "status": "1",
+    "created_at": "2023-05-19 12:10:38",
+    "updated_at": "2023-05-19 12:10:38"
+  },
+  {
+    "id": "266",
+    "bike_id": "8",
+    "question": "What Is The Body Type Of TVS Apache RTR 160?",
+    "answer": "TVS Apache RTR 160 is built to have a Commuter Street body type.",
+    "status": "1",
+    "created_at": "2023-05-19 12:10:49",
+    "updated_at": "2023-05-19 12:10:49"
+  },
+  {
+    "id": "267",
+    "bike_id": "8",
+    "question": "What Is The Fuel Tank Capacity Of TVS Apache RTR 160?",
+    "answer": "TVS Apache RTR 160 comes with a 12 Litres of fuel tank capacity.",
+    "status": "1",
+    "created_at": "2023-05-19 12:11:00",
+    "updated_at": "2023-05-19 12:11:00"
+  },
+  {
+    "id": "268",
+    "bike_id": "8",
+    "question": "What Is The Starting Mode Of TVS Apache RTR 160?",
+    "answer": "TVS Apache RTR 160 has an Electric Start starting mode.",
+    "status": "1",
+    "created_at": "2023-05-19 12:11:22",
+    "updated_at": "2023-05-19 12:11:22"
+  },
+  {
+    "id": "269",
+    "bike_id": "8",
+    "question": "How Many Cylinders Are In The TVS Apache RTR 160 Engine?",
+    "answer": "TVS Apache RTR 160 comes with a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-19 12:11:31",
+    "updated_at": "2023-05-19 12:11:31"
+  },
+  {
+    "id": "270",
+    "bike_id": "8",
+    "question": "How many TVS bike dealership showrooms are available in India?",
+    "answer": "There are 6187 TVS bike dealership showrooms spread across the country.",
+    "status": "1",
+    "created_at": "2023-05-19 12:11:40",
+    "updated_at": "2023-05-19 12:11:40"
+  },
+  {
+    "id": "271",
+    "bike_id": "8",
+    "question": "What is the top speed of the TVS Apache RTR 160?",
+    "answer": "TVS Apache RTR 160 can reach a top speed of 107 Kmph.",
+    "status": "1",
+    "created_at": "2023-05-19 12:11:52",
+    "updated_at": "2023-05-19 12:11:52"
+  },
+  {
+    "id": "272",
+    "bike_id": "8",
+    "question": "How many variants are available in TVS Apache RTR 160?",
+    "answer": "TVS Apache RTR 160 is offered in 5 variants - Apache RTR 160 Disc (2022), Apache RTR 160 Drum (2022) and more.",
+    "status": "1",
+    "created_at": "2023-05-19 12:12:02",
+    "updated_at": "2023-05-19 12:12:02"
+  },
+  {
+    "id": "273",
+    "bike_id": "135",
+    "question": "What is the ex-showroom price of the 2023 TVS Raider 125?",
+    "answer": "TVS Raider 125 ex-showroom price in India is set at Rs 93,719.",
+    "status": "1",
+    "created_at": "2023-05-19 12:44:32",
+    "updated_at": "2023-05-19 12:44:32"
+  },
+  {
+    "id": "274",
+    "bike_id": "135",
+    "question": "What is the claimed mileage of the TVS Raider 125?",
+    "answer": "TVS Raider 125 mileage is 57 kmpl.",
+    "status": "1",
+    "created_at": "2023-05-19 12:44:45",
+    "updated_at": "2023-05-19 12:44:45"
+  },
+  {
+    "id": "275",
+    "bike_id": "135",
+    "question": "What are the variants of TVS Raider 125?",
+    "answer": "TVS Raider 125 comes in 3 variants, including Single Seat,Split seat, and SX.",
+    "status": "1",
+    "created_at": "2023-05-19 12:44:56",
+    "updated_at": "2023-05-19 12:44:56"
+  },
+  {
+    "id": "276",
+    "bike_id": "135",
+    "question": "What are the different colour schemes for TVS Raider 125?",
+    "answer": "TVS Raider 125 comes in 4 different colours, including Striking Red, Blazing Blue, Wicked Black, and Fiery Yellow.",
+    "status": "1",
+    "created_at": "2023-05-19 12:45:06",
+    "updated_at": "2023-05-19 12:45:06"
+  },
+  {
+    "id": "277",
+    "bike_id": "135",
+    "question": "What is the power output of TVS Raider 125?",
+    "answer": "TVS Raider 125 generates a power of 11.2 bhp along with a torque of 11.2 Nm.",
+    "status": "1",
+    "created_at": "2023-05-19 12:45:16",
+    "updated_at": "2023-05-19 12:45:16"
+  },
+  {
+    "id": "278",
+    "bike_id": "135",
+    "question": "What are the different competitors of TVS Raider 125 in the market?",
+    "answer": "TVS Raider 125 has multiple competitors in the market, including Bajaj Pulsar NS 125, Honda SP 125 and Hero Glamour Xtec.",
+    "status": "1",
+    "created_at": "2023-05-19 12:45:25",
+    "updated_at": "2023-05-19 12:45:25"
+  },
+  {
+    "id": "279",
+    "bike_id": "135",
+    "question": "How many TVS Bike dealership showrooms are available in India?",
+    "answer": "There are over 6192 TVS Bike dealership showrooms in India.",
+    "status": "1",
+    "created_at": "2023-05-19 12:45:36",
+    "updated_at": "2023-05-19 12:45:36"
+  },
+  {
+    "id": "280",
+    "bike_id": "135",
+    "question": "What Is The Starting Mode Of TVS Raider 125?",
+    "answer": "TVS Raider 125 has an Electric Start starting mode.",
+    "status": "1",
+    "created_at": "2023-05-19 12:45:46",
+    "updated_at": "2023-05-19 12:45:46"
+  },
+  {
+    "id": "281",
+    "bike_id": "135",
+    "question": "How Many Cylinders Are In TVS Raider 125 Engine?",
+    "answer": "TVS Raider 125 comes with single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-19 12:45:56",
+    "updated_at": "2023-05-19 12:45:56"
+  },
+  {
+    "id": "282",
+    "bike_id": "135",
+    "question": "What is the fuel tank capacity of TVS Raider 125?",
+    "answer": "TVS Raider 125 boasts a total fuel tank capacity of 10 litres.",
+    "status": "1",
+    "created_at": "2023-05-19 12:46:07",
+    "updated_at": "2023-05-19 12:46:07"
+  },
+  {
+    "id": "283",
+    "bike_id": "135",
+    "question": "What is the top speed of TVS Raider 125?",
+    "answer": "TVS Raider 125 can reach a top speed of 99 Kmph.",
+    "status": "1",
+    "created_at": "2023-05-19 12:46:18",
+    "updated_at": "2023-05-19 12:46:18"
+  },
+  {
+    "id": "284",
+    "bike_id": "135",
+    "question": "What is the body type of TVS Raider 125?",
+    "answer": "TVS Raider 125 is built to have a Naked body type.",
+    "status": "1",
+    "created_at": "2023-05-19 12:46:26",
+    "updated_at": "2023-05-19 12:46:26"
+  },
+  {
+    "id": "285",
+    "bike_id": "277",
+    "question": "What Is The Price Of TVS Sport In India?",
+    "answer": "TVS Sport ex-showroom price in India ranges between Rs 64,050 - 70,223.",
+    "status": "1",
+    "created_at": "2023-05-22 10:14:56",
+    "updated_at": "2023-05-22 10:14:56"
+  },
+  {
+    "id": "286",
+    "bike_id": "277",
+    "question": "What Is The Engine Capacity Of TVS Sport?",
+    "answer": "TVS Sport comes with 109.7 CC engine capacity.",
+    "status": "1",
+    "created_at": "2023-05-22 10:15:08",
+    "updated_at": "2023-05-22 10:15:08"
+  },
+  {
+    "id": "287",
+    "bike_id": "277",
+    "question": "What Is The Mileage Of TVS Sport?",
+    "answer": "TVS Sport mileage is 70 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-22 10:15:19",
+    "updated_at": "2023-05-22 10:15:19"
+  },
+  {
+    "id": "288",
+    "bike_id": "277",
+    "question": "What Is The Power Of The TVS Sport Engine?",
+    "answer": "TVS Sport engine belts out a maximum power output of 8.18 bhp @ 7350 rpm.",
+    "status": "1",
+    "created_at": "2023-05-22 10:15:32",
+    "updated_at": "2023-05-22 10:15:32"
+  },
+  {
+    "id": "289",
+    "bike_id": "277",
+    "question": "What Is The Body Type Of TVS Sport?",
+    "answer": "TVS Sport is built to have a Commuter body type.",
+    "status": "1",
+    "created_at": "2023-05-22 10:15:46",
+    "updated_at": "2023-05-22 10:15:46"
+  },
+  {
+    "id": "290",
+    "bike_id": "277",
+    "question": "What Is The Fuel Tank Capacity Of TVS Sport?",
+    "answer": "TVS Sport comes with a 10 Litres of fuel tank capacity.",
+    "status": "1",
+    "created_at": "2023-05-22 10:16:02",
+    "updated_at": "2023-05-22 10:16:02"
+  },
+  {
+    "id": "291",
+    "bike_id": "277",
+    "question": "What Is The Starting Mode Of TVS Sport?",
+    "answer": "TVS Sport has a Kick Start Only starting mode.",
+    "status": "1",
+    "created_at": "2023-05-22 10:16:14",
+    "updated_at": "2023-05-22 10:16:14"
+  },
+  {
+    "id": "292",
+    "bike_id": "277",
+    "question": "How Many Cylinders Are In The TVS Sport Engine?",
+    "answer": "TVS Sport comes with a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-22 10:16:30",
+    "updated_at": "2023-05-22 10:16:30"
+  },
+  {
+    "id": "293",
+    "bike_id": "277",
+    "question": "How many TVS bike dealership showrooms are available in India?",
+    "answer": "There are 6187 TVS bike dealership showrooms spread across the country.",
+    "status": "1",
+    "created_at": "2023-05-22 10:16:48",
+    "updated_at": "2023-05-22 10:16:48"
+  },
+  {
+    "id": "294",
+    "bike_id": "277",
+    "question": "What is the top speed of the TVS Sport?",
+    "answer": "TVS Sport can reach a top speed of 90 Kmph.",
+    "status": "1",
+    "created_at": "2023-05-22 10:17:03",
+    "updated_at": "2023-05-22 10:17:03"
+  },
+  {
+    "id": "295",
+    "bike_id": "277",
+    "question": "How many variants are available in TVS Sport?",
+    "answer": "TVS Sport is offered in 2 variants - Sport Kick Start Alloy BS6 & Sport Self Start Alloy BS6.",
+    "status": "1",
+    "created_at": "2023-05-22 10:17:22",
+    "updated_at": "2023-05-22 10:17:22"
+  },
+  {
+    "id": "296",
+    "bike_id": "129",
+    "question": "What Is The Price Of TVS Radeon In India?",
+    "answer": "TVS Radeon ex-showroom price in India ranges between Rs 60,925 - 78,834.",
+    "status": "1",
+    "created_at": "2023-05-22 10:30:06",
+    "updated_at": "2023-05-22 10:30:06"
+  },
+  {
+    "id": "297",
+    "bike_id": "129",
+    "question": "What Is The Engine Capacity Of TVS Radeon?",
+    "answer": "TVS Radeon comes with 109.7 CC engine capacity.",
+    "status": "1",
+    "created_at": "2023-05-22 10:30:21",
+    "updated_at": "2023-05-22 10:30:21"
+  },
+  {
+    "id": "298",
+    "bike_id": "129",
+    "question": "What Is The Mileage Of TVS Radeon?",
+    "answer": "TVS Radeon mileage is 65 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-22 10:30:32",
+    "updated_at": "2023-05-22 10:30:32"
+  },
+  {
+    "id": "299",
+    "bike_id": "129",
+    "question": "What Is The Power Of The TVS Radeon Engine?",
+    "answer": "TVS Radeon engine belts out a maximum power output of 8.08 bhp @ 7,350 rpm.",
+    "status": "1",
+    "created_at": "2023-05-22 10:30:48",
+    "updated_at": "2023-05-22 10:30:48"
+  },
+  {
+    "id": "300",
+    "bike_id": "129",
+    "question": "What Is The Body Type Of TVS Radeon?",
+    "answer": "TVS Radeon is built to have a Commuter body type.",
+    "status": "1",
+    "created_at": "2023-05-22 10:31:02",
+    "updated_at": "2023-05-22 10:31:02"
+  },
+  {
+    "id": "301",
+    "bike_id": "129",
+    "question": "What Is The Fuel Tank Capacity Of TVS Radeon?",
+    "answer": "TVS Radeon comes with a 10 Litres of fuel tank capacity.",
+    "status": "1",
+    "created_at": "2023-05-22 10:31:20",
+    "updated_at": "2023-05-22 10:31:20"
+  },
+  {
+    "id": "302",
+    "bike_id": "129",
+    "question": "What Is The Starting Mode Of TVS Radeon?",
+    "answer": "TVS Radeon has an electric starting mode.",
+    "status": "1",
+    "created_at": "2023-05-22 10:31:33",
+    "updated_at": "2023-05-22 10:31:33"
+  },
+  {
+    "id": "303",
+    "bike_id": "129",
+    "question": "How Many Cylinders Are In The TVS Radeon Engine?",
+    "answer": "TVS Radeon comes with a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-22 10:31:43",
+    "updated_at": "2023-05-22 10:31:43"
+  },
+  {
+    "id": "304",
+    "bike_id": "129",
+    "question": "How many TVS bike dealership showrooms are available in India?",
+    "answer": "There are 6187 TVS bike dealership showrooms spread across the country.",
+    "status": "1",
+    "created_at": "2023-05-22 10:31:54",
+    "updated_at": "2023-05-22 10:31:54"
+  },
+  {
+    "id": "305",
+    "bike_id": "129",
+    "question": "What is the top speed of the TVS Radeon?",
+    "answer": "TVS Radeon can reach a top speed of 90 Kmph.",
+    "status": "1",
+    "created_at": "2023-05-22 10:32:06",
+    "updated_at": "2023-05-22 10:32:06"
+  },
+  {
+    "id": "306",
+    "bike_id": "129",
+    "question": "How many variants are available in TVS Radeon?",
+    "answer": "TVS Radeon is offered in 5 variants - Radeon Dual Tone - Drum, Radeon Dual Tone - Disc and more.",
+    "status": "1",
+    "created_at": "2023-05-22 10:32:18",
+    "updated_at": "2023-05-22 10:32:18"
+  },
+  {
+    "id": "307",
+    "bike_id": "95",
+    "question": "What Is The TVS Jupiter Price In India?",
+    "answer": "The TVS Jupiter price starts from Rs. 71,390 and goes to Rs.  87,693.",
+    "status": "1",
+    "created_at": "2023-05-22 11:42:12",
+    "updated_at": "2023-05-22 11:42:12"
+  },
+  {
+    "id": "308",
+    "bike_id": "95",
+    "question": "What Is TVS Jupiter Mileage?",
+    "answer": "The TVS Jupiter gives a mileage of 60.44 kmpl.",
+    "status": "1",
+    "created_at": "2023-05-22 11:42:27",
+    "updated_at": "2023-05-31 09:21:55"
+  },
+  {
+    "id": "309",
+    "bike_id": "95",
+    "question": "What Is The Engine Capacity Of TVS Jupiter?",
+    "answer": "TVS Jupiter is powered by a single cylinder 4-stroke and 109.7 cc engine.",
+    "status": "1",
+    "created_at": "2023-05-22 11:42:45",
+    "updated_at": "2023-05-22 11:42:45"
+  },
+  {
+    "id": "310",
+    "bike_id": "95",
+    "question": "What Is The Power Output Of TVS Jupiter?",
+    "answer": "The power output generated by TVS Jupiter is 5.8 kW at 7500 rpm.",
+    "status": "1",
+    "created_at": "2023-05-22 11:42:58",
+    "updated_at": "2023-05-31 09:22:09"
+  },
+  {
+    "id": "311",
+    "bike_id": "95",
+    "question": "What is The Fuel Tank Capacity provided by TVS Jupiter?",
+    "answer": "The Fuel Tank Capacity of TVS Jupiter is 6 L.",
+    "status": "1",
+    "created_at": "2023-05-22 11:43:14",
+    "updated_at": "2023-05-22 11:43:14"
+  },
+  {
+    "id": "312",
+    "bike_id": "95",
+    "question": "What Is The Starting Mode Of TVS Jupiter?",
+    "answer": "TVS Jupiter comes up with an Electric Start starting mode.",
+    "status": "1",
+    "created_at": "2023-05-22 11:43:30",
+    "updated_at": "2023-05-22 11:43:30"
+  },
+  {
+    "id": "313",
+    "bike_id": "95",
+    "question": "How Many Cylinders Are In The TVS Jupiter Engine?",
+    "answer": "TVS Jupiter comes up with a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-22 11:43:42",
+    "updated_at": "2023-05-22 11:43:42"
+  },
+  {
+    "id": "314",
+    "bike_id": "95",
+    "question": "How Many Variants Are Available In TVS Jupiter ?",
+    "answer": "TVS Jupiter is available in six variants: ZX SmartXonnect, ZX Drum - AOL, Sheet Metal Wheel(SMW), ZX Disc, Standard and Classic ET-Fi.",
+    "status": "1",
+    "created_at": "2023-05-22 11:43:52",
+    "updated_at": "2023-05-22 11:43:52"
+  },
+  {
+    "id": "315",
+    "bike_id": "95",
+    "question": "How Many TVS Jupiter Dealership Showrooms Are Available In India?",
+    "answer": "There are 3834 TVS dealership showrooms in India",
+    "status": "1",
+    "created_at": "2023-05-22 11:44:07",
+    "updated_at": "2023-05-22 11:44:07"
+  },
+  {
+    "id": "316",
+    "bike_id": "95",
+    "question": "What is The Top Speed provided by TVS Jupiter?",
+    "answer": "TVS Jupiter can achieve a top speed of 78 kmph.",
+    "status": "1",
+    "created_at": "2023-05-22 11:44:27",
+    "updated_at": "2023-05-22 11:44:27"
+  },
+  {
+    "id": "317",
+    "bike_id": "18",
+    "question": "What Is The Price Of Honda Shine In India?",
+    "answer": "Honda Shine ex-showroom price in India ranges between Rs 78,687 - 84,187.",
+    "status": "1",
+    "created_at": "2023-05-22 12:09:39",
+    "updated_at": "2023-05-22 12:09:39"
+  },
+  {
+    "id": "318",
+    "bike_id": "18",
+    "question": "What Is The Engine Capacity Of Honda Shine?",
+    "answer": "Honda Shine comes with 124 CC engine capacity.",
+    "status": "1",
+    "created_at": "2023-05-22 12:09:48",
+    "updated_at": "2023-05-22 12:09:48"
+  },
+  {
+    "id": "319",
+    "bike_id": "18",
+    "question": "What Is The Mileage Of Honda Shine?",
+    "answer": "Honda Shine mileage is 65 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-22 12:09:57",
+    "updated_at": "2023-05-22 12:09:57"
+  },
+  {
+    "id": "320",
+    "bike_id": "18",
+    "question": "What Is The Power Of The Honda Shine Engine?",
+    "answer": "Honda Shine engine belts out a maximum power output of 10.59 bhp @ 7500 rpm.",
+    "status": "1",
+    "created_at": "2023-05-22 12:10:08",
+    "updated_at": "2023-05-22 12:10:08"
+  },
+  {
+    "id": "321",
+    "bike_id": "18",
+    "question": "What Is The Body Type Of Honda Shine?",
+    "answer": "Honda Shine is built to have a Commuter body type.",
+    "status": "1",
+    "created_at": "2023-05-22 12:10:20",
+    "updated_at": "2023-05-22 12:10:20"
+  },
+  {
+    "id": "322",
+    "bike_id": "18",
+    "question": "What Is The Fuel Tank Capacity Of Honda Shine?",
+    "answer": "Honda Shine comes with a 10.5 Litres of fuel tank capacity.",
+    "status": "1",
+    "created_at": "2023-05-22 12:10:30",
+    "updated_at": "2023-05-22 12:10:30"
+  },
+  {
+    "id": "323",
+    "bike_id": "18",
+    "question": "What Is The Starting Model Of Honda Shine?",
+    "answer": "Honda Shine has a Kick and Self Start starting mode.",
+    "status": "1",
+    "created_at": "2023-05-22 12:10:40",
+    "updated_at": "2023-05-22 12:10:40"
+  },
+  {
+    "id": "324",
+    "bike_id": "18",
+    "question": "How Many Cylinders Are In The Honda Shine Engine?",
+    "answer": "Honda Shine comes with a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-22 12:10:48",
+    "updated_at": "2023-05-22 12:10:48"
+  },
+  {
+    "id": "325",
+    "bike_id": "18",
+    "question": "How many Honda bike dealership showrooms are available in India?",
+    "answer": "There are 2825 Honda bike dealership showrooms spread across the country.",
+    "status": "1",
+    "created_at": "2023-05-22 12:10:58",
+    "updated_at": "2023-05-22 12:10:58"
+  },
+  {
+    "id": "326",
+    "bike_id": "18",
+    "question": "What is the top speed of the Honda Shine?",
+    "answer": "Honda Shine can reach a top speed of 102 Kmph.",
+    "status": "1",
+    "created_at": "2023-05-22 12:11:09",
+    "updated_at": "2023-05-22 12:11:09"
+  },
+  {
+    "id": "327",
+    "bike_id": "18",
+    "question": "How many variants are available in Honda Shine?",
+    "answer": "Honda Shine is offered in 4 variants - Shine Celebration Edition - Disc, Shine Celebration Edition - Drum and more.",
+    "status": "1",
+    "created_at": "2023-05-22 12:11:18",
+    "updated_at": "2023-05-22 12:11:18"
+  },
+  {
+    "id": "328",
+    "bike_id": "90",
+    "question": "What Is The Price Of Honda CD 110 In India?",
+    "answer": "Honda CD 110 ex-showroom price in India ranges between Rs 71,133.",
+    "status": "1",
+    "created_at": "2023-05-22 12:25:59",
+    "updated_at": "2023-05-22 12:25:59"
+  },
+  {
+    "id": "329",
+    "bike_id": "90",
+    "question": "What Is The Engine Capacity Of Honda CD 110?",
+    "answer": "Honda CD 110 comes with 109.51 CC engine capacity.",
+    "status": "1",
+    "created_at": "2023-05-22 12:26:09",
+    "updated_at": "2023-05-22 12:26:09"
+  },
+  {
+    "id": "330",
+    "bike_id": "90",
+    "question": "What Is The Mileage Of Honda CD 110?",
+    "answer": "Honda CD 110 mileage is 65 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-22 12:26:19",
+    "updated_at": "2023-05-22 12:26:19"
+  },
+  {
+    "id": "331",
+    "bike_id": "90",
+    "question": "What Is The Power Of The Honda CD 110 Engine?",
+    "answer": "Honda CD 110 engine belts out a maximum power output of 8.67 bhp @ 7500 rpm.",
+    "status": "1",
+    "created_at": "2023-05-22 12:26:31",
+    "updated_at": "2023-05-22 12:26:31"
+  },
+  {
+    "id": "332",
+    "bike_id": "90",
+    "question": "What Is The Body Type Of Honda CD 110?",
+    "answer": "Honda CD 110 is built to have a Commuter body type.",
+    "status": "1",
+    "created_at": "2023-05-22 12:26:40",
+    "updated_at": "2023-05-22 12:26:40"
+  },
+  {
+    "id": "333",
+    "bike_id": "90",
+    "question": "What Is The Fuel Tank Capacity Of Honda CD 110?",
+    "answer": "Honda CD 110 comes with a 9.1 Litres of fuel tank capacity.",
+    "status": "1",
+    "created_at": "2023-05-22 12:26:48",
+    "updated_at": "2023-05-22 12:26:48"
+  },
+  {
+    "id": "334",
+    "bike_id": "90",
+    "question": "What Is The Starting Mode Of Honda CD 110?",
+    "answer": "Honda CD 110 has an Kick and Self Start starting mode.",
+    "status": "1",
+    "created_at": "2023-05-22 12:26:58",
+    "updated_at": "2023-05-22 12:26:58"
+  },
+  {
+    "id": "335",
+    "bike_id": "90",
+    "question": "How Many Cylinders Are In The Honda CD 110 Engine?",
+    "answer": "Honda CD 110 comes with a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-22 12:27:07",
+    "updated_at": "2023-05-22 12:27:07"
+  },
+  {
+    "id": "336",
+    "bike_id": "90",
+    "question": "How many Honda bike dealership showrooms are available in India?",
+    "answer": "There are 2825 Honda bike dealership showrooms spread across the country.",
+    "status": "1",
+    "created_at": "2023-05-22 12:27:22",
+    "updated_at": "2023-05-22 12:27:22"
+  },
+  {
+    "id": "337",
+    "bike_id": "90",
+    "question": "What is the top speed of the Honda CD 110?",
+    "answer": "Honda CD 110 can reach a top speed of 86 Kmph.",
+    "status": "1",
+    "created_at": "2023-05-22 12:27:36",
+    "updated_at": "2023-05-22 12:27:36"
+  },
+  {
+    "id": "338",
+    "bike_id": "90",
+    "question": "How many variants are available in Honda CD 110?",
+    "answer": "Honda CD 110 is offered in 1 other variant-CD 110 Dream Deluxe [2022].",
+    "status": "1",
+    "created_at": "2023-05-22 12:27:45",
+    "updated_at": "2023-05-22 12:27:45"
+  },
+  {
+    "id": "339",
+    "bike_id": "309",
+    "question": "What Is The Price Of Honda Activa 125 In India?",
+    "answer": "Honda Activa 125 comes with a price range of Rs 78,082 - 85,254.",
+    "status": "1",
+    "created_at": "2023-05-22 12:44:10",
+    "updated_at": "2023-05-22 12:44:10"
+  },
+  {
+    "id": "340",
+    "bike_id": "309",
+    "question": "What Is The Engine Capacity Of Honda Activa 125?",
+    "answer": "Honda Activa 125 engine capacity is 124 CC.",
+    "status": "1",
+    "created_at": "2023-05-22 12:44:19",
+    "updated_at": "2023-05-22 12:44:19"
+  },
+  {
+    "id": "341",
+    "bike_id": "309",
+    "question": "What Is The Mileage Of Honda Activa 125?",
+    "answer": "Honda Activa 125 offers a mileage of 46.5 Kmpl.",
+    "status": "1",
+    "created_at": "2023-05-22 12:44:27",
+    "updated_at": "2023-05-22 12:44:27"
+  },
+  {
+    "id": "342",
+    "bike_id": "309",
+    "question": "What Is The Power Of The Honda Activa 125 Engine?",
+    "answer": "Honda Activa 125 engine delivers a maximum power output of 8.18 bhp @ 6,500 rpm.",
+    "status": "1",
+    "created_at": "2023-05-22 12:44:35",
+    "updated_at": "2023-05-22 12:44:35"
+  },
+  {
+    "id": "343",
+    "bike_id": "309",
+    "question": "What Is The Fuel Tank Capacity Of Honda Activa 125?",
+    "answer": "Honda Activa 125 has a 5.3 litre total fuel tank capacity.",
+    "status": "1",
+    "created_at": "2023-05-22 12:44:44",
+    "updated_at": "2023-05-22 12:44:44"
+  },
+  {
+    "id": "344",
+    "bike_id": "309",
+    "question": "What Is The Starting Mode Of the Honda Activa 125?",
+    "answer": "Honda Activa 125 boasts Electric Start starting mode.",
+    "status": "1",
+    "created_at": "2023-05-22 12:44:53",
+    "updated_at": "2023-05-22 12:44:53"
+  },
+  {
+    "id": "345",
+    "bike_id": "309",
+    "question": "How Many Cylinders Are In The Honda Activa 125 Engine?",
+    "answer": "Honda Activa 125 is equipped with a single-cylinder engine.",
+    "status": "1",
+    "created_at": "2023-05-22 12:45:02",
+    "updated_at": "2023-05-22 12:45:02"
+  },
+  {
+    "id": "346",
+    "bike_id": "309",
+    "question": "How many Honda Scooter dealership showrooms are available in India?",
+    "answer": "Honda has 2825 dealership showrooms spread across India.",
+    "status": "1",
+    "created_at": "2023-05-22 12:45:12",
+    "updated_at": "2023-05-22 12:45:12"
+  },
+  {
+    "id": "347",
+    "bike_id": "309",
+    "question": "What is the top speed of the Honda Activa 125?",
+    "answer": "Honda Activa 125 can reach a top speed of 90 kmph.",
+    "status": "1",
+    "created_at": "2023-05-22 12:45:20",
+    "updated_at": "2023-05-22 12:45:20"
+  },
+  {
+    "id": "348",
+    "bike_id": "309",
+    "question": "How many variants are available in Honda Activa 125?",
+    "answer": "Honda Activa 125 comes in 4 variants - Activa 125 Dlx - Fi (BS-VI), Activa 125 Alloy - Fi (BS-VI), etc.",
+    "status": "1",
+    "created_at": "2023-05-22 12:45:29",
+    "updated_at": "2023-05-22 12:45:29"
+  }
+]

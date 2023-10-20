@@ -1,0 +1,262 @@
+[
+  {
+    "id": 33,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:06.764Z",
+      "updatedAt": "2023-08-25T12:38:35.626Z",
+      "publishedAt": "2023-07-24T04:35:06.750Z",
+      "slug": "adventure-tourer-bikes",
+      "title": "Adventure Tourer",
+      "categorie_image": "adventure-tourer.jpg",
+      "categorie_id": "1",
+      "preview": "new-bikes/adventure-tourer-bikes"
+    }
+  },
+  {
+    "id": 46,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:07.242Z",
+      "updatedAt": "2023-08-25T12:59:54.078Z",
+      "publishedAt": "2023-07-24T04:35:07.226Z",
+      "slug": "tourer-bikes",
+      "title": "Tourer",
+      "categorie_image": "tourer.jpg",
+      "categorie_id": "20",
+      "preview": "new-bikes/tourer-bikes"
+    }
+  },
+  {
+    "id": 36,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:06.948Z",
+      "updatedAt": "2023-08-25T13:00:16.410Z",
+      "publishedAt": "2023-07-24T04:35:06.856Z",
+      "slug": "super-bikes",
+      "title": "Super",
+      "categorie_image": "super.jpg",
+      "categorie_id": "19",
+      "preview": "new-bikes/super-bikes"
+    }
+  },
+  {
+    "id": 39,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:07.029Z",
+      "updatedAt": "2023-08-25T12:48:23.669Z",
+      "publishedAt": "2023-07-24T04:35:07.008Z",
+      "slug": "cafe-racer-bikes",
+      "title": "Cafe Racer",
+      "categorie_image": "cafe-racer.jpg",
+      "categorie_id": "3",
+      "preview": "new-bikes/cafe-racer-bikes"
+    }
+  },
+  {
+    "id": 50,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:07.425Z",
+      "updatedAt": "2023-08-25T13:00:36.868Z",
+      "publishedAt": "2023-07-24T04:35:07.386Z",
+      "slug": "street-bikes",
+      "title": "Street",
+      "categorie_image": "street.jpg",
+      "categorie_id": "18",
+      "preview": "new-bikes/street-bikes"
+    }
+  },
+  {
+    "id": 42,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:07.145Z",
+      "updatedAt": "2023-08-25T12:48:46.003Z",
+      "publishedAt": "2023-07-24T04:35:07.106Z",
+      "slug": "commuter-bikes",
+      "title": "Commuter",
+      "categorie_image": "commuter.jpg",
+      "categorie_id": "4",
+      "preview": "new-bikes/commuter-bikes"
+    }
+  },
+  {
+    "id": 41,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:07.098Z",
+      "updatedAt": "2023-08-25T13:03:06.497Z",
+      "publishedAt": "2023-07-24T04:35:07.081Z",
+      "slug": "bicycle",
+      "title": "Bicycle",
+      "categorie_image": "bicycle.jpg",
+      "categorie_id": "2",
+      "preview": "new-bikes/bicycle"
+    }
+  },
+  {
+    "id": 47,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:07.270Z",
+      "updatedAt": "2023-08-25T12:49:52.227Z",
+      "publishedAt": "2023-07-24T04:35:07.253Z",
+      "slug": "cruiser-bikes",
+      "title": "Cruiser",
+      "categorie_image": "cruiser.jpg",
+      "categorie_id": "5",
+      "preview": "new-bikes/cruiser-bikes"
+    }
+  },
+  {
+    "id": 51,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:07.504Z",
+      "updatedAt": "2023-08-25T12:50:33.618Z",
+      "publishedAt": "2023-07-24T04:35:07.478Z",
+      "slug": "dirt-bikes",
+      "title": "Dirt",
+      "categorie_image": "dirt.jpg",
+      "categorie_id": "6",
+      "preview": "new-bikes/dirt-bikes"
+    }
+  },
+  {
+    "id": 43,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:07.166Z",
+      "updatedAt": "2023-08-25T12:51:05.443Z",
+      "publishedAt": "2023-07-24T04:35:07.139Z",
+      "slug": "fully-faired-bikes",
+      "title": "Fully faired",
+      "categorie_image": "fully-faired.jpg",
+      "categorie_id": "8",
+      "preview": "new-bikes/fully-faired-bikes"
+    }
+  },
+  {
+    "id": 48,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:07.310Z",
+      "updatedAt": "2023-08-25T12:51:27.084Z",
+      "publishedAt": "2023-07-24T04:35:07.278Z",
+      "slug": "maxi-scooter-bikes",
+      "title": "Maxi Scooter",
+      "categorie_image": "maxi-scooter.jpg",
+      "categorie_id": "9",
+      "preview": "new-bikes/maxi-scooter-bikes"
+    }
+  },
+  {
+    "id": 37,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:07.018Z",
+      "updatedAt": "2023-08-25T12:51:56.160Z",
+      "publishedAt": "2023-07-24T04:35:06.964Z",
+      "slug": "moped-bikes",
+      "title": "Moped",
+      "categorie_image": "moped.jpg",
+      "categorie_id": "10",
+      "preview": "new-bikes/moped-bikes"
+    }
+  },
+  {
+    "id": 45,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:07.213Z",
+      "updatedAt": "2023-08-25T12:54:12.955Z",
+      "publishedAt": "2023-07-24T04:35:07.198Z",
+      "slug": "electric-bikes",
+      "title": "Electric",
+      "categorie_image": "electric.jpg",
+      "categorie_id": "7",
+      "preview": "new-bikes/electric-bikes"
+    }
+  },
+  {
+    "id": 44,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:07.169Z",
+      "updatedAt": "2023-08-25T12:54:47.361Z",
+      "publishedAt": "2023-07-24T04:35:07.153Z",
+      "slug": "naked-bikes",
+      "title": "Naked",
+      "categorie_image": "naked.jpg",
+      "categorie_id": "11",
+      "preview": "new-bikes/naked-bikes"
+    }
+  },
+  {
+    "id": 40,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:07.073Z",
+      "updatedAt": "2023-08-25T12:55:08.550Z",
+      "publishedAt": "2023-07-24T04:35:07.054Z",
+      "slug": "off-road-bikes",
+      "title": "Off Road",
+      "categorie_image": "off-road.jpg",
+      "categorie_id": "12",
+      "preview": "new-bikes/off-road-bikes"
+    }
+  },
+  {
+    "id": 32,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:06.738Z",
+      "updatedAt": "2023-08-25T12:55:32.723Z",
+      "publishedAt": "2023-07-24T04:35:06.723Z",
+      "slug": "scooter-bikes",
+      "title": "Scooter",
+      "categorie_image": "scooter.jpg",
+      "categorie_id": "13",
+      "preview": "new-bikes/scooter-bikes"
+    }
+  },
+  {
+    "id": 49,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:07.359Z",
+      "updatedAt": "2023-08-25T12:56:05.636Z",
+      "publishedAt": "2023-07-24T04:35:07.317Z",
+      "slug": "scrambler-bikes",
+      "title": "Scrambler",
+      "categorie_image": "scrambler.webp",
+      "categorie_id": "14",
+      "preview": "new-bikes/scrambler-bikes"
+    }
+  },
+  {
+    "id": 35,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:06.822Z",
+      "updatedAt": "2023-08-25T12:56:28.089Z",
+      "publishedAt": "2023-07-24T04:35:06.796Z",
+      "slug": "sports-bikes",
+      "title": "Sports",
+      "categorie_image": "sports.jpg",
+      "categorie_id": "15",
+      "preview": "new-bikes/sports-bikes"
+    }
+  },
+  {
+    "id": 38,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:07.019Z",
+      "updatedAt": "2023-08-25T12:57:43.630Z",
+      "publishedAt": "2023-07-24T04:35:06.980Z",
+      "slug": "sports-naked-bikes",
+      "title": "Sports Naked",
+      "categorie_image": "sports-naked.jpg",
+      "categorie_id": "16",
+      "preview": "new-bikes/sports-naked-bikes"
+    }
+  },
+  {
+    "id": 34,
+    "attributes": {
+      "createdAt": "2023-07-24T04:35:06.788Z",
+      "updatedAt": "2023-08-25T12:58:09.112Z",
+      "publishedAt": "2023-07-24T04:35:06.772Z",
+      "slug": "sports-tourer-bikes",
+      "title": "Sports Tourer",
+      "categorie_image": "sports-tourer.jpg",
+      "categorie_id": "17",
+      "preview": "new-bikes/sports-tourer-bikes"
+    }
+  }
+]

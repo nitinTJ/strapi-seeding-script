@@ -1,0 +1,642 @@
+[
+  {
+    "id": 939,
+    "attributes": {
+      "name": "ONE",
+      "createdAt": "2023-09-06T08:19:01.402Z",
+      "updatedAt": "2023-09-22T05:02:08.818Z",
+      "publishedAt": "2023-09-06T08:19:01.082Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "235",
+      "brand_id": "92",
+      "model_id": "720",
+      "promotion_weightage": 0,
+      "popularity_score": null,
+      "preview": "recentlyAdded",
+      "slug": "one",
+      "search_string": "Livewire ONE",
+      "full_slug": "electric-bikes/livewire/one"
+    }
+  },
+  {
+    "id": 940,
+    "attributes": {
+      "name": "Supersport",
+      "createdAt": "2023-09-06T08:19:01.556Z",
+      "updatedAt": "2023-09-22T05:02:08.967Z",
+      "publishedAt": "2023-09-06T08:19:01.184Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "100",
+      "brand_id": "70",
+      "model_id": "584",
+      "promotion_weightage": 0,
+      "popularity_score": null,
+      "preview": "recentlyAdded",
+      "slug": "supersport",
+      "search_string": "gogoro Supersport",
+      "full_slug": "electric-scooters/gogoro/supersport"
+    }
+  },
+  {
+    "id": 942,
+    "attributes": {
+      "name": "S1",
+      "createdAt": "2023-09-06T08:19:01.591Z",
+      "updatedAt": "2023-09-22T05:02:08.877Z",
+      "publishedAt": "2023-09-06T08:19:01.234Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "120-150",
+      "brand_id": "70",
+      "model_id": "592",
+      "promotion_weightage": 0,
+      "popularity_score": null,
+      "preview": "recentlyAdded",
+      "slug": "s1",
+      "search_string": "gogoro S1",
+      "full_slug": "electric-scooters/gogoro/s1"
+    }
+  },
+  {
+    "id": 943,
+    "attributes": {
+      "name": "Hawk",
+      "createdAt": "2023-09-06T08:19:01.610Z",
+      "updatedAt": "2023-09-22T05:02:08.383Z",
+      "publishedAt": "2023-09-06T08:19:01.253Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "100",
+      "brand_id": "14",
+      "model_id": "673",
+      "promotion_weightage": 0,
+      "popularity_score": null,
+      "preview": "recentlyAdded",
+      "slug": "hawk",
+      "search_string": "Evolet Hawk",
+      "full_slug": "electric-bikes/evolet/hawk"
+    }
+  },
+  {
+    "id": 947,
+    "attributes": {
+      "name": "Raptor",
+      "createdAt": "2023-09-06T08:19:01.704Z",
+      "updatedAt": "2023-09-22T05:02:08.833Z",
+      "publishedAt": "2023-09-06T08:19:01.387Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "100-250",
+      "brand_id": "14",
+      "model_id": "679",
+      "promotion_weightage": 0,
+      "popularity_score": null,
+      "preview": "recentlyAdded",
+      "slug": "raptor",
+      "search_string": "Evolet Raptor",
+      "full_slug": "electric-scooters/evolet/raptor"
+    }
+  },
+  {
+    "id": 944,
+    "attributes": {
+      "name": "X",
+      "createdAt": "2023-09-06T08:19:01.616Z",
+      "updatedAt": "2023-09-22T05:02:08.570Z",
+      "publishedAt": "2023-09-14T06:50:32.687Z",
+      "release_date": "2023-08-23",
+      "displacement": 124.6,
+      "mileage": "140",
+      "brand_id": "44",
+      "model_id": "938",
+      "promotion_weightage": 0,
+      "popularity_score": null,
+      "preview": "recentlyAdded",
+      "slug": "x",
+      "search_string": "TVS X",
+      "full_slug": "electric-scooters/tvs/x"
+    }
+  },
+  {
+    "id": 946,
+    "attributes": {
+      "name": "Flash",
+      "createdAt": "2023-09-06T08:19:01.691Z",
+      "updatedAt": "2023-09-22T05:02:08.535Z",
+      "publishedAt": "2023-09-06T08:19:01.336Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "125",
+      "brand_id": "75",
+      "model_id": "579",
+      "promotion_weightage": 0,
+      "popularity_score": null,
+      "preview": "recentlyAdded",
+      "slug": "flash",
+      "search_string": "dynam Flash",
+      "full_slug": "electric-bikes/dynam/flash"
+    }
+  },
+  {
+    "id": 642,
+    "attributes": {
+      "name": "Eagle 100 (6.0)",
+      "createdAt": "2023-07-21T09:40:17.530Z",
+      "updatedAt": "2023-09-22T05:02:08.898Z",
+      "publishedAt": "2023-07-21T09:40:17.483Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "60-80",
+      "brand_id": "115",
+      "model_id": "873",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "eagle-100-60",
+      "search_string": "Merico Eagle 100 (6.0)",
+      "full_slug": "electric-scooters/merico/eagle-100-60"
+    }
+  },
+  {
+    "id": 639,
+    "attributes": {
+      "name": "GTR",
+      "createdAt": "2023-07-21T09:40:17.446Z",
+      "updatedAt": "2023-09-22T05:02:08.917Z",
+      "publishedAt": "2023-07-21T09:40:17.374Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "60-200",
+      "brand_id": "117",
+      "model_id": "888",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "gtr",
+      "search_string": "ADMS GTR",
+      "full_slug": "electric-scooters/adms/gtr"
+    }
+  },
+  {
+    "id": 644,
+    "attributes": {
+      "name": "T1",
+      "createdAt": "2023-07-21T09:40:17.592Z",
+      "updatedAt": "2023-09-22T05:02:08.749Z",
+      "publishedAt": "2023-07-21T09:40:17.557Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "70-80",
+      "brand_id": "116",
+      "model_id": "878",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "t1",
+      "search_string": "Super Eco T1",
+      "full_slug": "electric-scooters/super-eco/t1"
+    }
+  },
+  {
+    "id": 766,
+    "attributes": {
+      "name": "X440",
+      "createdAt": "2023-07-21T09:40:22.459Z",
+      "updatedAt": "2023-09-22T05:02:08.493Z",
+      "publishedAt": "2023-07-21T09:40:22.392Z",
+      "release_date": "2023-07-03",
+      "displacement": 440,
+      "mileage": "35",
+      "brand_id": "16",
+      "model_id": "905",
+      "promotion_weightage": 0,
+      "popularity_score": 3,
+      "preview": "recentlyAdded",
+      "slug": "x440",
+      "search_string": "Harley Davidson X440",
+      "full_slug": "harley-davidson-bikes/x440"
+    }
+  },
+  {
+    "id": 610,
+    "attributes": {
+      "name": "TTX",
+      "createdAt": "2023-07-21T09:40:16.341Z",
+      "updatedAt": "2023-09-22T05:02:08.138Z",
+      "publishedAt": "2023-07-21T09:40:16.293Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "60-200",
+      "brand_id": "117",
+      "model_id": "883",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "ttx",
+      "search_string": "ADMS TTX",
+      "full_slug": "electric-scooters/adms/ttx"
+    }
+  },
+  {
+    "id": 624,
+    "attributes": {
+      "name": "DB",
+      "createdAt": "2023-07-21T09:40:16.868Z",
+      "updatedAt": "2023-09-22T05:02:08.213Z",
+      "publishedAt": "2023-07-21T09:40:16.811Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "60-200",
+      "brand_id": "117",
+      "model_id": "882",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "db",
+      "search_string": "ADMS DB",
+      "full_slug": "electric-scooters/adms/db"
+    }
+  },
+  {
+    "id": 661,
+    "attributes": {
+      "name": "E-Dyroth",
+      "createdAt": "2023-07-21T09:40:18.365Z",
+      "updatedAt": "2023-09-22T05:02:08.644Z",
+      "publishedAt": "2023-07-21T09:40:18.287Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "150",
+      "brand_id": "114",
+      "model_id": "863",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "e-dyroth",
+      "search_string": "EKO TEJAS E-Dyroth",
+      "full_slug": "electric-bikes/eko-tejas/e-dyroth"
+    }
+  },
+  {
+    "id": 691,
+    "attributes": {
+      "name": "Foresti",
+      "createdAt": "2023-07-21T09:40:19.427Z",
+      "updatedAt": "2023-09-22T05:02:08.622Z",
+      "publishedAt": "2023-07-21T09:40:19.360Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "100",
+      "brand_id": "98",
+      "model_id": "855",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "foresti",
+      "search_string": "Eeve Foresti",
+      "full_slug": "electric-scooters/eeve/foresti"
+    }
+  },
+  {
+    "id": 640,
+    "attributes": {
+      "name": "Gracy i",
+      "createdAt": "2023-07-21T09:40:17.472Z",
+      "updatedAt": "2023-09-22T05:02:08.219Z",
+      "publishedAt": "2023-07-21T09:40:17.400Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "60-120",
+      "brand_id": "119",
+      "model_id": "895",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "gracy-i",
+      "search_string": "Zelio Gracy i",
+      "full_slug": "electric-scooters/zelio/gracy-i"
+    }
+  },
+  {
+    "id": 614,
+    "attributes": {
+      "name": "E-Bullet",
+      "createdAt": "2023-07-21T09:40:16.495Z",
+      "updatedAt": "2023-09-22T05:02:08.770Z",
+      "publishedAt": "2023-07-21T09:40:16.415Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "Upto 120",
+      "brand_id": "117",
+      "model_id": "887",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "e-bullet",
+      "search_string": "ADMS E-Bullet",
+      "full_slug": "electric-bikes/adms/e-bullet"
+    }
+  },
+  {
+    "id": 705,
+    "attributes": {
+      "name": "350S",
+      "createdAt": "2023-07-21T09:40:20.206Z",
+      "updatedAt": "2023-09-22T05:02:08.792Z",
+      "publishedAt": "2023-07-21T09:40:20.177Z",
+      "release_date": null,
+      "displacement": 348,
+      "mileage": "30",
+      "brand_id": "56",
+      "model_id": "861",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "350s",
+      "search_string": "Zontes 350S",
+      "full_slug": "zontes-bikes/350s"
+    }
+  },
+  {
+    "id": 628,
+    "attributes": {
+      "name": "T4",
+      "createdAt": "2023-07-21T09:40:17.038Z",
+      "updatedAt": "2023-09-22T05:02:08.482Z",
+      "publishedAt": "2023-07-21T09:40:16.968Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "70-80",
+      "brand_id": "116",
+      "model_id": "879",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "t4",
+      "search_string": "Super Eco T4",
+      "full_slug": "electric-scooters/super-eco/t4"
+    }
+  },
+  {
+    "id": 631,
+    "attributes": {
+      "name": "Ninja HEV",
+      "createdAt": "2023-07-21T09:40:17.148Z",
+      "updatedAt": "2023-09-22T05:02:08.357Z",
+      "publishedAt": "2023-07-21T09:40:17.085Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "100+",
+      "brand_id": "24",
+      "model_id": "862",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "ninja-hev",
+      "search_string": "Kawasaki Ninja HEV",
+      "full_slug": "electric-bikes/kawasaki/ninja-hev"
+    }
+  },
+  {
+    "id": 652,
+    "attributes": {
+      "name": "Mantis",
+      "createdAt": "2023-07-21T09:40:17.949Z",
+      "updatedAt": "2023-09-22T05:02:08.946Z",
+      "publishedAt": "2023-07-21T09:40:17.877Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "200",
+      "brand_id": "111",
+      "model_id": "857",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "mantis",
+      "search_string": "Orxa Mantis",
+      "full_slug": "electric-bikes/orxa/mantis"
+    }
+  },
+  {
+    "id": 791,
+    "attributes": {
+      "name": "Jaunty-3W",
+      "createdAt": "2023-07-21T09:40:23.417Z",
+      "updatedAt": "2023-09-22T05:02:08.713Z",
+      "publishedAt": "2023-07-21T09:40:23.359Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "75-100",
+      "brand_id": "121",
+      "model_id": "901",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "jaunty-3w",
+      "search_string": "Amo Jaunty-3W",
+      "full_slug": "electric-scooters/amo/jaunty-3w"
+    }
+  },
+  {
+    "id": 781,
+    "attributes": {
+      "name": "Brisk",
+      "createdAt": "2023-07-21T09:40:23.056Z",
+      "updatedAt": "2023-09-22T05:02:08.206Z",
+      "publishedAt": "2023-07-21T09:40:22.988Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "75-100",
+      "brand_id": "121",
+      "model_id": "904",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "brisk",
+      "search_string": "Amo Brisk",
+      "full_slug": "electric-scooters/amo/brisk"
+    }
+  },
+  {
+    "id": 738,
+    "attributes": {
+      "name": "Gracy Pro",
+      "createdAt": "2023-07-21T09:40:21.437Z",
+      "updatedAt": "2023-09-22T05:02:08.401Z",
+      "publishedAt": "2023-07-21T09:40:21.362Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "60-120",
+      "brand_id": "119",
+      "model_id": "896",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "gracy-pro",
+      "search_string": "Zelio Gracy Pro",
+      "full_slug": "electric-scooters/zelio/gracy-pro"
+    }
+  },
+  {
+    "id": 667,
+    "attributes": {
+      "name": "Scrambler 400 X",
+      "createdAt": "2023-07-21T09:40:18.576Z",
+      "updatedAt": "2023-09-22T05:02:08.989Z",
+      "publishedAt": "2023-07-21T09:40:18.505Z",
+      "release_date": null,
+      "displacement": 398.15,
+      "mileage": "30-34",
+      "brand_id": "43",
+      "model_id": "907",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "scrambler-400-x",
+      "search_string": "Triumph Scrambler 400 X",
+      "full_slug": "triumph-bikes/scrambler-400-x"
+    }
+  },
+  {
+    "id": 626,
+    "attributes": {
+      "name": "Axel",
+      "createdAt": "2023-07-21T09:40:16.954Z",
+      "updatedAt": "2023-09-22T05:02:08.854Z",
+      "publishedAt": "2023-07-21T09:40:16.894Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "40-100",
+      "brand_id": "114",
+      "model_id": "864",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "axel",
+      "search_string": "EKO TEJAS Axel",
+      "full_slug": "electric-scooters/eko-tejas/axel"
+    }
+  },
+  {
+    "id": 776,
+    "attributes": {
+      "name": "E2G",
+      "createdAt": "2023-07-21T09:40:22.854Z",
+      "updatedAt": "2023-09-22T05:02:08.664Z",
+      "publishedAt": "2023-07-21T09:40:22.795Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "Upto 100",
+      "brand_id": "117",
+      "model_id": "886",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "e2g",
+      "search_string": "ADMS E2G",
+      "full_slug": "electric-scooters/adms/e2g"
+    }
+  },
+  {
+    "id": 747,
+    "attributes": {
+      "name": "LXS",
+      "createdAt": "2023-07-21T09:40:21.733Z",
+      "updatedAt": "2023-09-22T05:02:08.596Z",
+      "publishedAt": "2023-07-21T09:40:21.673Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "89",
+      "brand_id": "118",
+      "model_id": "890",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "lxs",
+      "search_string": "Lectrix LXS",
+      "full_slug": "electric-scooters/lectrix/lxs"
+    }
+  },
+  {
+    "id": 762,
+    "attributes": {
+      "name": "Optima CX 5.0",
+      "createdAt": "2023-07-21T09:40:22.347Z",
+      "updatedAt": "2023-09-22T05:02:08.733Z",
+      "publishedAt": "2023-07-21T09:40:22.252Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "135",
+      "brand_id": "18",
+      "model_id": "870",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "optima-cx-50",
+      "search_string": "Hero Electric Optima CX 5.0",
+      "full_slug": "electric-scooters/hero-electric/optima-cx-50"
+    }
+  },
+  {
+    "id": 689,
+    "attributes": {
+      "name": "Jaunty Plus",
+      "createdAt": "2023-07-21T09:40:19.381Z",
+      "updatedAt": "2023-09-22T05:02:08.410Z",
+      "publishedAt": "2023-07-21T09:40:19.312Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "108",
+      "brand_id": "121",
+      "model_id": "898",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "jaunty-plus",
+      "search_string": "Amo Jaunty Plus",
+      "full_slug": "electric-scooters/amo/jaunty-plus"
+    }
+  },
+  {
+    "id": 616,
+    "attributes": {
+      "name": "SX25",
+      "createdAt": "2023-07-21T09:40:16.546Z",
+      "updatedAt": "2023-09-22T05:02:08.201Z",
+      "publishedAt": "2023-07-21T09:40:16.486Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "60",
+      "brand_id": "118",
+      "model_id": "891",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "sx25",
+      "search_string": "Lectrix SX25",
+      "full_slug": "electric-scooters/lectrix/sx25"
+    }
+  },
+  {
+    "id": 681,
+    "attributes": {
+      "name": "Fashia",
+      "createdAt": "2023-07-21T09:40:19.057Z",
+      "updatedAt": "2023-09-22T05:02:08.692Z",
+      "publishedAt": "2023-07-21T09:40:18.988Z",
+      "release_date": null,
+      "displacement": 0,
+      "mileage": "60-80",
+      "brand_id": "115",
+      "model_id": "874",
+      "promotion_weightage": 0,
+      "popularity_score": 0,
+      "preview": "recentlyAdded",
+      "slug": "fashia",
+      "search_string": "Merico Fashia",
+      "full_slug": "electric-scooters/merico/fashia"
+    }
+  }
+]

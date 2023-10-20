@@ -1,0 +1,768 @@
+[
+  {
+    "id": 7,
+    "name": "Royal Enfield",
+    "faq": [
+      {
+        "question": "Which Royal Enfield Bike model in India delivers the highest mileage?",
+        "answer": "Royal Enfield Bullet 350, priced at Rs 1.48 - 1.63 Lakh, has the highest mileage with an average of 38 Kmpl."
+      },
+      {
+        "question": "What are the 3 most popular Royal Enfield Bikes in India?",
+        "answer": "The 3 most popular Royal Enfield bikes in India are Royal Enfield Bullet 350, Royal Enfield Classic 350 and Royal Enfield Thunderbird."
+      },
+      {
+        "question": "Which is the most expensive Royal Enfield Bike in India?",
+        "answer": "The most expensive Royal Enfield bike is Royal Enfield Interceptor 650, with the price starting at INR 3,20,000."
+      },
+      {
+        "question": "Which Royal Enfield Bike is the most affordable in India?",
+        "answer": "The most affordable Royal Enfield bike is Royal Enfield Hunter 350, with prices starting from INR 1,50,000."
+      },
+      {
+        "question": "What is the price range of Royal Enfield Bikes in India?",
+        "answer": "The Royal Enfield Bikes price range is starting from INR 1,50,000 to INR 3,20,000 in India.."
+      },
+      {
+        "question": "How can BikeJunction help you in getting the Royal Enfield Bike of your dreams?",
+        "answer": "BikeJunction helps you in bringing together a complete list of Royal Enfield Bikes, so you can easily check their price, images, specifications & compare them."
+      },
+      {
+        "question": "What are the Upcoming Royal Enfield Bikes in India 2023?",
+        "answer": "The next upcoming bike from Royal Enfield are Royal Enfield Himalayan 450, Royal Enfield Shotgun 650, 2023 Royal Enfield Bullet 350, Royal Enfield Hunter 450."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Hero",
+    "faq": [
+      {
+        "question": "Which Hero Bike model in India delivers the highest mileage?",
+        "answer": "Hero Splendor Plus Xtec, priced from Rs 75,587 onwards, has the highest mileage of 81 Km/l."
+      },
+      {
+        "question": "What are the 3 most popular Hero Bikes in India?",
+        "answer": "India’s 3 most popular Hero Bikes are Splendor Plus, HF Deluxe, Passion Pro ."
+      },
+      {
+        "question": "Which is the most expensive Hero Bike in India?",
+        "answer": "Hero XF3R is the most expensive Hero bike, with prices starting from Rs 1,60,000 onwards."
+      },
+      {
+        "question": "Which Hero Bike is the most affordable in India?",
+        "answer": "Hero HF Deluxe is the most affordable Hero bike, with prices starting from Rs 54,360 onwards"
+      },
+      {
+        "question": "What is the price range of Hero Bikes in India?",
+        "answer": "Hero Bikes in India are available at a price range starting from Rs 54,360 and going up to Rs 1,60,000."
+      },
+      {
+        "question": "How can BikeJunction help you in getting the Hero Bike of your dreams?",
+        "answer": "BikeJunction brings together a complete list of Hero Bikes in India under one roof, so you can easily shortlist, compare and select the best Hero Bike of your dreams"
+      },
+      {
+        "question": "What are the upcoming Hero bikes in India?",
+        "answer": "The Hero bike lineup for 2023-24 includes four models. The models are Leap Hybrid SES, Xpulse 400, XF3R, and Karizma 400."
+      },
+      {
+        "question": "How many models of Hero scooter are available in the market?",
+        "answer": "There are currently four Hero scooter models available in the market."
+      },
+      {
+        "question": "Which Hero scooter model has the lowest price?",
+        "answer": "Hero Destini 125 XTec and Hero Maestro Edge 110 comes at the lowest price of around 70,000 INR."
+      },
+      {
+        "question": "Which scooter model Hero Motocorp is going to launch in 2023?",
+        "answer": "Hero Motocorp has two upcoming models to be launched. They are Hero Leap Hybrid SES and Hero Maestro Xoom 110."
+      },
+      {
+        "question": "Which Hero Scooty gives maximum mileage?",
+        "answer": "Hero Maestro Edge 125 gives the maximum mileage of 65 km per litre."
+      },
+      {
+        "question": "Which model of Hero scooty is electric?",
+        "answer": "Hero Leap Hybrid SES is electric scooty."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "TVS",
+    "faq": [
+      {
+        "question": "What is the price range of TVS Bikes in India?",
+        "answer": "The price range of TVS Bikes starts from Rs 45,110 and goes up to Rs 2,64,983 in India."
+      },
+      {
+        "question": "Which is the most affordable TVS Bike model?",
+        "answer": "XL100 Comfort is the most affordable bike that TVS Motors offer. It is priced from Rs 45,110 in India."
+      },
+      {
+        "question": "What are the upcoming TVS Bike Models?",
+        "answer": "TVS ADV, TVS Apache RTR 310, TVS Fiero 125 and TVS Zeppelin R are the upcoming models launching soon by TVS motors."
+      },
+      {
+        "question": "Which are the most popular TVS Bikes in India?",
+        "answer": "Raider 125, Apache RTR 160 and Ronin are the most popular TVS Bikes in India."
+      },
+      {
+        "question": "Which TVS Bike has the highest mileage?",
+        "answer": "TVS Star City Plus has the highest mileage of 83.09 kmpl."
+      },
+      {
+        "question": "Does TVS Motors offer Electric Bikes?",
+        "answer": "Yes, TVS iQube Electric is an electric bike, priced from Rs 1.25 Lakh in India."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Honda",
+    "faq": [
+      {
+        "question": "Which Honda Bike model is the most popular in India right now?",
+        "answer": "Honda SP 125 is the most popular Honda bike model in India, with price starting from Rs 82,776 onwards."
+      },
+      {
+        "question": "What is the highest mileage-producing bike model by Honda in India?",
+        "answer": "Honda CRF1100L Africa Twin is the highest-producing mileage bike generating a mileage of 60 km/l."
+      },
+      {
+        "question": "Which Honda Bike model is the most expensive in India?",
+        "answer": "Honda Goldwing is the most expensive bike by Honda bikes priced from Rs 39,88,635 onwards."
+      },
+      {
+        "question": "Which Honda bike is the lowest-priced in India?",
+        "answer": "Honda CD 110 Dream is the cheapest bike model by Honda Bikes, with price starting from Rs 70,848 onwards."
+      },
+      {
+        "question": "What is the price range of Honda Bikes in India?",
+        "answer": "Honda Bikes in India are available at a price range starting from Rs 70,848 and going up to Rs 39,88,635"
+      },
+      {
+        "question": "What are the upcoming bike models by Honda in India?",
+        "answer": "Honda CB350 Brigade, Honda XL750 Transalp and Honda CB1000R are a few of the upcoming bike models by Honda in India."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "KTM",
+    "faq": [
+      {
+        "question": "Which KTM Bike model is the most popular in India right now?",
+        "answer": "KTM 390 Duke is the most popular KTM bike model in India, with price starting from Rs 2.96 Lakh onwards."
+      },
+      {
+        "question": "What is the highest mileage bike model by KTM in India?",
+        "answer": "KTM 125 Duke is the highest mileage bike generating a mileage of 46.92 kmpl."
+      },
+      {
+        "question": "Which KTM Bike model is the most expensive in India?",
+        "answer": "KTM 390 Adventure is the most expensive bike by KTM bikes priced from Rs 3,37,847 onwards."
+      },
+      {
+        "question": "Which KTM bike is the lowest-priced in India?",
+        "answer": "KTM 125 Duke is the cheapest bike model by KTM Bikes, with price starting from Rs 1,76,208 onwards."
+      },
+      {
+        "question": "What is the price range of KTM Bikes in India?",
+        "answer": "KTM Bikes in India are available at a price range starting from Rs 1,76,208 and going up to Rs 3,37,847"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Jawa",
+    "faq": [
+      {
+        "question": "Which Jawa Bike model in India delivers the highest mileage?",
+        "answer": "Jawa 42 2.1, priced from Rs 1.94 Lakh, has the highest mileage with an average of 34 Km/l."
+      },
+      {
+        "question": "What are the 3 most popular Jawa Bikes in India?",
+        "answer": "Jawa 42 Bobber, Jawa Forty Two and Jawa Perak are India’s 3 most popular Jawa Bikes."
+      },
+      {
+        "question": "Which is the most expensive Jawa Bike in India?",
+        "answer": "Jawa Perak is the most expensive Jawa bike, with prices starting from Rs 2.09 Lakh onwards"
+      },
+      {
+        "question": "Which Jawa Bike is the most affordable in India?",
+        "answer": "Jawa Forty Two is the most affordable Jawa bike, with prices starting at Rs 1.67 Lakh onwards"
+      },
+      {
+        "question": "What is the price range of Jawa Bikes in India?",
+        "answer": "Jawa Bikes in India are available at a price range starting from Rs 1.67 Lakh and going up to Rs 2.09 Lakh"
+      },
+      {
+        "question": "Which are Jawa's upcoming bike models in india?",
+        "answer": "Jawa Adventure and Jawa Cruiser are 2 upcoming bikes by Jawa Moto that they are planning to launch in India soon."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "BAJAJ",
+    "faq": [
+      {
+        "question": "Which is the most affordable Bajaj bike available in India?",
+        "answer": "The most affordable & economical Bajaj bike available in India is Platina 100 which is priced at ₹ 52,734."
+      },
+      {
+        "question": "Which are the most popular Bajaj bikes available in India?",
+        "answer": "The most popular Bajaj bikes available in India are Pulsar 125, Pulsar 150 and Pulsar N160."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Yezdi",
+    "faq": [
+      {
+        "question": "Which Yezdi Bike model is the most popular in India right now?",
+        "answer": "Yezdi Roadster is the most popular Yezdi bike model in India, with price starting from Rs 2,03,193 onwards."
+      },
+      {
+        "question": "What is the highest mileage-producing bike model by Yezdi in India?",
+        "answer": "Yezdi Roadster is the highest-producing mileage bike generating a mileage of 33 kmpl."
+      },
+      {
+        "question": "Which Yezdi Bike model is the most expensive in India?",
+        "answer": "Yezdi Adventure is the most expensive bike by Yezdi bikes priced at Rs 2,15,237 onwards."
+      },
+      {
+        "question": "Which Yezdi bike is the lowest-priced in India?",
+        "answer": "Yezdi Roadster is the cheapest bike model by Yezdi Bikes, with price starting from Rs 2,03,193 onwards."
+      },
+      {
+        "question": "What is the price range of Yezdi Bikes in India?",
+        "answer": "Yezdi Bikes in India are available at a price range starting from Rs 2,03,193 and going up to Rs 2,15,237."
+      },
+      {
+        "question": "What are the upcoming bike models by Yezdi in India?",
+        "answer": "Yezdi Roadking is the upcoming bike model by Yezdi in India."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Suzuki",
+    "faq": [
+      {
+        "question": "Which model of the Suzuki Scooter has the lowest price?",
+        "answer": "The Suzuki Access 125 model of Suzuki Scooter is the most affordable. This model starts with the ex-showroom price of 77,230 INR only."
+      },
+      {
+        "question": "Which Suzuki Scooter model gives the best mileage?",
+        "answer": "The Suzuki Avenis 125 model of Suzuki Scooter gives the best mileage among all three models. According to SMIPL(Suzuki Motorcycle India Private Limited), Suzuki Avenis provide a mileage of 55 Km per Litre."
+      },
+      {
+        "question": "Which model of Suzuki Scooter is best suited for women?",
+        "answer": "Suzuki Access 125 will be most suited for women as it has the lightest weight, which ranges from 101 to 104 Kg. The Suzuki Avenis 125 comes with a curb weight of 106 Kg, and the Suzuki Burgman street comes with a weight of 110 Kg."
+      },
+      {
+        "question": "Which are the upcoming models of the Suzuki Scooter?",
+        "answer": "Suzuki Motorcycle India Private Limited is set to launch Suzuki Burgman street Electric in January 2023."
+      },
+      {
+        "question": "Which Suzuki Scooter model is most popular?",
+        "answer": "Suzuki Access 125 is the most popular model among Suzuki scooters."
+      },
+      {
+        "question": "Which Suzuki Bike models are the most popular in India?",
+        "answer": "Suzuki Gixxer SF, Suzuki Hayabusa and Suzuki Gixxer are the most popular Suzuki bikes in India."
+      },
+      {
+        "question": "Which Suzuki Bike model is the most expensive in India?",
+        "answer": "Suzuki Hayabusa with price 16.41 Lakh is the most expensive Suzuki Bike model in India."
+      },
+      {
+        "question": "Which Suzuki Bike has the highest mileage in India?",
+        "answer": "Suzuki Gixxer 250 with mileage of 55 kmpl has the highest mileage."
+      },
+      {
+        "question": "What is the starting price of Suzuki Bikes in India?",
+        "answer": "Suzuki Gixxer with price starting from Rs 1,30,703 is the cheapest Suzuki Model in India."
+      },
+      {
+        "question": "What are the upcoming Suzuki bike models in India?",
+        "answer": "Suzuki GSX-S1000GT, Suzuki SV650, Suzuki GSX S750 are some of the upcoming Bikes launching soon by Suzuki in India."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "YAMAHA",
+    "faq": [
+      {
+        "question": "Which Yamaha Scooter provides maximum mileage?",
+        "answer": "Yamaha Fascino 125 gives the maximum mileage among all Yamaha Scooters. The claimed mileage of the Fascino 125 is 68.75 Km per Litre."
+      },
+      {
+        "question": "Which Yamaha Scooter is best for daily travelling for 50 km?",
+        "answer": "Yamaha Aerox 155 will be a good choice for everyday travel, usually long distances because it has a strong engine that will not tire you."
+      },
+      {
+        "question": "How many models of Yamaha Scooters are available in the market?",
+        "answer": "There are 3 models of Yamaha Scooters available in the market. All three models have been designed keeping the needs of the users."
+      },
+      {
+        "question": "Has Yamaha launched any Electric scooters?",
+        "answer": "No, but Yamaha is about to launch its first Electric Scooter in June 2023. Yamaha Neo's will be the first Electric vehicle of Yamaha."
+      },
+      {
+        "question": "What is the latest Yamaha Bikes Model in India currently?",
+        "answer": "Ray-ZR 125FI is the latest Yamaha Bike Model in India."
+      },
+      {
+        "question": "Which Yamaha Bike Model is the most affordable in India?",
+        "answer": "Yamaha FZ FI is the lowest-priced bike manufactured by Yamaha, with a price range starting at Rs 1,13,636."
+      },
+      {
+        "question": "Which Yamaha Bike has the highest mileage?",
+        "answer": "Yamaha FZS 25 has the highest mileage with a mileage of 71 kmpl."
+      },
+      {
+        "question": "What are the upcoming Yamaha Bikes in India?",
+        "answer": "Yamaha YZF R1M, Yamaha Tenere 700, Yamaha XSR 155 and Yamaha RX 100 are some of the upcoming bikes by Yamaha Motors in India."
+      },
+      {
+        "question": "Which is the most popular Yamaha Bike in India?",
+        "answer": "India’s most popular Yamaha Bikes are Yamaha MT 15 V2, Yamaha FZ S FI, and Yamaha R15 V4."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Hero Electric",
+    "faq": [
+      {
+        "question": "What is the expected top speed of a Hero Electric scooter?",
+        "answer": "The claimed top speed of Hero electric scooter is 100 km per hour."
+      },
+      {
+        "question": "What is the expected price range of Hero electric scooter?",
+        "answer": "The expected price range of Hero electric scooter is 74,000 to 85,000 INR."
+      },
+      {
+        "question": "Is Hero launching an Electric scooter and with how many variants?",
+        "answer": "Yes, Hero is launching 2 Hero electric scooters with a single variant for now."
+      },
+      {
+        "question": "Which is the cheapest Hero electric scooter available in the market?",
+        "answer": "Currently, Hero Leap Hybrid SES is expected to be the cheapest Hero Electric scooty."
+      },
+      {
+        "question": "Which Hero electric scooter is best in terms of speed?",
+        "answer": "Hero Electric AE-29 is expected to be the best scooter and gives the maximum speed with a powerful motor."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Harley Davidson",
+    "faq": [
+      {
+        "question": "What is the price of Harley-Davidson cheapest bike?",
+        "answer": "The most affordable Harley-Davidson bike in India is Harley-Davidson Iron 883 at Rs 11,97,109 onwards."
+      },
+      {
+        "question": "Which Harley-Davidson bike model is the most popular in India?",
+        "answer": "Harley-Davidson Sportster S is the most popular Harley-Davidson Bike in India with a price range starting at Rs 16,53,993."
+      },
+      {
+        "question": "What are the Upcoming Harley-Davidson models?",
+        "answer": "Harley-Davidson Iron 1200 and Harley-Davidson Custom 1250 are the upcoming models by Harley-Davidson in India."
+      },
+      {
+        "question": "Which Harley Davidson Bike has the highest mileage?",
+        "answer": "Harley Davidson Road Glide Special has the highest mileage of 20 kmpl."
+      },
+      {
+        "question": "What is the price of the most expensive Harley-Davidson bike in India?",
+        "answer": "Harley Davidson Road Glide Special, with starting price of Rs 36.99 Lakh, is the most expensive Harley Davidson bike in India."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Ducati",
+    "faq": [
+      {
+        "question": "Which Ducati Bike model in India has the highest mileage?",
+        "answer": "Ducati Streetfighter V4 Ducati Bike, priced at Rs 22,15,000 has the highest mileage with an average of 22 Kmpl."
+      },
+      {
+        "question": "What are the 3 most popular Ducati Bikes in India?",
+        "answer": "Ducati Panigale V4, Ducati SuperSport, and Ducati Monster BS6 are India’s 3 most popular Ducati Bikes."
+      },
+      {
+        "question": "Which is the most expensive Ducati Bike in India?",
+        "answer": "Ducati Panigale V4 is the most expensive Ducati bike, with prices starting at Rs 26,49,000 onwards."
+      },
+      {
+        "question": "Which Ducati Bike is the most affordable in India?",
+        "answer": "Ducati Scrambler Icon is the most affordable Ducati bike, with prices starting at Rs 8,89,000 onwards."
+      },
+      {
+        "question": "What is the price range of Ducati Bikes in India?",
+        "answer": "Ducati Bikes in India are available at a price range starting from Rs 8,89,000 and going up to 26,49,000."
+      },
+      {
+        "question": "How can BikeJunction help you in getting the Ducati Bike of your dreams?",
+        "answer": "BikeJunction brings together a complete list of Ducati Bikes in India under one roof, so you can easily shortlist, compare and select the Ducati Bike of your dreams."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Kawasaki",
+    "faq": [
+      {
+        "question": "Which Kawasaki Bike model in India delivers the highest mileage?",
+        "answer": "Kawasaki KLX 140, priced at Rs 8,99,000, has the highest mileage with an average of 24 Kmpl."
+      },
+      {
+        "question": "What are the 3 most popular Kawasaki Bikes in India?",
+        "answer": "Kawasaki Ninja H2R, Kawasaki Ninja 300 and Kawasaki Z900 are India’s 3 most popular Kawasaki Bikes."
+      },
+      {
+        "question": "Which is the most expensive Kawasaki Bike in India?",
+        "answer": "Kawasaki Ninja H2R is the most expensive Kawasaki bike, with prices starting at Rs 79,90,000 onwards"
+      },
+      {
+        "question": "Which Kawasaki Bike is the most affordable in India?",
+        "answer": "Kawasaki W175 is the most affordable Kawasaki bike, with prices starting at Rs 1,47,000 onwards."
+      },
+      {
+        "question": "What is the price range of Kawasaki Bikes in India?",
+        "answer": "Kawasaki Bikes in India are available at a price range starting from Rs 1,47,000 and going up to Rs 79,90,000."
+      },
+      {
+        "question": "How can BikeJunction help you in getting the Kawasaki Bike of your dreams?",
+        "answer": "BikeJunction brings together a complete list of Kawasaki Bikes in India under one roof, so you can easily shortlist, compare and select the Kawasaki Bike of your dreams."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Benelli",
+    "faq": [
+      {
+        "question": "Which Benelli Bike model in India delivers the highest mileage?",
+        "answer": "Benelli Leoncino 500, priced at Rs 5,35,000, has the highest mileage with an average of 33 Kmpl."
+      },
+      {
+        "question": "What are the 3 most popular Benelli Bikes in India?",
+        "answer": "Imperiale 400, TRK 251 and 502C are India’s 3 most popular Benelli Bikes."
+      },
+      {
+        "question": "Which is the most expensive Benelli Bike in India?",
+        "answer": "Benelli Leoncino 800 is the most expensive Benelli bike, with prices starting at Rs 8,00,000 onwards."
+      },
+      {
+        "question": "Which Benelli Bike is the most affordable in India?",
+        "answer": "Imperiale 400 is the most affordable Benelli bike, with prices starting at Rs 2,34,886 onwards."
+      },
+      {
+        "question": "What is the price range of Benelli Bikes in India?",
+        "answer": "Benelli Bikes in India are available at a price range starting from Rs 2,34,886 and going up to Rs 8,00,000."
+      },
+      {
+        "question": "How can BikeJunction help you in getting the Benelli Bike of your dreams?",
+        "answer": "BikeJunction brings together a complete list of Benelli Bikes in India under one roof, so you can easily shortlist, compare and select the Benelli Bike of your dreams."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Triumph",
+    "faq": [
+      {
+        "question": "Which Triumph Bike model in India delivers the highest mileage?",
+        "answer": "Triumph Scrambler 900, priced at Rs 9,59,000, has the highest mileage with an average of 24 Kmpl."
+      },
+      {
+        "question": "What are the 3 most popular Triumph Bikes in India?",
+        "answer": "Triumph Trident 660, Triumph Rocket 3 and Triumph Street Triple R are India’s 3 most popular Triumph Bikes."
+      },
+      {
+        "question": "Which is the most expensive Triumph Bike in India?",
+        "answer": "Triumph Rocket 3 is the most expensive Triumph bike, with prices starting at Rs 20,19,312 onwards."
+      },
+      {
+        "question": "Which Triumph Bike is the most affordable in India?",
+        "answer": "Triumph Trident 660 is the most affordable Triumph bike, with prices starting at Rs 7,58,000 onwards."
+      },
+      {
+        "question": "What is the price range of Triumph Bikes in India?",
+        "answer": "Triumph Bikes in India are available at a price range starting from Rs 7,58,000 and going up to Rs 20,19,312."
+      },
+      {
+        "question": "How can BikeJunction help you in getting the Triumph Bike of your dreams?",
+        "answer": "BikeJunction brings together a complete list of Triumph Bikes in India under one roof, so you can easily shortlist, compare and select the Triumph Bike of your dreams."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Indian",
+    "faq": [
+      {
+        "question": "Which Indian Bike model in India has the highest mileage?",
+        "answer": "Indian Chieftain Elite, priced at Rs 38 lakh, has the highest mileage with an average of 18 Kmpl."
+      },
+      {
+        "question": "What are the 3 most popular Indian Bikes in India?",
+        "answer": "Indian Challenger, Indian Scout and Indian FTR are India’s 3 most popular Indian Bikes."
+      },
+      {
+        "question": "Which is the most expensive Indian Bike in India?",
+        "answer": "Indian Roadmaster is the most expensive Indian bike, with prices starting at Rs 43.49 Lakh onwards."
+      },
+      {
+        "question": "Which Indian Bike is the most affordable in India?",
+        "answer": "Indian Scout Bobber is the most affordable Indian bike, with prices starting at Rs 16.88 Lakh onwards."
+      },
+      {
+        "question": "What is the price range of Indian Bikes in India?",
+        "answer": "Indian Bikes in India are available at a price range starting from Rs 16.88 Lakh and going up to Rs 43.49 Lakh."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "BMW",
+    "faq": [
+      {
+        "question": "Which BMW Bike model in India delivers the highest mileage?",
+        "answer": "BMW R NineT Scrambler, priced at Rs 16,84,750, has the highest mileage with an average of 32 Kmpl."
+      },
+      {
+        "question": "What are the 3 most popular BMW Bikes in India?",
+        "answer": "BMW G310 RR, BMW G 310 R and BMW G 310 GS are India’s 3 most popular BMW Bikes."
+      },
+      {
+        "question": "Which is the most expensive BMW Bike in India?",
+        "answer": "BMW M 1000 RR is the most expensive BMW bike, with prices starting at Rs 42,00,000 onwards"
+      },
+      {
+        "question": "Which BMW Bike is the most affordable in India?",
+        "answer": "BMW G 310 R is the most affordable BMW bike, with prices starting at Rs 2,71,851 onwards."
+      },
+      {
+        "question": "What is the price range of BMW Bikes in India?",
+        "answer": "BMW Bikes in India are available at a price range starting from Rs 2,71,851 and going up to Rs 42,00,000."
+      },
+      {
+        "question": "How can BikeJunction help you in getting the BMW Bike of your dreams?",
+        "answer": "BikeJunction brings together a complete list of BMW Bikes in India under one roof, so you can easily shortlist, compare and select the BMW Bike of your dreams."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Aprilia",
+    "faq": [
+      {
+        "question": "Which 3 Aprilia Bike models are the most popular in India?",
+        "answer": "Aprilia RS 660, Aprilia RSV4 1100 Factory and Aprilia Tuono Factory are the 3 most popular Aprilia bikes in India."
+      },
+      {
+        "question": "Which Aprilia Bike model is the most expensive in India?",
+        "answer": "Aprilia RSV4 1100 Factory with price Rs 23,69,000 is the most expensive Aprilia Bike model in India."
+      },
+      {
+        "question": "Which Aprilia Bike has the highest mileage in India?",
+        "answer": "Aprilia Tuono 660 with mileage of 47 kmpl has the highest mileage."
+      },
+      {
+        "question": "What is the starting price of Aprilia Bikes in India?",
+        "answer": "Aprilia Tuono 660 with price starting from Rs 13,09,000 is the cheapest Aprilia Model in India."
+      },
+      {
+        "question": "What are the upcoming Aprilia Bike models in India?",
+        "answer": "Aprilia RS 150 and Aprilia Tuono 150 are some of the upcoming Bikes launching soon by Aprilia in India."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Moto Guzzi",
+    "faq": [
+      {
+        "question": "Which Moto Guzzi Bike is the most popular in India?",
+        "answer": "Moto Guzzi V85 TT is the most popular bike by the brand, with starting price at Rs 15,40,000 in India."
+      },
+      {
+        "question": "What is the starting price range of Moto Guzzi Bikes in India?",
+        "answer": "Moto Guzzi Bikes Price range in India starts from Rs 15,40,000."
+      },
+      {
+        "question": "Which Moto Guzzi Bike delivers the highest mileage?",
+        "answer": "Moto Guzzi V85 TT delivers the highest mileage of 20.4 Kmpl, enabling you to cover long distances while being highly fuel-efficient."
+      },
+      {
+        "question": "What are the upcoming Moto Guzzi Bikes in India?",
+        "answer": "Moto Guzzi V9 is an upcoming bike with an expected price starting at Rs 14,00,000 onwards."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Keeway",
+    "faq": [
+      {
+        "question": "Which Keeway Bike model is the most popular in India right now?",
+        "answer": "Keeway SR125 is the most popular Keeway bike model in India, with price starting from Rs 1,19,000 onwards."
+      },
+      {
+        "question": "What is the highest mileage-producing bike model by Keeway in India?",
+        "answer": "Keeway K300 N is the highest-producing mileage bike generating a mileage of 27 kmpl."
+      },
+      {
+        "question": "Which Keeway Bike model is the most expensive in India?",
+        "answer": "Keeway V302C is the most expensive bike by Keeway bikes priced at Rs 3,89,000 onwards."
+      },
+      {
+        "question": "Which Keeway bike is the lowest-priced in India?",
+        "answer": "Keeway SR125 is the cheapest bike model by Keeway Bikes, with price starting from  Rs 1,19,000 onwards."
+      },
+      {
+        "question": "What is the price range of Keeway Bikes in India?",
+        "answer": "Keeway Bikes in India are available at a price range starting from Rs 1,19,000 and going up to Rs 3,89,000."
+      },
+      {
+        "question": "What are the upcoming bike models by Keeway in India?",
+        "answer": "Keeway M502N and Keeway K-Lite are the upcoming bike models by Keeway in India."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "CFMoto",
+    "faq": [
+      {
+        "question": "Which CFMoto Bike model in India delivers the highest mileage?",
+        "answer": "CFMoto 650MT, priced at Rs 5,29,000, has the highest mileage with an average of 20 Kmpl."
+      },
+      {
+        "question": "What are the 3 most popular CFMoto Bikes in India?",
+        "answer": "CFMoto 300NK, CFMoto 650GT and CFMoto 650NK are India’s 3 most popular CFMoto Bikes."
+      },
+      {
+        "question": "Which is the most expensive CFMoto Bike in India?",
+        "answer": "CFMoto 650GT is the most expensive CFMoto bike, with prices starting at Rs 5,59,000 onwards"
+      },
+      {
+        "question": "Which CFMoto Bike is the most affordable in India?",
+        "answer": "CFMoto 300NK is the most affordable CFMoto bike, with prices starting at Rs 2,29,000 onwards."
+      },
+      {
+        "question": "What is the price range of CFMoto Bikes in India?",
+        "answer": "CFMoto Bikes in India are available at a price range starting from Rs 2,29,000 and going up to Rs 5,59,000."
+      },
+      {
+        "question": "How can BikeJunction help you in getting the CFMoto Bike of your dreams?",
+        "answer": "BikeJunction brings together a complete list of CFMoto Bikes in India under one roof, so you can easily shortlist, compare and select the CFMoto Bike of your dreams."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Husqvarna",
+    "faq": [
+      {
+        "question": "Which Husqvarna Bike model in India delivers the highest mileage?",
+        "answer": "Husqvarna Vitpilen 250, priced at Rs 2,14,803, has the highest mileage with an average of 32 Kmpl."
+      },
+      {
+        "question": "What are the most popular Husqvarna Bikes in India?",
+        "answer": "Husqvarna Vitpilen 250 and Husqvarna Svartpilen 250 are India’s most popular Husqvarna Bikes."
+      },
+      {
+        "question": "Which is the most expensive Husqvarna Bike in India?",
+        "answer": "Husqvarna Svartpilen 250 is the most expensive Husqvarna bike, with prices starting at Rs 2,15,423 onwards"
+      },
+      {
+        "question": "Which Husqvarna Bike is the most affordable in India?",
+        "answer": "Husqvarna Vitpilen 250 is the most affordable Husqvarna bike, with prices starting at Rs 2,14,803 onwards."
+      },
+      {
+        "question": "What is the price range of Husqvarna Bikes in India?",
+        "answer": "Husqvarna Bikes in India are available at a price range starting from Rs 2,14,803 and going up to Rs 2,15,423."
+      },
+      {
+        "question": "How can BikeJunction help you in getting the Husqvarna Bike of your dreams?",
+        "answer": "BikeJunction brings together a complete list of Husqvarna Bikes in India under one roof, so you can easily shortlist, compare and select the Husqvarna Bike of your dreams."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Hop",
+    "faq": [
+      {
+        "question": "Which is the cheapest Hop electric scooter in India?",
+        "answer": "The cheapest electric scooter in India is Hop Lyf."
+      },
+      {
+        "question": "What is the price range of Hop electric scooters?",
+        "answer": "The price range of Hop electric scooters is starting from Rs 74,999 to Rs 82,000."
+      },
+      {
+        "question": "Which is the latest electric scooter launched by Hop Electric in India?",
+        "answer": "The latest electric scooter launched in India by Hop Electric is Hop Leo."
+      },
+      {
+        "question": "Which is the best electric scooter by Hop Electric?",
+        "answer": "The best electric scooter by Hop Electric is Hop Leo."
+      },
+      {
+        "question": "Which are the most popular electric scooters by Hop Electric in India 2023?",
+        "answer": "The most popular electric scooters by Hop Electric in India 2023 are Hop Lyf & Hop Leo."
+      },
+      {
+        "question": "What is the price range of Hop electric bikes?",
+        "answer": "The price range of Hop electric bikes is starting at Rs 1.65 Lakh."
+      },
+      {
+        "question": "Which is the latest electric bike launched by Hop Electric in India?",
+        "answer": "The latest electric bike launched in India by Hop Electric is Hop OXO."
+      },
+      {
+        "question": "Which is the best electric bike by Hop electric?",
+        "answer": "The best electric bike by Hop electric is Hop OXO."
+      },
+      {
+        "question": "Which is the most popular electric bike by Hop electric in India 2023?",
+        "answer": "The most popular electric bike by Hop electric in India 2023 is Hop OXO."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Tork",
+    "faq": [
+      {
+        "question": "What Is The Price Range Of Tork Electric Bikes?",
+        "answer": "The price range of Tork electric bikes is starting from Rs 1.21 Lakh to Rs 1.85 Lakh."
+      },
+      {
+        "question": "Which Is The Latest Electric Bike Launched By Tork Motors In India?",
+        "answer": "The latest electric bike launched by Tork Motors in India is Tork Kratos X."
+      },
+      {
+        "question": "Which Is The Best Electric Bike By Tork Motors?",
+        "answer": "The best electric bike by Tork Motors is Tork Kratos R."
+      },
+      {
+        "question": "Which Is The Most Popular Electric Bike By Tork Motors In India 2023?",
+        "answer": "The most popular electric bike by Tork Motors in India 2023 is Tork Kratos R."
+      }
+    ]
+  }
+]
