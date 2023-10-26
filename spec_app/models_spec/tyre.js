@@ -27,7 +27,7 @@ function fetchData(url, method, requestData) {
 }
 
 const data = engine
-  .slice(600)
+  .slice(0, 100)
   .map((item) => {
     const d = strapi_variant.filter(
       (j) => j.attributes.model_id == item.bike_id
@@ -69,12 +69,24 @@ const data = engine
         },
       };
 
-      console.log(id);
-      return fetchData(
-        `https://dev-bikescms.tractorjunction.com/api/variants/${id}`,
-        "PUT",
-        JSON.stringify(body)
-      );
+      // console.log(id);
+      if (item.bike_id == 604) {
+        return fetchData(
+          `https://dev-bikescms.tractorjunction.com/api/variants/${id}`,
+          "PUT",
+          JSON.stringify(body)
+        );
+        // console.log(
+        //   body.data,
+        //   ` https://dev-bikescms.tractorjunction.com/api/variants/${id}`,
+        //   JSON.stringify(body)
+        // );
+      }
+      // return fetchData(
+      //   `https://dev-bikescms.tractorjunction.com/api/variants/${id}`,
+      //   "PUT",
+      //   JSON.stringify(body)
+      // );
     }
   })
   .filter(Boolean);
@@ -83,6 +95,7 @@ function updateDate() {
   Promise.all(data)
     .then((data) => {
       console.log(data);
+      // console.log(JSON.stringify(data));
     })
     .catch((error) => {
       // Handle any errors that occurred during the API calls
