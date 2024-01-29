@@ -1,0 +1,187 @@
+ [
+        {
+          "id": "0x2a2d",
+          "RTOCode": "PN",
+          "state": "Punjab"
+        },
+        {
+          "id": "0x2a2e",
+          "RTOCode": "SK",
+          "state": "Sikkim"
+        },
+        {
+          "id": "0x2a2f",
+          "RTOCode": "HP",
+          "state": "Himachal Pradesh"
+        },
+        {
+          "id": "0x2a30",
+          "RTOCode": "MP",
+          "state": "Madhya Pradesh"
+        },
+        {
+          "id": "0x2a31",
+          "RTOCode": "MN",
+          "state": "Manipur"
+        },
+        {
+          "id": "0x2a32",
+          "RTOCode": "DL",
+          "state": "Delhi"
+        },
+        {
+          "id": "0x2a33",
+          "RTOCode": "GJ",
+          "state": "Gujarat"
+        },
+        {
+          "id": "0x2a34",
+          "RTOCode": "KA",
+          "state": "Karnataka"
+        },
+        {
+          "id": "0x2a35",
+          "RTOCode": "JK",
+          "state": "Jammu and Kashmir"
+        },
+        {
+          "id": "0x2a36",
+          "RTOCode": "TR",
+          "state": "Tripura"
+        },
+        {
+          "id": "0x2a37",
+          "RTOCode": "AP",
+          "state": "Andhra Pradesh"
+        },
+        {
+          "id": "0x2a38",
+          "RTOCode": "LA",
+          "state": "Ladakh"
+        },
+        {
+          "id": "0x2a39",
+          "RTOCode": "UP",
+          "state": "Uttar Pradesh"
+        },
+        {
+          "id": "0x2a3a",
+          "RTOCode": "TN",
+          "state": "Tamil Nadu"
+        },
+        {
+          "id": "0x2a3b",
+          "RTOCode": "WB",
+          "state": "West Bengal"
+        },
+        {
+          "id": "0x2a3c",
+          "RTOCode": "AR",
+          "state": "Arunachal Pradesh"
+        },
+        {
+          "id": "0x2a3d",
+          "RTOCode": "ML",
+          "state": "Meghalaya"
+        },
+        {
+          "id": "0x2a3e",
+          "RTOCode": "PY",
+          "state": "Pondicherry"
+        },
+        {
+          "id": "0x2a3f",
+          "RTOCode": "MZ",
+          "state": "Mizoram"
+        },
+        {
+          "id": "0x2a40",
+          "RTOCode": "NL",
+          "state": "Nagaland"
+        },
+        {
+          "id": "0x2a41",
+          "RTOCode": "CH",
+          "state": "Chandigarh"
+        },
+        {
+          "id": "0x2a42",
+          "RTOCode": "KL",
+          "state": "Kerala"
+        },
+        {
+          "id": "0x2a43",
+          "RTOCode": "MH",
+          "state": "Maharashtra"
+        },
+        {
+          "id": "0x2a44",
+          "RTOCode": "JH",
+          "state": "Jharkhand"
+        },
+        {
+          "id": "0x2a45",
+          "RTOCode": "RJ",
+          "state": "Rajasthan"
+        },
+        {
+          "id": "0x2a46",
+          "RTOCode": "AS",
+          "state": "Assam"
+        },
+        {
+          "id": "0x2a47",
+          "RTOCode": "BR",
+          "state": "Bihar"
+        },
+        {
+          "id": "0x2a48",
+          "RTOCode": "GA",
+          "state": "Goa"
+        },
+        {
+          "id": "0x2a49",
+          "RTOCode": "UK",
+          "state": "Uttarakhand"
+        },
+        {
+          "id": "0x2a4a",
+          "RTOCode": "TS",
+          "state": "Telangana"
+        },
+        {
+          "id": "0x2a4c",
+          "RTOCode": "HR",
+          "state": "Haryana"
+        },
+        {
+          "id": "0x2a4d",
+          "RTOCode": "OR",
+          "state": "Orissa"
+        },
+        {
+          "id": "0x652c",
+          "RTOCode": null,
+          "state": "Lakshadweep"
+        },
+        {
+          "id": "0x6e76",
+          "RTOCode": "DN",
+          "state": "Dadra and Nagar Haveli"
+        },
+        {
+          "id": "0x6e77",
+          "RTOCode": "AN",
+          "state": "Andaman and Nicobar Islands"
+        },
+        {
+          "id": "0x6e78",
+          "RTOCode": "DD",
+          "state": "Daman and Diu"
+        },
+        {
+          "id": "0x6e79",
+          "RTOCode": "CG",
+          "state": "Chattisgarh"
+        }
+      ]

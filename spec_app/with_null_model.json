@@ -1,0 +1,328 @@
+[
+    {
+        "id": 948,
+        "attributes": {
+          "name": "390 Duke",
+          "createdAt": "2023-09-13T07:23:00.914Z",
+          "updatedAt": "2023-10-04T13:08:00.050Z",
+          "publishedAt": "2023-09-13T07:54:39.903Z",
+          "release_date": "2023-09-11",
+          "displacement": 398.63,
+          "mileage": "28.5",
+          "brand_id": null,
+          "model_id": null,
+          "promotion_weightage": 0,
+          "popularity_score": 2,
+          "preview": null,
+          "slug": "390-duke",
+          "search_string": null,
+          "full_slug": "ktm-bikes/390-duke",
+          "standard_variant": {
+            "data": {
+              "id": 2015,
+              "attributes": {
+                "unit": "kmpl",
+                "power": 398.63,
+                "power_unit": "CC",
+                "release_date": "2023-09-11",
+                "createdAt": "2023-09-13T07:52:50.212Z",
+                "updatedAt": "2023-10-10T13:01:26.140Z",
+                "publishedAt": "2023-09-13T07:53:41.485Z",
+                "content": "",
+                "mileage": "28.5",
+                "comparison_slug": "390-duke-1",
+                "min_price": 359270,
+                "max_price": 359270,
+                "variant_id": 14,
+                "name": "390 Duke Standard",
+                "cover_image": null,
+                "tooltip": "<p>${brand.data.attributes.name} ${name} is a highly popular Bike in India, available at a price ranging between ${min_price} - ${max_price}.This ${classification.data.attributes.Classifications} is powered by ${power} ${power_unit} engine delivering a power of ${engine.max_power} and ${engine.max_torque} torque. ${brand.data.attributes.name} ${name} delivers a mileage of ${mileage} ${unit} and has a fuel tank capacity of ${fuel.fuel_capacity}. Moreover, this ${classification.data.attributes.Classifications} comes with ${clutchandgear.gear_box} gearbox with ${brakes.braking_type}. ${brand.data.attributes.name} ${name} has ${model.data.attributes.variants.data.length} other variants.</p>",
+                "preview": null,
+                "spec_overview": "<div class=\"raw-html-embed\"><p>KTM 390 Duke Bike is one of India’s most reputed 2-wheelers. The 390 Duke Bike is manufactured by KTM, popularly known for their technologically advanced manufacturing value. KTM 390 Duke Bike belongs to the Bike category. The Bike boasts high-tech specifications like 373.2 CC engine that produces 32 kW @ 9000 rpm power, 28.9 Kmpl mileage and giving the most superior driving experience to its users. KTM 390 Duke Bike is the kind of 2-wheeler that will turn heads wherever it’s driven.</p>\n<p><strong>KTM 390 Duke Price In India</strong></p> <p>KTM 390 Duke Price in India starts from ₹ 2.96 Lakh. BikeJunction provides you a complete list of the updated and accurate price range of KTM 390 Duke Bike. However, it is necessary to know that the on-road price of the 390 Duke Bike may differ from state to state, depending upon their specific government taxation policies.</p> <p><strong>KTM 390 Duke Engine</strong></p>\n<p>KTM 390 Duke engine capacity is 373.2 CC and engineered with Single Cylinder, Liquid Cooled, DOHC, FI Engine engine. This engine generates 32 kW @ 9000 rpm and 37 Nm @ 7000 rpm of Torque. The engine of 390 Duke is aligned with a 6 Speed gear transmission.</p> <p><strong>KTM 390 Duke Mileage</strong></p>\n<p>KTM 390 Duke mileage is 28.9 Kmpl which is very adequate. The Bike comes with a fuel tank capacity of 13.4 L litres. This combination gives this Bike a good driving range.</p>\n<p><strong>KTM 390 Duke Brakes &amp; Suspension</strong></p>\n<p>KTM 390 Duke comes with the top-of-the-line enhanced and powerful braking system. In addition, the 2-wheeler has powerful and strong brakes, giving maximum control to its users. The suspension system of the 390 Duke Bike is also very impressive that ensures smoother drive experience while enabling the Bike to negotiate through rough terrains.</p>\n<p><strong>Why BikeJunction is Best For KTM 390 Duke</strong></p>\n<p>KTM 390 Duke at BikeJunction is available with complete information. In addition you can easily get the KTM 390 Duke on-road price in India. BikeJunction also provides you a smart comparison tool that will let you comprehensively compare the KTM 390 Duke Bike with your other top choices.</p>\n</div>",
+                "slug": "390-Duke-Standard",
+                "full_slug": "ktm-bikes/390-duke/390-Duke-Standard"
+              }
+            }
+          }
+        }
+      },  {
+        "id": 957,
+        "attributes": {
+          "name": "Goldwing Tour",
+          "createdAt": "2023-10-03T12:08:56.791Z",
+          "updatedAt": "2023-10-10T11:58:17.197Z",
+          "publishedAt": "2023-10-10T11:58:16.757Z",
+          "release_date": "2023-09-29",
+          "displacement": 1833,
+          "mileage": "14",
+          "brand_id": "19",
+          "model_id": null,
+          "promotion_weightage": 0,
+          "popularity_score": null,
+          "preview": "honda-bikes/goldwing-tour",
+          "slug": "goldwing tour",
+          "search_string": "Honda Goldwing Tour",
+          "full_slug": "honda-bikes/goldwing-tour",
+          "standard_variant": {
+            "data": {
+              "id": 2022,
+              "attributes": {
+                "unit": "kmpl",
+                "power": 1833,
+                "power_unit": "CC",
+                "release_date": "2023-09-29",
+                "createdAt": "2023-10-03T12:28:07.837Z",
+                "updatedAt": "2023-10-10T12:21:41.880Z",
+                "publishedAt": "2023-10-10T12:21:41.111Z",
+                "content": "<p>${brand.data.attributes.name} ${name} is one of India’s most reputed 2-wheelers. The ${name} is manufactured by ${brand.data.attributes.name}, popularly known for their technologically advanced manufacturing value. ${brand.data.attributes.name} ${name} Bike belongs to the ${categories.data.[0].attributes.title} bikes category. The Bike boasts high-tech specifications like ${power} engine that produces engine.max_power} power, ${mileage} Kmpl mileage and giving the most superior driving experience to its users. ${brand.data.attributes.name} ${name} Bike is the kind of 2-wheeler that will turn heads wherever it’s driven.</p><h2>${brand.data.attributes.name} ${name} Price In India}</h2><p>${brand.data.attributes.name} ${name} Price in India starts from Rs ${cheapestVariantPrice}. BikeJunction provides you a complete list of the updated and accurate price range of ${brand.data.attributes.name} ${name}. However, it is necessary to know that the on-road price of the ${name} may differ from state to state, depending upon their specific government taxation policies.</p><h2>${brand.data.attributes.name} ${name} Engine</h2><p>${brand.data.attributes.name} ${name} engine capacity is ${power} CC and engineered with Oil cooled, 4 Stroke &amp; 4 Valve Single cylinder OHC engine. This engine generates engine.max_power} and ${engine.max_torque} of Torque. The engine of ${name} is aligned with a ${clutchandgear.gear_box} gear transmission.</p><h2>${brand.data.attributes.name} ${name} Mileage</h2><p>${brand.data.attributes.name} ${name} mileage is ${mileage} Kmpl which is very adequate. The Bike comes with a fuel tank capacity of ${fuel.fuel_capicity} litres. This combination gives this Bike a good driving range.</p><h2>${brand.data.attributes.name} ${name} Brakes &amp; Suspension</h2><p>${brand.data.attributes.name} ${name} comes with the top-of-the-line enhanced and powerful braking system. In addition, the 2-wheeler has powerful and strong brakes, giving maximum control to its users. The suspension system of the ${name} Bike is also very impressive that ensures smoother drive experience while enabling the Bike to negotiate through rough terrains.</p><h2>Why BikeJunction is Best For ${brand.data.attributes.name} ${name}</h2><p>${brand.data.attributes.name} ${name} at BikeJunction is available with complete information. In addition you can easily get the ${brand.data.attributes.name} ${name} on-road price in India. BikeJunction also provides you a smart comparison tool that will let you comprehensively compare the ${brand.data.attributes.name} ${name} Bike with your other top choices.</p>",
+                "mileage": "14",
+                "comparison_slug": "goldwing-tour",
+                "min_price": 4612687,
+                "max_price": 4612687,
+                "variant_id": null,
+                "name": "Goldwing Tour Standard",
+                "cover_image": null,
+                "tooltip": "<p>${brand.data.attributes.name} ${name} is a highly popular ${classification.data.attributes.Classifications} in India, available at a price ranging between ${cheapestVariantPrice} to ${costliestVariantPrice}. This bike is powered by ${power} engine delivering a power of engine.max_power} and ${engine.max_torque} torque. ${brand.data.attributes.name} ${name} delivers a mileage of ${mileage} and has a fuel tank capacity of ${fuel.fuel_capicity}. Moreover, this bike comes with ${clutchandgear.gear_box} gearbox with ${brakes.front_brake} brakes. ${brand.data.attributes.name} ${name} has ${totalCount} other variants and 7 various colours you can choose from.</p>",
+                "preview": " honda-bikes/goldwing-tour/goldwing-tour-standard",
+                "spec_overview": "",
+                "slug": "goldwing-tour-standard",
+                "full_slug": "honda-bikes/goldwing-tour/goldwing-tour-standard"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 956,
+        "attributes": {
+          "name": "Pulsar N150",
+          "createdAt": "2023-09-28T11:48:05.570Z",
+          "updatedAt": "2023-10-10T10:16:47.540Z",
+          "publishedAt": "2023-10-10T09:48:03.424Z",
+          "release_date": "2023-09-26",
+          "displacement": 149.68,
+          "mileage": "48.5",
+          "brand_id": "5",
+          "model_id": "956",
+          "promotion_weightage": 0,
+          "popularity_score": 0.05,
+          "preview": " bajaj-bikes/pulsar-n150",
+          "slug": "pulsar-n150",
+          "search_string": "BAJAJ Pulsar N125",
+          "full_slug": "bajaj-bikes/pulsar-n150",
+          "standard_variant": {
+            "data": {
+              "id": 2021,
+              "attributes": {
+                "unit": "kmpl",
+                "power": 149.68,
+                "power_unit": "CC",
+                "release_date": "2023-09-26",
+                "createdAt": "2023-09-28T12:13:46.020Z",
+                "updatedAt": "2023-10-10T10:51:14.431Z",
+                "publishedAt": "2023-10-10T10:47:33.628Z",
+                "content": "<p>${brand.data.attributes.name} ${name} is one of India’s most reputed 2-wheelers. The ${name} is manufactured by ${brand.data.attributes.name}, popularly known for their technologically advanced manufacturing value. ${brand.data.attributes.name} ${name} Bike belongs to the ${categories.data.[0].attributes.title} bikes category. The Bike boasts high-tech specifications like ${power} engine that produces engine.max_power} power, ${mileage} Kmpl mileage and giving the most superior driving experience to its users. ${brand.data.attributes.name} ${name} Bike is the kind of 2-wheeler that will turn heads wherever it’s driven.</p><h2>${brand.data.attributes.name} ${name} Price In India}</h2><p>${brand.data.attributes.name} ${name} Price in India starts from Rs ${cheapestVariantPrice}. BikeJunction provides you a complete list of the updated and accurate price range of ${brand.data.attributes.name} ${name}. However, it is necessary to know that the on-road price of the ${name} may differ from state to state, depending upon their specific government taxation policies.</p><h2>${brand.data.attributes.name} ${name} Engine</h2><p>${brand.data.attributes.name} ${name} engine capacity is ${power} CC and engineered with Oil cooled, 4 Stroke &amp; 4 Valve Single cylinder OHC engine. This engine generates engine.max_power} and ${engine.max_torque} of Torque. The engine of ${name} is aligned with a ${clutchandgear.gear_box} gear transmission.</p><h2>${brand.data.attributes.name} ${name} Mileage</h2><p>${brand.data.attributes.name} ${name} mileage is ${mileage} Kmpl which is very adequate. The Bike comes with a fuel tank capacity of ${fuel.fuel_capicity} litres. This combination gives this Bike a good driving range.</p><h2>${brand.data.attributes.name} ${name} Brakes &amp; Suspension</h2><p>${brand.data.attributes.name} ${name} comes with the top-of-the-line enhanced and powerful braking system. In addition, the 2-wheeler has powerful and strong brakes, giving maximum control to its users. The suspension system of the ${name} Bike is also very impressive that ensures smoother drive experience while enabling the Bike to negotiate through rough terrains.</p><h2>Why BikeJunction is Best For ${brand.data.attributes.name} ${name}</h2><p>${brand.data.attributes.name} ${name} at BikeJunction is available with complete information. In addition you can easily get the ${brand.data.attributes.name} ${name} on-road price in India. BikeJunction also provides you a smart comparison tool that will let you comprehensively compare the ${brand.data.attributes.name} ${name} Bike with your other top choices.</p>",
+                "mileage": "48.5",
+                "comparison_slug": "pulsar-n150-standard",
+                "min_price": 138363,
+                "max_price": 138363,
+                "variant_id": null,
+                "name": "Pulsar N150 Standard",
+                "cover_image": null,
+                "tooltip": "<p>${brand.data.attributes.name} ${name} is a highly popular ${classification.data.attributes.Classifications} in India, available at a price ranging between ${cheapestVariantPrice} to ${costliestVariantPrice}. This bike is powered by ${power} engine delivering a power of engine.max_power} and ${engine.max_torque} torque. ${brand.data.attributes.name} ${name} delivers a mileage of ${mileage} and has a fuel tank capacity of ${fuel.fuel_capicity}. Moreover, this bike comes with ${clutchandgear.gear_box} gearbox with ${brakes.front_brake} brakes. ${brand.data.attributes.name} ${name} has ${totalCount} other variants and 7 various colours you can choose from.</p>",
+                "preview": " bajaj-bikes/pulsar-n150/pulsar-n150",
+                "spec_overview": "",
+                "slug": "pulsar-n150-standard",
+                "full_slug": "bajaj-bikes/pulsar-n150/pulsar-n150-standard"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 951,
+        "attributes": {
+          "name": "RS 457",
+          "createdAt": "2023-09-23T09:23:25.405Z",
+          "updatedAt": "2023-10-10T11:24:36.925Z",
+          "publishedAt": "2023-10-10T11:24:36.624Z",
+          "release_date": "2023-09-30",
+          "displacement": 457,
+          "mileage": "33.1",
+          "brand_id": null,
+          "model_id": null,
+          "promotion_weightage": 0,
+          "popularity_score": null,
+          "preview": null,
+          "slug": "rs-457",
+          "search_string": null,
+          "full_slug": "aprilia-bikes/rs-457",
+          "standard_variant": {
+            "data": {
+              "id": 2018,
+              "attributes": {
+                "unit": "kmpl",
+                "power": 457,
+                "power_unit": "CC",
+                "release_date": "2023-09-30",
+                "createdAt": "2023-09-23T09:23:44.561Z",
+                "updatedAt": "2023-10-10T13:08:18.091Z",
+                "publishedAt": "2023-10-10T13:07:53.268Z",
+                "content": "<p>${brand.data.attributes.name} ${name} is one of India’s most reputed 2-wheelers. The ${name} is manufactured by ${brand.data.attributes.name}, popularly known for their technologically advanced manufacturing value. ${brand.data.attributes.name} ${name} Bike belongs to the ${categories.data.[0].attributes.title} bikes category. The Bike boasts high-tech specifications like ${power} engine that produces engine.max_power} power, ${mileage} Kmpl mileage and giving the most superior driving experience to its users. ${brand.data.attributes.name} ${name} Bike is the kind of 2-wheeler that will turn heads wherever it’s driven.</p><h2>${brand.data.attributes.name} ${name} Price In India}</h2><p>${brand.data.attributes.name} ${name} Price in India starts from Rs ${cheapestVariantPrice}. BikeJunction provides you a complete list of the updated and accurate price range of ${brand.data.attributes.name} ${name}. However, it is necessary to know that the on-road price of the ${name} may differ from state to state, depending upon their specific government taxation policies.</p><h2>${brand.data.attributes.name} ${name} Engine</h2><p>${brand.data.attributes.name} ${name} engine capacity is ${power} CC and engineered with Oil cooled, 4 Stroke &amp; 4 Valve Single cylinder OHC engine. This engine generates engine.max_power} and ${engine.max_torque} of Torque. The engine of ${name} is aligned with a ${clutchandgear.gear_box} gear transmission.</p><h2>${brand.data.attributes.name} ${name} Mileage</h2><p>${brand.data.attributes.name} ${name} mileage is ${mileage} Kmpl which is very adequate. The Bike comes with a fuel tank capacity of ${fuel.fuel_capicity} litres. This combination gives this Bike a good driving range.</p><h2>${brand.data.attributes.name} ${name} Brakes &amp; Suspension</h2><p>${brand.data.attributes.name} ${name} comes with the top-of-the-line enhanced and powerful braking system. In addition, the 2-wheeler has powerful and strong brakes, giving maximum control to its users. The suspension system of the ${name} Bike is also very impressive that ensures smoother drive experience while enabling the Bike to negotiate through rough terrains.</p><h2>Why BikeJunction is Best For ${brand.data.attributes.name} ${name}</h2><p>${brand.data.attributes.name} ${name} at BikeJunction is available with complete information. In addition you can easily get the ${brand.data.attributes.name} ${name} on-road price in India. BikeJunction also provides you a smart comparison tool that will let you comprehensively compare the ${brand.data.attributes.name} ${name} Bike with your other top choices.</p>",
+                "mileage": "33.1",
+                "comparison_slug": "rs-457",
+                "min_price": 330000,
+                "max_price": 360000,
+                "variant_id": null,
+                "name": "RS 457 Standard",
+                "cover_image": null,
+                "tooltip": "<p>${brand.data.attributes.name} ${name} is a highly popular ${classification.data.attributes.Classifications} in India, available at a price ranging between ${cheapestVariantPrice} to ${costliestVariantPrice}. This bike is powered by ${power} engine delivering a power of engine.max_power} and ${engine.max_torque} torque. ${brand.data.attributes.name} ${name} delivers a mileage of ${mileage} and has a fuel tank capacity of ${fuel.fuel_capicity}. Moreover, this bike comes with ${clutchandgear.gear_box} gearbox with ${brakes.front_brake} brakes. ${brand.data.attributes.name} ${name} has ${totalCount} other variants and 7 various colours you can choose from.</p>",
+                "preview": null,
+                "spec_overview": "",
+                "slug": "rs-457-standard",
+                "full_slug": "aprilia-bikes/rs-457/rs-457-standard"
+              }
+            }
+          }
+        }
+      }, {
+        "id": 949,
+        "attributes": {
+          "name": "250 Duke",
+          "createdAt": "2023-09-13T11:31:15.176Z",
+          "updatedAt": "2023-10-10T10:59:36.626Z",
+          "publishedAt": "2023-09-13T11:44:08.247Z",
+          "release_date": "2023-09-11",
+          "displacement": 249.97,
+          "mileage": "35",
+          "brand_id": null,
+          "model_id": null,
+          "promotion_weightage": 0,
+          "popularity_score": null,
+          "preview": null,
+          "slug": "250-duke",
+          "search_string": null,
+          "full_slug": "ktm-bikes/250-duke",
+          "standard_variant": {
+            "data": {
+              "id": 2016,
+              "attributes": {
+                "unit": "kmpl",
+                "power": 249.07,
+                "power_unit": "CC",
+                "release_date": "2023-09-11",
+                "createdAt": "2023-09-13T11:42:52.598Z",
+                "updatedAt": "2023-10-10T10:58:06.530Z",
+                "publishedAt": "2023-09-13T12:03:13.603Z",
+                "content": "",
+                "mileage": "35",
+                "comparison_slug": "2-1",
+                "min_price": 272539,
+                "max_price": null,
+                "variant_id": null,
+                "name": "250 Duke Standard",
+                "cover_image": null,
+                "tooltip": "",
+                "preview": null,
+                "spec_overview": "",
+                "slug": "250-duke-Standard",
+                "full_slug": "ktm-bikes/250-duke/250-duke-Standard"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 955,
+        "attributes": {
+          "name": "ETrance Plus",
+          "createdAt": "2023-09-26T05:55:41.940Z",
+          "updatedAt": "2023-10-10T11:15:51.838Z",
+          "publishedAt": "2023-09-26T05:55:52.061Z",
+          "release_date": null,
+          "displacement": null,
+          "mileage": "85",
+          "brand_id": "36",
+          "model_id": "955",
+          "promotion_weightage": 0,
+          "popularity_score": null,
+          "preview": "electric-scooters/pure-ev/etrance-plus",
+          "slug": "etrance-plus",
+          "search_string": "PURE EV ETrance Plus",
+          "full_slug": "electric-scooters/pure-ev/etrance-plus",
+          "standard_variant": {
+            "data": {
+              "id": 2020,
+              "attributes": {
+                "unit": "km/charge",
+                "power": 250,
+                "power_unit": "W",
+                "release_date": null,
+                "createdAt": "2023-09-26T06:09:26.078Z",
+                "updatedAt": "2023-10-10T11:21:18.101Z",
+                "publishedAt": "2023-09-26T06:09:34.595Z",
+                "content": "",
+                "mileage": "85",
+                "comparison_slug": "etrance-plus",
+                "min_price": 70999,
+                "max_price": 70999,
+                "variant_id": null,
+                "name": "ETrance Plus Standard",
+                "cover_image": null,
+                "tooltip": "",
+                "preview": "electric-scooters/pure-ev/etrance-plus/etrance-plus-standard",
+                "spec_overview": "",
+                "slug": "etrance-plus-standard",
+                "full_slug": "electric-scooters/pure-ev/etrance-plus/etrance-plus-standard"
+              }
+            }
+          }
+        }
+      }, {
+        "id": 961,
+        "attributes": {
+          "name": "Muvi 125 4G",
+          "createdAt": "2023-10-17T12:00:02.179Z",
+          "updatedAt": "2023-10-17T12:13:06.347Z",
+          "publishedAt": "2023-10-17T12:11:36.262Z",
+          "release_date": "2023-10-16",
+          "displacement": null,
+          "mileage": "80 km/charge",
+          "brand_id": null,
+          "model_id": null,
+          "promotion_weightage": 0,
+          "popularity_score": null,
+          "preview": " electric-scooters/acer/muvi-125-4g",
+          "slug": "muvi-125-4g",
+          "search_string": "Acer Muvi 125 4G",
+          "full_slug": "electric-scooters/acer/muvi-125-4g",
+          "standard_variant": {
+            "data": {
+              "id": 2027,
+              "attributes": {
+                "unit": "km/charge",
+                "power": 4.6,
+                "power_unit": "Kwh",
+                "release_date": "2023-10-16",
+                "createdAt": "2023-10-17T12:11:02.212Z",
+                "updatedAt": "2023-10-17T12:15:50.048Z",
+                "publishedAt": "2023-10-17T12:11:19.019Z",
+                "content": "<p>The ${brand.data.attributes.name} ${name} is a well known electric scooter in the Electric vehicle sector of India. This ${name} electric scooter is fitted with the cutting edge specification. It is equipped with all the features that help you glide better on the road. All the specifications of ${brand.data.attributes.name} ${name} enhance the overall performance.</p><h2>${brand.data.attributes.name} ${name} Price In India</h2><p>${brand.data.attributes.name} ${name} price in India starts from Rs ${cheapestVariantPrice}. The new model of this ${name} electric scooter is available in 7 colours. In addition you can avail an updated price of ${brand.data.attributes.name} ${name} on the basis of its colours &amp; variants. The ${brand.data.attributes.name} ${name} electric scooter on road price is different in every state on the basis of Govt. taxation norms.</p><h2>${brand.data.attributes.name} ${name} Range</h2><p>${brand.data.attributes.name} ${name} is fitted with a ${battery.battery_capacity} and has a ${engine.battery_type} type of battery. This battery pack generates engine.max_power} power and ${engine.max_torque} of Torque. The battery of ${brand.data.attributes.name} ${name} is aligned with a ${clutchandgear.transmission} transmission.</p><h2>${brand.data.attributes.name} ${name} Brakes &amp; Suspension</h2><p>${brand.data.attributes.name} ${name} delivers a Range of ${mileage} KM in single charge. The ${name} comes with a of Motor. This combination gives this electric scooter a good driving range.</p><h2>Why BikeJunction is the Best Platform To Buy ${brand.data.attributes.name} ${name} Electric Scooter</h2><p>${brand.data.attributes.name} ${name} at BikeJunction is available with complete information. In addition you can easily get the ${brand.data.attributes.name} ${name} on-road price in India. You can easily compare ${brand.data.attributes.name} ${name} electric scooter with the other electric scooter of this segment.</p>",
+                "mileage": "80",
+                "comparison_slug": "muvi-125-4g",
+                "min_price": 99999,
+                "max_price": 99999,
+                "variant_id": null,
+                "name": "Muvi 125 4G Standard",
+                "cover_image": null,
+                "tooltip": "<p>${brand.data.attributes.name} ${name} is a highly popular Electric Scooter in India, available at a price ranging between ${cheapestVariantPrice} to ${costliestVariantPrice}. This electric scooter is powered by ${battery.battery_capacity} battery delivering power of engine.max_power}. ${brand.data.attributes.name} ${name} takes ${battery.charging_time_zero_hundred} of charging time and can cover ${mileage}. Moreover, you can reach a maximum speed of ${speed.top_speed} Km/h. ${brand.data.attributes.name} ${name} has ${totalCount} other variants and 7 various colours you can choose from.</p>",
+                "preview": " electric-scooters/acer/muvi-125-4g/muvi-125-4g-standard",
+                "spec_overview": "",
+                "slug": "muvi-125-4g-standard",
+                "full_slug": "electric-scooters/acer/muvi-125-4g/muvi-125-4g-standard"
+              }
+            }
+          }
+        }
+      }
+]

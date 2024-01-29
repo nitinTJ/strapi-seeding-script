@@ -127,7 +127,7 @@
             "comparison_slug": "390-duke-1",
             "min_price": 359270,
             "max_price": 359270,
-            "variant_id": null,
+            "variant_id": 14,
             "name": "390 Duke Standard",
             "cover_image": null,
             "tooltip": "<p>${brand.data.attributes.name} ${name} is a highly popular Bike in India, available at a price ranging between ${min_price} - ${max_price}.This ${classification.data.attributes.Classifications} is powered by ${power} ${power_unit} engine delivering a power of ${engine.max_power} and ${engine.max_torque} torque. ${brand.data.attributes.name} ${name} delivers a mileage of ${mileage} ${unit} and has a fuel tank capacity of ${fuel.fuel_capacity}. Moreover, this ${classification.data.attributes.Classifications} comes with ${clutchandgear.gear_box} gearbox with ${brakes.braking_type}. ${brand.data.attributes.name} ${name} has ${model.data.attributes.variants.data.length} other variants.</p>",
